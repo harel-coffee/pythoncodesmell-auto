@@ -1,0 +1,133 @@
+Kind,Name,File,AvgCyclomatic,AvgCyclomaticModified,AvgCyclomaticStrict,AvgEssential,AvgLine,AvgLineBlank,AvgLineCode,AvgLineComment,CountClassBase,CountClassCoupled,CountClassCoupledModified,CountClassDerived,CountDeclClass,CountDeclExecutableUnit,CountDeclFile,CountDeclFunction,CountDeclInstanceMethod,CountDeclInstanceVariable,CountDeclMethod,CountDeclMethodAll,CountLine,CountLineBlank,CountLineCode,CountLineCodeDecl,CountLineCodeExe,CountLineComment,CountPath,CountPathLog,CountStmt,CountStmtDecl,CountStmtExe,Cyclomatic,CyclomaticModified,CyclomaticStrict,Essential,MaxCyclomatic,MaxCyclomaticModified,MaxCyclomaticStrict,MaxEssential,MaxInheritanceTree,MaxNesting,RatioCommentToCode,SumCyclomatic,SumCyclomaticModified,SumCyclomaticStrict,SumEssential
+File,"D:\thesis2\real 106 project\mackup\mackup\__init__.py",D:\thesis2\real 106 project\mackup\mackup\__init__.py,0,0,0,0,0,0,0,0,,,,,0,0,,0,,,,,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,"0.00",0,0,0,0
+Module File,"D:\thesis2\real 106 project\mackup\mackup\application.py",D:\thesis2\real 106 project\mackup\mackup\application.py,7,7,9,4,44,4,25,15,,,,,1,5,,5,,,,,244,33,129,24,120,82,0,0,79,24,70,0,0,0,0,13,13,18,8,,4,"0.64",35,35,46,23
+Module File,"D:\thesis2\real 106 project\mackup\mackup\appsdb.py",D:\thesis2\real 106 project\mackup\mackup\appsdb.py,3,3,3,2,21,4,11,8,,,,,1,7,,6,,,,,174,37,78,31,65,59,2,0,67,30,55,2,2,2,1,12,12,12,12,,6,"0.76",26,26,27,18
+Module File,"D:\thesis2\real 106 project\mackup\mackup\config.py",D:\thesis2\real 106 project\mackup\mackup\config.py,2,2,2,1,15,2,7,6,,,,,2,15,,14,,,,,282,61,129,58,88,92,2,0,85,40,62,2,2,2,1,9,9,9,8,,2,"0.71",32,32,34,22
+Module File,"D:\thesis2\real 106 project\mackup\mackup\constants.py",D:\thesis2\real 106 project\mackup\mackup\constants.py,1,1,1,1,14,0,0,0,,,,,0,1,,0,,,,,30,7,14,14,14,9,1,0,14,14,14,1,1,1,1,1,1,1,1,,0,"0.64",1,1,1,1
+Module File,"D:\thesis2\real 106 project\mackup\mackup\mackup.py",D:\thesis2\real 106 project\mackup\mackup\mackup.py,2,2,2,1,9,1,5,2,,,,,1,7,,7,,,,,101,21,49,21,34,31,0,0,39,21,24,0,0,0,0,3,3,3,1,,2,"0.63",14,14,14,7
+Module File,"D:\thesis2\real 106 project\mackup\mackup\main.py",D:\thesis2\real 106 project\mackup\mackup\main.py,3,3,4,1,31,5,20,5,,,,,1,4,,4,,,,,178,36,90,24,79,52,0,0,62,24,51,0,0,0,0,11,11,12,1,,3,"0.58",15,15,16,4
+Module File,"D:\thesis2\real 106 project\mackup\mackup\utils.py",D:\thesis2\real 106 project\mackup\mackup\utils.py,3,3,3,1,23,4,11,9,,,,,0,16,,15,,,,,414,101,175,69,151,138,1,0,155,67,131,1,1,1,1,6,6,8,5,,3,"0.79",49,49,56,24
+Module File,"D:\thesis2\real 106 project\mackup\setup.py",D:\thesis2\real 106 project\mackup\setup.py,1,1,1,1,29,0,0,0,,,,,0,1,,0,,,,,34,2,31,2,29,1,1,0,3,2,1,1,1,1,1,1,1,1,1,,0,"0.03",1,1,1,1
+Module File,"D:\thesis2\real 106 project\mackup\tests\config_tests.py",D:\thesis2\real 106 project\mackup\tests\config_tests.py,1,1,1,1,14,3,10,0,,,,,1,16,,16,,,,,264,79,184,39,158,1,0,0,160,34,139,0,0,0,0,1,1,1,1,,1,"0.01",16,16,16,16
+Module File,"D:\thesis2\real 106 project\mackup\tests\main_tests.py",D:\thesis2\real 106 project\mackup\tests\main_tests.py,1,1,1,1,2,0,2,0,,,,,1,2,,2,,,,,10,3,7,5,2,0,0,0,7,5,2,0,0,0,0,1,1,1,1,,0,"0.00",2,2,2,2
+Module File,"D:\thesis2\real 106 project\mackup\tests\utils_test.py",D:\thesis2\real 106 project\mackup\tests\utils_test.py,1,1,1,1,15,2,9,3,,,,,1,21,,21,,,,,337,66,188,65,161,83,0,0,177,65,150,0,0,0,0,1,1,1,1,,0,"0.44",21,21,21,21
+Unknown Class,"TestCase",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"TestCase",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"TestCase",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Class,"config_tests.TestConfig",D:\thesis2\real 106 project\mackup\tests\config_tests.py,1,1,1,1,14,3,10,0,1,5,2,0,,,,,16,0,16,16,252,76,175,30,158,1,,,156,30,139,,,,,1,1,1,1,1,1,"0.01",16,16,16,16
+Function,"config_tests.TestConfig.setUp(self)",D:\thesis2\real 106 project\mackup\tests\config_tests.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"config_tests.TestConfig.test_config_apps_to_ignore(self)",D:\thesis2\real 106 project\mackup\tests\config_tests.py,,,,,,,,,,,,,,,,,,,,,19,5,14,2,13,0,1,0,12,2,11,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"config_tests.TestConfig.test_config_apps_to_ignore_and_sync(self)",D:\thesis2\real 106 project\mackup\tests\config_tests.py,,,,,,,,,,,,,,,,,,,,,22,5,17,2,16,0,1,0,12,2,11,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"config_tests.TestConfig.test_config_apps_to_sync(self)",D:\thesis2\real 106 project\mackup\tests\config_tests.py,,,,,,,,,,,,,,,,,,,,,19,5,14,2,13,0,1,0,12,2,11,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"config_tests.TestConfig.test_config_empty(self)",D:\thesis2\real 106 project\mackup\tests\config_tests.py,,,,,,,,,,,,,,,,,,,,,17,5,12,2,11,0,1,0,12,2,11,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"config_tests.TestConfig.test_config_engine_box(self)",D:\thesis2\real 106 project\mackup\tests\config_tests.py,,,,,,,,,,,,,,,,,,,,,17,5,12,2,11,0,1,0,12,2,11,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"config_tests.TestConfig.test_config_engine_copy(self)",D:\thesis2\real 106 project\mackup\tests\config_tests.py,,,,,,,,,,,,,,,,,,,,,19,5,14,2,13,0,1,0,12,2,11,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"config_tests.TestConfig.test_config_engine_dropbox(self)",D:\thesis2\real 106 project\mackup\tests\config_tests.py,,,,,,,,,,,,,,,,,,,,,17,5,12,2,11,0,1,0,12,2,11,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"config_tests.TestConfig.test_config_engine_filesystem(self)",D:\thesis2\real 106 project\mackup\tests\config_tests.py,,,,,,,,,,,,,,,,,,,,,20,5,15,2,14,0,1,0,12,2,11,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"config_tests.TestConfig.test_config_engine_filesystem_absolute(self)",D:\thesis2\real 106 project\mackup\tests\config_tests.py,,,,,,,,,,,,,,,,,,,,,17,5,12,2,11,0,1,0,12,2,11,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"config_tests.TestConfig.test_config_engine_filesystem_no_path(self)",D:\thesis2\real 106 project\mackup\tests\config_tests.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"config_tests.TestConfig.test_config_engine_google_drive(self)",D:\thesis2\real 106 project\mackup\tests\config_tests.py,,,,,,,,,,,,,,,,,,,,,19,5,14,2,13,0,1,0,12,2,11,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"config_tests.TestConfig.test_config_engine_icloud(self)",D:\thesis2\real 106 project\mackup\tests\config_tests.py,,,,,,,,,,,,,,,,,,,,,20,5,15,2,14,0,1,0,12,2,11,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"config_tests.TestConfig.test_config_engine_unknown(self)",D:\thesis2\real 106 project\mackup\tests\config_tests.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"config_tests.TestConfig.test_config_no_config(self)",D:\thesis2\real 106 project\mackup\tests\config_tests.py,,,,,,,,,,,,,,,,,,,,,18,5,12,2,11,1,1,0,12,2,11,1,1,1,1,,,,,,0,"0.08",,,,
+Function,"config_tests.TestConfig.test_config_old_config(self)",D:\thesis2\real 106 project\mackup\tests\config_tests.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Package,"mackup",,2,2,2,1,15,2,7,6,,,,,2,,1,14,,,,,282,61,129,58,88,92,,,85,40,62,,,,,9,9,9,8,,2,,32,32,34,22
+Package,"mackup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"mackup",,3,3,3,1,23,4,11,9,,,,,0,,1,15,,,,,414,101,175,69,151,138,,,155,67,131,,,,,6,6,8,5,,3,,49,49,56,24
+Package,"mackup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"mackup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"mackup",,1,1,1,1,14,0,0,0,,,,,0,,1,0,,,,,30,7,14,14,14,9,,,14,14,14,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"mackup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"mackup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"mackup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"mackup",,2,2,2,1,9,1,5,2,,,,,1,,1,7,,,,,101,21,49,21,34,31,,,39,21,24,,,,,3,3,3,1,,2,,14,14,14,7
+Package,"mackup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"mackup",,7,7,9,4,44,4,25,15,,,,,1,,1,5,,,,,244,33,129,24,120,82,,,79,24,70,,,,,13,13,18,8,,4,,35,35,46,23
+Package,"mackup",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,1,0,0,0,0,1,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"mackup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"mackup",,3,3,3,2,21,4,11,8,,,,,1,,1,6,,,,,174,37,78,31,65,59,,,67,30,55,,,,,12,12,12,12,,6,,26,26,27,18
+Package,"mackup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"mackup",,3,3,4,1,31,5,20,5,,,,,1,,1,4,,,,,178,36,90,24,79,52,,,62,24,51,,,,,11,11,12,1,,3,,15,15,16,4
+Package,"mackup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Class,"mackup.application.ApplicationProfile",D:\thesis2\real 106 project\mackup\mackup\application.py,7,7,9,4,44,4,25,15,1,4,1,0,,,,,5,4,5,5,232,29,126,21,120,77,,,76,21,70,,,,,13,13,18,8,1,4,"0.61",35,35,46,23
+Function,"mackup.application.ApplicationProfile.__init__(self,mackup,files,dry_run,verbose)",D:\thesis2\real 106 project\mackup\mackup\application.py,,,,,,,,,,,,,,,,,,,,,15,2,7,5,6,6,1,0,7,5,6,1,1,1,1,,,,,,0,"0.86",,,,
+Function,"mackup.application.ApplicationProfile.backup(self)",D:\thesis2\real 106 project\mackup\mackup\application.py,,,,,,,,,,,,,,,,,,,,,84,7,50,4,49,27,41,2,27,4,26,13,13,18,8,,,,,,4,"0.54",,,,
+Function,"mackup.application.ApplicationProfile.getFilepaths(self,filename)",D:\thesis2\real 106 project\mackup\mackup\application.py,,,,,,,,,,,,,,,,,,,,,12,2,3,1,2,7,1,0,2,1,1,1,1,1,1,,,,,,0,"2.33",,,,
+Function,"mackup.application.ApplicationProfile.restore(self)",D:\thesis2\real 106 project\mackup\mackup\application.py,,,,,,,,,,,,,,,,,,,,,71,6,47,7,46,18,41,2,26,7,25,13,13,18,8,,,,,,4,"0.38",,,,
+Function,"mackup.application.ApplicationProfile.uninstall(self)",D:\thesis2\real 106 project\mackup\mackup\application.py,,,,,,,,,,,,,,,,,,,,,42,6,18,3,17,18,8,1,13,3,12,7,7,8,5,,,,,,4,"1.00",,,,
+Class,"mackup.appsdb.ApplicationsDatabase",D:\thesis2\real 106 project\mackup\mackup\appsdb.py,4,4,4,2,24,4,11,8,1,4,0,0,,,,,5,1,6,6,156,31,71,26,63,54,,,60,25,53,,,,,12,12,12,12,1,6,"0.76",24,24,25,17
+Function,"mackup.appsdb.ApplicationsDatabase.__init__(self)",D:\thesis2\real 106 project\mackup\mackup\appsdb.py,,,,,,,,,,,,,,,,,,,,,55,7,39,10,38,9,70,2,31,10,30,12,12,12,12,,,,,,6,"0.23",,,,
+Function,"mackup.appsdb.ApplicationsDatabase.get_app_names(self)",D:\thesis2\real 106 project\mackup\mackup\appsdb.py,,,,,,,,,,,,,,,,,,,,,15,3,5,3,4,7,2,0,5,3,4,2,2,2,1,,,,,,1,"1.40",,,,
+Function,"mackup.appsdb.ApplicationsDatabase.get_config_files()",D:\thesis2\real 106 project\mackup\mackup\appsdb.py,,,,,,,,,,,,,,,,,,,,,42,8,16,6,15,18,12,1,14,6,13,6,6,7,1,,,,,,3,"1.12",,,,
+Function,"mackup.appsdb.ApplicationsDatabase.get_files(self,name)",D:\thesis2\real 106 project\mackup\mackup\appsdb.py,,,,,,,,,,,,,,,,,,,,,11,2,2,1,1,7,1,0,2,1,1,1,1,1,1,,,,,,0,"3.50",,,,
+Function,"mackup.appsdb.ApplicationsDatabase.get_name(self,name)",D:\thesis2\real 106 project\mackup\mackup\appsdb.py,,,,,,,,,,,,,,,,,,,,,11,2,2,1,1,7,1,0,2,1,1,1,1,1,1,,,,,,0,"3.50",,,,
+Function,"mackup.appsdb.ApplicationsDatabase.get_pretty_app_names(self)",D:\thesis2\real 106 project\mackup\mackup\appsdb.py,,,,,,,,,,,,,,,,,,,,,12,2,5,3,4,5,2,0,5,3,4,2,2,2,1,,,,,,1,"1.00",,,,
+Class,"mackup.config.Config",D:\thesis2\real 106 project\mackup\mackup\config.py,2,2,2,1,16,2,7,6,1,3,1,0,,,,,14,6,14,14,248,52,106,38,85,90,,,74,32,59,,,,,9,9,9,8,1,2,"0.85",30,30,32,21
+Function,"mackup.config.Config.__init__(self,filename)",D:\thesis2\real 106 project\mackup\mackup\config.py,,,,,,,,,,,,,,,,,,,,,30,8,9,7,8,13,1,0,9,7,8,1,1,2,1,,,,,,0,"1.44",,,,
+Function,"mackup.config.Config._parse_apps_to_ignore(self)",D:\thesis2\real 106 project\mackup\mackup\config.py,,,,,,,,,,,,,,,,,,,,,16,3,6,3,5,7,2,0,6,3,5,2,2,2,1,,,,,,1,"1.17",,,,
+Function,"mackup.config.Config._parse_apps_to_sync(self)",D:\thesis2\real 106 project\mackup\mackup\config.py,,,,,,,,,,,,,,,,,,,,,16,3,6,3,5,7,2,0,6,3,5,2,2,2,1,,,,,,1,"1.17",,,,
+Function,"mackup.config.Config._parse_directory(self)",D:\thesis2\real 106 project\mackup\mackup\config.py,,,,,,,,,,,,,,,,,,,,,13,2,6,2,5,5,2,0,5,2,4,2,2,2,1,,,,,,1,"0.83",,,,
+Function,"mackup.config.Config._parse_engine(self)",D:\thesis2\real 106 project\mackup\mackup\config.py,,,,,,,,,,,,,,,,,,,,,23,4,14,2,13,5,4,1,8,2,7,3,3,3,1,,,,,,1,"0.36",,,,
+Function,"mackup.config.Config._parse_path(self)",D:\thesis2\real 106 project\mackup\mackup\config.py,,,,,,,,,,,,,,,,,,,,,32,3,23,3,22,6,16,1,15,3,14,9,9,9,8,,,,,,2,"0.26",,,,
+Function,"mackup.config.Config._setup_parser(self,filename)",D:\thesis2\real 106 project\mackup\mackup\config.py,,,,,,,,,,,,,,,,,,,,,20,5,7,2,6,8,2,0,7,2,6,2,2,3,1,,,,,,1,"1.14",,,,
+Function,"mackup.config.Config._warn_on_old_config(self)",D:\thesis2\real 106 project\mackup\mackup\config.py,,,,,,,,,,,,,,,,,,,,,18,0,16,3,15,2,3,0,5,3,4,3,3,3,1,,,,,,2,"0.12",,,,
+Function,"mackup.config.Config.apps_to_ignore-getter(self)",D:\thesis2\real 106 project\mackup\mackup\config.py,,,,,,,,,,,,,,,,,,,,,8,1,2,1,1,5,1,0,2,1,1,1,1,1,1,,,,,,0,"2.50",,,,
+Function,"mackup.config.Config.apps_to_sync-getter(self)",D:\thesis2\real 106 project\mackup\mackup\config.py,,,,,,,,,,,,,,,,,,,,,8,1,2,1,1,5,1,0,2,1,1,1,1,1,1,,,,,,0,"2.50",,,,
+Function,"mackup.config.Config.directory-getter(self)",D:\thesis2\real 106 project\mackup\mackup\config.py,,,,,,,,,,,,,,,,,,,,,8,1,2,1,1,5,1,0,2,1,1,1,1,1,1,,,,,,0,"2.50",,,,
+Function,"mackup.config.Config.engine-getter(self)",D:\thesis2\real 106 project\mackup\mackup\config.py,,,,,,,,,,,,,,,,,,,,,11,2,2,1,1,7,1,0,2,1,1,1,1,1,1,,,,,,0,"3.50",,,,
+Function,"mackup.config.Config.fullpath-getter(self)",D:\thesis2\real 106 project\mackup\mackup\config.py,,,,,,,,,,,,,,,,,,,,,11,2,2,1,1,7,1,0,2,1,1,1,1,1,1,,,,,,0,"3.50",,,,
+Function,"mackup.config.Config.path-getter(self)",D:\thesis2\real 106 project\mackup\mackup\config.py,,,,,,,,,,,,,,,,,,,,,11,2,2,1,1,7,1,0,2,1,1,1,1,1,1,,,,,,0,"3.50",,,,
+Class,"mackup.config.ConfigError",D:\thesis2\real 106 project\mackup\mackup\config.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,12,5,2,2,1,1,1,,,2,1,1,,,,,0,0,0,0,3,0,"0.50",0,0,0,0
+Class,"mackup.mackup.Mackup",D:\thesis2\real 106 project\mackup\mackup\mackup.py,2,2,2,1,9,1,5,2,1,2,2,0,,,,,7,3,7,7,84,17,42,14,34,25,,,32,14,24,,,,,3,3,3,1,1,2,"0.60",14,14,14,7
+Function,"mackup.mackup.Mackup.__init__(self)",D:\thesis2\real 106 project\mackup\mackup\mackup.py,,,,,,,,,,,,,,,,,,,,,6,1,4,4,3,1,1,0,4,4,3,1,1,1,1,,,,,,0,"0.25",,,,
+Function,"mackup.mackup.Mackup.check_for_usable_backup_env(self)",D:\thesis2\real 106 project\mackup\mackup\mackup.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"mackup.mackup.Mackup.check_for_usable_environment(self)",D:\thesis2\real 106 project\mackup\mackup\mackup.py,,,,,,,,,,,,,,,,,,,,,11,1,7,1,6,3,4,1,5,1,4,3,3,3,1,,,,,,1,"0.43",,,,
+Function,"mackup.mackup.Mackup.check_for_usable_restore_env(self)",D:\thesis2\real 106 project\mackup\mackup\mackup.py,,,,,,,,,,,,,,,,,,,,,9,1,7,1,6,1,2,0,4,1,3,2,2,2,1,,,,,,1,"0.14",,,,
+Function,"mackup.mackup.Mackup.clean_temp_folder(self)",D:\thesis2\real 106 project\mackup\mackup\mackup.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"mackup.mackup.Mackup.create_mackup_home(self)",D:\thesis2\real 106 project\mackup\mackup\mackup.py,,,,,,,,,,,,,,,,,,,,,10,0,9,1,8,1,3,0,5,1,4,3,3,3,1,,,,,,2,"0.11",,,,
+Function,"mackup.mackup.Mackup.get_apps_to_backup(self)",D:\thesis2\real 106 project\mackup\mackup\mackup.py,,,,,,,,,,,,,,,,,,,,,24,5,9,4,8,10,4,1,8,4,7,3,3,3,1,,,,,,1,"1.11",,,,
+Class,"mackup.main.ColorFormatCodes",D:\thesis2\real 106 project\mackup\mackup\main.py,0,0,0,0,0,0,0,0,0,0,0,0,,,,,0,0,0,0,4,0,4,4,3,0,,,4,4,3,,,,,0,0,0,0,0,0,"0.00",0,0,0,0
+Function,"mackup.main.bold(str)",D:\thesis2\real 106 project\mackup\mackup\main.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"mackup.main.header(str)",D:\thesis2\real 106 project\mackup\mackup\main.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"mackup.main.main()",D:\thesis2\real 106 project\mackup\mackup\main.py,,,,,,,,,,,,,,,,,,,,,120,21,76,12,74,23,20,1,48,12,46,11,11,12,1,,,,,,3,"0.30",,,,
+Function,"mackup.main.main.printAppHeader(app_name)",D:\thesis2\real 106 project\mackup\mackup\main.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,2,0,3,1,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"mackup.utils.can_file_be_synced_on_current_platform(path)",D:\thesis2\real 106 project\mackup\mackup\utils.py,,,,,,,,,,,,,,,,,,,,,33,7,8,4,7,18,3,0,8,4,7,3,3,3,1,,,,,,2,"2.25",,,,
+Function,"mackup.utils.chmod(target)",D:\thesis2\real 106 project\mackup\mackup\utils.py,,,,,,,,,,,,,,,,,,,,,34,8,17,6,16,9,7,1,15,6,14,6,6,6,3,,,,,,3,"0.53",,,,
+Function,"mackup.utils.confirm(question)",D:\thesis2\real 106 project\mackup\mackup\utils.py,,,,,,,,,,,,,,,,,,,,,28,5,15,3,14,8,10,1,14,3,13,6,6,8,5,,,,,,2,"0.53",,,,
+Function,"mackup.utils.copy(src,dst)",D:\thesis2\real 106 project\mackup\mackup\utils.py,,,,,,,,,,,,,,,,,,,,,42,9,14,2,13,19,6,1,12,2,11,4,4,4,3,,,,,,1,"1.36",,,,
+Function,"mackup.utils.delete(filepath)",D:\thesis2\real 106 project\mackup\mackup\utils.py,,,,,,,,,,,,,,,,,,,,,20,4,7,1,6,9,3,0,6,1,5,3,3,4,1,,,,,,1,"1.29",,,,
+Function,"mackup.utils.error(message)",D:\thesis2\real 106 project\mackup\mackup\utils.py,,,,,,,,,,,,,,,,,,,,,10,1,4,3,3,5,1,0,4,3,3,1,1,1,1,,,,,,0,"1.25",,,,
+Function,"mackup.utils.get_box_folder_location()",D:\thesis2\real 106 project\mackup\mackup\utils.py,,,,,,,,,,,,,,,,,,,,,20,3,12,6,11,5,2,0,11,5,10,2,2,2,1,,,,,,2,"0.42",,,,
+Function,"mackup.utils.get_copy_folder_location()",D:\thesis2\real 106 project\mackup\mackup\utils.py,,,,,,,,,,,,,,,,,,,,,28,5,18,8,17,5,6,1,16,8,15,4,4,4,1,,,,,,2,"0.28",,,,
+Function,"mackup.utils.get_dropbox_folder_location()",D:\thesis2\real 106 project\mackup\mackup\utils.py,,,,,,,,,,,,,,,,,,,,,16,2,9,5,8,5,2,0,9,4,8,2,2,2,1,,,,,,2,"0.56",,,,
+Function,"mackup.utils.get_google_drive_folder_location()",D:\thesis2\real 106 project\mackup\mackup\utils.py,,,,,,,,,,,,,,,,,,,,,34,5,24,10,23,5,12,1,20,10,19,5,5,5,1,,,,,,2,"0.21",,,,
+Function,"mackup.utils.get_icloud_folder_location()",D:\thesis2\real 106 project\mackup\mackup\utils.py,,,,,,,,,,,,,,,,,,,,,15,4,6,3,5,5,2,0,6,3,5,2,2,2,1,,,,,,1,"0.83",,,,
+Function,"mackup.utils.is_process_running(process_name)",D:\thesis2\real 106 project\mackup\mackup\utils.py,,,,,,,,,,,,,,,,,,,,,20,4,8,4,7,8,2,0,7,4,6,2,2,2,1,,,,,,1,"1.00",,,,
+Function,"mackup.utils.link(target,link_to)",D:\thesis2\real 106 project\mackup\mackup\utils.py,,,,,,,,,,,,,,,,,,,,,31,7,9,2,8,15,2,0,9,2,8,2,2,2,1,,,,,,1,"1.67",,,,
+Function,"mackup.utils.remove_acl(path)",D:\thesis2\real 106 project\mackup\mackup\utils.py,,,,,,,,,,,,,,,,,,,,,18,2,7,1,6,9,3,0,4,1,3,3,3,5,1,,,,,,1,"1.29",,,,
+Function,"mackup.utils.remove_immutable_attribute(path)",D:\thesis2\real 106 project\mackup\mackup\utils.py,,,,,,,,,,,,,,,,,,,,,19,2,7,1,6,10,3,0,4,1,3,3,3,5,1,,,,,,1,"1.43",,,,
+Class,"main_tests.TestMain",D:\thesis2\real 106 project\mackup\tests\main_tests.py,1,1,1,1,2,0,2,0,1,0,0,0,,,,,2,0,2,2,7,2,5,3,2,0,,,5,3,2,,,,,1,1,1,1,1,0,"0.00",2,2,2,2
+Function,"main_tests.TestMain.test_main_bold(self)",D:\thesis2\real 106 project\mackup\tests\main_tests.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"main_tests.TestMain.test_main_header(self)",D:\thesis2\real 106 project\mackup\tests\main_tests.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"utils_test.TestMackup",D:\thesis2\real 106 project\mackup\tests\utils_test.py,1,1,1,1,15,2,9,3,1,3,0,0,,,,,16,0,16,16,320,60,181,59,160,79,,,170,59,149,,,,,1,1,1,1,1,0,"0.44",20,20,20,20
+Function,"utils_test.TestMackup.test_can_file_be_synced_on_current_platform(self)",D:\thesis2\real 106 project\mackup\tests\utils_test.py,,,,,,,,,,,,,,,,,,,,,15,3,8,2,7,4,1,0,8,2,7,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"utils_test.TestMackup.test_chmod_file(self)",D:\thesis2\real 106 project\mackup\tests\utils_test.py,,,,,,,,,,,,,,,,,,,,,35,8,15,5,14,12,1,0,15,5,14,1,1,1,1,,,,,,0,"0.80",,,,
+Function,"utils_test.TestMackup.test_confirm_no(self)",D:\thesis2\real 106 project\mackup\tests\utils_test.py,,,,,,,,,,,,,,,,,,,,,6,0,5,2,3,1,1,0,5,2,3,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"utils_test.TestMackup.test_confirm_no.custom_raw_input(_)",D:\thesis2\real 106 project\mackup\tests\utils_test.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"utils_test.TestMackup.test_confirm_python3(self)",D:\thesis2\real 106 project\mackup\tests\utils_test.py,,,,,,,,,,,,,,,,,,,,,6,0,4,2,2,2,1,0,4,2,2,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"utils_test.TestMackup.test_confirm_python3.custom_raw_input(_)",D:\thesis2\real 106 project\mackup\tests\utils_test.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"utils_test.TestMackup.test_confirm_typo(self)",D:\thesis2\real 106 project\mackup\tests\utils_test.py,,,,,,,,,,,,,,,,,,,,,6,0,5,2,3,1,1,0,5,2,3,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"utils_test.TestMackup.test_confirm_typo.custom_raw_input(_)",D:\thesis2\real 106 project\mackup\tests\utils_test.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"utils_test.TestMackup.test_confirm_yes(self)",D:\thesis2\real 106 project\mackup\tests\utils_test.py,,,,,,,,,,,,,,,,,,,,,6,0,5,2,3,1,1,0,5,2,3,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"utils_test.TestMackup.test_confirm_yes.custom_raw_input(_)",D:\thesis2\real 106 project\mackup\tests\utils_test.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"utils_test.TestMackup.test_copy_dir(self)",D:\thesis2\real 106 project\mackup\tests\utils_test.py,,,,,,,,,,,,,,,,,,,,,35,5,21,7,20,9,1,0,19,7,18,1,1,1,1,,,,,,0,"0.43",,,,
+Function,"utils_test.TestMackup.test_copy_fail(self)",D:\thesis2\real 106 project\mackup\tests\utils_test.py,,,,,,,,,,,,,,,,,,,,,29,4,18,5,17,7,1,0,18,5,17,1,1,1,1,,,,,,0,"0.39",,,,
+Function,"utils_test.TestMackup.test_copy_file(self)",D:\thesis2\real 106 project\mackup\tests\utils_test.py,,,,,,,,,,,,,,,,,,,,,25,4,14,5,13,7,1,0,14,5,13,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"utils_test.TestMackup.test_copy_file_to_dir(self)",D:\thesis2\real 106 project\mackup\tests\utils_test.py,,,,,,,,,,,,,,,,,,,,,36,5,22,7,21,9,1,0,19,7,18,1,1,1,1,,,,,,0,"0.41",,,,
+Function,"utils_test.TestMackup.test_delete_file(self)",D:\thesis2\real 106 project\mackup\tests\utils_test.py,,,,,,,,,,,,,,,,,,,,,12,2,7,3,6,3,1,0,7,3,6,1,1,1,1,,,,,,0,"0.43",,,,
+Function,"utils_test.TestMackup.test_delete_folder_recursively(self)",D:\thesis2\real 106 project\mackup\tests\utils_test.py,,,,,,,,,,,,,,,,,,,,,29,5,18,6,17,6,1,0,18,6,17,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"utils_test.TestMackup.test_error(self)",D:\thesis2\real 106 project\mackup\tests\utils_test.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"utils_test.TestMackup.test_failed_backup_location(self)",D:\thesis2\real 106 project\mackup\tests\utils_test.py,,,,,,,,,,,,,,,,,,,,,30,4,17,2,16,9,1,0,11,2,10,1,1,1,1,,,,,,0,"0.53",,,,
+Function,"utils_test.TestMackup.test_is_process_running(self)",D:\thesis2\real 106 project\mackup\tests\utils_test.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"utils_test.TestMackup.test_link_file(self)",D:\thesis2\real 106 project\mackup\tests\utils_test.py,,,,,,,,,,,,,,,,,,,,,26,4,15,5,14,7,1,0,15,5,14,1,1,1,1,,,,,,0,"0.47",,,,
+Function,"utils_test.convert_to_octal(file_name)",D:\thesis2\real 106 project\mackup\tests\utils_test.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,

@@ -1,0 +1,79 @@
+Kind,Name,File,AvgCyclomatic,AvgCyclomaticModified,AvgCyclomaticStrict,AvgEssential,AvgLine,AvgLineBlank,AvgLineCode,AvgLineComment,CountClassBase,CountClassCoupled,CountClassCoupledModified,CountClassDerived,CountDeclClass,CountDeclExecutableUnit,CountDeclFile,CountDeclFunction,CountDeclInstanceMethod,CountDeclInstanceVariable,CountDeclMethod,CountDeclMethodAll,CountLine,CountLineBlank,CountLineCode,CountLineCodeDecl,CountLineCodeExe,CountLineComment,CountPath,CountPathLog,CountStmt,CountStmtDecl,CountStmtExe,Cyclomatic,CyclomaticModified,CyclomaticStrict,Essential,MaxCyclomatic,MaxCyclomaticModified,MaxCyclomaticStrict,MaxEssential,MaxInheritanceTree,MaxNesting,RatioCommentToCode,SumCyclomatic,SumCyclomaticModified,SumCyclomaticStrict,SumEssential
+Module File,"D:\thesis2\real 106 project\legit\legit.py",D:\thesis2\real 106 project\legit\legit.py,2,2,2,1,2,0,0,0,,,,,0,1,,0,,,,,5,1,3,1,2,1,2,0,3,1,2,2,2,2,1,2,2,2,1,,1,"0.33",2,2,2,1
+File,"D:\thesis2\real 106 project\legit\legit\__init__.py",D:\thesis2\real 106 project\legit\legit\__init__.py,0,0,0,0,0,0,0,0,,,,,0,0,,0,,,,,3,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,,0,"1.00",0,0,0,0
+Module File,"D:\thesis2\real 106 project\legit\legit\bootstrap.py",D:\thesis2\real 106 project\legit\legit\bootstrap.py,9,9,9,1,28,0,0,0,,,,,0,1,,0,,,,,70,26,33,10,28,11,80,2,31,10,26,9,9,9,1,9,9,9,1,,3,"0.33",9,9,9,1
+Module File,"D:\thesis2\real 106 project\legit\legit\cli.py",D:\thesis2\real 106 project\legit\legit\cli.py,3,3,3,1,17,2,11,1,,,,,1,33,,32,,,,,690,175,458,113,410,58,2,0,330,110,284,2,2,2,1,8,8,9,5,,3,"0.13",102,102,111,58
+Module File,"D:\thesis2\real 106 project\legit\legit\core.py",D:\thesis2\real 106 project\legit\legit\core.py,1,1,1,1,4,0,0,0,,,,,0,1,,0,,,,,16,5,5,4,4,6,1,0,5,4,4,1,1,1,1,1,1,1,1,,0,"1.20",1,1,1,1
+Module File,"D:\thesis2\real 106 project\legit\legit\helpers.py",D:\thesis2\real 106 project\legit\legit\helpers.py,1,1,1,1,4,0,0,0,,,,,0,1,,0,,,,,18,6,6,6,4,6,1,0,6,6,4,1,1,1,1,1,1,1,1,,0,"1.00",1,1,1,1
+Module File,"D:\thesis2\real 106 project\legit\legit\scm.py",D:\thesis2\real 106 project\legit\legit\scm.py,2,2,2,1,10,3,7,0,,,,,1,21,,20,,,,,297,113,161,59,132,24,2,0,140,57,111,2,2,2,1,9,9,10,3,,4,"0.15",47,47,54,27
+Module File,"D:\thesis2\real 106 project\legit\legit\settings.py",D:\thesis2\real 106 project\legit\legit\settings.py,1,1,1,1,7,1,4,0,,,,,1,6,,5,,,,,78,28,39,11,33,11,1,0,29,11,23,1,1,1,1,3,3,3,3,,2,"0.28",8,8,8,8
+Module File,"D:\thesis2\real 106 project\legit\setup.py",D:\thesis2\real 106 project\legit\setup.py,4,4,4,3,53,0,0,0,,,,,0,1,,0,,,,,84,20,58,11,53,8,4,1,22,10,17,4,4,4,3,4,4,4,3,,1,"0.14",4,4,4,3
+Package,"legit",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,3,1,1,1,0,1,,,1,1,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"legit",,1,1,1,1,4,0,0,0,,,,,0,,1,0,,,,,18,6,6,6,4,6,,,6,6,4,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"legit",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"legit",,9,9,9,1,28,0,0,0,,,,,0,,1,0,,,,,70,26,33,10,28,11,,,31,10,26,,,,,9,9,9,1,,3,,9,9,9,1
+Package,"legit",,2,2,2,1,10,3,7,0,,,,,1,,1,20,,,,,297,113,161,59,132,24,,,140,57,111,,,,,9,9,10,3,,4,,47,47,54,27
+Package,"legit",,3,3,3,1,17,2,11,1,,,,,1,,1,32,,,,,690,175,458,113,410,58,,,330,110,284,,,,,8,8,9,5,,3,,102,102,111,58
+Package,"legit",,1,1,1,1,7,1,4,0,,,,,1,,1,5,,,,,78,28,39,11,33,11,,,29,11,23,,,,,3,3,3,3,,2,,8,8,8,8
+Package,"legit",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"legit",,1,1,1,1,4,0,0,0,,,,,0,,1,0,,,,,16,5,5,4,4,6,,,5,4,4,,,,,1,1,1,1,,0,,1,1,1,1
+Class,"legit.cli.Command",D:\thesis2\real 106 project\legit\legit\cli.py,1,1,1,1,4,0,4,0,1,0,0,0,,,,,2,5,5,5,34,5,29,17,20,0,,,24,14,18,,,,,3,3,3,3,1,2,"0.00",9,9,9,7
+Function,"legit.cli.Command.__call__(self,args,kw_args)",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"legit.cli.Command.__init__(self,name,short,fn,usage,help)",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,6,0,6,6,5,0,1,0,6,6,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"legit.cli.Command.all_commands(klass)",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"legit.cli.Command.lookup(klass,name)",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,7,0,7,1,6,0,3,0,6,1,5,3,3,3,3,,,,,,1,"0.00",,,,
+Function,"legit.cli.Command.register(klass,command)",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,3,0,5,2,4,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"legit.cli.black(s)",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"legit.cli.cmd_branches(args)",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,4,1,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"legit.cli.cmd_graft(args)",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,39,9,28,5,27,2,9,1,23,5,22,6,6,6,5,,,,,,1,"0.07",,,,
+Function,"legit.cli.cmd_harvest(args)",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,38,10,27,6,26,1,35,2,24,6,23,8,8,8,3,,,,,,1,"0.04",,,,
+Function,"legit.cli.cmd_help(args)",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,4,0,3,2,2,1,1,0,3,2,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"legit.cli.cmd_install(args)",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,23,4,18,4,17,1,2,0,8,4,7,2,2,2,1,,,,,,1,"0.06",,,,
+Function,"legit.cli.cmd_publish(args)",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,22,5,16,3,15,1,6,1,13,3,12,4,4,4,1,,,,,,2,"0.06",,,,
+Function,"legit.cli.cmd_resync(args)",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,33,0,24,4,23,9,9,1,20,4,19,5,5,5,3,,,,,,2,"0.38",,,,
+Function,"legit.cli.cmd_settings(args)",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,28,9,18,4,17,1,8,1,15,4,14,5,5,9,1,,,,,,1,"0.06",,,,
+Function,"legit.cli.cmd_sprout(args)",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,39,8,26,4,25,5,9,1,20,4,19,6,6,7,4,,,,,,1,"0.19",,,,
+Function,"legit.cli.cmd_switch(args)",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,15,4,10,3,9,1,4,1,9,3,8,3,3,3,1,,,,,,1,"0.10",,,,
+Function,"legit.cli.cmd_sync(args)",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,43,9,28,4,27,6,35,2,23,4,22,8,8,8,4,,,,,,2,"0.21",,,,
+Function,"legit.cli.cmd_unpublish(args)",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,19,5,13,3,12,1,3,0,11,3,10,3,3,3,3,,,,,,1,"0.08",,,,
+Function,"legit.cli.def_cmd(name,short,fn,usage,help)",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"legit.cli.display_available_branches()",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,27,7,19,8,18,1,4,1,15,8,14,7,7,7,1,,,,,,2,"0.05",,,,
+Function,"legit.cli.display_help()",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,4,1,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"legit.cli.display_info()",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,16,2,13,4,12,1,2,0,10,4,9,2,2,4,1,,,,,,2,"0.08",,,,
+Function,"legit.cli.display_version()",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,8,2,5,1,4,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"legit.cli.first_sentence(s)",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,2,0,5,2,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"legit.cli.fuzzy_match_branch(branch)",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,14,4,10,4,9,0,4,1,12,4,10,4,4,4,4,,,,,,1,"0.00",,,,
+Function,"legit.cli.fuzzy_match_branch.branch_fuzzy_match(b)",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,1,0,1,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"legit.cli.handle_abort(aborted,type)",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,9,0,9,1,8,0,3,0,7,1,6,3,3,3,1,,,,,,1,"0.00",,,,
+Function,"legit.cli.help(command,to_stderr)",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,12,1,11,4,10,0,4,1,10,4,9,3,3,5,1,,,,,,1,"0.00",,,,
+Function,"legit.cli.main()",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,34,8,24,4,23,2,6,1,20,4,19,6,6,6,5,,,,,,3,"0.08",,,,
+Function,"legit.cli.show_error(msg)",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"legit.cli.status_log(func,message,args,kwargs)",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,13,3,9,4,8,2,4,1,9,4,8,4,4,4,1,,,,,,3,"0.22",,,,
+Function,"legit.cli.switch_to(branch)",D:\thesis2\real 106 project\legit\legit\cli.py,,,,,,,,,,,,,,,,,,,,,7,2,4,2,3,1,1,0,4,2,3,1,1,1,1,,,,,,0,"0.25",,,,
+Class,"legit.scm.Aborted",D:\thesis2\real 106 project\legit\legit\scm.py,1,1,1,1,3,0,3,0,1,0,0,0,,,,,1,2,1,1,5,1,4,4,2,0,,,4,4,2,,,,,1,1,1,1,1,0,"0.00",1,1,1,1
+Function,"legit.scm.Aborted.__init__(self)",D:\thesis2\real 106 project\legit\legit\scm.py,,,,,,,,,,,,,,,,,,,,,3,0,3,3,2,0,1,0,3,3,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"legit.scm.abort(message,log,type)",D:\thesis2\real 106 project\legit\legit\scm.py,,,,,,,,,,,,,,,,,,,,,7,2,5,2,4,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"legit.scm.checkout_branch(branch)",D:\thesis2\real 106 project\legit\legit\scm.py,,,,,,,,,,,,,,,,,,,,,8,2,5,2,4,1,1,0,4,2,3,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"legit.scm.fetch()",D:\thesis2\real 106 project\legit\legit\scm.py,,,,,,,,,,,,,,,,,,,,,5,2,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"legit.scm.get_branch_names(local,remote_branches)",D:\thesis2\real 106 project\legit\legit\scm.py,,,,,,,,,,,,,,,,,,,,,7,3,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"legit.scm.get_branches(local,remote_branches)",D:\thesis2\real 106 project\legit\legit\scm.py,,,,,,,,,,,,,,,,,,,,,31,10,17,4,16,4,25,1,17,4,16,9,9,10,1,,,,,,4,"0.24",,,,
+Function,"legit.scm.get_current_branch_name()",D:\thesis2\real 106 project\legit\legit\scm.py,,,,,,,,,,,,,,,,,,,,,6,2,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"legit.scm.get_remote()",D:\thesis2\real 106 project\legit\legit\scm.py,,,,,,,,,,,,,,,,,,,,,16,5,10,3,9,1,3,0,9,3,8,3,3,3,3,,,,,,1,"0.10",,,,
+Function,"legit.scm.get_repo()",D:\thesis2\real 106 project\legit\legit\scm.py,,,,,,,,,,,,,,,,,,,,,7,1,5,1,4,1,2,0,5,1,4,2,2,2,1,,,,,,1,"0.20",,,,
+Function,"legit.scm.graft_branch(branch)",D:\thesis2\real 106 project\legit\legit\scm.py,,,,,,,,,,,,,,,,,,,,,19,5,13,5,12,1,2,0,12,4,11,2,2,2,1,,,,,,1,"0.08",,,,
+Function,"legit.scm.publish_branch(branch)",D:\thesis2\real 106 project\legit\legit\scm.py,,,,,,,,,,,,,,,,,,,,,7,2,4,1,3,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.25",,,,
+Function,"legit.scm.push(branch)",D:\thesis2\real 106 project\legit\legit\scm.py,,,,,,,,,,,,,,,,,,,,,8,2,6,1,5,0,2,0,5,1,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"legit.scm.repo_check(require_remote)",D:\thesis2\real 106 project\legit\legit\scm.py,,,,,,,,,,,,,,,,,,,,,9,1,7,1,6,1,3,0,7,1,6,3,3,4,3,,,,,,1,"0.14",,,,
+Function,"legit.scm.smart_merge(branch,allow_rebase)",D:\thesis2\real 106 project\legit\legit\scm.py,,,,,,,,,,,,,,,,,,,,,20,5,15,6,14,0,4,1,12,5,11,4,4,4,1,,,,,,1,"0.00",,,,
+Function,"legit.scm.smart_pull()",D:\thesis2\real 106 project\legit\legit\scm.py,,,,,,,,,,,,,,,,,,,,,10,4,5,2,4,1,1,0,5,2,4,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"legit.scm.sprout_branch(off_branch,branch)",D:\thesis2\real 106 project\legit\legit\scm.py,,,,,,,,,,,,,,,,,,,,,6,2,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"legit.scm.stash_it(sync)",D:\thesis2\real 106 project\legit\legit\scm.py,,,,,,,,,,,,,,,,,,,,,7,1,6,2,5,0,1,0,4,2,3,2,2,2,1,,,,,,0,"0.00",,,,
+Function,"legit.scm.unpublish_branch(branch)",D:\thesis2\real 106 project\legit\legit\scm.py,,,,,,,,,,,,,,,,,,,,,12,2,9,2,8,1,2,0,7,2,6,2,2,2,1,,,,,,1,"0.11",,,,
+Function,"legit.scm.unstash_index(sync,branch)",D:\thesis2\real 106 project\legit\legit\scm.py,,,,,,,,,,,,,,,,,,,,,24,6,17,4,16,1,6,1,9,4,8,5,5,10,3,,,,,,2,"0.06",,,,
+Function,"legit.scm.unstash_it(sync,branch)",D:\thesis2\real 106 project\legit\legit\scm.py,,,,,,,,,,,,,,,,,,,,,10,3,6,2,5,1,2,0,5,2,4,2,2,2,1,,,,,,1,"0.17",,,,
+Class,"legit.settings.Settings",D:\thesis2\real 106 project\legit\legit\settings.py,1,1,1,1,6,1,4,0,1,2,0,0,,,,,5,1,5,5,44,15,24,10,18,5,,,24,10,18,,,,,3,3,3,3,1,2,"0.21",7,7,7,7
+Function,"legit.settings.Settings.__call__(self,args,kwargs)",D:\thesis2\real 106 project\legit\legit\settings.py,,,,,,,,,,,,,,,,,,,,,12,3,6,2,5,3,1,0,6,2,5,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"legit.settings.Settings.__enter__(self)",D:\thesis2\real 106 project\legit\legit\settings.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"legit.settings.Settings.__exit__(self,args)",D:\thesis2\real 106 project\legit\legit\settings.py,,,,,,,,,,,,,,,,,,,,,5,1,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"legit.settings.Settings.__getattribute__(self,key)",D:\thesis2\real 106 project\legit\legit\settings.py,,,,,,,,,,,,,,,,,,,,,7,0,7,1,6,0,3,0,7,1,6,3,3,3,3,,,,,,2,"0.00",,,,
+Function,"legit.settings.Settings.__init__(self,kwargs)",D:\thesis2\real 106 project\legit\legit\settings.py,,,,,,,,,,,,,,,,,,,,,4,1,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,

@@ -1,0 +1,229 @@
+Kind,Name,File,AvgCyclomatic,AvgCyclomaticModified,AvgCyclomaticStrict,AvgEssential,AvgLine,AvgLineBlank,AvgLineCode,AvgLineComment,CountClassBase,CountClassCoupled,CountClassCoupledModified,CountClassDerived,CountDeclClass,CountDeclExecutableUnit,CountDeclFile,CountDeclFunction,CountDeclInstanceMethod,CountDeclInstanceVariable,CountDeclMethod,CountDeclMethodAll,CountLine,CountLineBlank,CountLineCode,CountLineCodeDecl,CountLineCodeExe,CountLineComment,CountPath,CountPathLog,CountStmt,CountStmtDecl,CountStmtExe,Cyclomatic,CyclomaticModified,CyclomaticStrict,Essential,MaxCyclomatic,MaxCyclomaticModified,MaxCyclomaticStrict,MaxEssential,MaxInheritanceTree,MaxNesting,RatioCommentToCode,SumCyclomatic,SumCyclomaticModified,SumCyclomaticStrict,SumEssential
+File,"D:\thesis2\real 106 project\jieba\jieba\__init__.py",D:\thesis2\real 106 project\jieba\jieba\__init__.py,3,3,3,1,14,0,11,1,,,,,1,35,,34,,,,,578,75,443,181,389,62,2,0,405,178,351,2,2,2,1,13,13,15,4,,6,"0.14",131,131,138,45
+Module File,"D:\thesis2\real 106 project\jieba\jieba\__main__.py",D:\thesis2\real 106 project\jieba\jieba\__main__.py,7,7,7,1,39,0,0,0,,,,,0,1,,0,,,,,50,6,43,13,39,1,24,1,34,13,30,7,7,7,1,7,7,7,1,,2,"0.02",7,7,7,1
+Module File,"D:\thesis2\real 106 project\jieba\jieba\_compat.py",D:\thesis2\real 106 project\jieba\jieba\_compat.py,2,2,2,1,11,0,7,0,,,,,0,2,,1,,,,,31,7,23,10,21,1,2,0,22,10,20,2,2,2,1,3,3,3,1,,2,"0.04",5,5,5,2
+File,"D:\thesis2\real 106 project\jieba\jieba\analyse\__init__.py",D:\thesis2\real 106 project\jieba\jieba\analyse\__init__.py,1,1,1,1,5,0,3,0,,,,,0,2,,1,,,,,18,3,15,10,10,0,2,0,15,10,10,2,2,2,1,2,2,2,1,,1,"0.00",3,3,3,2
+Module File,"D:\thesis2\real 106 project\jieba\jieba\analyse\analyzer.py",D:\thesis2\real 106 project\jieba\jieba\analyse\analyzer.py,1,1,2,1,7,0,7,0,,,,,1,3,,2,,,,,37,8,28,14,19,1,1,0,22,14,13,1,1,1,1,3,3,4,3,,2,"0.04",5,5,6,5
+Module File,"D:\thesis2\real 106 project\jieba\jieba\analyse\textrank.py",D:\thesis2\real 106 project\jieba\jieba\analyse\textrank.py,3,3,4,1,13,1,10,2,,,,,2,6,,6,,,,,104,19,71,39,56,15,0,0,67,39,52,0,0,0,0,9,9,10,6,,4,"0.21",22,22,25,11
+Module File,"D:\thesis2\real 106 project\jieba\jieba\analyse\tfidf.py",D:\thesis2\real 106 project\jieba\jieba\analyse\tfidf.py,2,2,2,1,8,0,8,1,,,,,3,9,,8,,,,,111,18,83,41,67,10,1,0,73,41,57,1,1,1,1,9,9,10,5,,3,"0.12",23,23,25,13
+File,"D:\thesis2\real 106 project\jieba\jieba\finalseg\__init__.py",D:\thesis2\real 106 project\jieba\jieba\finalseg\__init__.py,3,3,3,1,16,1,15,0,,,,,0,5,,4,,,,,107,20,86,44,72,3,2,0,75,43,61,2,2,2,1,6,6,6,1,,4,"0.03",19,19,19,5
+Module File,"D:\thesis2\real 106 project\jieba\jieba\finalseg\prob_emit.py",D:\thesis2\real 106 project\jieba\jieba\finalseg\prob_emit.py,1,1,1,1,35224,0,0,0,,,,,0,1,,0,,,,,35226,1,35225,2,35224,0,1,0,2,2,1,1,1,1,1,1,1,1,1,,0,"0.00",1,1,1,1
+Module File,"D:\thesis2\real 106 project\jieba\jieba\finalseg\prob_start.py",D:\thesis2\real 106 project\jieba\jieba\finalseg\prob_start.py,1,1,1,1,4,0,0,0,,,,,0,1,,0,,,,,4,0,4,1,4,0,1,0,1,1,1,1,1,1,1,1,1,1,1,,0,"0.00",1,1,1,1
+Module File,"D:\thesis2\real 106 project\jieba\jieba\finalseg\prob_trans.py",D:\thesis2\real 106 project\jieba\jieba\finalseg\prob_trans.py,1,1,1,1,4,0,0,0,,,,,0,1,,0,,,,,4,0,4,1,4,0,1,0,1,1,1,1,1,1,1,1,1,1,1,,0,"0.00",1,1,1,1
+File,"D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,2,2,2,1,9,0,8,0,,,,,2,27,,26,,,,,304,55,240,107,199,10,2,0,217,105,176,2,2,2,1,13,13,13,4,,6,"0.04",77,77,78,30
+Module File,"D:\thesis2\real 106 project\jieba\jieba\posseg\char_state_tab.py",D:\thesis2\real 106 project\jieba\jieba\posseg\char_state_tab.py,1,1,1,1,61085,0,0,0,,,,,0,1,,0,,,,,61087,1,61086,2,61085,0,1,0,2,2,1,1,1,1,1,1,1,1,1,,0,"0.00",1,1,1,1
+Module File,"D:\thesis2\real 106 project\jieba\jieba\posseg\prob_emit.py",D:\thesis2\real 106 project\jieba\jieba\posseg\prob_emit.py,1,1,1,1,89370,0,0,0,,,,,0,1,,0,,,,,89372,1,89371,2,89370,0,1,0,2,2,1,1,1,1,1,1,1,1,1,,0,"0.00",1,1,1,1
+Module File,"D:\thesis2\real 106 project\jieba\jieba\posseg\prob_start.py",D:\thesis2\real 106 project\jieba\jieba\posseg\prob_start.py,1,1,1,1,256,0,0,0,,,,,0,1,,0,,,,,256,0,256,1,256,0,1,0,1,1,1,1,1,1,1,1,1,1,1,,0,"0.00",1,1,1,1
+Module File,"D:\thesis2\real 106 project\jieba\jieba\posseg\prob_trans.py",D:\thesis2\real 106 project\jieba\jieba\posseg\prob_trans.py,1,1,1,1,5307,0,0,0,,,,,0,1,,0,,,,,5307,0,5307,1,5307,0,1,0,1,1,1,1,1,1,1,1,1,1,1,,0,"0.00",1,1,1,1
+Module File,"D:\thesis2\real 106 project\jieba\jieba\posseg\viterbi.py",D:\thesis2\real 106 project\jieba\jieba\posseg\viterbi.py,3,3,3,1,15,2,17,2,,,,,0,3,,2,,,,,53,10,40,19,36,5,2,0,36,19,32,2,2,2,1,7,7,7,1,,2,"0.12",10,10,10,3
+Module File,"D:\thesis2\real 106 project\jieba\setup.py",D:\thesis2\real 106 project\jieba\setup.py,1,1,1,1,59,0,0,0,,,,,0,1,,0,,,,,75,14,60,2,59,1,1,0,3,2,2,1,1,1,1,1,1,1,1,,0,"0.02",1,1,1,1
+Module File,"D:\thesis2\real 106 project\jieba\test\demo.py",D:\thesis2\real 106 project\jieba\test\demo.py,6,6,6,1,54,0,0,0,,,,,0,1,,0,,,,,84,18,59,12,54,10,32,2,59,12,54,6,6,6,1,6,6,6,1,,1,"0.17",6,6,6,1
+Module File,"D:\thesis2\real 106 project\jieba\test\extract_tags.py",D:\thesis2\real 106 project\jieba\test\extract_tags.py,3,3,3,1,16,0,0,0,,,,,0,1,,0,,,,,30,10,20,11,16,0,3,0,19,11,15,3,3,3,1,3,3,3,1,,1,"0.00",3,3,3,1
+Module File,"D:\thesis2\real 106 project\jieba\test\extract_tags_idfpath.py",D:\thesis2\real 106 project\jieba\test\extract_tags_idfpath.py,3,3,3,1,17,0,0,0,,,,,0,1,,0,,,,,32,11,21,11,17,0,3,0,20,11,16,3,3,3,1,3,3,3,1,,1,"0.00",3,3,3,1
+Module File,"D:\thesis2\real 106 project\jieba\test\extract_tags_stop_words.py",D:\thesis2\real 106 project\jieba\test\extract_tags_stop_words.py,3,3,3,1,18,0,0,0,,,,,0,1,,0,,,,,33,11,22,11,18,0,3,0,21,11,17,3,3,3,1,3,3,3,1,,1,"0.00",3,3,3,1
+Module File,"D:\thesis2\real 106 project\jieba\test\extract_tags_with_weight.py",D:\thesis2\real 106 project\jieba\test\extract_tags_with_weight.py,7,7,7,1,28,0,0,0,,,,,0,1,,0,,,,,43,11,32,13,28,0,19,1,28,13,24,7,7,7,1,7,7,7,1,,2,"0.00",7,7,7,1
+Module File,"D:\thesis2\real 106 project\jieba\test\extract_topic.py",D:\thesis2\real 106 project\jieba\test\extract_topic.py,7,7,7,1,36,0,0,0,,,,,0,1,,0,,,,,63,16,46,25,36,3,25,1,45,24,35,7,7,7,1,7,7,7,1,,3,"0.07",7,7,7,1
+Module File,"D:\thesis2\real 106 project\jieba\test\jieba_test.py",D:\thesis2\real 106 project\jieba\test\jieba_test.py,2,2,2,1,13,0,7,0,,,,,1,13,,12,,,,,205,17,187,44,166,2,4,1,102,44,81,3,3,3,1,3,3,3,1,,2,"0.01",27,27,27,13
+Module File,"D:\thesis2\real 106 project\jieba\test\jiebacmd.py",D:\thesis2\real 106 project\jieba\test\jiebacmd.py,5,5,5,3,11,0,0,0,,,,,0,1,,0,,,,,28,10,14,6,11,4,10,1,14,6,11,5,5,5,3,5,5,5,3,,2,"0.29",5,5,5,3
+Module File,"D:\thesis2\real 106 project\jieba\test\parallel\extract_tags.py",D:\thesis2\real 106 project\jieba\test\parallel\extract_tags.py,3,3,3,1,17,0,0,0,,,,,0,1,,0,,,,,34,13,21,11,17,0,3,0,20,11,16,3,3,3,1,3,3,3,1,,1,"0.00",3,3,3,1
+Module File,"D:\thesis2\real 106 project\jieba\test\parallel\test.py",D:\thesis2\real 106 project\jieba\test\parallel\test.py,2,2,2,1,46,0,5,0,,,,,0,2,,1,,,,,99,3,95,6,91,2,2,0,95,6,91,2,2,2,1,2,2,2,1,,1,"0.02",4,4,4,2
+Module File,"D:\thesis2\real 106 project\jieba\test\parallel\test2.py",D:\thesis2\real 106 project\jieba\test\parallel\test2.py,2,2,2,1,44,0,5,0,,,,,0,2,,1,,,,,95,3,91,6,87,1,2,0,91,6,87,2,2,2,1,2,2,2,1,,1,"0.01",4,4,4,2
+Module File,"D:\thesis2\real 106 project\jieba\test\parallel\test_cut_for_search.py",D:\thesis2\real 106 project\jieba\test\parallel\test_cut_for_search.py,2,2,2,1,44,0,5,0,,,,,0,2,,1,,,,,95,3,91,6,87,1,2,0,91,6,87,2,2,2,1,2,2,2,1,,1,"0.01",4,4,4,2
+Module File,"D:\thesis2\real 106 project\jieba\test\parallel\test_file.py",D:\thesis2\real 106 project\jieba\test\parallel\test_file.py,1,1,1,1,11,0,0,0,,,,,0,1,,0,,,,,20,6,14,10,11,0,1,0,14,10,11,1,1,1,1,1,1,1,1,,0,"0.00",1,1,1,1
+Module File,"D:\thesis2\real 106 project\jieba\test\parallel\test_pos.py",D:\thesis2\real 106 project\jieba\test\parallel\test_pos.py,2,2,2,1,46,0,5,0,,,,,0,2,,1,,,,,100,3,96,7,91,2,2,0,96,7,91,2,2,2,1,2,2,2,1,,1,"0.02",4,4,4,2
+Module File,"D:\thesis2\real 106 project\jieba\test\parallel\test_pos_file.py",D:\thesis2\real 106 project\jieba\test\parallel\test_pos_file.py,1,1,1,1,11,0,0,0,,,,,0,1,,0,,,,,22,6,16,12,11,0,1,0,16,12,11,1,1,1,1,1,1,1,1,,0,"0.00",1,1,1,1
+Module File,"D:\thesis2\real 106 project\jieba\test\test.py",D:\thesis2\real 106 project\jieba\test\test.py,1,1,1,1,46,0,3,0,,,,,0,2,,1,,,,,100,4,95,4,92,2,2,0,95,4,92,2,2,2,1,2,2,2,1,,1,"0.02",3,3,3,2
+Module File,"D:\thesis2\real 106 project\jieba\test\test_bug.py",D:\thesis2\real 106 project\jieba\test\test_bug.py,2,2,2,1,4,0,0,0,,,,,0,1,,0,,,,,10,1,8,6,4,1,2,0,8,6,4,2,2,2,1,2,2,2,1,,1,"0.12",2,2,2,1
+Module File,"D:\thesis2\real 106 project\jieba\test\test_change_dictpath.py",D:\thesis2\real 106 project\jieba\test\test_change_dictpath.py,1,1,1,1,6,0,7,0,,,,,0,3,,2,,,,,28,4,23,6,18,1,2,0,23,6,18,2,2,2,1,2,2,2,1,,1,"0.04",4,4,4,3
+Module File,"D:\thesis2\real 106 project\jieba\test\test_cut_for_search.py",D:\thesis2\real 106 project\jieba\test\test_cut_for_search.py,2,2,2,1,45,0,5,0,,,,,0,2,,1,,,,,98,3,94,6,90,2,2,0,94,6,90,2,2,2,1,2,2,2,1,,1,"0.02",4,4,4,2
+Module File,"D:\thesis2\real 106 project\jieba\test\test_cutall.py",D:\thesis2\real 106 project\jieba\test\test_cutall.py,2,2,2,1,45,0,5,0,,,,,0,2,,1,,,,,98,3,94,6,90,2,2,0,94,6,90,2,2,2,1,2,2,2,1,,1,"0.02",4,4,4,2
+Module File,"D:\thesis2\real 106 project\jieba\test\test_file.py",D:\thesis2\real 106 project\jieba\test\test_file.py,1,1,1,1,13,0,0,0,,,,,0,1,,0,,,,,21,5,16,10,13,0,1,0,16,10,13,1,1,1,1,1,1,1,1,,0,"0.00",1,1,1,1
+Module File,"D:\thesis2\real 106 project\jieba\test\test_lock.py",D:\thesis2\real 106 project\jieba\test\test_lock.py,5,5,5,1,15,0,4,0,,,,,0,2,,1,,,,,42,8,32,10,29,2,256,2,32,10,29,9,9,9,1,9,9,9,1,,1,"0.06",10,10,10,2
+Module File,"D:\thesis2\real 106 project\jieba\test\test_multithread.py",D:\thesis2\real 106 project\jieba\test\test_multithread.py,2,2,2,1,10,3,9,3,,,,,1,2,,1,,,,,29,7,21,9,16,4,4,1,21,9,16,3,3,3,1,3,3,3,1,,1,"0.19",4,4,4,2
+Module File,"D:\thesis2\real 106 project\jieba\test\test_no_hmm.py",D:\thesis2\real 106 project\jieba\test\test_no_hmm.py,1,1,1,1,46,0,3,0,,,,,0,2,,1,,,,,100,4,95,4,92,2,2,0,95,4,92,2,2,2,1,2,2,2,1,,1,"0.02",3,3,3,2
+Module File,"D:\thesis2\real 106 project\jieba\test\test_pos.py",D:\thesis2\real 106 project\jieba\test\test_pos.py,2,2,2,1,46,0,5,0,,,,,0,2,,1,,,,,99,3,95,6,91,2,2,0,95,6,91,2,2,2,1,2,2,2,1,,1,"0.02",4,4,4,2
+Module File,"D:\thesis2\real 106 project\jieba\test\test_pos_file.py",D:\thesis2\real 106 project\jieba\test\test_pos_file.py,1,1,1,1,11,0,0,0,,,,,0,1,,0,,,,,21,5,16,12,11,0,1,0,16,12,11,1,1,1,1,1,1,1,1,,0,"0.00",1,1,1,1
+Module File,"D:\thesis2\real 106 project\jieba\test\test_pos_no_hmm.py",D:\thesis2\real 106 project\jieba\test\test_pos_no_hmm.py,2,2,2,1,46,0,5,0,,,,,0,2,,1,,,,,99,3,95,6,91,2,2,0,95,6,91,2,2,2,1,2,2,2,1,,1,"0.02",4,4,4,2
+Module File,"D:\thesis2\real 106 project\jieba\test\test_tokenize.py",D:\thesis2\real 106 project\jieba\test\test_tokenize.py,2,2,2,1,49,0,5,0,,,,,0,2,,1,,,,,106,4,101,9,96,2,3,0,101,9,96,3,3,3,1,3,3,3,1,,2,"0.02",5,5,5,2
+Module File,"D:\thesis2\real 106 project\jieba\test\test_tokenize_no_hmm.py",D:\thesis2\real 106 project\jieba\test\test_tokenize_no_hmm.py,2,2,2,1,49,0,5,0,,,,,0,2,,1,,,,,106,4,101,9,96,2,3,0,101,9,96,3,3,3,1,3,3,3,1,,2,"0.02",5,5,5,2
+Module File,"D:\thesis2\real 106 project\jieba\test\test_userdict.py",D:\thesis2\real 106 project\jieba\test\test_userdict.py,3,3,3,1,33,0,0,0,,,,,0,1,,0,,,,,48,9,37,12,33,2,4,1,29,12,25,3,3,3,1,3,3,3,1,,1,"0.05",3,3,3,1
+Module File,"D:\thesis2\real 106 project\jieba\test\test_whoosh.py",D:\thesis2\real 106 project\jieba\test\test_whoosh.py,5,5,5,1,44,0,0,0,,,,,0,1,,0,,,,,64,12,50,17,44,3,12,1,30,17,24,5,5,5,1,5,5,5,1,,2,"0.06",5,5,5,1
+Module File,"D:\thesis2\real 106 project\jieba\test\test_whoosh_file.py",D:\thesis2\real 106 project\jieba\test\test_whoosh_file.py,5,5,5,1,27,0,0,0,,,,,0,1,,0,,,,,42,7,34,21,27,1,12,1,30,20,23,5,5,5,1,5,5,5,1,,2,"0.03",5,5,5,1
+Module File,"D:\thesis2\real 106 project\jieba\test\test_whoosh_file_read.py",D:\thesis2\real 106 project\jieba\test\test_whoosh_file_read.py,4,4,4,1,15,0,0,0,,,,,0,1,,0,,,,,28,5,22,16,15,1,6,1,22,16,15,4,4,4,1,4,4,4,1,,2,"0.05",4,4,4,1
+Unknown Class,"TestCase",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"Thread",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"Tokenizer",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Package,"analyse",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"analyse",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"analyse",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"analyse",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"analyse",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"analyse",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"analyse",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"analyse",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"analyse",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"analyse",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"analyse",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"analyse",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"jieba",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"jieba",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"jieba",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"jieba",,2,2,2,1,9,0,8,0,,,,,2,,1,26,,,,,304,55,240,107,199,10,,,217,105,176,,,,,13,13,13,4,,6,,77,77,78,30
+Package,"jieba",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"jieba",,3,3,3,1,16,1,15,0,,,,,0,,1,4,,,,,107,20,86,44,72,3,,,75,43,61,,,,,6,6,6,1,,4,,19,19,19,5
+Package,"jieba",,2,2,2,1,11,0,7,0,,,,,0,,1,1,,,,,31,7,23,10,21,1,,,22,10,20,,,,,3,3,3,1,,2,,5,5,5,2
+Package,"jieba",,7,7,7,1,39,0,0,0,,,,,0,,1,0,,,,,50,6,43,13,39,1,,,34,13,30,,,,,7,7,7,1,,2,,7,7,7,1
+Package,"jieba",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"jieba",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"jieba",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"jieba",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"jieba",,1,1,1,1,5,0,3,0,,,,,0,,1,1,,,,,18,3,15,10,10,0,,,15,10,10,,,,,2,2,2,1,,1,,3,3,3,2
+Package,"jieba",,3,3,3,1,14,0,11,1,,,,,1,,1,34,,,,,578,75,443,181,389,62,,,405,178,351,,,,,13,13,15,4,,6,,131,131,138,45
+Package,"jieba",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Class,"jieba.Tokenizer",D:\thesis2\real 106 project\jieba\jieba\__init__.py,4,4,4,1,16,0,13,2,1,9,0,0,,,,,24,8,24,24,428,40,338,112,313,50,,,307,109,282,,,,,13,13,15,4,1,6,"0.15",109,109,116,34
+Function,"jieba.Tokenizer.__cut_DAG(self,sentence)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,39,1,38,11,37,0,48,2,33,11,32,13,13,13,1,,,,,,6,"0.00",,,,
+Function,"jieba.Tokenizer.__cut_DAG_NO_HMM(self,sentence)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,22,0,22,8,21,0,8,1,21,8,20,5,5,6,1,,,,,,3,"0.00",,,,
+Function,"jieba.Tokenizer.__cut_all(self,sentence)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,12,0,12,5,11,0,5,1,11,5,10,5,5,6,1,,,,,,4,"0.00",,,,
+Function,"jieba.Tokenizer.__init__(self,dictionary)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,9,0,9,9,8,0,1,0,9,9,8,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba.Tokenizer.__repr__(self)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba.Tokenizer._lcut_all(self,sentence)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba.Tokenizer._lcut_for_search_no_hmm(self,sentence)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba.Tokenizer._lcut_no_hmm(self,sentence)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba.Tokenizer.add_word(self,word,freq,tag)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,18,1,12,3,11,5,6,1,12,3,11,5,5,5,1,,,,,,2,"0.42",,,,
+Function,"jieba.Tokenizer.calc(self,sentence,DAG,route)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,7,0,7,4,6,0,2,0,6,4,5,2,2,3,1,,,,,,1,"0.00",,,,
+Function,"jieba.Tokenizer.check_initialized(self)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,2,0,3,1,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"jieba.Tokenizer.cut(self,sentence,cut_all,HMM)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,41,2,31,10,30,8,90,2,25,10,24,12,12,12,3,,,,,,5,"0.26",,,,
+Function,"jieba.Tokenizer.cut_for_search(self,sentence,HMM)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,17,0,14,6,13,3,17,1,14,6,13,8,8,8,1,,,,,,4,"0.21",,,,
+Function,"jieba.Tokenizer.del_word(self,word)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"jieba.Tokenizer.gen_pfdict(self,f_name)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,19,0,19,8,18,0,5,1,18,7,17,5,5,5,3,,,,,,5,"0.00",,,,
+Function,"jieba.Tokenizer.get_DAG(self,sentence)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,17,0,17,7,16,0,7,1,17,7,16,5,5,6,1,,,,,,3,"0.00",,,,
+Function,"jieba.Tokenizer.get_abs_path_dict(self)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba.Tokenizer.initialize(self,dictionary)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,73,6,63,10,62,4,185,2,53,8,52,12,12,15,4,,,,,,5,"0.06",,,,
+Function,"jieba.Tokenizer.lcut(self,args,kwargs)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba.Tokenizer.lcut_for_search(self,args,kwargs)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba.Tokenizer.load_userdict(self,f)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,35,2,23,5,22,10,20,1,19,5,18,8,8,8,4,,,,,,4,"0.43",,,,
+Function,"jieba.Tokenizer.set_dictionary(self,dictionary_path)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,2,0,7,2,6,2,2,2,1,,,,,,2,"0.00",,,,
+Function,"jieba.Tokenizer.suggest_freq(self,segment,tune)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,30,2,18,5,17,10,8,1,17,5,16,5,5,5,1,,,,,,2,"0.56",,,,
+Function,"jieba.Tokenizer.tokenize(self,unicode_sentence,mode,HMM)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,32,1,24,7,23,7,38,2,23,7,22,11,11,11,1,,,,,,5,"0.29",,,,
+Function,"jieba._compat.strdecode(sentence)",D:\thesis2\real 106 project\jieba\jieba\_compat.py,,,,,,,,,,,,,,,,,,,,,7,0,7,1,6,0,3,0,7,1,6,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"jieba._lcut(s)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba._lcut_all(s)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba._lcut_all(s)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba._lcut_for_search(s)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba._lcut_for_search_no_hmm(s)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba._pcut(sentence,cut_all,HMM)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,11,0,11,5,10,0,9,1,9,5,8,5,5,5,1,,,,,,2,"0.00",,,,
+Function,"jieba._pcut_for_search(sentence,HMM)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,9,0,9,5,8,0,6,1,8,5,7,4,4,4,1,,,,,,2,"0.00",,,,
+Package,"jieba.analyse",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"jieba.analyse",,2,2,2,1,8,0,8,1,,,,,3,,1,8,,,,,111,18,83,41,67,10,,,73,41,57,,,,,9,9,10,5,,3,,23,23,25,13
+Package,"jieba.analyse",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"jieba.analyse",,1,1,2,1,7,0,7,0,,,,,1,,1,2,,,,,37,8,28,14,19,1,,,22,14,13,,,,,3,3,4,3,,2,,5,5,6,5
+Package,"jieba.analyse",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"jieba.analyse",,3,3,4,1,13,1,10,2,,,,,2,,1,6,,,,,104,19,71,39,56,15,,,67,39,52,,,,,9,9,10,6,,4,,22,22,25,11
+Package,"jieba.analyse",,1,1,1,1,5,0,3,0,,,,,0,,1,1,,,,,18,3,15,10,10,0,,,15,10,10,,,,,2,2,2,1,,1,,3,3,3,2
+Function,"jieba.analyse.analyzer.ChineseAnalyzer(stoplist,minsize,stemfn,cachesize)",D:\thesis2\real 106 project\jieba\jieba\analyse\analyzer.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"jieba.analyse.analyzer.ChineseTokenizer",D:\thesis2\real 106 project\jieba\jieba\analyse\analyzer.py,3,3,4,3,11,0,11,0,1,0,0,0,,,,,1,0,1,1,13,1,12,5,10,0,,,12,5,10,,,,,3,3,4,3,1,2,"0.00",3,3,4,3
+Function,"jieba.analyse.analyzer.ChineseTokenizer.__call__(self,text,kargs)",D:\thesis2\real 106 project\jieba\jieba\analyse\analyzer.py,,,,,,,,,,,,,,,,,,,,,11,0,11,4,10,0,3,0,11,4,10,3,3,4,3,,,,,,2,"0.00",,,,
+Function,"jieba.analyse.set_stop_words(stop_words_path)",D:\thesis2\real 106 project\jieba\jieba\analyse\__init__.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"jieba.analyse.textrank.TextRank",D:\thesis2\real 106 project\jieba\jieba\analyse\textrank.py,3,3,4,2,14,0,10,3,1,7,1,0,,,,,3,5,3,5,48,5,34,17,30,9,,,31,17,27,,,,,9,9,9,6,2,4,"0.26",11,11,13,8
+Function,"jieba.analyse.textrank.TextRank.__init__(self)",D:\thesis2\real 106 project\jieba\jieba\analyse\textrank.py,,,,,,,,,,,,,,,,,,,,,5,0,5,5,4,0,1,0,5,5,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba.analyse.textrank.TextRank.pairfilter(self,wp)",D:\thesis2\real 106 project\jieba\jieba\analyse\textrank.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,3,1,,,,,,0,"0.00",,,,
+Function,"jieba.analyse.textrank.TextRank.textrank(self,sentence,topK,withWeight,allowPOS)",D:\thesis2\real 106 project\jieba\jieba\analyse\textrank.py,,,,,,,,,,,,,,,,,,,,,34,1,24,9,23,9,56,2,22,9,21,9,9,9,6,,,,,,4,"0.38",,,,
+Class,"jieba.analyse.textrank.UndirectWeightedGraph",D:\thesis2\real 106 project\jieba\jieba\analyse\textrank.py,3,3,4,1,12,2,9,1,0,3,0,0,,,,,3,1,3,3,42,9,30,15,26,4,,,29,15,25,,,,,9,9,10,1,0,3,"0.13",11,11,12,3
+Function,"jieba.analyse.textrank.UndirectWeightedGraph.__init__(self)",D:\thesis2\real 106 project\jieba\jieba\analyse\textrank.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba.analyse.textrank.UndirectWeightedGraph.addEdge(self,start,end,weight)",D:\thesis2\real 106 project\jieba\jieba\analyse\textrank.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"jieba.analyse.textrank.UndirectWeightedGraph.rank(self)",D:\thesis2\real 106 project\jieba\jieba\analyse\textrank.py,,,,,,,,,,,,,,,,,,,,,31,6,23,10,22,3,64,2,22,10,21,9,9,10,1,,,,,,3,"0.13",,,,
+Class,"jieba.analyse.tfidf.IDFLoader",D:\thesis2\real 106 project\jieba\jieba\analyse\tfidf.py,2,2,2,1,6,0,6,0,1,1,0,0,,,,,3,3,3,3,22,3,19,10,15,0,,,18,10,14,,,,,3,3,3,1,1,2,"0.00",6,6,6,3
+Function,"jieba.analyse.tfidf.IDFLoader.__init__(self,idf_path)",D:\thesis2\real 106 project\jieba\jieba\analyse\tfidf.py,,,,,,,,,,,,,,,,,,,,,6,0,6,4,5,0,2,0,6,4,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"jieba.analyse.tfidf.IDFLoader.get_idf(self)",D:\thesis2\real 106 project\jieba\jieba\analyse\tfidf.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba.analyse.tfidf.IDFLoader.set_new_path(self,new_idf_path)",D:\thesis2\real 106 project\jieba\jieba\analyse\tfidf.py,,,,,,,,,,,,,,,,,,,,,10,0,10,4,9,0,3,0,9,4,8,3,3,3,1,,,,,,2,"0.00",,,,
+Abstract Class,"jieba.analyse.tfidf.KeywordExtractor",D:\thesis2\real 106 project\jieba\jieba\analyse\tfidf.py,2,2,2,1,4,0,4,0,1,2,0,2,,,,,2,0,2,2,18,3,15,7,12,0,,,11,7,8,,,,,3,3,3,1,1,1,"0.00",4,4,4,2
+Function,"jieba.analyse.tfidf.KeywordExtractor.extract_tags(self,args,kwargs)",D:\thesis2\real 106 project\jieba\jieba\analyse\tfidf.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba.analyse.tfidf.KeywordExtractor.set_stop_words(self,stop_words_path)",D:\thesis2\real 106 project\jieba\jieba\analyse\tfidf.py,,,,,,,,,,,,,,,,,,,,,7,0,7,4,6,0,4,1,7,4,6,3,3,3,1,,,,,,1,"0.00",,,,
+Class,"jieba.analyse.tfidf.TFIDF",D:\thesis2\real 106 project\jieba\jieba\analyse\tfidf.py,4,4,4,2,16,0,13,3,1,4,1,0,,,,,3,6,3,5,53,4,40,16,36,9,,,36,16,32,,,,,9,9,10,5,2,3,"0.23",12,12,14,7
+Function,"jieba.analyse.tfidf.TFIDF.__init__(self,idf_path)",D:\thesis2\real 106 project\jieba\jieba\analyse\tfidf.py,,,,,,,,,,,,,,,,,,,,,6,0,6,6,5,0,1,0,6,6,5,1,1,2,1,,,,,,0,"0.00",,,,
+Function,"jieba.analyse.tfidf.TFIDF.extract_tags(self,sentence,topK,withWeight,allowPOS)",D:\thesis2\real 106 project\jieba\jieba\analyse\tfidf.py,,,,,,,,,,,,,,,,,,,,,37,1,27,7,26,9,112,2,23,7,22,9,9,10,5,,,,,,3,"0.33",,,,
+Function,"jieba.analyse.tfidf.TFIDF.set_idf_path(self,idf_path)",D:\thesis2\real 106 project\jieba\jieba\analyse\tfidf.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,2,0,6,2,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"jieba.disable_parallel()",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,5,0,2,0,7,2,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"jieba.enable_parallel(processnum)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,21,1,14,4,10,6,4,1,12,4,8,3,3,3,1,,,,,,1,"0.43",,,,
+Package,"jieba.finalseg",,1,1,1,1,4,0,0,0,,,,,0,,1,0,,,,,4,0,4,1,4,0,,,1,1,1,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"jieba.finalseg",,3,3,3,1,16,1,15,0,,,,,0,,1,4,,,,,107,20,86,44,72,3,,,75,43,61,,,,,6,6,6,1,,4,,19,19,19,5
+Package,"jieba.finalseg",,1,1,1,1,35224,0,0,0,,,,,0,,1,0,,,,,35226,1,35225,2,35224,0,,,2,2,1,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"jieba.finalseg",,1,1,1,1,4,0,0,0,,,,,0,,1,0,,,,,4,0,4,1,4,0,,,1,1,1,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"jieba.finalseg",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Function,"jieba.finalseg.__cut(sentence)",D:\thesis2\real 106 project\jieba\jieba\finalseg\__init__.py,,,,,,,,,,,,,,,,,,,,,17,0,16,6,14,1,10,1,14,6,12,6,6,6,1,,,,,,2,"0.06",,,,
+Function,"jieba.finalseg.cut(sentence)",D:\thesis2\real 106 project\jieba\jieba\finalseg\__init__.py,,,,,,,,,,,,,,,,,,,,,12,0,12,6,11,0,6,1,11,6,10,6,6,6,1,,,,,,4,"0.00",,,,
+Function,"jieba.finalseg.load_model()",D:\thesis2\real 106 project\jieba\jieba\finalseg\__init__.py,,,,,,,,,,,,,,,,,,,,,20,4,16,7,15,0,1,0,15,6,14,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"jieba.finalseg.viterbi(obs,states,start_p,trans_p,emit_p)",D:\thesis2\real 106 project\jieba\jieba\finalseg\__init__.py,,,,,,,,,,,,,,,,,,,,,20,2,18,8,17,2,6,1,17,8,16,4,4,4,1,,,,,,2,"0.11",,,,
+Package,"jieba.posseg",,1,1,1,1,256,0,0,0,,,,,0,,1,0,,,,,256,0,256,1,256,0,,,1,1,1,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"jieba.posseg",,1,1,1,1,61085,0,0,0,,,,,0,,1,0,,,,,61087,1,61086,2,61085,0,,,2,2,1,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"jieba.posseg",,1,1,1,1,5307,0,0,0,,,,,0,,1,0,,,,,5307,0,5307,1,5307,0,,,1,1,1,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"jieba.posseg",,1,1,1,1,89370,0,0,0,,,,,0,,1,0,,,,,89372,1,89371,2,89370,0,,,2,2,1,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"jieba.posseg",,2,2,2,1,9,0,8,0,,,,,2,,1,26,,,,,304,55,240,107,199,10,,,217,105,176,,,,,13,13,13,4,,6,,77,77,78,30
+Package,"jieba.posseg",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"jieba.posseg",,3,3,3,1,15,2,17,2,,,,,0,,1,2,,,,,53,10,40,19,36,5,,,36,19,32,,,,,7,7,7,1,,2,,10,10,10,3
+Abstract Class,"jieba.posseg.POSTokenizer",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,3,3,3,1,10,0,10,0,1,6,1,0,,,,,15,2,15,15,175,20,154,55,138,1,,,136,54,120,,,,,13,13,13,4,1,6,"0.01",58,58,59,18
+Function,"jieba.posseg.POSTokenizer.__cut(self,sentence)",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,,,,,,,,,,,,,,,,,,,,,17,1,16,5,15,0,10,1,13,5,12,6,6,6,1,,,,,,2,"0.00",,,,
+Function,"jieba.posseg.POSTokenizer.__cut_DAG(self,sentence)",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,,,,,,,,,,,,,,,,,,,,,39,3,36,11,35,0,48,2,31,11,30,13,13,13,1,,,,,,5,"0.00",,,,
+Function,"jieba.posseg.POSTokenizer.__cut_DAG_NO_HMM(self,sentence)",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,,,,,,,,,,,,,,,,,,,,,22,0,22,8,21,0,8,1,21,8,20,5,5,5,1,,,,,,3,"0.00",,,,
+Function,"jieba.posseg.POSTokenizer.__cut_detail(self,sentence)",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,,,,,,,,,,,,,,,,,,,,,16,0,16,6,15,0,8,1,13,6,12,8,8,8,1,,,,,,5,"0.00",,,,
+Function,"jieba.posseg.POSTokenizer.__cut_internal(self,sentence,HMM)",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,,,,,,,,,,,,,,,,,,,,,26,1,25,8,24,0,18,1,20,8,19,10,10,10,1,,,,,,6,"0.00",,,,
+Function,"jieba.posseg.POSTokenizer.__getattr__(self,name)",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,,,,,,,,,,,,,,,,,,,,,5,0,4,1,3,1,2,0,4,1,3,2,2,2,1,,,,,,1,"0.25",,,,
+Function,"jieba.posseg.POSTokenizer.__init__(self,tokenizer)",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,2,1,,,,,,0,"0.00",,,,
+Function,"jieba.posseg.POSTokenizer.__repr__(self)",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba.posseg.POSTokenizer._lcut_internal(self,sentence)",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba.posseg.POSTokenizer._lcut_internal_no_hmm(self,sentence)",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba.posseg.POSTokenizer.cut(self,sentence,HMM)",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"jieba.posseg.POSTokenizer.initialize(self,dictionary)",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba.posseg.POSTokenizer.lcut(self,args,kwargs)",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba.posseg.POSTokenizer.load_word_tag(self,f_name)",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,,,,,,,,,,,,,,,,,,,,,13,0,13,5,12,0,4,1,12,4,11,4,4,4,4,,,,,,4,"0.00",,,,
+Function,"jieba.posseg.POSTokenizer.makesure_userdict_loaded(self)",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"jieba.posseg._lcut_internal(s)",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba.posseg._lcut_internal_no_hmm(s)",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba.posseg.cut(sentence,HMM)",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,,,,,,,,,,,,,,,,,,,,,20,1,14,6,12,5,8,1,12,6,10,6,6,6,1,,,,,,3,"0.36",,,,
+Function,"jieba.posseg.lcut(sentence,HMM)",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba.posseg.load_model(f_name)",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,,,,,,,,,,,,,,,,,,,,,26,4,21,8,20,1,1,0,20,7,19,1,1,1,1,,,,,,1,"0.05",,,,
+Class,"jieba.posseg.pair",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,1,1,1,1,2,0,2,0,1,0,0,0,,,,,6,2,6,6,23,6,17,9,10,0,,,16,9,9,,,,,2,2,2,1,1,1,"0.00",7,7,7,6
+Function,"jieba.posseg.pair.__init__(self,word,flag)",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,,,,,,,,,,,,,,,,,,,,,3,0,3,3,2,0,1,0,3,3,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba.posseg.pair.__iter__(self)",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba.posseg.pair.__repr__(self)",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba.posseg.pair.__str__(self)",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"jieba.posseg.pair.__unicode__(self)",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba.posseg.pair.encode(self,arg)",D:\thesis2\real 106 project\jieba\jieba\posseg\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba.posseg.viterbi.get_top_states(t_state_v,K)",D:\thesis2\real 106 project\jieba\jieba\posseg\viterbi.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba.posseg.viterbi.viterbi(obs,states,start_p,trans_p,emit_p)",D:\thesis2\real 106 project\jieba\jieba\posseg\viterbi.py,,,,,,,,,,,,,,,,,,,,,40,5,32,13,31,5,20,1,28,13,27,7,7,7,1,,,,,,2,"0.16",,,,
+Function,"jieba.setLogLevel(log_level)",D:\thesis2\real 106 project\jieba\jieba\__init__.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,1,0,1,0,3,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"jieba_test.JiebaTestCase",D:\thesis2\real 106 project\jieba\test\jieba_test.py,2,2,2,1,7,0,7,0,1,1,0,0,,,,,12,0,12,12,101,11,90,37,75,0,,,90,37,75,,,,,3,3,3,1,1,2,"0.00",24,24,24,12
+Function,"jieba_test.JiebaTestCase.setUp(self)",D:\thesis2\real 106 project\jieba\test\jieba_test.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba_test.JiebaTestCase.tearDown(self)",D:\thesis2\real 106 project\jieba\test\jieba_test.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"jieba_test.JiebaTestCase.testCutAll(self)",D:\thesis2\real 106 project\jieba\test\jieba_test.py,,,,,,,,,,,,,,,,,,,,,8,0,8,3,7,0,2,0,8,3,7,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"jieba_test.JiebaTestCase.testCutForSearch(self)",D:\thesis2\real 106 project\jieba\test\jieba_test.py,,,,,,,,,,,,,,,,,,,,,8,0,8,3,7,0,2,0,8,3,7,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"jieba_test.JiebaTestCase.testCutForSearch_NOHMM(self)",D:\thesis2\real 106 project\jieba\test\jieba_test.py,,,,,,,,,,,,,,,,,,,,,8,0,8,3,7,0,2,0,8,3,7,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"jieba_test.JiebaTestCase.testDefaultCut(self)",D:\thesis2\real 106 project\jieba\test\jieba_test.py,,,,,,,,,,,,,,,,,,,,,8,0,8,3,7,0,2,0,8,3,7,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"jieba_test.JiebaTestCase.testDefaultCut_NOHMM(self)",D:\thesis2\real 106 project\jieba\test\jieba_test.py,,,,,,,,,,,,,,,,,,,,,8,0,8,3,7,0,2,0,8,3,7,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"jieba_test.JiebaTestCase.testPosseg(self)",D:\thesis2\real 106 project\jieba\test\jieba_test.py,,,,,,,,,,,,,,,,,,,,,9,0,9,4,7,0,2,0,9,4,7,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"jieba_test.JiebaTestCase.testPosseg_NOHMM(self)",D:\thesis2\real 106 project\jieba\test\jieba_test.py,,,,,,,,,,,,,,,,,,,,,9,0,9,4,7,0,2,0,9,4,7,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"jieba_test.JiebaTestCase.testSetDictionary(self)",D:\thesis2\real 106 project\jieba\test\jieba_test.py,,,,,,,,,,,,,,,,,,,,,9,0,9,3,8,0,2,0,9,3,8,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"jieba_test.JiebaTestCase.testTokenize(self)",D:\thesis2\real 106 project\jieba\test\jieba_test.py,,,,,,,,,,,,,,,,,,,,,9,0,9,4,8,0,3,0,9,4,8,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"jieba_test.JiebaTestCase.testTokenize_NOHMM(self)",D:\thesis2\real 106 project\jieba\test\jieba_test.py,,,,,,,,,,,,,,,,,,,,,9,0,9,4,8,0,3,0,9,4,8,3,3,3,1,,,,,,2,"0.00",,,,
+Package,"posseg",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"posseg",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"posseg",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"posseg",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"posseg",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Function,"test.cuttest(test_sent)",D:\thesis2\real 106 project\jieba\test\parallel\test.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,2,0,5,3,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"test.cuttest(test_sent)",D:\thesis2\real 106 project\jieba\test\test.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test2.cuttest(test_sent)",D:\thesis2\real 106 project\jieba\test\parallel\test2.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,2,0,5,3,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"test_change_dictpath.cuttest(test_sent)",D:\thesis2\real 106 project\jieba\test\test_change_dictpath.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_change_dictpath.testcase()",D:\thesis2\real 106 project\jieba\test\test_change_dictpath.py,,,,,,,,,,,,,,,,,,,,,11,0,11,1,10,0,1,0,11,1,10,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_cut_for_search.cuttest(test_sent)",D:\thesis2\real 106 project\jieba\test\test_cut_for_search.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,2,0,5,3,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"test_cut_for_search.cuttest(test_sent)",D:\thesis2\real 106 project\jieba\test\parallel\test_cut_for_search.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,2,0,5,3,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"test_cutall.cuttest(test_sent)",D:\thesis2\real 106 project\jieba\test\test_cutall.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,2,0,5,3,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"test_lock.inittokenizer(tokenizer,group)",D:\thesis2\real 106 project\jieba\test\test_lock.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,4,1,3,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"test_multithread.Worker",D:\thesis2\real 106 project\jieba\test\test_multithread.py,1,1,1,1,12,3,9,3,1,0,0,0,,,,,1,0,1,1,13,3,10,3,8,3,,,10,3,8,,,,,1,1,1,1,1,0,"0.30",1,1,1,1
+Function,"test_multithread.Worker.run(self)",D:\thesis2\real 106 project\jieba\test\test_multithread.py,,,,,,,,,,,,,,,,,,,,,12,3,9,2,8,3,1,0,9,2,8,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"test_no_hmm.cuttest(test_sent)",D:\thesis2\real 106 project\jieba\test\test_no_hmm.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pos.cuttest(test_sent)",D:\thesis2\real 106 project\jieba\test\parallel\test_pos.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,2,0,5,3,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"test_pos.cuttest(test_sent)",D:\thesis2\real 106 project\jieba\test\test_pos.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,2,0,5,3,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"test_pos_no_hmm.cuttest(test_sent)",D:\thesis2\real 106 project\jieba\test\test_pos_no_hmm.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,2,0,5,3,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"test_tokenize.cuttest(test_sent)",D:\thesis2\real 106 project\jieba\test\test_tokenize.py,,,,,,,,,,,,,,,,,,,,,5,0,5,4,3,0,2,0,5,4,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"test_tokenize_no_hmm.cuttest(test_sent)",D:\thesis2\real 106 project\jieba\test\test_tokenize_no_hmm.py,,,,,,,,,,,,,,,,,,,,,5,0,5,4,3,0,2,0,5,4,3,2,2,2,1,,,,,,1,"0.00",,,,

@@ -1,0 +1,452 @@
+Kind,Name,File,AvgCyclomatic,AvgCyclomaticModified,AvgCyclomaticStrict,AvgEssential,AvgLine,AvgLineBlank,AvgLineCode,AvgLineComment,CountClassBase,CountClassCoupled,CountClassCoupledModified,CountClassDerived,CountDeclClass,CountDeclExecutableUnit,CountDeclFile,CountDeclFunction,CountDeclInstanceMethod,CountDeclInstanceVariable,CountDeclMethod,CountDeclMethodAll,CountLine,CountLineBlank,CountLineCode,CountLineCodeDecl,CountLineCodeExe,CountLineComment,CountPath,CountPathLog,CountStmt,CountStmtDecl,CountStmtExe,Cyclomatic,CyclomaticModified,CyclomaticStrict,Essential,MaxCyclomatic,MaxCyclomaticModified,MaxCyclomaticStrict,MaxEssential,MaxInheritanceTree,MaxNesting,RatioCommentToCode,SumCyclomatic,SumCyclomaticModified,SumCyclomaticStrict,SumEssential
+Module File,"D:\thesis2\real 106 project\newspaper\docs\_themes\flask_theme_support.py",D:\thesis2\real 106 project\newspaper\docs\_themes\flask_theme_support.py,0,0,0,0,0,0,0,0,,,,,1,0,,0,,,,,86,12,68,7,64,67,0,0,6,6,3,0,0,0,0,0,0,0,0,,0,"0.99",0,0,0,0
+Module File,"D:\thesis2\real 106 project\newspaper\docs\conf.py",D:\thesis2\real 106 project\newspaper\docs\conf.py,1,1,1,1,37,0,0,0,,,,,0,1,,0,,,,,268,71,39,20,37,158,1,0,22,20,20,1,1,1,1,1,1,1,1,,0,"4.05",1,1,1,1
+Module File,"D:\thesis2\real 106 project\newspaper\download_corpora.py",D:\thesis2\real 106 project\newspaper\download_corpora.py,2,2,2,1,7,0,5,0,,,,,0,2,,1,,,,,24,3,16,4,14,10,2,0,9,4,7,2,2,2,1,2,2,2,1,,1,"0.62",4,4,4,2
+File,"D:\thesis2\real 106 project\newspaper\newspaper\__init__.py",D:\thesis2\real 106 project\newspaper\newspaper\__init__.py,1,1,1,1,5,0,2,0,,,,,1,2,,1,,,,,28,5,18,14,9,6,2,0,17,13,9,2,2,2,1,2,2,2,1,,1,"0.33",3,3,3,2
+Module File,"D:\thesis2\real 106 project\newspaper\newspaper\api.py",D:\thesis2\real 106 project\newspaper\newspaper\api.py,1,1,1,1,9,0,7,2,,,,,0,7,,6,,,,,94,18,55,35,38,21,1,0,55,33,38,1,1,1,1,2,2,4,1,,1,"0.38",9,9,13,7
+Module File,"D:\thesis2\real 106 project\newspaper\newspaper\article.py",D:\thesis2\real 106 project\newspaper\newspaper\article.py,2,2,2,1,11,1,7,2,,,,,2,35,,34,,,,,479,104,281,126,229,95,1,0,267,124,216,1,1,1,1,8,8,12,8,,2,"0.34",76,76,89,46
+Module File,"D:\thesis2\real 106 project\newspaper\newspaper\cleaners.py",D:\thesis2\real 106 project\newspaper\newspaper\cleaners.py,2,2,3,1,13,0,12,1,,,,,1,15,,15,,,,,232,22,188,77,170,22,0,0,152,76,135,0,0,0,0,6,6,8,1,,3,"0.12",42,42,48,15
+Module File,"D:\thesis2\real 106 project\newspaper\newspaper\configuration.py",D:\thesis2\real 106 project\newspaper\newspaper\configuration.py,1,1,1,1,10,1,6,4,,,,,3,7,,6,,,,,113,28,58,39,44,35,1,0,53,38,40,1,1,1,1,4,4,4,4,,1,"0.60",11,11,12,10
+Module File,"D:\thesis2\real 106 project\newspaper\newspaper\extractors.py",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,4,4,5,2,22,2,16,3,,,,,1,41,,40,,,,,933,126,650,268,599,162,1,0,569,267,519,1,1,1,1,28,28,34,14,,5,"0.25",178,178,209,86
+Module File,"D:\thesis2\real 106 project\newspaper\newspaper\images.py",D:\thesis2\real 106 project\newspaper\newspaper\images.py,3,3,3,2,14,0,12,1,,,,,1,14,,13,,,,,245,37,180,70,156,28,1,0,168,68,144,1,1,1,1,20,20,22,16,,6,"0.16",49,49,53,39
+Module File,"D:\thesis2\real 106 project\newspaper\newspaper\mthreading.py",D:\thesis2\real 106 project\newspaper\newspaper\mthreading.py,1,1,1,1,8,0,4,3,,,,,3,10,,9,,,,,120,21,54,28,39,45,1,0,53,28,38,1,1,1,1,4,4,4,3,,2,"0.83",16,16,16,12
+Module File,"D:\thesis2\real 106 project\newspaper\newspaper\network.py",D:\thesis2\real 106 project\newspaper\newspaper\network.py,2,2,2,1,13,1,10,2,,,,,1,6,,5,,,,,132,21,65,31,54,46,1,0,57,29,46,1,1,1,1,6,6,7,4,,2,"0.71",14,14,17,9
+Module File,"D:\thesis2\real 106 project\newspaper\newspaper\nlp.py",D:\thesis2\real 106 project\newspaper\newspaper\nlp.py,3,3,3,2,14,0,12,1,,,,,0,11,,10,,,,,190,31,137,61,122,23,1,0,119,60,104,1,1,1,1,12,12,12,12,,3,"0.17",40,40,42,22
+Module File,"D:\thesis2\real 106 project\newspaper\newspaper\outputformatters.py",D:\thesis2\real 106 project\newspaper\newspaper\outputformatters.py,2,2,2,1,9,0,7,2,,,,,1,15,,14,,,,,158,23,101,50,84,34,1,0,92,50,75,1,1,1,1,4,4,7,1,,3,"0.34",32,32,36,15
+Module File,"D:\thesis2\real 106 project\newspaper\newspaper\parsers.py",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,2,2,2,1,5,0,5,0,,,,,1,32,,31,,,,,268,37,208,102,135,23,1,0,168,70,127,1,1,1,1,6,6,7,4,,4,"0.11",65,65,70,41
+Module File,"D:\thesis2\real 106 project\newspaper\newspaper\settings.py",D:\thesis2\real 106 project\newspaper\newspaper\settings.py,4,4,4,1,28,0,0,0,,,,,0,1,,0,,,,,57,16,32,23,28,9,8,1,29,23,25,4,4,4,1,4,4,4,1,,1,"0.28",4,4,4,1
+Module File,"D:\thesis2\real 106 project\newspaper\newspaper\source.py",D:\thesis2\real 106 project\newspaper\newspaper\source.py,2,2,2,1,11,1,8,2,,,,,3,30,,29,,,,,416,75,251,118,208,92,1,0,226,116,184,1,1,1,1,9,9,9,1,,3,"0.37",63,63,66,30
+Module File,"D:\thesis2\real 106 project\newspaper\newspaper\text.py",D:\thesis2\real 106 project\newspaper\newspaper\text.py,1,1,1,1,5,0,4,0,,,,,5,20,,19,,,,,160,36,105,62,75,19,1,0,103,62,73,1,1,1,1,4,4,4,1,,2,"0.18",30,30,30,20
+Module File,"D:\thesis2\real 106 project\newspaper\newspaper\urls.py",D:\thesis2\real 106 project\newspaper\newspaper\urls.py,5,5,6,2,25,4,14,9,,,,,0,10,,9,,,,,288,58,149,54,136,89,1,0,142,53,129,1,1,1,1,35,35,42,18,,4,"0.60",54,54,63,29
+Module File,"D:\thesis2\real 106 project\newspaper\newspaper\utils.py",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,1,1,1,1,11,0,8,1,,,,,9,36,,35,,,,,371,71,244,120,184,58,1,0,213,116,156,1,1,1,1,6,6,6,3,,3,"0.24",66,66,67,42
+Module File,"D:\thesis2\real 106 project\newspaper\newspaper\version.py",D:\thesis2\real 106 project\newspaper\newspaper\version.py,1,1,1,1,6,0,0,0,,,,,0,1,,0,,,,,11,1,6,6,6,4,1,0,6,6,6,1,1,1,1,1,1,1,1,,0,"0.67",1,1,1,1
+File,"D:\thesis2\real 106 project\newspaper\newspaper\videos\__init__.py",D:\thesis2\real 106 project\newspaper\newspaper\videos\__init__.py,0,0,0,0,0,0,0,0,,,,,0,0,,0,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,"0.00",0,0,0,0
+Module File,"D:\thesis2\real 106 project\newspaper\newspaper\videos\extractors.py",D:\thesis2\real 106 project\newspaper\newspaper\videos\extractors.py,1,1,1,1,6,0,5,1,,,,,1,14,,13,,,,,115,20,75,35,60,20,1,0,71,35,56,1,1,1,1,4,4,5,4,,3,"0.27",25,25,27,21
+Module File,"D:\thesis2\real 106 project\newspaper\newspaper\videos\videos.py",D:\thesis2\real 106 project\newspaper\newspaper\videos\videos.py,1,1,1,1,14,0,7,7,,,,,1,1,,1,,,,,20,2,8,8,6,10,0,0,8,8,6,0,0,0,0,1,1,1,1,,0,"1.25",1,1,1,1
+Module File,"D:\thesis2\real 106 project\newspaper\setup.py",D:\thesis2\real 106 project\newspaper\setup.py,3,3,3,1,31,0,0,0,,,,,0,1,,0,,,,,53,12,36,9,31,6,4,1,16,8,11,3,3,3,1,3,3,3,1,,1,"0.17",3,3,3,1
+File,"D:\thesis2\real 106 project\newspaper\tests\__init__.py",D:\thesis2\real 106 project\newspaper\tests\__init__.py,0,0,0,0,0,0,0,0,,,,,0,0,,0,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,"0.00",0,0,0,0
+Module File,"D:\thesis2\real 106 project\newspaper\tests\benchmarks.py",D:\thesis2\real 106 project\newspaper\tests\benchmarks.py,1,1,1,1,5,0,3,1,,,,,1,6,,5,,,,,74,16,38,27,18,21,4,1,35,24,18,3,3,3,1,3,3,3,1,,1,"0.55",9,9,9,6
+Module File,"D:\thesis2\real 106 project\newspaper\tests\unit_tests.py",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,1,1,1,1,11,0,8,1,,,,,8,37,,36,,,,,525,83,364,160,286,79,3,0,276,134,221,3,3,4,1,6,6,6,3,,3,"0.22",50,50,51,41
+Unknown Class,"Handler",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"Handler",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"Style",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"TestCase",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"Thread",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Function,"download_corpora.main()",D:\thesis2\real 106 project\newspaper\download_corpora.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,2,0,5,2,4,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"flask_theme_support.FlaskyStyle",D:\thesis2\real 106 project\newspaper\docs\_themes\flask_theme_support.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,0,80,10,65,4,64,66,,,4,4,3,,,,,0,0,0,0,1,0,"1.02",0,0,0,0
+Package,"newspaper",,2,2,2,1,9,0,7,2,,,,,1,,1,14,,,,,158,23,101,50,84,34,,,92,50,75,,,,,4,4,7,1,,3,,32,32,36,15
+Package,"newspaper",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"newspaper",,1,1,1,1,5,0,4,0,,,,,5,,1,19,,,,,160,36,105,62,75,19,,,103,62,73,,,,,4,4,4,1,,2,,30,30,30,20
+Package,"newspaper",,1,1,1,1,5,0,2,0,,,,,1,,1,1,,,,,28,5,18,14,9,6,,,17,13,9,,,,,2,2,2,1,,1,,3,3,3,2
+Package,"newspaper",,5,5,6,2,25,4,14,9,,,,,0,,1,9,,,,,288,58,149,54,136,89,,,142,53,129,,,,,35,35,42,18,,4,,54,54,63,29
+Package,"newspaper",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"newspaper",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"newspaper",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"newspaper",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"newspaper",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"newspaper",,2,2,2,1,11,1,7,2,,,,,2,,1,34,,,,,479,104,281,126,229,95,,,267,124,216,,,,,8,8,12,8,,2,,76,76,89,46
+Package,"newspaper",,2,2,3,1,13,0,12,1,,,,,1,,1,15,,,,,232,22,188,77,170,22,,,152,76,135,,,,,6,6,8,1,,3,,42,42,48,15
+Package,"newspaper",,2,2,2,1,13,1,10,2,,,,,1,,1,5,,,,,132,21,65,31,54,46,,,57,29,46,,,,,6,6,7,4,,2,,14,14,17,9
+Package,"newspaper",,1,1,1,1,10,1,6,4,,,,,3,,1,6,,,,,113,28,58,39,44,35,,,53,38,40,,,,,4,4,4,4,,1,,11,11,12,10
+Package,"newspaper",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"newspaper",,2,2,2,1,5,0,5,0,,,,,1,,1,31,,,,,268,37,208,102,135,23,,,168,70,127,,,,,6,6,7,4,,4,,65,65,70,41
+Package,"newspaper",,1,1,1,1,6,0,0,0,,,,,0,,1,0,,,,,11,1,6,6,6,4,,,6,6,6,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"newspaper",,1,1,1,1,9,0,7,2,,,,,0,,1,6,,,,,94,18,55,35,38,21,,,55,33,38,,,,,2,2,4,1,,1,,9,9,13,7
+Package,"newspaper",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"newspaper",,3,3,3,2,14,0,12,1,,,,,0,,1,10,,,,,190,31,137,61,122,23,,,119,60,104,,,,,12,12,12,12,,3,,40,40,42,22
+Package,"newspaper",,1,1,1,1,8,0,4,3,,,,,3,,1,9,,,,,120,21,54,28,39,45,,,53,28,38,,,,,4,4,4,3,,2,,16,16,16,12
+Package,"newspaper",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,1,1,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"newspaper",,4,4,4,1,28,0,0,0,,,,,0,,1,0,,,,,57,16,32,23,28,9,,,29,23,25,,,,,4,4,4,1,,1,,4,4,4,1
+Package,"newspaper",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"newspaper",,4,4,5,2,22,2,16,3,,,,,1,,1,40,,,,,933,126,650,268,599,162,,,569,267,519,,,,,28,28,34,14,,5,,178,178,209,86
+Package,"newspaper",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"newspaper",,1,1,1,1,11,0,8,1,,,,,9,,1,35,,,,,371,71,244,120,184,58,,,213,116,156,,,,,6,6,6,3,,3,,66,66,67,42
+Package,"newspaper",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"newspaper",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"newspaper",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"newspaper",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"newspaper",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"newspaper",,2,2,2,1,11,1,8,2,,,,,3,,1,29,,,,,416,75,251,118,208,92,,,226,116,184,,,,,9,9,9,1,,3,,63,63,66,30
+Package,"newspaper",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"newspaper",,3,3,3,2,14,0,12,1,,,,,1,,1,13,,,,,245,37,180,70,156,28,,,168,68,144,,,,,20,20,22,16,,6,,49,49,53,39
+Class,"newspaper.NullHandler",D:\thesis2\real 106 project\newspaper\newspaper\__init__.py,1,1,1,1,2,0,2,0,1,0,0,0,,,,,1,0,1,1,3,0,3,2,1,0,,,3,2,1,,,,,1,1,1,1,1,0,"0.00",1,1,1,1
+Function,"newspaper.NullHandler.emit(self,record)",D:\thesis2\real 106 project\newspaper\newspaper\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.api.build(url,dry,config,kwargs)",D:\thesis2\real 106 project\newspaper\newspaper\api.py,,,,,,,,,,,,,,,,,,,,,11,0,8,2,7,3,2,0,8,2,7,2,2,4,1,,,,,,1,"0.38",,,,
+Function,"newspaper.api.build_article(url,config,kwargs)",D:\thesis2\real 106 project\newspaper\newspaper\api.py,,,,,,,,,,,,,,,,,,,,,9,0,6,2,5,3,1,0,6,2,5,1,1,3,1,,,,,,0,"0.50",,,,
+Function,"newspaper.api.fulltext(html,language)",D:\thesis2\real 106 project\newspaper\newspaper\api.py,,,,,,,,,,,,,,,,,,,,,23,4,16,12,11,3,1,0,16,12,11,1,1,1,1,,,,,,0,"0.19",,,,
+Function,"newspaper.api.hot()",D:\thesis2\real 106 project\newspaper\newspaper\api.py,,,,,,,,,,,,,,,,,,,,,10,0,8,4,7,2,2,0,8,3,7,2,2,2,1,,,,,,1,"0.25",,,,
+Function,"newspaper.api.languages()",D:\thesis2\real 106 project\newspaper\newspaper\api.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"newspaper.api.popular_urls()",D:\thesis2\real 106 project\newspaper\newspaper\api.py,,,,,,,,,,,,,,,,,,,,,6,0,4,3,3,2,1,0,4,2,3,1,1,1,1,,,,,,1,"0.50",,,,
+Class,"newspaper.article.Article",D:\thesis2\real 106 project\newspaper\newspaper\article.py,2,2,2,1,12,1,7,2,1,12,8,0,,,,,34,33,34,34,447,96,258,104,223,94,,,245,103,210,,,,,8,8,12,8,1,2,"0.36",75,75,88,45
+Function,"newspaper.article.Article.__init__(self,url,title,source_url,config,kwargs)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,98,30,36,31,35,32,4,1,36,31,35,3,3,5,1,,,,,,1,"0.89",,,,
+Function,"newspaper.article.Article.build(self)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,8,0,4,1,3,4,1,0,4,1,3,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"newspaper.article.Article.build_resource_path(self)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,6,0,4,2,3,2,2,0,4,2,3,2,2,2,1,,,,,,1,"0.50",,,,
+Function,"newspaper.article.Article.download(self,html)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,7,0,4,1,3,3,2,0,4,1,3,2,2,2,1,,,,,,1,"0.75",,,,
+Function,"newspaper.article.Article.fetch_images(self)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,18,3,15,4,14,0,12,1,13,4,12,5,5,6,1,,,,,,2,"0.00",,,,
+Function,"newspaper.article.Article.get_parse_candidate(self)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,7,0,4,1,3,3,2,0,4,1,3,2,2,2,1,,,,,,1,"0.75",,,,
+Function,"newspaper.article.Article.get_resource_path(self)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,10,0,7,4,6,3,2,0,7,4,6,2,2,2,1,,,,,,1,"0.43",,,,
+Function,"newspaper.article.Article.has_top_image(self)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,2,1,,,,,,0,"0.00",,,,
+Function,"newspaper.article.Article.is_media_news(self)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,10,0,7,3,6,3,3,0,6,3,5,3,3,3,3,,,,,,2,"0.43",,,,
+Function,"newspaper.article.Article.is_valid_body(self)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,37,7,27,4,26,3,14,1,26,4,25,8,8,12,8,,,,,,1,"0.11",,,,
+Function,"newspaper.article.Article.is_valid_url(self)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"newspaper.article.Article.nlp(self)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,16,2,12,6,11,2,2,0,11,6,10,2,2,3,1,,,,,,1,"0.17",,,,
+Function,"newspaper.article.Article.parse(self)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,80,21,56,17,55,4,18,1,49,17,48,6,6,6,3,,,,,,1,"0.07",,,,
+Function,"newspaper.article.Article.release_resources(self)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,8,0,7,3,6,1,3,0,7,3,6,3,3,3,1,,,,,,2,"0.14",,,,
+Function,"newspaper.article.Article.set_article_html(self,article_html)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,5,0,3,1,2,2,2,0,3,1,2,2,2,2,1,,,,,,1,"0.67",,,,
+Function,"newspaper.article.Article.set_authors(self,authors)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,7,0,5,1,4,2,4,1,5,1,4,3,3,3,1,,,,,,1,"0.40",,,,
+Function,"newspaper.article.Article.set_canonical_link(self,canonical_link)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.article.Article.set_html(self,html)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,8,0,6,1,5,2,3,0,6,1,5,3,3,3,1,,,,,,2,"0.33",,,,
+Function,"newspaper.article.Article.set_imgs(self,imgs)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,6,0,3,1,2,3,1,0,3,1,2,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"newspaper.article.Article.set_keywords(self,keywords)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,7,0,5,1,4,2,4,1,5,1,4,3,3,3,1,,,,,,1,"0.40",,,,
+Function,"newspaper.article.Article.set_meta_data(self,meta_data)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.article.Article.set_meta_description(self,meta_description)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.article.Article.set_meta_favicon(self,meta_favicon)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.article.Article.set_meta_img(self,src_url)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.article.Article.set_meta_keywords(self,meta_keywords)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"newspaper.article.Article.set_meta_language(self,meta_lang)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,6,0,4,1,3,2,2,0,3,1,2,2,2,4,1,,,,,,1,"0.50",,,,
+Function,"newspaper.article.Article.set_movies(self,movie_objects)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,5,0,3,2,2,2,1,0,3,2,2,1,1,2,1,,,,,,0,"0.67",,,,
+Function,"newspaper.article.Article.set_reddit_top_img(self)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,9,0,6,3,5,3,2,0,6,2,5,2,2,2,1,,,,,,1,"0.50",,,,
+Function,"newspaper.article.Article.set_summary(self,summary)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"newspaper.article.Article.set_tags(self,tags)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.article.Article.set_text(self,text)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"newspaper.article.Article.set_title(self,title)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,8,0,6,1,5,2,3,0,6,1,5,3,3,4,1,,,,,,1,"0.33",,,,
+Function,"newspaper.article.Article.set_top_img(self,src_url)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,3,0,5,2,4,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"newspaper.article.Article.set_top_img_no_check(self,src_url)",D:\thesis2\real 106 project\newspaper\newspaper\article.py,,,,,,,,,,,,,,,,,,,,,6,0,3,1,2,3,1,0,3,1,2,1,1,1,1,,,,,,0,"1.00",,,,
+Class,"newspaper.article.ArticleException",D:\thesis2\real 106 project\newspaper\newspaper\article.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,12,2,0,2,1,1,0,,,2,1,1,,,,,0,0,0,0,3,0,"0.00",0,0,0,0
+Class,"newspaper.cleaners.DocumentCleaner",D:\thesis2\real 106 project\newspaper\newspaper\cleaners.py,2,2,3,1,13,0,12,1,1,2,1,0,,,,,15,15,15,15,224,20,187,76,170,17,,,151,75,135,,,,,6,6,8,1,1,3,"0.09",42,42,48,15
+Function,"newspaper.cleaners.DocumentCleaner.__init__(self,config)",D:\thesis2\real 106 project\newspaper\newspaper\cleaners.py,,,,,,,,,,,,,,,,,,,,,38,0,35,16,34,3,1,0,16,16,15,1,1,1,1,,,,,,0,"0.09",,,,
+Function,"newspaper.cleaners.DocumentCleaner.clean(self,doc_to_clean)",D:\thesis2\real 106 project\newspaper\newspaper\cleaners.py,,,,,,,,,,,,,,,,,,,,,20,0,18,1,17,2,1,0,17,1,16,1,1,1,1,,,,,,0,"0.11",,,,
+Function,"newspaper.cleaners.DocumentCleaner.clean_article_tags(self,doc)",D:\thesis2\real 106 project\newspaper\newspaper\cleaners.py,,,,,,,,,,,,,,,,,,,,,6,0,6,4,5,0,3,0,6,4,5,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"newspaper.cleaners.DocumentCleaner.clean_bad_tags(self,doc)",D:\thesis2\real 106 project\newspaper\newspaper\cleaners.py,,,,,,,,,,,,,,,,,,,,,14,0,11,5,10,3,8,1,11,5,10,4,4,4,1,,,,,,1,"0.27",,,,
+Function,"newspaper.cleaners.DocumentCleaner.clean_body_classes(self,doc)",D:\thesis2\real 106 project\newspaper\newspaper\cleaners.py,,,,,,,,,,,,,,,,,,,,,8,0,5,2,4,3,2,0,5,2,4,2,2,2,1,,,,,,1,"0.60",,,,
+Function,"newspaper.cleaners.DocumentCleaner.clean_em_tags(self,doc)",D:\thesis2\real 106 project\newspaper\newspaper\cleaners.py,,,,,,,,,,,,,,,,,,,,,7,0,7,4,6,0,3,0,7,4,6,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"newspaper.cleaners.DocumentCleaner.clean_para_spans(self,doc)",D:\thesis2\real 106 project\newspaper\newspaper\cleaners.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,2,0,5,3,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"newspaper.cleaners.DocumentCleaner.div_to_para(self,doc,dom_type)",D:\thesis2\real 106 project\newspaper\newspaper\cleaners.py,,,,,,,,,,,,,,,,,,,,,18,0,18,9,17,0,5,1,16,9,15,5,5,6,1,,,,,,3,"0.00",,,,
+Function,"newspaper.cleaners.DocumentCleaner.get_flushed_buffer(self,replacement_text,doc)",D:\thesis2\real 106 project\newspaper\newspaper\cleaners.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.cleaners.DocumentCleaner.get_replacement_nodes(self,doc,div)",D:\thesis2\real 106 project\newspaper\newspaper\cleaners.py,,,,,,,,,,,,,,,,,,,,,31,3,25,9,24,3,16,1,21,9,20,6,6,7,1,,,,,,2,"0.12",,,,
+Function,"newspaper.cleaners.DocumentCleaner.remove_drop_caps(self,doc)",D:\thesis2\real 106 project\newspaper\newspaper\cleaners.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,2,0,5,3,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"newspaper.cleaners.DocumentCleaner.remove_nodes_regex(self,doc,pattern)",D:\thesis2\real 106 project\newspaper\newspaper\cleaners.py,,,,,,,,,,,,,,,,,,,,,7,0,7,5,6,0,3,0,7,5,6,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"newspaper.cleaners.DocumentCleaner.remove_scripts_styles(self,doc)",D:\thesis2\real 106 project\newspaper\newspaper\cleaners.py,,,,,,,,,,,,,,,,,,,,,15,1,11,5,10,3,8,1,11,5,10,4,4,4,1,,,,,,1,"0.27",,,,
+Function,"newspaper.cleaners.DocumentCleaner.replace_walk_left_right(self,kid,kid_text,replacement_text,nodes_to_remove)",D:\thesis2\real 106 project\newspaper\newspaper\cleaners.py,,,,,,,,,,,,,,,,,,,,,29,1,28,7,26,0,5,1,19,6,18,4,4,8,1,,,,,,2,"0.00",,,,
+Function,"newspaper.cleaners.DocumentCleaner.replace_with_para(self,doc,div)",D:\thesis2\real 106 project\newspaper\newspaper\cleaners.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"newspaper.configuration.ArticleConfiguration",D:\thesis2\real 106 project\newspaper\newspaper\configuration.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,6,2,0,2,1,1,0,,,2,1,1,,,,,0,0,0,0,2,0,"0.00",0,0,0,0
+Class,"newspaper.configuration.Configuration",D:\thesis2\real 106 project\newspaper\newspaper\configuration.py,1,1,1,1,11,1,6,4,1,6,5,2,,,,,6,19,6,6,83,19,44,27,37,28,,,40,27,33,,,,,4,4,4,4,1,1,"0.64",10,10,11,9
+Function,"newspaper.configuration.Configuration.__init__(self)",D:\thesis2\real 106 project\newspaper\newspaper\configuration.py,,,,,,,,,,,,,,,,,,,,,40,9,20,20,19,19,1,0,20,20,19,1,1,1,1,,,,,,0,"0.95",,,,
+Function,"newspaper.configuration.Configuration.del_language(self)",D:\thesis2\real 106 project\newspaper\newspaper\configuration.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.configuration.Configuration.get_language(self)",D:\thesis2\real 106 project\newspaper\newspaper\configuration.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.configuration.Configuration.get_parser(self)",D:\thesis2\real 106 project\newspaper\newspaper\configuration.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.configuration.Configuration.get_stopwords_class(self,language)",D:\thesis2\real 106 project\newspaper\newspaper\configuration.py,,,,,,,,,,,,,,,,,,,,,8,0,8,1,7,0,4,1,6,1,5,4,4,4,4,,,,,,1,"0.00",,,,
+Function,"newspaper.configuration.Configuration.set_language(self,language)",D:\thesis2\real 106 project\newspaper\newspaper\configuration.py,,,,,,,,,,,,,,,,,,,,,14,2,7,1,6,5,2,0,6,1,5,2,2,3,1,,,,,,1,"0.71",,,,
+Class,"newspaper.configuration.SourceConfiguration",D:\thesis2\real 106 project\newspaper\newspaper\configuration.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,6,2,0,2,1,1,0,,,2,1,1,,,,,0,0,0,0,2,0,"0.00",0,0,0,0
+Class,"newspaper.extractors.ContentExtractor",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,4,4,5,2,22,2,16,3,1,8,0,0,,,,,37,4,37,37,879,116,613,237,571,153,,,538,236,497,,,,,28,28,34,14,1,5,"0.25",177,177,208,85
+Function,"newspaper.extractors.ContentExtractor.__init__(self,config)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,5,0,5,5,4,0,1,0,5,5,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.extractors.ContentExtractor._get_urls(self,doc,titles)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,15,2,8,3,7,5,3,0,8,3,7,3,3,3,3,,,,,,1,"0.62",,,,
+Function,"newspaper.extractors.ContentExtractor.add_siblings(self,top_node)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,9,0,9,6,8,0,3,0,8,6,7,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"newspaper.extractors.ContentExtractor.calculate_best_node(self,doc)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,71,10,58,24,57,3,1095,3,55,24,54,15,15,16,1,,,,,,4,"0.05",,,,
+Function,"newspaper.extractors.ContentExtractor.extract_tags(self,doc)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,17,1,16,5,15,0,8,1,14,5,13,6,6,6,4,,,,,,2,"0.00",,,,
+Function,"newspaper.extractors.ContentExtractor.get_authors(self,doc)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,82,15,48,23,45,19,42,2,46,23,43,8,8,10,1,,,,,,3,"0.40",,,,
+Function,"newspaper.extractors.ContentExtractor.get_authors.contains_digits(d)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.extractors.ContentExtractor.get_authors.parse_byline(search_str)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,43,8,21,7,20,14,10,1,20,7,19,6,6,6,1,,,,,,3,"0.67",,,,
+Function,"newspaper.extractors.ContentExtractor.get_canonical_link(self,article_url,doc)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,16,0,14,7,13,2,4,1,14,7,13,4,4,5,3,,,,,,3,"0.14",,,,
+Function,"newspaper.extractors.ContentExtractor.get_category_urls(self,source_url,doc)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,125,13,100,21,99,15,44289,5,74,21,73,28,28,34,14,,,,,,5,"0.15",,,,
+Function,"newspaper.extractors.ContentExtractor.get_favicon(self,doc)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,11,0,7,4,6,4,2,0,7,4,6,2,2,2,1,,,,,,1,"0.57",,,,
+Function,"newspaper.extractors.ContentExtractor.get_feed_urls(self,source_url,categories)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,17,1,13,6,12,3,2,0,11,6,10,2,2,2,1,,,,,,1,"0.23",,,,
+Function,"newspaper.extractors.ContentExtractor.get_first_img_url(self,article_url,top_node)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,10,0,6,2,5,4,2,0,6,2,5,2,2,2,1,,,,,,1,"0.67",,,,
+Function,"newspaper.extractors.ContentExtractor.get_img_urls(self,article_url,doc)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,10,0,8,5,7,2,1,0,6,5,5,1,1,1,1,,,,,,0,"0.25",,,,
+Function,"newspaper.extractors.ContentExtractor.get_meta_content(self,doc,metaName)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,14,0,8,3,7,6,4,1,8,3,7,3,3,4,1,,,,,,1,"0.75",,,,
+Function,"newspaper.extractors.ContentExtractor.get_meta_data(self,doc)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,38,6,30,9,29,2,113,2,29,9,28,10,10,13,6,,,,,,3,"0.07",,,,
+Function,"newspaper.extractors.ContentExtractor.get_meta_description(self,doc)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"newspaper.extractors.ContentExtractor.get_meta_img_url(self,article_url,doc)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,24,4,18,5,17,2,16,1,17,5,16,7,7,10,1,,,,,,1,"0.11",,,,
+Function,"newspaper.extractors.ContentExtractor.get_meta_keywords(self,doc)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"newspaper.extractors.ContentExtractor.get_meta_lang(self,doc)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,24,1,19,6,18,4,12,1,14,6,13,6,6,6,6,,,,,,3,"0.21",,,,
+Function,"newspaper.extractors.ContentExtractor.get_meta_type(self,doc)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"newspaper.extractors.ContentExtractor.get_node_gravity_score(self,node)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,2,0,5,2,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"newspaper.extractors.ContentExtractor.get_publishing_date(self,url,doc)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,51,5,37,9,35,9,9,1,22,9,20,6,6,6,6,,,,,,3,"0.24",,,,
+Function,"newspaper.extractors.ContentExtractor.get_publishing_date.parse_date_str(date_str)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,8,0,6,2,5,2,2,0,6,2,5,2,2,2,1,,,,,,1,"0.33",,,,
+Function,"newspaper.extractors.ContentExtractor.get_score(self,node)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,2,1,,,,,,0,"1.00",,,,
+Function,"newspaper.extractors.ContentExtractor.get_siblings_content(self,current_sibling,baselinescore_siblings_para)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,34,0,32,13,30,2,7,1,23,12,22,7,7,9,3,,,,,,5,"0.06",,,,
+Function,"newspaper.extractors.ContentExtractor.get_siblings_score(self,top_node)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,27,3,16,9,15,8,6,1,15,9,14,4,4,5,1,,,,,,2,"0.50",,,,
+Function,"newspaper.extractors.ContentExtractor.get_title(self,doc)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,44,8,26,5,25,10,65,2,26,5,25,8,8,14,1,,,,,,1,"0.38",,,,
+Function,"newspaper.extractors.ContentExtractor.get_urls(self,doc_or_html,titles,regex)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,21,0,16,2,15,5,4,1,13,2,12,4,4,5,3,,,,,,1,"0.31",,,,
+Function,"newspaper.extractors.ContentExtractor.is_boostable(self,node)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,26,1,18,10,17,7,5,1,17,10,16,5,5,5,5,,,,,,3,"0.39",,,,
+Function,"newspaper.extractors.ContentExtractor.is_highlink_density(self,e)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,24,2,19,13,18,3,5,1,19,13,18,4,4,5,3,,,,,,1,"0.16",,,,
+Function,"newspaper.extractors.ContentExtractor.is_nodescore_threshold_met(self,node,e)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,8,1,7,4,6,0,2,0,7,4,6,2,2,3,1,,,,,,1,"0.00",,,,
+Function,"newspaper.extractors.ContentExtractor.is_table_and_no_para_exist(self,e)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,11,1,10,5,9,0,6,1,10,5,9,4,4,5,1,,,,,,2,"0.00",,,,
+Function,"newspaper.extractors.ContentExtractor.nodes_to_check(self,doc)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,9,0,6,4,5,3,2,0,6,4,5,2,2,2,1,,,,,,1,"0.50",,,,
+Function,"newspaper.extractors.ContentExtractor.post_cleanup(self,top_node)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,11,0,8,4,7,3,4,1,8,4,7,4,4,4,1,,,,,,3,"0.38",,,,
+Function,"newspaper.extractors.ContentExtractor.split_title(self,title,splitter)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,17,2,11,6,10,4,3,0,11,6,10,3,3,3,1,,,,,,2,"0.36",,,,
+Function,"newspaper.extractors.ContentExtractor.update_language(self,meta_lang)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,9,0,5,1,4,4,2,0,4,1,3,2,2,2,1,,,,,,1,"0.80",,,,
+Function,"newspaper.extractors.ContentExtractor.update_node_count(self,node,add_to_count)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,10,1,7,4,6,2,2,0,7,4,6,2,2,2,1,,,,,,1,"0.29",,,,
+Function,"newspaper.extractors.ContentExtractor.update_score(self,node,addToScore)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,12,1,7,4,6,4,2,0,7,4,6,2,2,2,1,,,,,,1,"0.57",,,,
+Function,"newspaper.extractors.ContentExtractor.walk_siblings(self,node)",D:\thesis2\real 106 project\newspaper\newspaper\extractors.py,,,,,,,,,,,,,,,,,,,,,7,0,7,3,6,0,2,0,7,3,6,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"newspaper.images.Scraper",D:\thesis2\real 106 project\newspaper\newspaper\images.py,3,3,4,3,13,0,11,1,0,1,0,0,,,,,5,5,5,5,73,6,59,25,53,8,,,57,24,51,,,,,6,6,7,5,0,4,"0.14",18,18,20,15
+Function,"newspaper.images.Scraper.__init__(self,article)",D:\thesis2\real 106 project\newspaper\newspaper\images.py,,,,,,,,,,,,,,,,,,,,,6,0,6,6,5,0,1,0,6,6,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.images.Scraper.calculate_area(self,img_url,dimension)",D:\thesis2\real 106 project\newspaper\newspaper\images.py,,,,,,,,,,,,,,,,,,,,,23,0,18,4,17,5,6,1,18,4,17,6,6,7,5,,,,,,1,"0.28",,,,
+Function,"newspaper.images.Scraper.largest_image_url(self)",D:\thesis2\real 106 project\newspaper\newspaper\images.py,,,,,,,,,,,,,,,,,,,,,18,1,16,6,15,1,5,1,15,6,14,5,5,6,3,,,,,,2,"0.06",,,,
+Function,"newspaper.images.Scraper.satisfies_requirements(self,img_url)",D:\thesis2\real 106 project\newspaper\newspaper\images.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.images.Scraper.thumbnail(self)",D:\thesis2\real 106 project\newspaper\newspaper\images.py,,,,,,,,,,,,,,,,,,,,,15,0,13,5,12,2,5,1,13,4,12,5,5,5,5,,,,,,4,"0.15",,,,
+Function,"newspaper.images.clean_url(url)",D:\thesis2\real 106 project\newspaper\newspaper\images.py,,,,,,,,,,,,,,,,,,,,,7,0,5,1,4,2,1,0,4,1,3,2,2,2,1,,,,,,0,"0.40",,,,
+Function,"newspaper.images.fetch_image_dimension(url,useragent,referer,retries)",D:\thesis2\real 106 project\newspaper\newspaper\images.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.images.fetch_url(url,useragent,referer,retries,dimension)",D:\thesis2\real 106 project\newspaper\newspaper\images.py,,,,,,,,,,,,,,,,,,,,,79,8,65,12,64,6,113,2,57,11,56,20,20,22,16,,,,,,6,"0.09",,,,
+Function,"newspaper.images.image_entropy(img)",D:\thesis2\real 106 project\newspaper\newspaper\images.py,,,,,,,,,,,,,,,,,,,,,7,0,5,3,4,2,1,0,5,3,4,1,1,1,1,,,,,,0,"0.40",,,,
+Function,"newspaper.images.image_to_str(image)",D:\thesis2\real 106 project\newspaper\newspaper\images.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.images.prepare_image(image)",D:\thesis2\real 106 project\newspaper\newspaper\images.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,4,1,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.images.square_image(img)",D:\thesis2\real 106 project\newspaper\newspaper\images.py,,,,,,,,,,,,,,,,,,,,,17,0,12,5,11,5,3,0,11,5,10,3,3,3,1,,,,,,2,"0.42",,,,
+Function,"newspaper.images.str_to_image(s)",D:\thesis2\real 106 project\newspaper\newspaper\images.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"newspaper.mthreading.NewsPool",D:\thesis2\real 106 project\newspaper\newspaper\mthreading.py,1,1,1,1,16,2,5,8,1,1,1,0,,,,,3,2,3,3,52,9,18,8,14,25,,,17,8,13,,,,,2,2,2,1,1,1,"1.39",5,5,5,3
+Function,"newspaper.mthreading.NewsPool.__init__(self)",D:\thesis2\real 106 project\newspaper\newspaper\mthreading.py,,,,,,,,,,,,,,,,,,,,,26,5,3,3,2,18,1,0,3,3,2,1,1,1,1,,,,,,0,"6.00",,,,
+Function,"newspaper.mthreading.NewsPool.join(self)",D:\thesis2\real 106 project\newspaper\newspaper\mthreading.py,,,,,,,,,,,,,,,,,,,,,12,0,8,1,7,4,2,0,7,1,6,2,2,2,1,,,,,,1,"0.50",,,,
+Function,"newspaper.mthreading.NewsPool.set(self,paper_list,threads_per_source)",D:\thesis2\real 106 project\newspaper\newspaper\mthreading.py,,,,,,,,,,,,,,,,,,,,,10,1,6,3,5,3,2,0,6,3,5,2,2,2,1,,,,,,1,"0.50",,,,
+Class,"newspaper.mthreading.ThreadPool",D:\thesis2\real 106 project\newspaper\newspaper\mthreading.py,1,1,1,1,4,0,2,2,0,1,1,0,,,,,4,1,4,4,25,3,11,7,6,11,,,11,7,6,,,,,2,2,2,1,0,1,"1.00",5,5,5,4
+Function,"newspaper.mthreading.ThreadPool.__init__(self,num_threads)",D:\thesis2\real 106 project\newspaper\newspaper\mthreading.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,2,0,4,3,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"newspaper.mthreading.ThreadPool.add_task(self,func,args,kargs)",D:\thesis2\real 106 project\newspaper\newspaper\mthreading.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"newspaper.mthreading.ThreadPool.clear_threads(self)",D:\thesis2\real 106 project\newspaper\newspaper\mthreading.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"newspaper.mthreading.ThreadPool.wait_completion(self)",D:\thesis2\real 106 project\newspaper\newspaper\mthreading.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Class,"newspaper.mthreading.Worker",D:\thesis2\real 106 project\newspaper\newspaper\mthreading.py,2,2,2,2,9,0,8,0,1,1,0,0,,,,,2,2,2,2,23,2,18,6,15,3,,,18,6,15,,,,,4,4,4,3,1,2,"0.17",5,5,5,4
+Function,"newspaper.mthreading.Worker.__init__(self,tasks)",D:\thesis2\real 106 project\newspaper\newspaper\mthreading.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,1,0,5,3,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.mthreading.Worker.run(self)",D:\thesis2\real 106 project\newspaper\newspaper\mthreading.py,,,,,,,,,,,,,,,,,,,,,13,1,12,2,11,0,5,1,12,2,11,4,4,4,3,,,,,,2,"0.00",,,,
+Class,"newspaper.network.MRequest",D:\thesis2\real 106 project\newspaper\newspaper\network.py,1,1,2,1,6,0,6,0,1,3,1,0,,,,,2,4,2,2,20,1,14,8,11,5,,,13,7,10,,,,,2,2,2,1,1,1,"0.36",3,3,4,2
+Function,"newspaper.network.MRequest.__init__(self,url,config)",D:\thesis2\real 106 project\newspaper\newspaper\network.py,,,,,,,,,,,,,,,,,,,,,6,0,6,5,5,0,1,0,6,5,5,1,1,2,1,,,,,,0,"0.00",,,,
+Function,"newspaper.network.MRequest.send(self)",D:\thesis2\real 106 project\newspaper\newspaper\network.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,2,0,6,1,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"newspaper.network.get_html(url,config,response)",D:\thesis2\real 106 project\newspaper\newspaper\network.py,,,,,,,,,,,,,,,,,,,,,32,2,23,6,22,7,7,1,21,5,20,6,6,7,4,,,,,,2,"0.30",,,,
+Function,"newspaper.network.get_request_kwargs(timeout,useragent)",D:\thesis2\real 106 project\newspaper\newspaper\network.py,,,,,,,,,,,,,,,,,,,,,10,0,7,1,6,3,1,0,2,1,1,1,1,1,1,,,,,,0,"0.43",,,,
+Function,"newspaper.network.multithread_request(urls,config)",D:\thesis2\real 106 project\newspaper\newspaper\network.py,,,,,,,,,,,,,,,,,,,,,18,4,11,6,10,3,4,1,11,6,10,3,3,4,1,,,,,,1,"0.27",,,,
+Function,"newspaper.nlp.dbs(words,keywords)",D:\thesis2\real 106 project\newspaper\newspaper\nlp.py,,,,,,,,,,,,,,,,,,,,,20,1,18,8,17,1,5,1,17,8,16,5,5,5,1,,,,,,3,"0.06",,,,
+Function,"newspaper.nlp.keywords(text)",D:\thesis2\real 106 project\newspaper\newspaper\nlp.py,,,,,,,,,,,,,,,,,,,,,32,2,24,9,23,6,7,1,20,9,19,5,5,5,1,,,,,,3,"0.25",,,,
+Function,"newspaper.nlp.length_score(sentence_len)",D:\thesis2\real 106 project\newspaper\newspaper\nlp.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.nlp.sbs(words,keywords)",D:\thesis2\real 106 project\newspaper\newspaper\nlp.py,,,,,,,,,,,,,,,,,,,,,8,0,8,3,7,0,4,1,8,3,7,4,4,4,1,,,,,,2,"0.00",,,,
+Function,"newspaper.nlp.score(sentences,titleWords,keywords)",D:\thesis2\real 106 project\newspaper\newspaper\nlp.py,,,,,,,,,,,,,,,,,,,,,18,0,15,12,14,3,2,0,14,12,13,2,2,2,1,,,,,,1,"0.20",,,,
+Function,"newspaper.nlp.sentence_position(i,size)",D:\thesis2\real 106 project\newspaper\newspaper\nlp.py,,,,,,,,,,,,,,,,,,,,,29,0,26,2,25,3,12,1,15,2,14,12,12,12,12,,,,,,1,"0.12",,,,
+Function,"newspaper.nlp.split_sentences(text)",D:\thesis2\real 106 project\newspaper\newspaper\nlp.py,,,,,,,,,,,,,,,,,,,,,9,1,6,4,4,2,1,0,6,4,4,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"newspaper.nlp.split_words(text)",D:\thesis2\real 106 project\newspaper\newspaper\nlp.py,,,,,,,,,,,,,,,,,,,,,8,0,6,1,5,3,2,0,6,1,5,2,2,2,1,,,,,,1,"0.50",,,,
+Function,"newspaper.nlp.summarize(url,title,text)",D:\thesis2\real 106 project\newspaper\newspaper\nlp.py,,,,,,,,,,,,,,,,,,,,,14,2,11,7,10,1,3,0,11,7,10,3,3,4,1,,,,,,1,"0.09",,,,
+Function,"newspaper.nlp.title_score(title,sentence)",D:\thesis2\real 106 project\newspaper\newspaper\nlp.py,,,,,,,,,,,,,,,,,,,,,10,0,10,3,9,0,4,1,9,3,8,4,4,5,1,,,,,,3,"0.00",,,,
+Class,"newspaper.outputformatters.OutputFormatter",D:\thesis2\real 106 project\newspaper\newspaper\outputformatters.py,2,2,2,1,10,0,7,2,1,2,0,0,,,,,13,5,13,13,144,19,95,44,80,30,,,86,44,71,,,,,4,4,7,1,1,3,"0.32",31,31,35,14
+Function,"newspaper.outputformatters.OutputFormatter.__init__(self,config)",D:\thesis2\real 106 project\newspaper\newspaper\outputformatters.py,,,,,,,,,,,,,,,,,,,,,6,0,6,6,5,0,1,0,6,6,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.outputformatters.OutputFormatter.add_newline_to_br(self)",D:\thesis2\real 106 project\newspaper\newspaper\outputformatters.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"newspaper.outputformatters.OutputFormatter.add_newline_to_li(self)",D:\thesis2\real 106 project\newspaper\newspaper\outputformatters.py,,,,,,,,,,,,,,,,,,,,,7,0,7,5,6,0,4,1,7,5,6,4,4,4,1,,,,,,3,"0.00",,,,
+Function,"newspaper.outputformatters.OutputFormatter.convert_to_html(self)",D:\thesis2\real 106 project\newspaper\newspaper\outputformatters.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.outputformatters.OutputFormatter.convert_to_text(self)",D:\thesis2\real 106 project\newspaper\newspaper\outputformatters.py,,,,,,,,,,,,,,,,,,,,,10,0,10,5,9,0,3,0,10,5,9,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"newspaper.outputformatters.OutputFormatter.get_formatted(self,top_node)",D:\thesis2\real 106 project\newspaper\newspaper\outputformatters.py,,,,,,,,,,,,,,,,,,,,,21,3,14,2,13,4,2,0,14,2,13,2,2,2,1,,,,,,1,"0.29",,,,
+Function,"newspaper.outputformatters.OutputFormatter.get_top_node(self)",D:\thesis2\real 106 project\newspaper\newspaper\outputformatters.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.outputformatters.OutputFormatter.links_to_text(self)",D:\thesis2\real 106 project\newspaper\newspaper\outputformatters.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"newspaper.outputformatters.OutputFormatter.remove_empty_tags(self)",D:\thesis2\real 106 project\newspaper\newspaper\outputformatters.py,,,,,,,,,,,,,,,,,,,,,17,0,14,5,13,3,3,0,8,5,7,3,3,7,1,,,,,,2,"0.21",,,,
+Function,"newspaper.outputformatters.OutputFormatter.remove_negativescores_nodes(self)",D:\thesis2\real 106 project\newspaper\newspaper\outputformatters.py,,,,,,,,,,,,,,,,,,,,,11,0,8,4,7,3,3,0,7,4,6,3,3,3,1,,,,,,2,"0.38",,,,
+Function,"newspaper.outputformatters.OutputFormatter.remove_trailing_media_div(self)",D:\thesis2\real 106 project\newspaper\newspaper\outputformatters.py,,,,,,,,,,,,,,,,,,,,,27,3,17,8,15,7,3,0,17,8,15,3,3,3,1,,,,,,1,"0.41",,,,
+Function,"newspaper.outputformatters.OutputFormatter.remove_trailing_media_div.get_depth(node,depth)",D:\thesis2\real 106 project\newspaper\newspaper\outputformatters.py,,,,,,,,,,,,,,,,,,,,,13,0,10,5,9,3,4,1,10,5,9,4,4,4,1,,,,,,2,"0.30",,,,
+Function,"newspaper.outputformatters.OutputFormatter.replace_with_text(self)",D:\thesis2\real 106 project\newspaper\newspaper\outputformatters.py,,,,,,,,,,,,,,,,,,,,,9,0,3,1,2,6,1,0,2,1,1,1,1,1,1,,,,,,0,"2.00",,,,
+Function,"newspaper.outputformatters.OutputFormatter.update_language(self,meta_lang)",D:\thesis2\real 106 project\newspaper\newspaper\outputformatters.py,,,,,,,,,,,,,,,,,,,,,9,0,5,1,4,4,2,0,4,1,3,2,2,2,1,,,,,,1,"0.80",,,,
+Class,"newspaper.parsers.Parser",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,2,2,2,1,5,0,5,0,1,4,0,0,,,,,0,0,31,31,245,31,198,92,134,16,,,158,60,126,,,,,6,6,7,4,1,4,"0.08",64,64,69,40
+Function,"newspaper.parsers.Parser.appendChild(cls,node,child)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.parsers.Parser.childNodes(cls,node)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.parsers.Parser.childNodesWithText(cls,node)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,21,0,16,5,15,5,10,1,16,5,15,5,5,5,3,,,,,,2,"0.31",,,,
+Function,"newspaper.parsers.Parser.clean_article_html(cls,node)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,11,0,11,2,10,0,1,0,7,2,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.parsers.Parser.createElement(cls,tag,text,tail)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,1,0,6,2,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.parsers.Parser.css_select(cls,node,selector)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.parsers.Parser.delAttribute(cls,node,attr)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,3,0,5,2,4,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"newspaper.parsers.Parser.drop_tag(cls,nodes)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,3,0,5,2,4,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"newspaper.parsers.Parser.fromstring(cls,html)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,13,0,10,1,9,3,3,0,10,1,9,3,3,3,1,,,,,,2,"0.30",,,,
+Function,"newspaper.parsers.Parser.getAttribute(cls,node,attr)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"newspaper.parsers.Parser.getChildren(cls,node)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.parsers.Parser.getComments(cls,node)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.parsers.Parser.getElementById(cls,node,idd)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,2,0,6,3,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"newspaper.parsers.Parser.getElementsByTag(cls,node,tag,attr,value,childs)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,13,0,10,5,8,3,4,1,9,4,8,3,3,7,1,,,,,,1,"0.30",,,,
+Function,"newspaper.parsers.Parser.getElementsByTags(cls,node,tags)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,8,0,6,3,5,2,2,0,6,3,5,2,2,2,1,,,,,,1,"0.33",,,,
+Function,"newspaper.parsers.Parser.getParent(cls,node)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.parsers.Parser.getTag(cls,node)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.parsers.Parser.getText(cls,node)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.parsers.Parser.get_unicode_html(cls,html)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,12,0,12,2,11,0,4,1,10,2,9,4,4,4,4,,,,,,1,"0.00",,,,
+Function,"newspaper.parsers.Parser.isTextNode(cls,node)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,2,2,2,1,,,,,,0,"0.00",,,,
+Function,"newspaper.parsers.Parser.nextSibling(cls,node)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,7,0,7,3,6,0,3,0,7,3,6,4,4,4,3,,,,,,2,"0.00",,,,
+Function,"newspaper.parsers.Parser.nodeToString(cls,node)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"newspaper.parsers.Parser.outerHtml(cls,node)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,2,0,6,2,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"newspaper.parsers.Parser.previousSibling(cls,node)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,7,0,7,3,6,0,3,0,7,3,6,4,4,4,3,,,,,,2,"0.00",,,,
+Function,"newspaper.parsers.Parser.previousSiblings(cls,node)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,2,0,5,3,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"newspaper.parsers.Parser.remove(cls,node)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,15,0,15,3,14,0,6,1,14,3,13,6,6,6,1,,,,,,4,"0.00",,,,
+Function,"newspaper.parsers.Parser.replaceTag(cls,node,tag)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.parsers.Parser.setAttribute(cls,node,attr,value)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,2,0,3,1,2,2,2,3,1,,,,,,1,"0.00",,,,
+Function,"newspaper.parsers.Parser.stripTags(cls,node,tags)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.parsers.Parser.textToPara(cls,text)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.parsers.Parser.xpath_re(cls,node,expression)",D:\thesis2\real 106 project\newspaper\newspaper\parsers.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"newspaper.source.Category",D:\thesis2\real 106 project\newspaper\newspaper\source.py,1,1,1,1,4,0,4,0,1,0,0,0,,,,,1,3,1,1,6,1,5,5,3,0,,,5,5,3,,,,,1,1,1,1,1,0,"0.00",1,1,1,1
+Function,"newspaper.source.Category.__init__(self,url)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,4,0,4,4,3,0,1,0,4,4,3,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"newspaper.source.Feed",D:\thesis2\real 106 project\newspaper\newspaper\source.py,1,1,1,1,3,0,3,0,1,0,0,0,,,,,1,2,1,1,5,1,4,4,2,0,,,4,4,2,,,,,1,1,1,1,1,0,"0.00",1,1,1,1
+Function,"newspaper.source.Feed.__init__(self,url)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,3,0,3,3,2,0,1,0,3,3,2,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"newspaper.source.Source",D:\thesis2\real 106 project\newspaper\newspaper\source.py,2,2,2,1,12,1,8,2,1,8,5,0,,,,,27,16,27,27,371,60,227,94,198,86,,,202,92,174,,,,,9,9,9,1,1,3,"0.38",60,60,63,27
+Function,"newspaper.source.Source.__init__(self,url,config,kwargs)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,32,8,21,17,20,3,2,0,21,17,20,2,2,5,1,,,,,,1,"0.14",,,,
+Function,"newspaper.source.Source._generate_articles(self)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,9,1,6,5,5,2,1,0,6,5,5,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"newspaper.source.Source._get_category_urls(self,domain)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,6,0,2,1,1,4,1,0,2,1,1,1,1,1,1,,,,,,0,"2.00",,,,
+Function,"newspaper.source.Source.article_urls(self)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"newspaper.source.Source.build(self,response)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,16,3,9,1,8,6,1,0,9,1,8,1,1,1,1,,,,,,0,"0.67",,,,
+Function,"newspaper.source.Source.categories_to_articles(self)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,37,6,28,12,27,3,9,1,21,12,20,5,5,5,1,,,,,,2,"0.11",,,,
+Function,"newspaper.source.Source.category_urls(self)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"newspaper.source.Source.clean_memo_cache(self)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"newspaper.source.Source.clear_anchor_directory(self)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"newspaper.source.Source.download(self)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"newspaper.source.Source.download_articles(self,threads)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,33,2,27,8,26,4,27,1,24,8,23,9,9,9,1,,,,,,3,"0.15",,,,
+Function,"newspaper.source.Source.download_categories(self)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,16,1,13,5,12,2,4,1,10,5,9,4,4,4,1,,,,,,3,"0.15",,,,
+Function,"newspaper.source.Source.download_feeds(self)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,16,1,13,5,12,2,4,1,10,5,9,4,4,4,1,,,,,,3,"0.15",,,,
+Function,"newspaper.source.Source.feed_urls(self)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"newspaper.source.Source.feeds_to_articles(self)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,31,5,24,10,23,2,9,1,19,10,18,5,5,5,1,,,,,,2,"0.08",,,,
+Function,"newspaper.source.Source.generate_articles(self,limit)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,7,0,5,2,4,2,1,0,4,2,3,1,1,1,1,,,,,,0,"0.40",,,,
+Function,"newspaper.source.Source.get_key(self)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"newspaper.source.Source.parse(self)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,10,0,6,1,5,4,2,0,6,1,5,2,2,2,1,,,,,,1,"0.67",,,,
+Function,"newspaper.source.Source.parse_articles(self)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,8,1,5,2,4,2,2,0,5,2,4,2,2,2,1,,,,,,1,"0.40",,,,
+Function,"newspaper.source.Source.parse_categories(self)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,10,1,7,3,6,2,2,0,6,3,5,2,2,2,1,,,,,,1,"0.29",,,,
+Function,"newspaper.source.Source.parse_feeds(self)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,15,1,9,3,8,5,4,1,9,2,8,4,4,4,1,,,,,,3,"0.56",,,,
+Function,"newspaper.source.Source.print_summary(self)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,22,3,17,2,16,2,2,0,17,2,16,2,2,2,1,,,,,,1,"0.12",,,,
+Function,"newspaper.source.Source.purge_articles(self,reason,articles)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,14,1,6,1,5,7,3,0,5,1,4,3,3,3,1,,,,,,1,"1.17",,,,
+Function,"newspaper.source.Source.set_categories(self)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.source.Source.set_description(self)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,6,0,3,2,2,3,1,0,3,2,2,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"newspaper.source.Source.set_feeds(self)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,6,0,3,2,2,3,1,0,3,2,2,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"newspaper.source.Source.size(self)",D:\thesis2\real 106 project\newspaper\newspaper\source.py,,,,,,,,,,,,,,,,,,,,,6,0,4,1,3,2,2,0,4,1,3,2,2,2,1,,,,,,1,"0.50",,,,
+Class,"newspaper.text.StopWords",D:\thesis2\real 106 project\newspaper\newspaper\text.py,2,2,2,1,8,0,7,0,1,4,2,3,,,,,4,1,4,4,45,7,36,19,31,2,,,34,19,29,,,,,4,4,4,1,1,2,"0.06",9,9,9,4
+Function,"newspaper.text.StopWords.__init__(self,language)",D:\thesis2\real 106 project\newspaper\newspaper\text.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,2,0,5,3,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"newspaper.text.StopWords.candidate_words(self,stripped_input)",D:\thesis2\real 106 project\newspaper\newspaper\text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.text.StopWords.get_stopword_count(self,content)",D:\thesis2\real 106 project\newspaper\newspaper\text.py,,,,,,,,,,,,,,,,,,,,,17,1,16,7,15,0,4,1,16,7,15,4,4,4,1,,,,,,2,"0.00",,,,
+Function,"newspaper.text.StopWords.remove_punctuation(self,content)",D:\thesis2\real 106 project\newspaper\newspaper\text.py,,,,,,,,,,,,,,,,,,,,,10,1,7,4,6,2,2,0,7,4,6,2,2,2,1,,,,,,1,"0.29",,,,
+Class,"newspaper.text.StopWordsArabic",D:\thesis2\real 106 project\newspaper\newspaper\text.py,1,1,1,1,4,0,3,0,1,1,0,0,,,,,3,0,3,7,17,2,12,8,7,3,,,12,8,7,,,,,2,2,2,1,2,1,"0.25",4,4,4,3
+Function,"newspaper.text.StopWordsArabic.__init__(self,language)",D:\thesis2\real 106 project\newspaper\newspaper\text.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"newspaper.text.StopWordsArabic.candidate_words(self,stripped_input)",D:\thesis2\real 106 project\newspaper\newspaper\text.py,,,,,,,,,,,,,,,,,,,,,7,0,7,5,5,0,2,0,7,5,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"newspaper.text.StopWordsArabic.remove_punctuation(self,content)",D:\thesis2\real 106 project\newspaper\newspaper\text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"newspaper.text.StopWordsChinese",D:\thesis2\real 106 project\newspaper\newspaper\text.py,1,1,1,1,3,0,2,1,1,1,0,0,,,,,2,0,2,6,11,1,6,4,2,4,,,6,4,2,,,,,1,1,1,1,2,0,"0.67",2,2,2,2
+Function,"newspaper.text.StopWordsChinese.__init__(self,language)",D:\thesis2\real 106 project\newspaper\newspaper\text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.text.StopWordsChinese.candidate_words(self,stripped_input)",D:\thesis2\real 106 project\newspaper\newspaper\text.py,,,,,,,,,,,,,,,,,,,,,5,0,3,2,1,2,1,0,3,2,1,1,1,1,1,,,,,,0,"0.67",,,,
+Class,"newspaper.text.StopWordsKorean",D:\thesis2\real 106 project\newspaper\newspaper\text.py,2,2,2,1,9,0,9,0,1,2,1,0,,,,,2,0,2,6,23,2,19,10,16,2,,,19,10,16,,,,,4,4,4,1,2,2,"0.11",5,5,5,2
+Function,"newspaper.text.StopWordsKorean.__init__(self,language)",D:\thesis2\real 106 project\newspaper\newspaper\text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.text.StopWordsKorean.get_stopword_count(self,content)",D:\thesis2\real 106 project\newspaper\newspaper\text.py,,,,,,,,,,,,,,,,,,,,,17,1,16,8,15,0,4,1,16,8,15,4,4,4,1,,,,,,2,"0.00",,,,
+Class,"newspaper.text.WordStats",D:\thesis2\real 106 project\newspaper\newspaper\text.py,1,1,1,1,3,0,2,0,1,0,0,0,,,,,7,3,7,7,29,9,17,11,9,3,,,17,11,9,,,,,1,1,1,1,1,0,"0.18",7,7,7,7
+Function,"newspaper.text.WordStats.__init__(self)",D:\thesis2\real 106 project\newspaper\newspaper\text.py,,,,,,,,,,,,,,,,,,,,,9,2,4,4,3,3,1,0,4,4,3,1,1,1,1,,,,,,0,"0.75",,,,
+Function,"newspaper.text.WordStats.get_stop_words(self)",D:\thesis2\real 106 project\newspaper\newspaper\text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.text.WordStats.get_stopword_count(self)",D:\thesis2\real 106 project\newspaper\newspaper\text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.text.WordStats.get_word_count(self)",D:\thesis2\real 106 project\newspaper\newspaper\text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.text.WordStats.set_stop_words(self,words)",D:\thesis2\real 106 project\newspaper\newspaper\text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.text.WordStats.set_stopword_count(self,wordcount)",D:\thesis2\real 106 project\newspaper\newspaper\text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.text.WordStats.set_word_count(self,cnt)",D:\thesis2\real 106 project\newspaper\newspaper\text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.text.innerTrim(value)",D:\thesis2\real 106 project\newspaper\newspaper\text.py,,,,,,,,,,,,,,,,,,,,,7,0,6,1,5,1,2,0,6,1,5,2,2,2,1,,,,,,1,"0.17",,,,
+Function,"newspaper.urls.get_domain(abs_url,kwargs)",D:\thesis2\real 106 project\newspaper\newspaper\urls.py,,,,,,,,,,,,,,,,,,,,,8,0,4,1,3,4,2,0,4,1,3,2,2,2,1,,,,,,1,"1.00",,,,
+Function,"newspaper.urls.get_path(abs_url,kwargs)",D:\thesis2\real 106 project\newspaper\newspaper\urls.py,,,,,,,,,,,,,,,,,,,,,6,0,4,1,3,2,2,0,4,1,3,2,2,2,1,,,,,,1,"0.50",,,,
+Function,"newspaper.urls.get_scheme(abs_url,kwargs)",D:\thesis2\real 106 project\newspaper\newspaper\urls.py,,,,,,,,,,,,,,,,,,,,,6,0,4,1,3,2,2,0,4,1,3,2,2,2,1,,,,,,1,"0.50",,,,
+Function,"newspaper.urls.is_abs_url(url)",D:\thesis2\real 106 project\newspaper\newspaper\urls.py,,,,,,,,,,,,,,,,,,,,,15,1,11,3,10,9,1,0,4,3,3,1,1,1,1,,,,,,0,"0.82",,,,
+Function,"newspaper.urls.prepare_url(url,source_url)",D:\thesis2\real 106 project\newspaper\newspaper\urls.py,,,,,,,,,,,,,,,,,,,,,19,1,12,4,11,6,3,0,11,3,10,3,3,3,1,,,,,,2,"0.50",,,,
+Function,"newspaper.urls.redirect_back(url,source_domain)",D:\thesis2\real 106 project\newspaper\newspaper\urls.py,,,,,,,,,,,,,,,,,,,,,21,3,10,5,9,8,3,0,10,5,9,3,3,4,3,,,,,,1,"0.80",,,,
+Function,"newspaper.urls.remove_args(url,keep_params,frags)",D:\thesis2\real 106 project\newspaper\newspaper\urls.py,,,,,,,,,,,,,,,,,,,,,15,1,11,4,10,3,2,0,7,4,6,2,2,2,1,,,,,,1,"0.27",,,,
+Function,"newspaper.urls.url_to_filetype(abs_url)",D:\thesis2\real 106 project\newspaper\newspaper\urls.py,,,,,,,,,,,,,,,,,,,,,15,0,8,5,7,8,2,0,8,5,7,3,3,4,1,,,,,,1,"1.00",,,,
+Function,"newspaper.urls.valid_url(url,verbose,test)",D:\thesis2\real 106 project\newspaper\newspaper\urls.py,,,,,,,,,,,,,,,,,,,,,138,32,65,15,64,42,5154,4,75,15,74,35,35,42,18,,,,,,4,"0.65",,,,
+Class,"newspaper.utils.FileHelper",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,3,3,3,1,13,0,13,0,1,1,0,0,,,,,0,0,1,1,15,0,15,7,12,0,,,13,6,11,,,,,3,3,3,1,1,1,"0.00",3,3,3,1
+Function,"newspaper.utils.FileHelper.loadResourceFile(self,filename)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,13,0,13,5,12,0,4,1,12,5,11,3,3,3,1,,,,,,1,"0.00",,,,
+Class,"newspaper.utils.ParsingCandidate",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,1,1,1,1,3,0,3,0,1,0,0,0,,,,,1,3,1,1,5,1,4,4,2,0,,,4,4,2,,,,,1,1,1,1,1,0,"0.00",1,1,1,1
+Function,"newspaper.utils.ParsingCandidate.__init__(self,urlString,link_hash)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,3,0,3,3,2,0,1,0,3,3,2,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"newspaper.utils.RawHelper",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,2,2,2,1,5,0,5,0,1,2,1,0,,,,,0,0,1,1,7,0,7,4,4,0,,,6,3,4,,,,,2,2,2,1,1,1,"0.00",2,2,2,1
+Function,"newspaper.utils.RawHelper.get_parsing_candidate(self,url,raw_html)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,2,0,5,2,4,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"newspaper.utils.ReplaceSequence",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,1,1,1,1,4,0,3,0,1,1,1,0,,,,,4,1,4,4,20,4,16,9,11,0,,,16,9,11,,,,,3,3,3,1,1,1,"0.00",6,6,7,4
+Function,"newspaper.utils.ReplaceSequence.__init__(self)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.utils.ReplaceSequence.append(self,pattern,replaceWith)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.utils.ReplaceSequence.create(self,firstPattern,replaceWith)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,2,1,,,,,,0,"0.00",,,,
+Function,"newspaper.utils.ReplaceSequence.replaceAll(self,string)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,8,1,7,3,6,0,3,0,7,3,6,3,3,3,1,,,,,,1,"0.00",,,,
+Class,"newspaper.utils.StringReplacement",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,1,1,1,1,3,0,3,0,1,0,0,0,,,,,2,2,2,2,9,1,8,5,5,0,,,8,5,5,,,,,2,2,2,1,1,1,"0.00",3,3,3,2
+Function,"newspaper.utils.StringReplacement.__init__(self,pattern,replaceWith)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,3,0,3,3,2,0,1,0,3,3,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.utils.StringReplacement.replaceAll(self,string)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"newspaper.utils.StringSplitter",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,1,1,1,1,3,0,3,0,1,0,0,0,,,,,2,1,2,2,8,1,7,4,4,0,,,7,4,4,,,,,2,2,2,1,1,1,"0.00",3,3,3,2
+Function,"newspaper.utils.StringSplitter.__init__(self,pattern)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.utils.StringSplitter.split(self,string)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"newspaper.utils.TimeoutError",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,12,2,0,2,1,1,0,,,2,1,1,,,,,0,0,0,0,3,0,"0.00",0,0,0,0
+Class,"newspaper.utils.URLHelper",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,2,2,2,1,6,0,5,3,1,1,1,0,,,,,0,0,1,1,8,0,7,5,4,3,,,5,4,3,,,,,2,2,2,1,1,0,"0.43",2,2,2,1
+Function,"newspaper.utils.URLHelper.get_parsing_candidate(self,url_to_crawl)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,6,0,5,3,4,3,1,0,4,3,3,2,2,2,1,,,,,,0,"0.60",,,,
+Function,"newspaper.utils.cache_disk(seconds,cache_folder)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,27,2,16,8,13,9,1,0,15,8,12,1,1,1,1,,,,,,0,"0.56",,,,
+Function,"newspaper.utils.cache_disk.do_cache(function)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,23,2,14,7,12,7,1,0,13,7,11,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"newspaper.utils.cache_disk.do_cache.inner_function(args,kwargs)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,21,2,12,6,11,7,3,0,11,6,10,3,3,3,3,,,,,,2,"0.58",,,,
+Function,"newspaper.utils.chunks(l,n)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,7,0,5,3,4,2,2,0,5,3,4,2,2,2,1,,,,,,1,"0.40",,,,
+Function,"newspaper.utils.clear_memo_cache(source)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,8,0,6,2,5,2,2,0,5,2,4,2,2,2,1,,,,,,1,"0.33",,,,
+Function,"newspaper.utils.domain_to_filename(domain)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,9,0,6,2,5,3,2,0,6,2,5,2,2,2,1,,,,,,1,"0.50",,,,
+Function,"newspaper.utils.extend_config(config,config_items)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,11,1,5,2,4,5,3,0,5,2,4,3,3,3,1,,,,,,2,"1.00",,,,
+Function,"newspaper.utils.filename_to_domain(filename)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"newspaper.utils.get_available_languages()",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,8,0,6,4,5,2,2,0,6,4,5,2,2,2,1,,,,,,1,"0.33",,,,
+Function,"newspaper.utils.get_useragent()",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,8,0,6,5,5,2,1,0,6,4,5,1,1,1,1,,,,,,1,"0.33",,,,
+Function,"newspaper.utils.is_ascii(word)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,12,0,10,3,8,2,3,0,9,3,7,3,3,3,3,,,,,,2,"0.20",,,,
+Function,"newspaper.utils.is_ascii.onlyascii(char)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"newspaper.utils.memoize_articles(source,articles)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,48,8,30,11,29,10,9,1,27,11,26,6,6,6,1,,,,,,3,"0.33",,,,
+Function,"newspaper.utils.print_available_languages()",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,31,1,28,4,27,2,2,0,8,4,7,2,2,2,1,,,,,,1,"0.07",,,,
+Function,"newspaper.utils.print_duration(method)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,10,0,8,5,6,2,1,0,8,5,6,1,1,1,1,,,,,,0,"0.25",,,,
+Function,"newspaper.utils.print_duration.timed(args,kw)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,6,0,6,4,5,0,1,0,6,4,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.utils.purge(fn,pattern)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,6,0,4,2,3,2,3,0,4,2,3,3,3,3,1,,,,,,2,"0.50",,,,
+Function,"newspaper.utils.timelimit(timeout)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,28,2,24,9,18,2,1,0,24,9,18,1,1,1,1,,,,,,0,"0.08",,,,
+Function,"newspaper.utils.timelimit._1(function)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,24,2,22,8,17,0,1,0,22,8,17,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.utils.timelimit._1._2(args,kw)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,22,2,20,7,16,0,4,1,20,7,16,3,3,3,3,,,,,,1,"0.00",,,,
+Class,"newspaper.utils.timelimit._1._2.Dispatch",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,1,1,1,1,6,0,5,0,1,0,0,0,,,,,2,2,2,2,14,2,12,5,9,0,,,12,5,9,,,,,2,2,2,1,1,1,"0.00",3,3,3,2
+Function,"newspaper.utils.timelimit._1._2.Dispatch.__init__(self)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,7,1,6,3,5,0,1,0,6,3,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.utils.timelimit._1._2.Dispatch.run(self)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,5,1,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"newspaper.utils.to_valid_filename(s)",D:\thesis2\real 106 project\newspaper\newspaper\utils.py,,,,,,,,,,,,,,,,,,,,,6,0,3,2,2,3,1,0,3,2,2,1,1,1,1,,,,,,0,"1.00",,,,
+Package,"newspaper.videos",,1,1,1,1,6,0,5,1,,,,,1,,1,13,,,,,115,20,75,35,60,20,,,71,35,56,,,,,4,4,5,4,,3,,25,25,27,21
+Package,"newspaper.videos",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,1,1,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"newspaper.videos",,1,1,1,1,14,0,7,7,,,,,1,,1,1,,,,,20,2,8,8,6,10,,,8,8,6,,,,,1,1,1,1,,0,,1,1,1,1
+Class,"newspaper.videos.extractors.VideoExtractor",D:\thesis2\real 106 project\newspaper\newspaper\videos\extractors.py,1,1,2,1,7,0,5,1,1,2,1,0,,,,,13,5,13,13,106,17,72,32,58,17,,,68,32,54,,,,,4,4,5,4,1,3,"0.24",24,24,26,20
+Function,"newspaper.videos.extractors.VideoExtractor.__init__(self,config,top_node)",D:\thesis2\real 106 project\newspaper\newspaper\videos\extractors.py,,,,,,,,,,,,,,,,,,,,,6,0,6,6,5,0,1,0,6,6,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.videos.extractors.VideoExtractor.get_embed_code(self,node)",D:\thesis2\real 106 project\newspaper\newspaper\videos\extractors.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.videos.extractors.VideoExtractor.get_embed_tag(self,node)",D:\thesis2\real 106 project\newspaper\newspaper\videos\extractors.py,,,,,,,,,,,,,,,,,,,,,10,0,7,3,6,3,3,0,7,3,6,3,3,3,3,,,,,,2,"0.43",,,,
+Function,"newspaper.videos.extractors.VideoExtractor.get_embed_type(self,node)",D:\thesis2\real 106 project\newspaper\newspaper\videos\extractors.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.videos.extractors.VideoExtractor.get_height(self,node)",D:\thesis2\real 106 project\newspaper\newspaper\videos\extractors.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.videos.extractors.VideoExtractor.get_iframe_tag(self,node)",D:\thesis2\real 106 project\newspaper\newspaper\videos\extractors.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.videos.extractors.VideoExtractor.get_object_tag(self,node)",D:\thesis2\real 106 project\newspaper\newspaper\videos\extractors.py,,,,,,,,,,,,,,,,,,,,,26,4,16,6,15,6,6,1,15,6,14,4,4,5,3,,,,,,1,"0.38",,,,
+Function,"newspaper.videos.extractors.VideoExtractor.get_provider(self,src)",D:\thesis2\real 106 project\newspaper\newspaper\videos\extractors.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,4,1,6,2,5,4,4,4,4,,,,,,3,"0.00",,,,
+Function,"newspaper.videos.extractors.VideoExtractor.get_src(self,node)",D:\thesis2\real 106 project\newspaper\newspaper\videos\extractors.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"newspaper.videos.extractors.VideoExtractor.get_video(self,node)",D:\thesis2\real 106 project\newspaper\newspaper\videos\extractors.py,,,,,,,,,,,,,,,,,,,,,11,0,9,2,8,2,1,0,9,2,8,1,1,1,1,,,,,,0,"0.22",,,,
+Function,"newspaper.videos.extractors.VideoExtractor.get_video_tag(self,node)",D:\thesis2\real 106 project\newspaper\newspaper\videos\extractors.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"newspaper.videos.extractors.VideoExtractor.get_videos(self)",D:\thesis2\real 106 project\newspaper\newspaper\videos\extractors.py,,,,,,,,,,,,,,,,,,,,,14,1,11,5,10,2,4,1,10,5,9,4,4,5,1,,,,,,3,"0.18",,,,
+Function,"newspaper.videos.extractors.VideoExtractor.get_width(self,node)",D:\thesis2\real 106 project\newspaper\newspaper\videos\extractors.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"newspaper.videos.videos.Video",D:\thesis2\real 106 project\newspaper\newspaper\videos\videos.py,1,1,1,1,14,0,7,7,1,0,0,0,,,,,1,6,1,1,17,0,8,8,6,9,,,8,8,6,,,,,1,1,1,1,1,0,"1.12",1,1,1,1
+Function,"newspaper.videos.videos.Video.__init__(self)",D:\thesis2\real 106 project\newspaper\newspaper\videos\videos.py,,,,,,,,,,,,,,,,,,,,,14,0,7,7,6,7,1,0,7,7,6,1,1,1,1,,,,,,0,"1.00",,,,
+Package,"tests",,1,1,1,1,5,0,3,1,,,,,1,,1,5,,,,,74,16,38,27,18,21,,,35,24,18,,,,,3,3,3,1,,1,,9,9,9,6
+Package,"tests",,1,1,1,1,11,0,8,1,,,,,8,,1,36,,,,,525,83,364,160,286,79,,,276,134,221,,,,,6,6,6,3,,3,,50,50,51,41
+Package,"tests",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,1,1,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Class,"tests.benchmarks.NullHandler",D:\thesis2\real 106 project\newspaper\tests\benchmarks.py,1,1,1,1,2,0,2,0,1,0,0,0,,,,,1,0,1,1,3,0,3,2,1,0,,,3,2,1,,,,,1,1,1,1,1,0,"0.00",1,1,1,1
+Function,"tests.benchmarks.NullHandler.emit(self,record)",D:\thesis2\real 106 project\newspaper\tests\benchmarks.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.benchmarks.asyncio_run(urls)",D:\thesis2\real 106 project\newspaper\tests\benchmarks.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"tests.benchmarks.benchmark()",D:\thesis2\real 106 project\newspaper\tests\benchmarks.py,,,,,,,,,,,,,,,,,,,,,6,0,3,2,2,3,1,0,3,2,2,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"tests.benchmarks.mthread_run(urls)",D:\thesis2\real 106 project\newspaper\tests\benchmarks.py,,,,,,,,,,,,,,,,,,,,,5,0,3,3,2,2,1,0,3,3,2,1,1,1,1,,,,,,0,"0.67",,,,
+Function,"tests.benchmarks.naive_run(urls)",D:\thesis2\real 106 project\newspaper\tests\benchmarks.py,,,,,,,,,,,,,,,,,,,,,7,0,5,3,4,2,2,0,5,3,4,2,2,2,1,,,,,,1,"0.40",,,,
+Class,"tests.unit_tests.APITestCase",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,1,1,1,1,3,0,2,1,1,0,0,0,,,,,3,0,3,3,16,2,10,6,4,4,,,8,4,4,,,,,1,1,1,1,1,0,"0.40",3,3,3,3
+Function,"tests.unit_tests.APITestCase.runTest(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.unit_tests.APITestCase.test_hot_trending(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"tests.unit_tests.APITestCase.test_popular_urls(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Class,"tests.unit_tests.ArticleTestCase",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,1,1,1,1,9,0,7,1,1,3,0,0,,,,,12,1,12,12,138,19,102,42,80,17,,,67,33,54,,,,,1,1,1,1,1,0,"0.17",12,12,12,12
+Function,"tests.unit_tests.ArticleTestCase.runTest(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,10,0,10,1,9,0,1,0,10,1,9,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.unit_tests.ArticleTestCase.setUp(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,6,0,4,2,3,2,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"tests.unit_tests.ArticleTestCase.tearDown(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"tests.unit_tests.ArticleTestCase.test_download_html(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.unit_tests.ArticleTestCase.test_meta_extraction(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,36,4,28,6,27,4,1,0,10,6,9,1,1,1,1,,,,,,0,"0.14",,,,
+Function,"tests.unit_tests.ArticleTestCase.test_meta_type_extraction(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.unit_tests.ArticleTestCase.test_nlp_body(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,7,0,7,3,6,0,1,0,5,3,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.unit_tests.ArticleTestCase.test_parse_html(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,24,4,18,7,17,2,1,0,17,7,16,1,1,1,1,,,,,,0,"0.11",,,,
+Function,"tests.unit_tests.ArticleTestCase.test_pre_download_nlp(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,5,0,3,2,2,2,1,0,3,2,2,1,1,1,1,,,,,,0,"0.67",,,,
+Function,"tests.unit_tests.ArticleTestCase.test_pre_download_parse(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,5,0,3,2,2,2,1,0,3,2,2,1,1,1,1,,,,,,0,"0.67",,,,
+Function,"tests.unit_tests.ArticleTestCase.test_pre_parse_nlp(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,7,0,5,3,4,2,1,0,5,3,4,1,1,1,1,,,,,,0,"0.40",,,,
+Function,"tests.unit_tests.ArticleTestCase.test_url(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.unit_tests.ConfigBuildTestCase",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,1,1,1,1,16,1,12,2,1,0,0,0,,,,,2,0,2,2,35,4,27,6,23,4,,,22,5,19,,,,,1,1,1,1,1,0,"0.15",2,2,2,2
+Function,"tests.unit_tests.ConfigBuildTestCase.runTest(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.unit_tests.ConfigBuildTestCase.test_config_build(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,30,3,23,3,22,4,1,0,19,3,18,1,1,1,1,,,,,,0,"0.17",,,,
+Class,"tests.unit_tests.ExhaustiveFullTextCase",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,6,6,6,3,45,4,35,6,1,2,0,0,,,,,1,0,1,1,48,5,37,14,34,6,,,32,12,30,,,,,6,6,6,3,1,3,"0.16",6,6,6,3
+Function,"tests.unit_tests.ExhaustiveFullTextCase.runTest(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,45,4,35,12,34,6,13,1,31,11,30,6,6,6,3,,,,,,3,"0.17",,,,
+Class,"tests.unit_tests.MThreadingTestCase",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,1,1,1,1,11,2,9,0,1,2,1,0,,,,,2,0,2,2,26,5,21,9,17,0,,,16,8,13,,,,,1,1,1,1,1,0,"0.00",2,2,2,2
+Function,"tests.unit_tests.MThreadingTestCase.runTest(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.unit_tests.MThreadingTestCase.test_download_works(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,21,4,17,6,16,0,1,0,13,6,12,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.unit_tests.MultiLanguageTestCase",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,1,1,1,1,8,0,8,0,1,0,0,0,,,,,4,0,4,4,41,3,38,20,30,0,,,33,17,28,,,,,1,1,1,1,1,0,"0.00",4,4,4,4
+Function,"tests.unit_tests.MultiLanguageTestCase.runTest(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,4,1,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.unit_tests.MultiLanguageTestCase.test_arabic_fulltext_extract(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,11,0,11,5,10,0,1,0,10,5,9,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.unit_tests.MultiLanguageTestCase.test_chinese_fulltext_extract(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,9,0,9,5,8,0,1,0,9,5,8,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.unit_tests.MultiLanguageTestCase.test_spanish_fulltext_extract(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,10,0,10,5,9,0,1,0,9,5,8,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.unit_tests.SourceTestCase",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,1,1,1,1,12,0,10,1,1,1,0,0,,,,,4,0,4,4,79,8,53,18,44,18,,,28,15,22,,,,,1,1,1,1,1,0,"0.34",5,5,5,5
+Function,"tests.unit_tests.SourceTestCase.runTest(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,4,1,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.unit_tests.SourceTestCase.source_url_input_none(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,2,0,1,0,4,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.unit_tests.SourceTestCase.source_url_input_none.failfunc()",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.unit_tests.SourceTestCase.test_cache_categories(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,14,1,11,5,10,2,1,0,11,5,10,1,1,1,1,,,,,,0,"0.18",,,,
+Function,"tests.unit_tests.SourceTestCase.test_source_build(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,36,1,30,6,29,5,1,0,8,6,7,1,1,1,1,,,,,,0,"0.17",,,,
+Class,"tests.unit_tests.UrlTestCase",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,2,2,2,1,9,0,6,2,1,3,0,0,,,,,3,0,3,3,34,4,22,14,15,8,,,20,11,15,,,,,4,4,4,3,1,2,"0.36",6,6,6,5
+Function,"tests.unit_tests.UrlTestCase.runTest(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.unit_tests.UrlTestCase.test_prepare_url(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"tests.unit_tests.UrlTestCase.test_valid_urls(self)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,22,2,15,9,13,5,3,0,15,8,13,4,4,4,3,,,,,,2,"0.33",,,,
+Function,"tests.unit_tests.get_base_domain(url)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,11,0,9,5,8,3,2,0,8,5,7,2,2,2,1,,,,,,1,"0.33",,,,
+Function,"tests.unit_tests.mock_resource_with(filename,resource_type)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,12,0,10,5,9,2,2,0,8,4,7,3,3,3,1,,,,,,1,"0.20",,,,
+Function,"tests.unit_tests.print_test(method)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,11,0,8,4,6,3,1,0,8,4,6,1,1,1,1,,,,,,0,"0.38",,,,
+Function,"tests.unit_tests.print_test.run(args,kw)",D:\thesis2\real 106 project\newspaper\tests\unit_tests.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,1,0,6,3,5,1,1,1,1,,,,,,0,"0.00",,,,
+Package,"videos",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0

@@ -1,0 +1,846 @@
+Kind,Name,File,AvgCyclomatic,AvgCyclomaticModified,AvgCyclomaticStrict,AvgEssential,AvgLine,AvgLineBlank,AvgLineCode,AvgLineComment,CountClassBase,CountClassCoupled,CountClassCoupledModified,CountClassDerived,CountDeclClass,CountDeclExecutableUnit,CountDeclFile,CountDeclFunction,CountDeclInstanceMethod,CountDeclInstanceVariable,CountDeclMethod,CountDeclMethodAll,CountLine,CountLineBlank,CountLineCode,CountLineCodeDecl,CountLineCodeExe,CountLineComment,CountPath,CountPathLog,CountStmt,CountStmtDecl,CountStmtExe,Cyclomatic,CyclomaticModified,CyclomaticStrict,Essential,MaxCyclomatic,MaxCyclomaticModified,MaxCyclomaticStrict,MaxEssential,MaxInheritanceTree,MaxNesting,RatioCommentToCode,SumCyclomatic,SumCyclomaticModified,SumCyclomaticStrict,SumEssential
+Unknown Class,"ChunkParserI",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Module File,"D:\thesis2\real 106 project\TextBlob\docs\_themes\flask_theme_support.py",D:\thesis2\real 106 project\TextBlob\docs\_themes\flask_theme_support.py,0,0,0,0,0,0,0,0,,,,,1,0,,0,,,,,86,12,68,7,64,67,0,0,6,6,3,0,0,0,0,0,0,0,0,,0,"0.99",0,0,0,0
+Module File,"D:\thesis2\real 106 project\TextBlob\docs\conf.py",D:\thesis2\real 106 project\TextBlob\docs\conf.py,1,1,1,1,43,0,0,0,,,,,0,1,,0,,,,,91,17,47,23,43,27,1,0,26,23,22,1,1,1,1,1,1,1,1,,0,"0.57",1,1,1,1
+Module File,"D:\thesis2\real 106 project\TextBlob\run_tests.py",D:\thesis2\real 106 project\TextBlob\run_tests.py,4,4,5,1,14,1,15,4,,,,,0,3,,2,,,,,66,10,38,13,32,19,2,0,38,13,32,2,2,3,1,10,10,10,1,,1,"0.50",14,14,15,3
+Module File,"D:\thesis2\real 106 project\TextBlob\setup.py",D:\thesis2\real 106 project\TextBlob\setup.py,2,2,2,1,18,0,8,1,,,,,0,3,,2,,,,,66,7,54,14,50,5,1,0,22,12,18,1,1,1,1,4,4,4,3,,3,"0.09",6,6,6,5
+Module File,"D:\thesis2\real 106 project\TextBlob\tasks.py",D:\thesis2\real 106 project\TextBlob\tasks.py,1,1,1,1,4,0,4,0,,,,,0,9,,8,,,,,62,12,47,22,28,3,1,0,38,14,27,1,1,1,1,3,3,3,1,,1,"0.06",13,13,13,9
+File,"D:\thesis2\real 106 project\TextBlob\tests\__init__.py",D:\thesis2\real 106 project\TextBlob\tests\__init__.py,0,0,0,0,0,0,0,0,,,,,0,0,,0,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,"0.00",0,0,0,0
+Module File,"D:\thesis2\real 106 project\TextBlob\tests\test_blob.py",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,1,1,1,1,5,0,5,0,,,,,6,140,,139,,,,,1011,170,814,387,630,34,2,0,648,368,486,2,2,2,1,2,2,2,1,,2,"0.04",150,150,150,140
+Module File,"D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,1,1,1,1,5,0,4,0,,,,,7,52,,51,,,,,369,77,289,158,214,4,2,0,237,146,168,2,2,2,1,2,2,2,1,,1,"0.01",55,55,55,52
+Module File,"D:\thesis2\real 106 project\TextBlob\tests\test_decorators.py",D:\thesis2\real 106 project\TextBlob\tests\test_decorators.py,1,1,1,1,2,0,2,0,,,,,1,3,,2,,,,,22,7,14,10,5,2,2,0,13,9,5,2,2,2,1,2,2,2,1,,1,"0.14",4,4,4,3
+Module File,"D:\thesis2\real 106 project\TextBlob\tests\test_formats.py",D:\thesis2\real 106 project\TextBlob\tests\test_formats.py,1,1,1,1,4,0,4,0,,,,,7,18,,17,,,,,125,29,95,56,65,2,2,0,91,45,62,2,2,2,1,2,2,2,1,,1,"0.02",19,19,19,18
+Module File,"D:\thesis2\real 106 project\TextBlob\tests\test_np_extractor.py",D:\thesis2\real 106 project\TextBlob\tests\test_np_extractor.py,1,1,1,1,5,0,5,0,,,,,2,6,,5,,,,,58,13,44,26,26,2,2,0,34,23,19,2,2,2,1,2,2,2,1,,1,"0.05",7,7,7,6
+Module File,"D:\thesis2\real 106 project\TextBlob\tests\test_parsers.py",D:\thesis2\real 106 project\TextBlob\tests\test_parsers.py,1,1,1,1,2,0,2,0,,,,,1,3,,2,,,,,20,7,12,9,5,2,2,0,12,9,5,2,2,2,1,2,2,2,1,,1,"0.17",4,4,4,3
+Module File,"D:\thesis2\real 106 project\TextBlob\tests\test_sentiments.py",D:\thesis2\real 106 project\TextBlob\tests\test_sentiments.py,1,1,1,1,4,0,4,0,,,,,2,8,,7,,,,,57,14,41,24,26,3,2,0,40,23,26,2,2,2,1,2,2,2,1,,1,"0.07",9,9,9,8
+Module File,"D:\thesis2\real 106 project\TextBlob\tests\test_taggers.py",D:\thesis2\real 106 project\TextBlob\tests\test_taggers.py,1,1,1,1,5,0,5,0,,,,,3,7,,6,,,,,62,14,46,26,27,3,2,0,32,25,16,2,2,2,1,2,2,2,1,,1,"0.07",8,8,8,7
+Module File,"D:\thesis2\real 106 project\TextBlob\tests\test_tokenizers.py",D:\thesis2\real 106 project\TextBlob\tests\test_tokenizers.py,1,1,1,1,3,0,4,0,,,,,2,13,,12,,,,,79,19,59,31,39,4,2,0,50,30,31,2,2,2,1,2,2,2,1,,1,"0.07",15,15,15,13
+Module File,"D:\thesis2\real 106 project\TextBlob\tests\test_translate.py",D:\thesis2\real 106 project\TextBlob\tests\test_translate.py,1,1,1,1,5,0,5,0,,,,,1,15,,14,,,,,128,32,95,57,61,2,2,0,78,47,55,2,2,2,1,2,2,2,1,,1,"0.02",16,16,16,15
+Module File,"D:\thesis2\real 106 project\TextBlob\tests\test_utils.py",D:\thesis2\real 106 project\TextBlob\tests\test_utils.py,1,1,1,1,3,0,3,0,,,,,1,6,,5,,,,,34,10,23,14,13,2,1,0,20,13,10,1,1,1,1,1,1,1,1,,1,"0.09",6,6,6,6
+File,"D:\thesis2\real 106 project\TextBlob\textblob\__init__.py",D:\thesis2\real 106 project\TextBlob\textblob\__init__.py,1,1,1,1,11,0,0,0,,,,,0,1,,0,,,,,17,4,13,7,11,0,1,0,7,7,5,1,1,1,1,1,1,1,1,,0,"0.00",1,1,1,1
+Module File,"D:\thesis2\real 106 project\TextBlob\textblob\_text.py",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,3,3,4,1,11,0,8,3,,,,,12,96,,95,,,,,1407,140,907,268,780,431,2,0,714,254,598,2,2,2,1,20,20,69,14,,5,"0.48",289,289,447,160
+Module File,"D:\thesis2\real 106 project\TextBlob\textblob\base.py",D:\thesis2\real 106 project\TextBlob\textblob\base.py,1,1,1,1,4,0,2,2,,,,,5,9,,8,,,,,106,23,35,26,13,48,1,0,30,21,13,1,1,1,1,2,2,2,1,,1,"1.37",10,10,10,9
+Module File,"D:\thesis2\real 106 project\TextBlob\textblob\blob.py",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,1,1,1,1,7,0,3,3,,,,,6,68,,67,,,,,757,146,318,162,202,294,1,0,245,134,154,1,1,1,1,5,5,5,5,,1,"0.92",94,94,97,76
+Module File,"D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,1,1,1,1,9,0,5,3,,,,,6,30,,30,,,,,488,88,179,87,127,225,0,0,146,80,101,0,0,0,0,4,4,4,4,,2,"1.26",43,43,43,33
+Module File,"D:\thesis2\real 106 project\TextBlob\textblob\compat.py",D:\thesis2\real 106 project\TextBlob\textblob\compat.py,1,1,1,1,10,0,3,2,,,,,1,4,,3,,,,,59,7,43,24,26,11,3,0,41,24,24,3,3,4,1,3,3,4,1,,2,"0.26",6,6,7,4
+Module File,"D:\thesis2\real 106 project\TextBlob\textblob\decorators.py",D:\thesis2\real 106 project\TextBlob\textblob\decorators.py,1,1,1,1,6,0,5,0,,,,,1,4,,4,,,,,39,8,21,13,12,10,0,0,20,11,12,0,0,0,0,2,2,2,1,,1,"0.48",6,6,6,4
+Module File,"D:\thesis2\real 106 project\TextBlob\textblob\download_corpora.py",D:\thesis2\real 106 project\TextBlob\textblob\download_corpora.py,2,2,2,1,6,0,4,0,,,,,0,4,,3,,,,,50,14,27,10,22,15,2,0,18,10,13,2,2,2,1,2,2,2,1,,1,"0.56",8,8,8,4
+File,"D:\thesis2\real 106 project\TextBlob\textblob\en\__init__.py",D:\thesis2\real 106 project\TextBlob\textblob\en\__init__.py,1,1,2,1,7,0,3,1,,,,,2,14,,13,,,,,139,25,85,32,65,29,2,0,64,31,45,2,2,2,1,6,6,6,1,,4,"0.34",27,27,28,14
+Module File,"D:\thesis2\real 106 project\TextBlob\textblob\en\inflect.py",D:\thesis2\real 106 project\TextBlob\textblob\en\inflect.py,12,12,15,10,130,5,33,8,,,,,0,3,,2,,,,,466,24,365,30,362,77,6,1,77,30,74,4,4,4,1,17,17,24,15,,5,"0.21",37,37,46,31
+Module File,"D:\thesis2\real 106 project\TextBlob\textblob\en\np_extractors.py",D:\thesis2\real 106 project\TextBlob\textblob\en\np_extractors.py,2,2,2,1,11,0,9,1,,,,,3,12,,12,,,,,204,33,146,71,123,27,0,0,111,69,90,0,0,0,0,5,5,6,5,,3,"0.18",26,26,30,22
+Module File,"D:\thesis2\real 106 project\TextBlob\textblob\en\parsers.py",D:\thesis2\real 106 project\TextBlob\textblob\en\parsers.py,1,1,1,1,3,0,2,1,,,,,1,1,,1,,,,,18,4,6,5,1,8,0,0,6,5,1,0,0,0,0,1,1,1,1,,0,"1.33",1,1,1,1
+Module File,"D:\thesis2\real 106 project\TextBlob\textblob\en\sentiments.py",D:\thesis2\real 106 project\TextBlob\textblob\en\sentiments.py,1,1,1,1,7,0,5,1,,,,,2,5,,5,,,,,85,17,43,30,28,25,0,0,36,29,22,0,0,0,0,1,1,1,1,,0,"0.58",5,5,5,5
+Module File,"D:\thesis2\real 106 project\TextBlob\textblob\en\taggers.py",D:\thesis2\real 106 project\TextBlob\textblob\en\taggers.py,1,1,1,1,4,0,3,1,,,,,2,2,,2,,,,,35,8,16,12,5,11,0,0,15,11,5,0,0,0,0,2,2,2,1,,1,"0.69",3,3,3,2
+Module File,"D:\thesis2\real 106 project\TextBlob\textblob\exceptions.py",D:\thesis2\real 106 project\TextBlob\textblob\exceptions.py,1,1,1,1,5,0,2,0,,,,,6,2,,1,,,,,46,13,22,10,15,13,1,0,16,10,9,1,1,1,1,1,1,1,1,,0,"0.59",2,2,2,2
+Module File,"D:\thesis2\real 106 project\TextBlob\textblob\formats.py",D:\thesis2\real 106 project\TextBlob\textblob\formats.py,1,1,1,1,5,0,3,1,,,,,5,13,,12,,,,,159,36,67,33,43,56,1,0,58,30,37,1,1,1,1,4,4,4,4,,2,"0.84",19,19,19,16
+Module File,"D:\thesis2\real 106 project\TextBlob\textblob\inflect.py",D:\thesis2\real 106 project\TextBlob\textblob\inflect.py,1,1,1,1,4,0,0,0,,,,,0,1,,0,,,,,17,4,6,3,4,7,1,0,3,3,1,1,1,1,1,1,1,1,1,,0,"1.17",1,1,1,1
+Module File,"D:\thesis2\real 106 project\TextBlob\textblob\mixins.py",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,1,1,1,1,4,0,2,1,,,,,3,28,,28,,,,,179,40,77,40,42,63,0,0,74,39,40,0,0,0,0,3,3,3,1,,1,"0.82",33,33,33,28
+Module File,"D:\thesis2\real 106 project\TextBlob\textblob\np_extractors.py",D:\thesis2\real 106 project\TextBlob\textblob\np_extractors.py,1,1,1,1,5,0,0,0,,,,,0,1,,0,,,,,19,4,8,4,5,7,1,0,4,4,1,1,1,1,1,1,1,1,1,,0,"0.88",1,1,1,1
+Module File,"D:\thesis2\real 106 project\TextBlob\textblob\ordereddict.py",D:\thesis2\real 106 project\TextBlob\textblob\ordereddict.py,2,2,2,1,5,0,5,0,,,,,1,14,,14,,,,,130,17,89,42,72,26,0,0,87,41,71,0,0,0,0,5,5,5,5,,3,"0.29",28,28,28,18
+Module File,"D:\thesis2\real 106 project\TextBlob\textblob\parsers.py",D:\thesis2\real 106 project\TextBlob\textblob\parsers.py,1,1,1,1,4,0,0,0,,,,,0,1,,0,,,,,17,4,7,4,4,6,1,0,4,4,1,1,1,1,1,1,1,1,1,,0,"0.86",1,1,1,1
+Module File,"D:\thesis2\real 106 project\TextBlob\textblob\sentiments.py",D:\thesis2\real 106 project\TextBlob\textblob\sentiments.py,1,1,1,1,7,0,0,0,,,,,0,1,,0,,,,,22,4,11,5,7,7,1,0,4,4,1,1,1,1,1,1,1,1,1,,0,"0.64",1,1,1,1
+Module File,"D:\thesis2\real 106 project\TextBlob\textblob\taggers.py",D:\thesis2\real 106 project\TextBlob\textblob\taggers.py,1,1,1,1,5,0,0,0,,,,,0,1,,0,,,,,18,4,8,4,5,6,1,0,4,4,1,1,1,1,1,1,1,1,1,,0,"0.75",1,1,1,1
+Module File,"D:\thesis2\real 106 project\TextBlob\textblob\tokenizers.py",D:\thesis2\real 106 project\TextBlob\textblob\tokenizers.py,1,1,1,1,8,0,5,4,,,,,2,4,,3,,,,,73,15,26,16,14,33,1,0,20,15,9,1,1,1,1,3,3,3,1,,1,"1.27",6,6,6,4
+Module File,"D:\thesis2\real 106 project\TextBlob\textblob\translate.py",D:\thesis2\real 106 project\TextBlob\textblob\translate.py,2,2,2,1,8,0,7,1,,,,,1,7,,7,,,,,98,15,60,33,46,23,0,0,57,33,43,0,0,0,0,3,3,4,1,,2,"0.38",16,16,18,7
+File,"D:\thesis2\real 106 project\TextBlob\textblob\unicodecsv\__init__.py",D:\thesis2\real 106 project\TextBlob\textblob\unicodecsv\__init__.py,1,1,2,1,6,0,5,0,,,,,4,17,,16,,,,,194,19,126,63,97,50,2,0,92,55,70,2,2,2,1,5,5,5,4,,2,"0.40",33,33,34,22
+Module File,"D:\thesis2\real 106 project\TextBlob\textblob\utils.py",D:\thesis2\real 106 project\TextBlob\textblob\utils.py,1,1,1,1,7,0,4,3,,,,,0,6,,5,,,,,56,14,25,13,18,17,1,0,24,12,17,1,1,1,1,5,5,5,4,,3,"0.68",11,11,11,9
+Module File,"D:\thesis2\real 106 project\TextBlob\textblob\wordnet.py",D:\thesis2\real 106 project\TextBlob\textblob\wordnet.py,1,1,1,1,4,0,0,0,,,,,0,1,,0,,,,,17,3,5,5,4,9,1,0,5,5,4,1,1,1,1,1,1,1,1,,0,"1.80",1,1,1,1
+Unknown Class,"DictReader",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"DictWriter",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"Style",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"TestCase",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"TestCase",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"TestCase",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"TestCase",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"TestCase",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"TestCase",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"TestCase",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"TestCase",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"TestCase",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"TokenizerI",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Class,"flask_theme_support.FlaskyStyle",D:\thesis2\real 106 project\TextBlob\docs\_themes\flask_theme_support.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,0,80,10,65,4,64,66,,,4,4,3,,,,,0,0,0,0,1,0,"1.02",0,0,0,0
+Unknown Class,"meta",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Function,"run_tests.get_argv()",D:\thesis2\real 106 project\TextBlob\run_tests.py,,,,,,,,,,,,,,,,,,,,,35,2,26,4,25,8,257,2,26,4,25,10,10,10,1,,,,,,1,"0.31",,,,
+Function,"run_tests.main()",D:\thesis2\real 106 project\TextBlob\run_tests.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,2,2,2,1,,,,,,0,"0.00",,,,
+Function,"setup.find_version(fname)",D:\thesis2\real 106 project\TextBlob\setup.py,,,,,,,,,,,,,,,,,,,,,15,0,12,6,11,3,6,1,12,5,11,4,4,4,3,,,,,,3,"0.25",,,,
+Function,"setup.read(fname)",D:\thesis2\real 106 project\TextBlob\setup.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,2,3,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"tasks.browse_docs()",D:\thesis2\real 106 project\TextBlob\tasks.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tasks.clean()",D:\thesis2\real 106 project\TextBlob\tasks.py,,,,,,,,,,,,,,,,,,,,,6,0,6,1,5,0,1,0,6,1,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tasks.clean_docs()",D:\thesis2\real 106 project\TextBlob\tasks.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tasks.docs(clean,browse)",D:\thesis2\real 106 project\TextBlob\tasks.py,,,,,,,,,,,,,,,,,,,,,6,0,6,1,5,0,4,1,6,1,5,3,3,3,1,,,,,,1,"0.00",,,,
+Function,"tasks.doctest()",D:\thesis2\real 106 project\TextBlob\tasks.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tasks.publish(test)",D:\thesis2\real 106 project\TextBlob\tasks.py,,,,,,,,,,,,,,,,,,,,,9,0,8,1,7,1,2,0,7,1,6,2,2,2,1,,,,,,1,"0.12",,,,
+Function,"tasks.readme(browse)",D:\thesis2\real 106 project\TextBlob\tasks.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"tasks.test()",D:\thesis2\real 106 project\TextBlob\tasks.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Package,"tests",,1,1,1,1,3,0,4,0,,,,,2,,1,12,,,,,79,19,59,31,39,4,,,50,30,31,,,,,2,2,2,1,,1,,15,15,15,13
+Package,"tests",,1,1,1,1,3,0,3,0,,,,,1,,1,5,,,,,34,10,23,14,13,2,,,20,13,10,,,,,1,1,1,1,,1,,6,6,6,6
+Package,"tests",,1,1,1,1,4,0,4,0,,,,,7,,1,17,,,,,125,29,95,56,65,2,,,91,45,62,,,,,2,2,2,1,,1,,19,19,19,18
+Package,"tests",,1,1,1,1,5,0,5,0,,,,,3,,1,6,,,,,62,14,46,26,27,3,,,32,25,16,,,,,2,2,2,1,,1,,8,8,8,7
+Package,"tests",,1,1,1,1,5,0,5,0,,,,,6,,1,139,,,,,1011,170,814,387,630,34,,,648,368,486,,,,,2,2,2,1,,2,,150,150,150,140
+Package,"tests",,1,1,1,1,2,0,2,0,,,,,1,,1,2,,,,,22,7,14,10,5,2,,,13,9,5,,,,,2,2,2,1,,1,,4,4,4,3
+Package,"tests",,1,1,1,1,5,0,5,0,,,,,1,,1,14,,,,,128,32,95,57,61,2,,,78,47,55,,,,,2,2,2,1,,1,,16,16,16,15
+Package,"tests",,1,1,1,1,5,0,4,0,,,,,7,,1,51,,,,,369,77,289,158,214,4,,,237,146,168,,,,,2,2,2,1,,1,,55,55,55,52
+Package,"tests",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,1,1,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"tests",,1,1,1,1,2,0,2,0,,,,,1,,1,2,,,,,20,7,12,9,5,2,,,12,9,5,,,,,2,2,2,1,,1,,4,4,4,3
+Package,"tests",,1,1,1,1,5,0,5,0,,,,,2,,1,5,,,,,58,13,44,26,26,2,,,34,23,19,,,,,2,2,2,1,,1,,7,7,7,6
+Package,"tests",,1,1,1,1,4,0,4,0,,,,,2,,1,7,,,,,57,14,41,24,26,3,,,40,23,26,,,,,2,2,2,1,,1,,9,9,9,8
+Class,"tests.test_blob.BlobberTest",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,1,1,1,1,4,0,4,0,1,10,9,0,,,,,9,1,9,9,51,9,40,25,30,3,,,39,25,29,,,,,1,1,1,1,1,0,"0.07",9,9,9,9
+Function,"tests.test_blob.BlobberTest.setUp(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"tests.test_blob.BlobberTest.test_creates_blobs(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,1,0,5,3,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.BlobberTest.test_default_np_extractor(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.BlobberTest.test_default_tagger(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.BlobberTest.test_default_tokenizer(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.BlobberTest.test_override_analyzer(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,6,0,6,4,5,0,1,0,6,4,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.BlobberTest.test_overrider_classifier(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.BlobberTest.test_overrides(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,11,0,9,4,8,2,1,0,8,4,7,1,1,1,1,,,,,,0,"0.22",,,,
+Function,"tests.test_blob.BlobberTest.test_str_and_repr(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.test_blob.SentenceTest",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,1,1,1,1,6,0,5,0,1,5,3,0,,,,,12,2,12,12,97,14,79,35,58,4,,,54,30,41,,,,,2,2,2,1,1,1,"0.05",13,13,13,12
+Function,"tests.test_blob.SentenceTest.setUp(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,3,3,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.SentenceTest.test_correct(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,1,0,7,2,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.SentenceTest.test_dict(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,11,0,11,2,10,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.SentenceTest.test_len(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.SentenceTest.test_noun_phrases(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.SentenceTest.test_pos_tags(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,20,2,16,8,15,2,1,0,11,8,10,1,1,1,1,,,,,,0,"0.12",,,,
+Function,"tests.test_blob.SentenceTest.test_repr(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,8,0,6,1,5,2,2,0,4,1,3,2,2,2,1,,,,,,1,"0.33",,,,
+Function,"tests.test_blob.SentenceTest.test_string_equality(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.SentenceTest.test_stripped_sentence(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.SentenceTest.test_translate(self,mock_translate)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,1,0,6,3,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.SentenceTest.test_translate_detects_language_by_default(self,mock_detect,mock_get_json5,mock_get_language,mock_get_translation)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,7,0,7,4,5,0,1,0,6,3,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.SentenceTest.test_words_are_word_objects(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.test_blob.TestWordnetInterface",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,1,1,1,1,3,0,3,0,1,1,1,0,,,,,3,0,3,3,14,3,11,8,7,0,,,11,8,7,,,,,1,1,1,1,1,0,"0.00",3,3,3,3
+Function,"tests.test_blob.TestWordnetInterface.setUp(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TestWordnetInterface.test_lemma(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TestWordnetInterface.test_synset(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.test_blob.TextBlobTest",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,1,1,1,1,6,0,5,0,1,21,12,0,,,,,80,6,80,80,592,90,488,218,398,19,,,375,209,294,,,,,2,2,2,1,1,2,"0.04",84,84,84,80
+Function,"tests.test_blob.TextBlobTest.setUp(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,42,2,40,7,39,0,1,0,7,7,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_add(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,14,1,9,3,8,4,1,0,7,3,6,1,1,1,1,,,,,,0,"0.44",,,,
+Function,"tests.test_blob.TextBlobTest.test_bad_init(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,6,0,6,1,5,0,1,0,4,1,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_blob_noun_phrases(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_blob_with_no_sentences(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,8,0,6,3,5,2,1,0,6,3,5,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"tests.test_blob.TextBlobTest.test_can_get_subjectivity_and_polarity_with_different_analyzer(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,1,0,5,3,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_can_pass_np_extractor_to_constructor(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_can_use_an_different_tokenizer(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_can_use_different_np_extractors(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,6,0,6,4,5,0,1,0,6,4,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_can_use_different_pos_tagger(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_can_use_different_sentanalyzer(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_classify(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,2,0,5,3,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_classify_without_classifier(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_clean_html(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_cmp(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,10,1,9,4,8,5,1,0,9,4,8,1,1,1,1,,,,,,0,"0.56",,,,
+Function,"tests.test_blob.TextBlobTest.test_correct(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,22,0,21,8,20,1,1,0,16,8,15,1,1,1,1,,,,,,0,"0.05",,,,
+Function,"tests.test_blob.TextBlobTest.test_detect(self,mock_detect)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_discrete_sentiment(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_endswith(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_find(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_format(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_getitem(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_hash(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_in(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_index(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_indices_short_names(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,1,0,5,3,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_indices_with_multiple_puncutations(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,1,0,5,3,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_indices_with_only_one_sentences(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_init(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,8,1,6,2,5,1,1,0,6,2,5,1,1,1,1,,,,,,0,"0.17",,,,
+Function,"tests.test_blob.TextBlobTest.test_invalid_comparison(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,9,0,7,2,6,2,2,0,6,2,5,2,2,2,1,,,,,,2,"0.29",,,,
+Function,"tests.test_blob.TextBlobTest.test_iter(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_join(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,1,0,5,3,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_json(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,12,0,12,3,11,0,1,0,10,3,9,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_len(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_lower(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_ngrams(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,13,0,13,4,12,0,1,0,6,4,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_np_counts(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,8,0,6,2,5,2,1,0,6,2,5,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"tests.test_blob.TextBlobTest.test_np_extractor_defaults_to_fast_tagger(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_np_extractor_is_shared_among_instances(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_parse(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_passing_bad_init_params(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,13,0,13,3,12,0,1,0,8,3,7,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_polarity(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_pos_tagger_defaults_to_pattern(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_pos_tagger_is_shared_among_instances(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_pos_tags(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,15,0,15,2,14,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_pos_tags_includes_one_letter_articles(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_raw_sentences(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_replace(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_repr(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,2,0,5,2,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_rfind(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_senences_with_space_before_punctuation(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_sentences(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_sentences_after_concatenation(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,6,1,5,4,4,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_sentiment(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,8,0,8,4,7,0,1,0,7,4,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_sentiment_of_emoticons(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_sentiment_of_foreign_text(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_split(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_startswith(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_string_comparison(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_string_equality(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_strip(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,1,0,5,3,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_strip_and_words(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_stripped(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_subjectivity(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_tagging_nonascii(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_tags(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_title(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_tokenize_method(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,7,0,5,3,4,2,1,0,5,3,4,1,1,1,1,,,,,,0,"0.40",,,,
+Function,"tests.test_blob.TextBlobTest.test_tokenizer_defaults_to_word_tokenizer(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_tokens_property(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_translate(self,mock_translate)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,10,0,10,5,9,0,1,0,10,5,9,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_unicode(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_upper(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_upper_and_words(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_using_indices_for_slicing(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,1,0,5,3,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_word_counts(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,21,1,20,3,19,0,1,0,15,3,14,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_words(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,20,0,20,3,19,0,1,0,6,3,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_words_are_word_objects(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_words_have_pos_tags(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,1,0,5,3,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.TextBlobTest.test_words_includes_apostrophes_in_contractions(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,1,0,5,3,4,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.test_blob.WordListTest",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,1,1,1,1,4,0,4,0,1,6,2,0,,,,,15,2,15,15,82,16,66,35,49,0,,,62,34,46,,,,,2,2,2,1,1,1,"0.00",17,17,17,15
+Function,"tests.test_blob.WordListTest.setUp(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,3,2,0,1,0,3,3,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.WordListTest.test_append(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,1,0,6,2,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.WordListTest.test_convert_to_list(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.WordListTest.test_count(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.WordListTest.test_extend(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.WordListTest.test_lemmatize(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.WordListTest.test_len(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.WordListTest.test_lower(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.WordListTest.test_pluralize(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.WordListTest.test_repr(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,2,0,5,2,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"tests.test_blob.WordListTest.test_singularize(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.WordListTest.test_slice_repr(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,2,0,5,2,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"tests.test_blob.WordListTest.test_slicing(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,9,1,8,4,7,0,1,0,8,4,7,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.WordListTest.test_str(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.WordListTest.test_upper(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.test_blob.WordTest",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,1,1,1,1,4,0,4,0,1,5,1,0,,,,,19,2,19,19,108,19,86,44,62,3,,,82,40,62,,,,,2,2,2,1,1,1,"0.03",21,21,21,19
+Function,"tests.test_blob.WordTest.setUp(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,3,2,0,1,0,3,3,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.WordTest.test_correct(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,1,0,5,3,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.WordTest.test_define(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,5,0,5,4,4,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.WordTest.test_definitions(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,2,0,5,3,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"tests.test_blob.WordTest.test_detect_language(self,mock_detect)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.WordTest.test_has_str_methods(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,4,1,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.WordTest.test_init(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.WordTest.test_lemma(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.WordTest.test_lemmatize(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,1,0,7,2,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.WordTest.test_pluralize(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.WordTest.test_repr(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.WordTest.test_singularize(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.WordTest.test_spellcheck(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.WordTest.test_spellcheck_special_cases(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,10,0,7,1,6,3,1,0,7,1,6,1,1,1,1,,,,,,0,"0.43",,,,
+Function,"tests.test_blob.WordTest.test_str(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.WordTest.test_synsets(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.WordTest.test_synsets_with_pos_argument(self)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,5,0,5,4,4,0,2,0,5,4,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"tests.test_blob.WordTest.test_translate(self,mock_translate)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.WordTest.test_translate_without_from_lang(self,mock_translate)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_blob.is_blob(obj)",D:\thesis2\real 106 project\TextBlob\tests\test_blob.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.test_classifiers.BadNLTKClassifier",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,15,4,1,2,1,1,1,,,2,1,1,,,,,0,0,0,0,3,0,"0.50",0,0,0,0
+Class,"tests.test_classifiers.TestDecisionTreeClassifier",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,1,1,1,1,3,0,3,0,1,3,1,0,,,,,8,1,8,8,38,8,30,18,21,0,,,29,18,20,,,,,1,1,1,1,1,0,"0.00",8,8,8,8
+Function,"tests.test_classifiers.TestDecisionTreeClassifier.setUp(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestDecisionTreeClassifier.test_accuracy(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestDecisionTreeClassifier.test_classify(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestDecisionTreeClassifier.test_custom_feature_extractor(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestDecisionTreeClassifier.test_pretty_format(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,1,0,5,3,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestDecisionTreeClassifier.test_pseudocode(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestDecisionTreeClassifier.test_repr(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestDecisionTreeClassifier.test_update(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,1,0,5,3,4,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.test_classifiers.TestMaxEntClassifier",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,1,1,1,1,3,0,3,0,1,1,1,0,,,,,3,1,3,3,14,3,11,7,7,0,,,11,7,7,,,,,1,1,1,1,1,0,"0.00",3,3,3,3
+Function,"tests.test_classifiers.TestMaxEntClassifier.setUp(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestMaxEntClassifier.test_classify(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestMaxEntClassifier.test_prob_classify(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.test_classifiers.TestNLTKClassifier",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,1,1,1,1,5,1,4,0,1,2,1,0,,,,,2,1,2,2,14,4,10,4,7,0,,,7,4,4,,,,,1,1,1,1,1,0,"0.00",2,2,2,2
+Function,"tests.test_classifiers.TestNLTKClassifier.setUp(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestNLTKClassifier.test_raises_value_error_without_nltk_class(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,9,2,7,1,6,0,1,0,4,1,3,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.test_classifiers.TestNaiveBayesClassifier",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,1,1,1,1,4,0,4,0,1,8,3,0,,,,,23,1,23,23,139,28,110,70,81,1,,,106,62,78,,,,,1,1,1,1,1,1,"0.01",26,26,26,26
+Function,"tests.test_classifiers.TestNaiveBayesClassifier.setUp(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestNaiveBayesClassifier.test_accuracy(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestNaiveBayesClassifier.test_accuracy_on_a_csv_file(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,2,3,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"tests.test_classifiers.TestNaiveBayesClassifier.test_accuracy_on_json_file(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,2,3,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"tests.test_classifiers.TestNaiveBayesClassifier.test_classify(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestNaiveBayesClassifier.test_classify_a_list_of_words(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestNaiveBayesClassifier.test_custom_feature_extractor(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestNaiveBayesClassifier.test_data_with_no_available_format(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,5,1,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestNaiveBayesClassifier.test_default_extractor(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestNaiveBayesClassifier.test_informative_features(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestNaiveBayesClassifier.test_init_with_bad_format_specifier(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestNaiveBayesClassifier.test_init_with_csv_file(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,6,0,6,4,5,0,1,0,6,3,5,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"tests.test_classifiers.TestNaiveBayesClassifier.test_init_with_csv_file_without_format_specifier(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,6,0,6,4,5,0,1,0,6,3,5,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"tests.test_classifiers.TestNaiveBayesClassifier.test_init_with_custom_format(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,19,4,15,11,9,0,1,0,14,10,9,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.test_classifiers.TestNaiveBayesClassifier.test_init_with_custom_format.MockRedisFormat",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,1,1,1,1,2,0,2,0,1,1,1,0,,,,,2,2,3,6,11,2,9,7,4,0,,,8,6,4,,,,,1,1,1,1,2,0,"0.00",3,3,3,3
+Function,"tests.test_classifiers.TestNaiveBayesClassifier.test_init_with_custom_format.MockRedisFormat.__init__(self,client,port)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,3,0,3,3,2,0,1,0,3,3,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestNaiveBayesClassifier.test_init_with_custom_format.MockRedisFormat.detect(cls,stream)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestNaiveBayesClassifier.test_init_with_custom_format.MockRedisFormat.to_iterable(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestNaiveBayesClassifier.test_init_with_json_file(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,6,0,6,4,5,0,1,0,6,3,5,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"tests.test_classifiers.TestNaiveBayesClassifier.test_init_with_json_file_without_format_specifier(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,6,0,6,4,5,0,1,0,6,3,5,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"tests.test_classifiers.TestNaiveBayesClassifier.test_init_with_tsv_file(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,6,0,6,4,5,0,1,0,6,3,5,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"tests.test_classifiers.TestNaiveBayesClassifier.test_labels(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestNaiveBayesClassifier.test_prob_classify(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestNaiveBayesClassifier.test_repr(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestNaiveBayesClassifier.test_show_informative_features(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestNaiveBayesClassifier.test_train_from_lists_of_words(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,6,0,5,3,4,1,1,0,4,3,3,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"tests.test_classifiers.TestNaiveBayesClassifier.test_update(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,8,0,8,5,7,0,1,0,8,5,7,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.test_classifiers.TestPositiveNaiveBayesClassifier",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,1,1,1,1,8,0,7,0,1,2,1,0,,,,,6,1,6,6,57,9,48,16,41,0,,,24,16,17,,,,,1,1,1,1,1,0,"0.00",6,6,6,6
+Function,"tests.test_classifiers.TestPositiveNaiveBayesClassifier.setUp(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,18,2,16,4,15,0,1,0,4,4,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestPositiveNaiveBayesClassifier.test_accuracy(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,10,0,10,3,9,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestPositiveNaiveBayesClassifier.test_classifier(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestPositiveNaiveBayesClassifier.test_classify(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestPositiveNaiveBayesClassifier.test_repr(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,6,0,6,1,5,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.TestPositiveNaiveBayesClassifier.test_update(self)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,9,0,9,5,8,0,1,0,8,5,7,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.custom_extractor(document)",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,7,0,7,5,6,0,2,0,7,5,6,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"tests.test_classifiers.test_basic_extractor()",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,1,0,6,3,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.test_basic_extractor_with_list()",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,1,0,6,3,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.test_contains_extractor_with_list()",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,7,0,7,3,6,0,1,0,7,3,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.test_contains_extractor_with_string()",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,7,0,7,3,6,0,1,0,7,3,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_classifiers.test_get_words_from_dataset()",D:\thesis2\real 106 project\TextBlob\tests\test_classifiers.py,,,,,,,,,,,,,,,,,,,,,6,0,6,4,5,0,2,0,6,4,5,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"tests.test_decorators.Tokenizer",D:\thesis2\real 106 project\TextBlob\tests\test_decorators.py,1,1,1,1,2,0,2,0,1,1,0,0,,,,,1,0,1,1,5,1,4,3,1,0,,,3,2,1,,,,,1,1,1,1,1,0,"0.00",1,1,1,1
+Function,"tests.test_decorators.Tokenizer.tag(self,text)",D:\thesis2\real 106 project\TextBlob\tests\test_decorators.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_decorators.test_decorator_raises_missing_corpus_exception()",D:\thesis2\real 106 project\TextBlob\tests\test_decorators.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.test_formats.CustomFormat",D:\thesis2\real 106 project\TextBlob\tests\test_formats.py,1,1,1,1,3,0,3,0,1,0,0,0,,,,,1,0,2,5,9,0,9,4,5,0,,,5,3,2,,,,,1,1,1,1,2,0,"0.00",2,2,2,2
+Function,"tests.test_formats.CustomFormat.detect(cls,stream)",D:\thesis2\real 106 project\TextBlob\tests\test_formats.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_formats.CustomFormat.to_iterable()",D:\thesis2\real 106 project\TextBlob\tests\test_formats.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.test_formats.TestCSV",D:\thesis2\real 106 project\TextBlob\tests\test_formats.py,1,1,1,1,5,0,5,0,1,1,1,0,,,,,2,0,2,2,13,2,11,7,8,0,,,11,5,8,,,,,1,1,1,1,1,1,"0.00",2,2,2,2
+Function,"tests.test_formats.TestCSV.test_detect(self)",D:\thesis2\real 106 project\TextBlob\tests\test_formats.py,,,,,,,,,,,,,,,,,,,,,7,0,7,3,6,0,1,0,7,2,6,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"tests.test_formats.TestCSV.test_read_from_filename(self)",D:\thesis2\real 106 project\TextBlob\tests\test_formats.py,,,,,,,,,,,,,,,,,,,,,3,0,3,3,2,0,1,0,3,2,2,1,1,1,1,,,,,,1,"0.00",,,,
+Class,"tests.test_formats.TestDelimitedFormat",D:\thesis2\real 106 project\TextBlob\tests\test_formats.py,1,1,1,1,4,0,4,0,1,1,1,0,,,,,2,0,2,2,12,2,10,5,7,0,,,10,4,7,,,,,1,1,1,1,1,1,"0.00",2,2,2,2
+Function,"tests.test_formats.TestDelimitedFormat.test_delimiter_defaults_to_comma(self)",D:\thesis2\real 106 project\TextBlob\tests\test_formats.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_formats.TestDelimitedFormat.test_detect(self)",D:\thesis2\real 106 project\TextBlob\tests\test_formats.py,,,,,,,,,,,,,,,,,,,,,7,0,7,3,6,0,1,0,7,2,6,1,1,1,1,,,,,,1,"0.00",,,,
+Class,"tests.test_formats.TestFormats",D:\thesis2\real 106 project\TextBlob\tests\test_formats.py,1,1,1,1,3,0,3,0,1,2,2,0,,,,,4,0,4,4,20,4,16,8,11,0,,,16,6,11,,,,,1,1,1,1,1,1,"0.00",4,4,4,4
+Function,"tests.test_formats.TestFormats.setUp(self)",D:\thesis2\real 106 project\TextBlob\tests\test_formats.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_formats.TestFormats.test_available(self)",D:\thesis2\real 106 project\TextBlob\tests\test_formats.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_formats.TestFormats.test_detect_csv(self)",D:\thesis2\real 106 project\TextBlob\tests\test_formats.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,1,3,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"tests.test_formats.TestFormats.test_detect_json(self)",D:\thesis2\real 106 project\TextBlob\tests\test_formats.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,1,3,1,1,1,1,,,,,,1,"0.00",,,,
+Class,"tests.test_formats.TestJSON",D:\thesis2\real 106 project\TextBlob\tests\test_formats.py,1,1,1,1,5,0,5,0,1,2,1,0,,,,,3,0,3,3,21,3,18,12,14,0,,,18,9,14,,,,,1,1,1,1,1,1,"0.00",3,3,3,3
+Function,"tests.test_formats.TestJSON.test_detect(self)",D:\thesis2\real 106 project\TextBlob\tests\test_formats.py,,,,,,,,,,,,,,,,,,,,,7,0,7,3,6,0,1,0,7,2,6,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"tests.test_formats.TestJSON.test_read_from_file_object(self)",D:\thesis2\real 106 project\TextBlob\tests\test_formats.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,1,2,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"tests.test_formats.TestJSON.test_to_iterable(self)",D:\thesis2\real 106 project\TextBlob\tests\test_formats.py,,,,,,,,,,,,,,,,,,,,,7,0,7,6,6,0,1,0,7,5,6,1,1,1,1,,,,,,1,"0.00",,,,
+Class,"tests.test_formats.TestRegistry",D:\thesis2\real 106 project\TextBlob\tests\test_formats.py,1,1,1,1,5,1,4,0,1,1,1,0,,,,,2,0,2,2,12,3,9,4,6,0,,,9,4,6,,,,,1,1,1,1,1,0,"0.00",2,2,2,2
+Function,"tests.test_formats.TestRegistry.setUp(self)",D:\thesis2\real 106 project\TextBlob\tests\test_formats.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_formats.TestRegistry.test_register(self)",D:\thesis2\real 106 project\TextBlob\tests\test_formats.py,,,,,,,,,,,,,,,,,,,,,8,2,6,2,5,0,1,0,6,2,5,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.test_formats.TestTSV",D:\thesis2\real 106 project\TextBlob\tests\test_formats.py,1,1,1,1,5,0,5,0,1,1,1,0,,,,,2,0,2,2,14,3,11,7,8,0,,,11,5,8,,,,,1,1,1,1,1,1,"0.00",2,2,2,2
+Function,"tests.test_formats.TestTSV.test_detect(self)",D:\thesis2\real 106 project\TextBlob\tests\test_formats.py,,,,,,,,,,,,,,,,,,,,,8,1,7,3,6,0,1,0,7,2,6,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"tests.test_formats.TestTSV.test_read_from_file_object(self)",D:\thesis2\real 106 project\TextBlob\tests\test_formats.py,,,,,,,,,,,,,,,,,,,,,3,0,3,3,2,0,1,0,3,2,2,1,1,1,1,,,,,,1,"0.00",,,,
+Class,"tests.test_np_extractor.BadExtractor",D:\thesis2\real 106 project\TextBlob\tests\test_np_extractor.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,1,3,0,2,1,1,1,,,2,1,1,,,,,0,0,0,0,2,0,"0.50",0,0,0,0
+Class,"tests.test_np_extractor.TestConllExtractor",D:\thesis2\real 106 project\TextBlob\tests\test_np_extractor.py,1,1,1,1,6,0,6,0,1,1,1,0,,,,,4,3,4,4,33,4,29,16,21,0,,,20,13,15,,,,,1,1,1,1,1,0,"0.00",4,4,4,4
+Function,"tests.test_np_extractor.TestConllExtractor.setUp(self)",D:\thesis2\real 106 project\TextBlob\tests\test_np_extractor.py,,,,,,,,,,,,,,,,,,,,,10,0,10,4,9,0,1,0,4,4,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_np_extractor.TestConllExtractor.test_extract(self)",D:\thesis2\real 106 project\TextBlob\tests\test_np_extractor.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_np_extractor.TestConllExtractor.test_filter_insignificant(self)",D:\thesis2\real 106 project\TextBlob\tests\test_np_extractor.py,,,,,,,,,,,,,,,,,,,,,7,0,7,4,6,0,1,0,7,4,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_np_extractor.TestConllExtractor.test_parse_sentence(self)",D:\thesis2\real 106 project\TextBlob\tests\test_np_extractor.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_np_extractor.test_cannot_instantiate_incomplete_extractor()",D:\thesis2\real 106 project\TextBlob\tests\test_np_extractor.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.test_parsers.TestPatternParser",D:\thesis2\real 106 project\TextBlob\tests\test_parsers.py,1,1,1,1,2,0,2,0,1,1,1,0,,,,,2,2,2,2,8,2,6,5,3,0,,,6,5,3,,,,,1,1,1,1,1,0,"0.00",2,2,2,2
+Function,"tests.test_parsers.TestPatternParser.setUp(self)",D:\thesis2\real 106 project\TextBlob\tests\test_parsers.py,,,,,,,,,,,,,,,,,,,,,3,0,3,3,2,0,1,0,3,3,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_parsers.TestPatternParser.test_parse(self)",D:\thesis2\real 106 project\TextBlob\tests\test_parsers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.test_sentiments.TestNaiveBayesAnalyzer",D:\thesis2\real 106 project\TextBlob\tests\test_sentiments.py,1,1,1,1,6,0,5,0,1,2,1,0,,,,,3,1,3,3,23,3,18,9,13,2,,,17,8,13,,,,,1,1,1,1,1,0,"0.11",3,3,3,3
+Function,"tests.test_sentiments.TestNaiveBayesAnalyzer.setUp(self)",D:\thesis2\real 106 project\TextBlob\tests\test_sentiments.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_sentiments.TestNaiveBayesAnalyzer.test_analyze(self)",D:\thesis2\real 106 project\TextBlob\tests\test_sentiments.py,,,,,,,,,,,,,,,,,,,,,14,0,12,4,11,2,1,0,12,4,11,1,1,1,1,,,,,,0,"0.17",,,,
+Function,"tests.test_sentiments.TestNaiveBayesAnalyzer.test_kind(self)",D:\thesis2\real 106 project\TextBlob\tests\test_sentiments.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.test_sentiments.TestPatternSentiment",D:\thesis2\real 106 project\TextBlob\tests\test_sentiments.py,1,1,1,1,4,0,4,0,1,1,1,0,,,,,3,1,3,3,17,3,14,9,10,0,,,14,9,10,,,,,1,1,1,1,1,0,"0.00",3,3,3,3
+Function,"tests.test_sentiments.TestPatternSentiment.setUp(self)",D:\thesis2\real 106 project\TextBlob\tests\test_sentiments.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_sentiments.TestPatternSentiment.test_analyze(self)",D:\thesis2\real 106 project\TextBlob\tests\test_sentiments.py,,,,,,,,,,,,,,,,,,,,,9,0,9,5,8,0,1,0,9,5,8,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_sentiments.TestPatternSentiment.test_kind(self)",D:\thesis2\real 106 project\TextBlob\tests\test_sentiments.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_sentiments.assert_about_equal(first,second,places)",D:\thesis2\real 106 project\TextBlob\tests\test_sentiments.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.test_taggers.TestNLTKTagger",D:\thesis2\real 106 project\TextBlob\tests\test_taggers.py,1,1,1,1,6,0,6,0,1,1,1,0,,,,,2,2,2,2,15,2,13,6,10,0,,,7,6,4,,,,,1,1,1,1,1,0,"0.00",2,2,2,2
+Function,"tests.test_taggers.TestNLTKTagger.setUp(self)",D:\thesis2\real 106 project\TextBlob\tests\test_taggers.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,3,3,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_taggers.TestNLTKTagger.test_tag(self)",D:\thesis2\real 106 project\TextBlob\tests\test_taggers.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.test_taggers.TestPatternTagger",D:\thesis2\real 106 project\TextBlob\tests\test_taggers.py,1,1,1,1,4,0,4,0,1,2,2,0,,,,,3,2,3,3,18,3,15,8,11,0,,,10,8,6,,,,,1,1,1,1,1,0,"0.00",3,3,3,3
+Function,"tests.test_taggers.TestPatternTagger.setUp(self)",D:\thesis2\real 106 project\TextBlob\tests\test_taggers.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,3,3,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_taggers.TestPatternTagger.test_init(self)",D:\thesis2\real 106 project\TextBlob\tests\test_taggers.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_taggers.TestPatternTagger.test_tag(self)",D:\thesis2\real 106 project\TextBlob\tests\test_taggers.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_taggers.test_cannot_instantiate_incomplete_tagger()",D:\thesis2\real 106 project\TextBlob\tests\test_taggers.py,,,,,,,,,,,,,,,,,,,,,5,0,4,2,2,1,1,0,4,2,2,1,1,1,1,,,,,,0,"0.25",,,,
+Class,"tests.test_taggers.test_cannot_instantiate_incomplete_tagger.BadTagger",D:\thesis2\real 106 project\TextBlob\tests\test_taggers.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,1,3,0,2,1,1,1,,,2,1,1,,,,,0,0,0,0,2,0,"0.50",0,0,0,0
+Class,"tests.test_tokenizers.TestSentenceTokenizer",D:\thesis2\real 106 project\TextBlob\tests\test_tokenizers.py,1,1,1,1,4,0,4,0,1,2,1,0,,,,,5,2,5,5,30,5,25,14,18,2,,,21,13,15,,,,,1,1,1,1,1,0,"0.08",5,5,5,5
+Function,"tests.test_tokenizers.TestSentenceTokenizer.setUp(self)",D:\thesis2\real 106 project\TextBlob\tests\test_tokenizers.py,,,,,,,,,,,,,,,,,,,,,3,0,3,3,2,0,1,0,3,3,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_tokenizers.TestSentenceTokenizer.test_itokenize(self)",D:\thesis2\real 106 project\TextBlob\tests\test_tokenizers.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_tokenizers.TestSentenceTokenizer.test_sent_tokenize(self)",D:\thesis2\real 106 project\TextBlob\tests\test_tokenizers.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,1,1,0,4,2,3,1,1,1,1,,,,,,0,"0.25",,,,
+Function,"tests.test_tokenizers.TestSentenceTokenizer.test_tokenize(self)",D:\thesis2\real 106 project\TextBlob\tests\test_tokenizers.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_tokenizers.TestSentenceTokenizer.test_tokenize_with_multiple_punctuation(self)",D:\thesis2\real 106 project\TextBlob\tests\test_tokenizers.py,,,,,,,,,,,,,,,,,,,,,9,0,9,4,8,0,1,0,7,4,6,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.test_tokenizers.TestWordTokenizer",D:\thesis2\real 106 project\TextBlob\tests\test_tokenizers.py,1,1,1,1,3,0,3,0,1,2,1,0,,,,,6,2,6,6,28,6,22,11,15,0,,,18,11,11,,,,,1,1,1,1,1,0,"0.00",6,6,6,6
+Function,"tests.test_tokenizers.TestWordTokenizer.setUp(self)",D:\thesis2\real 106 project\TextBlob\tests\test_tokenizers.py,,,,,,,,,,,,,,,,,,,,,3,0,3,3,2,0,1,0,3,3,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_tokenizers.TestWordTokenizer.tearDown(self)",D:\thesis2\real 106 project\TextBlob\tests\test_tokenizers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_tokenizers.TestWordTokenizer.test_exclude_punc(self)",D:\thesis2\real 106 project\TextBlob\tests\test_tokenizers.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_tokenizers.TestWordTokenizer.test_itokenize(self)",D:\thesis2\real 106 project\TextBlob\tests\test_tokenizers.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_tokenizers.TestWordTokenizer.test_tokenize(self)",D:\thesis2\real 106 project\TextBlob\tests\test_tokenizers.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_tokenizers.TestWordTokenizer.test_word_tokenize(self)",D:\thesis2\real 106 project\TextBlob\tests\test_tokenizers.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_tokenizers.is_generator(obj)",D:\thesis2\real 106 project\TextBlob\tests\test_tokenizers.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"tests.test_translate.TestTranslator",D:\thesis2\real 106 project\TextBlob\tests\test_translate.py,1,1,1,1,6,1,5,0,1,4,3,0,,,,,13,2,13,13,108,26,82,48,57,0,,,65,38,51,,,,,1,1,1,1,1,0,"0.00",13,13,13,13
+Function,"tests.test_translate.TestTranslator.setUp(self)",D:\thesis2\real 106 project\TextBlob\tests\test_translate.py,,,,,,,,,,,,,,,,,,,,,3,0,3,3,2,0,1,0,3,3,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_translate.TestTranslator.test_detect(self)",D:\thesis2\real 106 project\TextBlob\tests\test_translate.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_translate.TestTranslator.test_detect_non_ascii(self)",D:\thesis2\real 106 project\TextBlob\tests\test_translate.py,,,,,,,,,,,,,,,,,,,,,7,0,7,4,6,0,1,0,7,4,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_translate.TestTranslator.test_detect_parses_json5(self,mock_get_json5)",D:\thesis2\real 106 project\TextBlob\tests\test_translate.py,,,,,,,,,,,,,,,,,,,,,14,5,9,3,8,0,1,0,7,3,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_translate.TestTranslator.test_detect_requires_more_than_two_characters(self)",D:\thesis2\real 106 project\TextBlob\tests\test_translate.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_translate.TestTranslator.test_failed_translation_raises_not_translated(self,mock_get_json5)",D:\thesis2\real 106 project\TextBlob\tests\test_translate.py,,,,,,,,,,,,,,,,,,,,,10,3,7,2,6,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_translate.TestTranslator.test_get_language_from_json5(self)",D:\thesis2\real 106 project\TextBlob\tests\test_translate.py,,,,,,,,,,,,,,,,,,,,,6,1,5,3,4,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_translate.TestTranslator.test_translate(self,mock_get_json5)",D:\thesis2\real 106 project\TextBlob\tests\test_translate.py,,,,,,,,,,,,,,,,,,,,,9,3,6,2,5,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_translate.TestTranslator.test_translate_missing_from_language_auto_detects(self)",D:\thesis2\real 106 project\TextBlob\tests\test_translate.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_translate.TestTranslator.test_translate_non_ascii(self)",D:\thesis2\real 106 project\TextBlob\tests\test_translate.py,,,,,,,,,,,,,,,,,,,,,8,1,7,4,6,0,1,0,7,4,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_translate.TestTranslator.test_translate_spaces(self)",D:\thesis2\real 106 project\TextBlob\tests\test_translate.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_translate.TestTranslator.test_translate_text(self)",D:\thesis2\real 106 project\TextBlob\tests\test_translate.py,,,,,,,,,,,,,,,,,,,,,7,0,7,5,6,0,1,0,7,5,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_translate.TestTranslator.test_translate_unicode_escape(self,trans_success_mock)",D:\thesis2\real 106 project\TextBlob\tests\test_translate.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,1,0,5,3,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_translate.test_unescape()",D:\thesis2\real 106 project\TextBlob\tests\test_translate.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.test_utils.UtilsTests",D:\thesis2\real 106 project\TextBlob\tests\test_utils.py,1,1,1,1,2,0,2,0,1,0,0,0,,,,,4,1,4,4,15,3,12,6,7,0,,,9,6,4,,,,,1,1,1,1,1,0,"0.00",4,4,4,4
+Function,"tests.test_utils.UtilsTests.setUp(self)",D:\thesis2\real 106 project\TextBlob\tests\test_utils.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_utils.UtilsTests.test_lowerstrip(self)",D:\thesis2\real 106 project\TextBlob\tests\test_utils.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_utils.UtilsTests.test_strip_punc(self)",D:\thesis2\real 106 project\TextBlob\tests\test_utils.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_utils.UtilsTests.test_strip_punc_all(self)",D:\thesis2\real 106 project\TextBlob\tests\test_utils.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test_utils.test_is_filelike()",D:\thesis2\real 106 project\TextBlob\tests\test_utils.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,5,1,4,1,1,1,1,,,,,,1,"0.00",,,,
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,1,1,1,1,10,0,3,2,,,,,1,,1,3,,,,,59,7,43,24,26,11,,,41,24,24,,,,,3,3,4,1,,2,,6,6,7,4
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,1,1,1,1,5,0,0,0,,,,,0,,1,0,,,,,18,4,8,4,5,6,,,4,4,1,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,2,2,2,1,8,0,7,1,,,,,1,,1,7,,,,,98,15,60,33,46,23,,,57,33,43,,,,,3,3,4,1,,2,,16,16,18,7
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,1,1,1,1,5,0,3,1,,,,,5,,1,12,,,,,159,36,67,33,43,56,,,58,30,37,,,,,4,4,4,4,,2,,19,19,19,16
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,1,1,1,1,4,0,0,0,,,,,0,,1,0,,,,,17,4,7,4,4,6,,,4,4,1,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,1,1,1,1,11,0,0,0,,,,,0,,1,0,,,,,17,4,13,7,11,0,,,7,7,5,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,1,1,1,1,4,0,2,1,,,,,3,,1,28,,,,,179,40,77,40,42,63,,,74,39,40,,,,,3,3,3,1,,1,,33,33,33,28
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,1,1,1,1,9,0,5,3,,,,,6,,1,30,,,,,488,88,179,87,127,225,,,146,80,101,,,,,4,4,4,4,,2,,43,43,43,33
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,1,1,1,1,6,0,5,0,,,,,1,,1,4,,,,,39,8,21,13,12,10,,,20,11,12,,,,,2,2,2,1,,1,,6,6,6,4
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,1,1,1,1,7,0,3,3,,,,,6,,1,67,,,,,757,146,318,162,202,294,,,245,134,154,,,,,5,5,5,5,,1,,94,94,97,76
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,1,1,2,1,6,0,5,0,,,,,4,,1,16,,,,,194,19,126,63,97,50,,,92,55,70,,,,,5,5,5,4,,2,,33,33,34,22
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,1,1,1,1,5,0,2,0,,,,,6,,1,1,,,,,46,13,22,10,15,13,,,16,10,9,,,,,1,1,1,1,,0,,2,2,2,2
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,1,1,1,1,8,0,5,4,,,,,2,,1,3,,,,,73,15,26,16,14,33,,,20,15,9,,,,,3,3,3,1,,1,,6,6,6,4
+Package,"textblob",,1,1,1,1,7,0,4,3,,,,,0,,1,5,,,,,56,14,25,13,18,17,,,24,12,17,,,,,5,5,5,4,,3,,11,11,11,9
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,1,1,1,1,4,0,0,0,,,,,0,,1,0,,,,,17,3,5,5,4,9,,,5,5,4,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"textblob",,2,2,2,1,6,0,4,0,,,,,0,,1,3,,,,,50,14,27,10,22,15,,,18,10,13,,,,,2,2,2,1,,1,,8,8,8,4
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,1,1,1,1,7,0,0,0,,,,,0,,1,0,,,,,22,4,11,5,7,7,,,4,4,1,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,1,1,1,1,5,0,0,0,,,,,0,,1,0,,,,,19,4,8,4,5,7,,,4,4,1,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,2,2,2,1,5,0,5,0,,,,,1,,1,14,,,,,130,17,89,42,72,26,,,87,41,71,,,,,5,5,5,5,,3,,28,28,28,18
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,1,1,1,1,4,0,0,0,,,,,0,,1,0,,,,,17,4,6,3,4,7,,,3,3,1,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,3,3,4,1,11,0,8,3,,,,,12,,1,95,,,,,1407,140,907,268,780,431,,,714,254,598,,,,,20,20,69,14,,5,,289,289,447,160
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,1,1,1,1,4,0,2,2,,,,,5,,1,8,,,,,106,23,35,26,13,48,,,30,21,13,,,,,2,2,2,1,,1,,10,10,10,9
+Package,"textblob",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob",,1,1,2,1,7,0,3,1,,,,,2,,1,13,,,,,139,25,85,32,65,29,,,64,31,45,,,,,6,6,6,1,,4,,27,27,28,14
+Class,"textblob._text.Context",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,2,2,12,1,13,0,12,5,2,2,0,0,,,,,7,1,7,54,102,7,86,17,77,37,,,36,16,28,,,,,7,7,69,5,3,3,"0.43",16,16,84,11
+Function,"textblob._text.Context.__init__(self,lexicon,path)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,33,0,31,3,30,29,1,0,4,3,3,1,1,1,1,,,,,,0,"0.94",,,,
+Function,"textblob._text.Context.append(self,args,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.Context.apply(self,tokens)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,41,0,38,6,37,4,10,1,14,6,13,7,7,69,5,,,,,,3,"0.11",,,,
+Function,"textblob._text.Context.extend(self,rules)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"textblob._text.Context.insert(self,i,tag1,tag2,cmd,x,y)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,9,0,6,1,5,3,4,1,8,1,7,3,3,9,1,,,,,,1,"0.50",,,,
+Function,"textblob._text.Context.load(self)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob._text.Context.path-getter(self)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"textblob._text.Entities",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,2,2,3,2,9,0,7,2,2,1,0,0,,,,,6,2,6,58,65,6,45,21,37,17,,,39,20,32,,,,,10,10,15,7,3,5,"0.38",17,17,22,12
+Function,"textblob._text.Entities.__init__(self,lexicon,path,tag)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,12,0,9,4,8,6,1,0,5,4,4,1,1,1,1,,,,,,0,"0.67",,,,
+Function,"textblob._text.Entities.append(self,entity,name)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,6,0,3,2,2,3,1,0,3,2,2,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"textblob._text.Entities.apply(self,tokens)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,28,0,22,8,21,6,23,1,21,8,20,10,10,15,7,,,,,,5,"0.27",,,,
+Function,"textblob._text.Entities.extend(self,entities)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"textblob._text.Entities.load(self)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,6,0,4,2,3,2,2,0,4,2,3,2,2,2,1,,,,,,1,"0.50",,,,
+Function,"textblob._text.Entities.path-getter(self)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"textblob._text.Lexicon",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,1,1,1,1,4,0,3,1,1,3,3,0,,,,,4,5,4,54,23,4,15,12,8,4,,,13,10,8,,,,,1,1,1,1,3,0,"0.27",4,4,4,4
+Function,"textblob._text.Lexicon.__init__(self,path,morphology,context,entities,NNP,language)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,9,0,6,6,5,3,1,0,6,6,5,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob._text.Lexicon.language-getter(self)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.Lexicon.load(self)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob._text.Lexicon.path-getter(self)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"textblob._text.Morphology",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,2,2,5,1,9,0,8,2,2,2,0,0,,,,,7,1,7,54,73,7,58,16,49,19,,,39,15,31,,,,,6,6,26,3,3,2,"0.33",17,17,38,9
+Function,"textblob._text.Morphology.__init__(self,lexicon,path)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,17,0,15,3,14,11,1,0,6,3,5,1,1,1,1,,,,,,0,"0.73",,,,
+Function,"textblob._text.Morphology.append(self,args,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.Morphology.apply(self,token,previous,next)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,22,0,20,4,19,4,17,1,12,4,11,6,6,26,3,,,,,,2,"0.20",,,,
+Function,"textblob._text.Morphology.extend(self,rules)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"textblob._text.Morphology.insert(self,i,tag,affix,cmd,tagged)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,15,0,12,2,11,3,16,1,11,2,10,5,5,6,1,,,,,,1,"0.25",,,,
+Function,"textblob._text.Morphology.load(self)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob._text.Morphology.path-getter(self)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"textblob._text.Parser",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,3,3,4,1,14,0,8,6,0,5,1,1,,,,,8,3,8,8,127,8,68,14,59,52,,,56,14,47,,,,,18,18,25,1,0,3,"0.76",25,25,32,8
+Function,"textblob._text.Parser.__init__(self,lexicon,default,language)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,12,0,4,4,3,8,1,0,4,4,3,1,1,1,1,,,,,,0,"2.00",,,,
+Function,"textblob._text.Parser.find_chunks(self,tokens,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,9,0,4,1,3,5,1,0,2,1,1,1,1,1,1,,,,,,0,"1.25",,,,
+Function,"textblob._text.Parser.find_labels(self,tokens,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"textblob._text.Parser.find_lemmata(self,tokens,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"textblob._text.Parser.find_prepositions(self,tokens,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"textblob._text.Parser.find_tags(self,tokens,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,10,0,6,1,5,4,1,0,2,1,1,1,1,1,1,,,,,,0,"0.67",,,,
+Function,"textblob._text.Parser.find_tokens(self,string,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,10,0,6,1,5,4,1,0,2,1,1,1,1,1,1,,,,,,0,"0.67",,,,
+Function,"textblob._text.Parser.parse(self,s,tokenize,tags,chunks,relations,lemmata,encoding,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,65,0,41,3,40,24,19208,4,39,3,38,18,18,25,1,,,,,,3,"0.59",,,,
+Class,"textblob._text.Rules",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,1,1,1,1,3,0,2,1,0,0,0,3,,,,,2,2,2,2,9,2,5,4,2,2,,,5,4,2,,,,,1,1,1,1,0,0,"0.40",2,2,2,2
+Function,"textblob._text.Rules.__init__(self,lexicon,cmd)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.Rules.apply(self,x)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Class,"textblob._text.Score",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,1,1,1,1,3,0,2,1,1,0,0,0,,,,,2,1,2,23,9,2,5,4,2,2,,,5,4,2,,,,,1,1,1,1,2,0,"0.40",2,2,2,2
+Function,"textblob._text.Score.__init__(self,polarity,subjectivity,assessments)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.Score.__new__(self,polarity,subjectivity,assessments)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Class,"textblob._text.Sentiment",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,5,5,7,1,23,0,17,7,1,8,1,1,,,,,9,10,9,59,237,9,167,44,153,72,,,141,40,130,,,,,20,20,33,7,3,5,"0.43",56,56,76,16
+Function,"textblob._text.Sentiment.__call__(self,s,negation,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,56,0,34,8,32,23,10,1,23,7,21,10,10,14,1,,,,,,1,"0.68",,,,
+Function,"textblob._text.Sentiment.__call__.avg(assessments,weighted)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,7,0,7,4,6,0,2,0,7,4,6,2,2,3,1,,,,,,1,"0.00",,,,
+Function,"textblob._text.Sentiment.__init__(self,path,language,synset,confidence,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,16,0,11,11,10,11,1,0,11,11,10,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"textblob._text.Sentiment.annotate(self,word,pos,polarity,subjectivity,intensity,label)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,8,0,5,2,4,3,2,0,5,2,4,2,2,2,1,,,,,,1,"0.60",,,,
+Function,"textblob._text.Sentiment.assessments(self,words,negation)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,75,0,56,8,55,22,706,3,53,8,52,20,20,33,7,,,,,,5,"0.39",,,,
+Function,"textblob._text.Sentiment.confidence-getter(self)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.Sentiment.language-getter(self)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.Sentiment.load(self,path)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,45,0,37,7,36,9,162,2,28,7,27,11,11,13,1,,,,,,3,"0.24",,,,
+Function,"textblob._text.Sentiment.path-getter(self)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.Sentiment.synset(self,id,pos)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,18,0,14,1,13,4,34,2,14,1,13,7,7,7,1,,,,,,2,"0.29",,,,
+Class,"textblob._text.Spelling",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,1,1,2,1,7,0,6,2,1,3,0,0,,,,,8,1,9,59,86,10,60,24,47,21,,,48,20,38,,,,,7,7,11,5,3,1,"0.35",17,17,23,13
+Function,"textblob._text.Spelling.__init__(self,path)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.Spelling._edit1(self,w)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,13,0,9,3,8,4,1,0,4,3,3,1,1,1,1,,,,,,0,"0.44",,,,
+Function,"textblob._text.Spelling._edit2(self,w)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,6,0,2,2,1,4,1,0,2,1,1,1,1,1,1,,,,,,0,"2.00",,,,
+Function,"textblob._text.Spelling._known(self,words)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"textblob._text.Spelling.language-getter(self)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.Spelling.load(self)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,2,0,4,2,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"textblob._text.Spelling.path-getter(self)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.Spelling.suggest(self,w)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,26,0,23,3,22,8,12,1,19,3,18,7,7,11,5,,,,,,1,"0.35",,,,
+Function,"textblob._text.Spelling.train(self,s,path)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,12,0,9,4,8,3,2,0,9,4,8,2,2,4,1,,,,,,1,"0.33",,,,
+Class,"textblob._text.TaggedString",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,3,3,3,2,13,0,9,4,1,2,0,0,,,,,2,0,2,2,29,2,19,3,16,8,,,17,3,14,,,,,3,3,4,3,1,1,"0.42",6,6,7,4
+Function,"textblob._text.TaggedString.__new__(self,string,tags,language)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,15,0,10,1,9,5,4,1,10,1,9,3,3,4,1,,,,,,1,"0.50",,,,
+Function,"textblob._text.TaggedString.split(self,sep)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,11,0,8,1,7,3,3,0,6,1,5,3,3,3,3,,,,,,1,"0.38",,,,
+Function,"textblob._text._read(path,encoding,comment)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,27,0,21,3,20,6,16,1,17,3,16,9,9,13,4,,,,,,3,"0.29",,,,
+Function,"textblob._text._suffix_rules(token,tag)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,18,0,16,1,15,2,128,2,16,1,15,8,8,10,1,,,,,,1,"0.12",,,,
+Function,"textblob._text.avg(list)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,2,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.decode_string(v,encoding)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,13,0,11,2,10,2,8,1,11,2,10,5,5,5,4,,,,,,3,"0.18",,,,
+Function,"textblob._text.encode_string(v,encoding)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,13,0,11,2,10,2,8,1,11,2,10,5,5,5,4,,,,,,3,"0.18",,,,
+Function,"textblob._text.find_chunks(tagged,language)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,40,0,26,11,25,14,88,2,24,11,23,12,12,15,5,,,,,,5,"0.54",,,,
+Function,"textblob._text.find_prepositions(chunked)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,25,0,19,4,18,6,24,1,17,4,16,9,9,14,6,,,,,,5,"0.32",,,,
+Function,"textblob._text.find_tags(tokens,lexicon,model,morphology,context,entities,default,language,map,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,52,0,30,5,29,22,464,3,25,5,24,14,14,22,1,,,,,,3,"0.73",,,,
+Function,"textblob._text.find_tokens(string,punctuation,abbreviations,replace,linebreak)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,71,0,57,6,56,15,1600,3,48,6,47,17,17,24,10,,,,,,5,"0.26",,,,
+Function,"textblob._text.isnumeric(strg)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,6,0,6,1,5,0,2,0,6,1,5,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"textblob._text.lazydict",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,1,1,1,1,2,0,2,0,1,0,0,4,,,,,16,0,16,50,44,3,36,17,19,5,,,36,17,19,,,,,2,2,2,1,2,1,"0.14",17,17,17,16
+Function,"textblob._text.lazydict.__contains__(self,args)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.lazydict.__getitem__(self,args)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.lazydict.__iter__(self)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.lazydict.__len__(self)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.lazydict.__repr__(self)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.lazydict.__setitem__(self,args)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.lazydict._lazy(self,method,args)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,8,0,5,1,4,3,2,0,5,1,4,2,2,2,1,,,,,,1,"0.60",,,,
+Function,"textblob._text.lazydict.get(self,args,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.lazydict.items(self)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.lazydict.keys(self)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.lazydict.load(self)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"textblob._text.lazydict.pop(self,args)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.lazydict.popitem(self,args)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.lazydict.setdefault(self,args)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.lazydict.update(self,args)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.lazydict.values(self)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"textblob._text.lazylist",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,1,1,1,1,2,0,2,0,1,0,0,2,,,,,11,0,11,45,34,3,26,12,14,5,,,26,12,14,,,,,2,2,2,1,2,1,"0.19",12,12,12,11
+Function,"textblob._text.lazylist.__contains__(self,args)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.lazylist.__iter__(self)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.lazylist.__len__(self)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.lazylist.__repr__(self)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.lazylist._lazy(self,method,args)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,8,0,5,1,4,3,2,0,5,1,4,2,2,2,1,,,,,,1,"0.60",,,,
+Function,"textblob._text.lazylist.append(self,args)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.lazylist.extend(self,args)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.lazylist.insert(self,args)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.lazylist.load(self)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"textblob._text.lazylist.pop(self,args)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.lazylist.remove(self,args)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob._text.penntreebank2universal(token,tag)",D:\thesis2\real 106 project\TextBlob\textblob\_text.py,,,,,,,,,,,,,,,,,,,,,30,0,28,1,27,3,14,1,28,1,27,14,14,14,14,,,,,,1,"0.11",,,,
+Class,"textblob.base.BaseNPExtractor",D:\thesis2\real 106 project\TextBlob\textblob\base.py,1,1,1,1,3,0,2,1,1,0,0,3,,,,,1,0,1,1,10,1,4,3,1,5,,,3,2,1,,,,,1,1,1,1,1,0,"1.25",1,1,1,1
+Function,"textblob.base.BaseNPExtractor.extract(self,text)",D:\thesis2\real 106 project\TextBlob\textblob\base.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"textblob.base.BaseParser",D:\thesis2\real 106 project\TextBlob\textblob\base.py,1,1,1,1,3,0,2,1,1,0,0,1,,,,,1,0,1,1,8,0,4,3,1,4,,,3,2,1,,,,,1,1,1,1,1,0,"1.00",1,1,1,1
+Function,"textblob.base.BaseParser.parse(self,text)",D:\thesis2\real 106 project\TextBlob\textblob\base.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"textblob.base.BaseSentimentAnalyzer",D:\thesis2\real 106 project\TextBlob\textblob\base.py,1,1,1,1,4,0,2,2,1,0,0,2,,,,,3,1,3,3,24,3,11,7,6,10,,,10,6,6,,,,,2,2,2,1,1,1,"0.91",4,4,4,3
+Function,"textblob.base.BaseSentimentAnalyzer.__init__(self)",D:\thesis2\real 106 project\TextBlob\textblob\base.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.base.BaseSentimentAnalyzer.analyze(self,text)",D:\thesis2\real 106 project\TextBlob\textblob\base.py,,,,,,,,,,,,,,,,,,,,,9,0,4,1,3,5,2,0,4,1,3,2,2,2,1,,,,,,1,"1.25",,,,
+Function,"textblob.base.BaseSentimentAnalyzer.train(self)",D:\thesis2\real 106 project\TextBlob\textblob\base.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"textblob.base.BaseTagger",D:\thesis2\real 106 project\TextBlob\textblob\base.py,1,1,1,1,5,0,2,3,1,0,0,3,,,,,1,0,1,1,11,0,4,3,1,7,,,3,2,1,,,,,1,1,1,1,1,0,"1.75",1,1,1,1
+Function,"textblob.base.BaseTagger.tag(self,text,tokenize)",D:\thesis2\real 106 project\TextBlob\textblob\base.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Class,"textblob.base.BaseTokenizer",D:\thesis2\real 106 project\TextBlob\textblob\base.py,1,1,1,1,7,1,2,3,2,0,0,2,,,,,2,0,2,2,21,4,6,4,2,11,,,5,3,2,,,,,1,1,1,1,1,0,"1.83",2,2,2,2
+Function,"textblob.base.BaseTokenizer.itokenize(self,text,args,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\base.py,,,,,,,,,,,,,,,,,,,,,8,2,2,1,1,4,1,0,2,1,1,1,1,1,1,,,,,,0,"2.00",,,,
+Function,"textblob.base.BaseTokenizer.tokenize(self,text)",D:\thesis2\real 106 project\TextBlob\textblob\base.py,,,,,,,,,,,,,,,,,,,,,6,1,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Abstract Class,"textblob.blob.BaseBlob",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,1,1,1,1,9,1,3,4,2,9,3,2,,,,,22,3,22,50,267,52,104,53,70,111,,,80,42,57,,,,,3,3,3,3,3,1,"1.07",33,33,33,26
+Function,"textblob.blob.BaseBlob.__add__(self,other)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,14,1,8,1,7,5,3,0,5,1,4,3,3,3,3,,,,,,1,"0.62",,,,
+Function,"textblob.blob.BaseBlob.__hash__(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.blob.BaseBlob.__init__(self,text,tokenizer,pos_tagger,np_extractor,analyzer,parser,classifier,clean_html)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,14,0,14,5,11,0,4,1,8,3,7,3,3,3,3,,,,,,1,"0.00",,,,
+Function,"textblob.blob.BaseBlob._cmpkey(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"textblob.blob.BaseBlob._strkey(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob.blob.BaseBlob.classify(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,5,0,4,1,3,1,2,0,4,1,3,2,2,2,1,,,,,,1,"0.25",,,,
+Function,"textblob.blob.BaseBlob.correct(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,12,2,5,4,4,5,1,0,5,4,4,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"textblob.blob.BaseBlob.detect_language(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,20,6,2,1,1,12,1,0,2,1,1,1,1,1,1,,,,,,0,"6.00",,,,
+Function,"textblob.blob.BaseBlob.ngrams(self,n)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,11,1,6,2,5,4,2,0,5,2,4,2,2,2,1,,,,,,1,"0.67",,,,
+Function,"textblob.blob.BaseBlob.noun_phrases(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,5,0,4,1,3,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.25",,,,
+Function,"textblob.blob.BaseBlob.np_counts(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,7,0,5,3,4,2,2,0,5,3,4,2,2,2,1,,,,,,1,"0.40",,,,
+Function,"textblob.blob.BaseBlob.parse(self,parser)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,10,2,3,2,2,5,1,0,3,2,2,2,2,2,1,,,,,,0,"1.67",,,,
+Function,"textblob.blob.BaseBlob.polarity(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,6,1,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"textblob.blob.BaseBlob.pos_tags(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,14,3,4,1,3,7,1,0,2,1,1,1,1,1,1,,,,,,0,"1.75",,,,
+Function,"textblob.blob.BaseBlob.sentiment(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,9,1,2,1,1,6,1,0,2,1,1,1,1,1,1,,,,,,0,"3.00",,,,
+Function,"textblob.blob.BaseBlob.split(self,sep,maxsplit)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,7,1,2,1,1,4,1,0,2,1,1,1,1,1,1,,,,,,0,"2.00",,,,
+Function,"textblob.blob.BaseBlob.subjectivity(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,7,1,2,1,1,4,1,0,2,1,1,1,1,1,1,,,,,,0,"2.00",,,,
+Function,"textblob.blob.BaseBlob.tokenize(self,tokenizer)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,8,1,3,2,2,4,1,0,3,2,2,2,2,2,1,,,,,,0,"1.33",,,,
+Function,"textblob.blob.BaseBlob.tokens(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"textblob.blob.BaseBlob.translate(self,from_lang,to)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,27,6,5,1,4,16,2,0,4,1,3,2,2,2,1,,,,,,1,"3.20",,,,
+Function,"textblob.blob.BaseBlob.word_counts(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,8,0,6,3,5,2,2,0,6,3,5,2,2,2,1,,,,,,1,"0.33",,,,
+Function,"textblob.blob.BaseBlob.words(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,8,1,2,1,1,5,1,0,2,1,1,1,1,1,1,,,,,,0,"2.50",,,,
+Class,"textblob.blob.Blobber",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,1,1,1,1,8,0,6,1,1,1,1,0,,,,,3,0,3,3,64,10,26,12,21,28,,,14,11,10,,,,,2,2,2,1,1,0,"1.08",4,4,4,3
+Function,"textblob.blob.Blobber.__call__(self,text)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,10,1,5,1,4,4,1,0,2,1,1,1,1,1,1,,,,,,0,"0.80",,,,
+Function,"textblob.blob.Blobber.__init__(self,tokenizer,pos_tagger,np_extractor,analyzer,parser,classifier)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.blob.Blobber.__repr__(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,10,0,10,2,9,0,1,0,3,2,2,2,2,2,1,,,,,,0,"0.00",,,,
+Class,"textblob.blob.Sentence",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,1,1,1,1,8,0,7,1,1,1,0,0,,,,,2,4,2,52,30,3,16,6,12,11,,,7,5,4,,,,,1,1,2,1,4,0,"0.69",2,2,3,2
+Function,"textblob.blob.Sentence.__init__(self,sentence,start_index,end_index,args,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,6,0,4,3,3,2,1,0,4,3,3,1,1,2,1,,,,,,0,"0.50",,,,
+Function,"textblob.blob.Sentence.dict-getter(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,11,0,10,1,9,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.10",,,,
+Class,"textblob.blob.TextBlob",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,1,1,1,1,7,0,3,3,1,2,2,0,,,,,7,6,7,57,78,11,32,24,19,36,,,24,15,16,,,,,2,2,2,1,4,1,"1.12",8,8,8,7
+Function,"textblob.blob.TextBlob._create_sentence_objects(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,19,0,14,11,13,6,2,0,11,8,10,2,2,2,1,,,,,,1,"0.43",,,,
+Function,"textblob.blob.TextBlob.json-getter(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,8,1,2,1,1,5,1,0,2,1,1,1,1,1,1,,,,,,0,"2.50",,,,
+Function,"textblob.blob.TextBlob.raw_sentences-getter(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob.blob.TextBlob.sentences(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob.blob.TextBlob.serialized-getter(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob.blob.TextBlob.to_json(self,args,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,7,1,2,1,1,4,1,0,2,1,1,1,1,1,1,,,,,,0,"2.00",,,,
+Function,"textblob.blob.TextBlob.words(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,8,1,2,2,1,5,1,0,2,1,1,1,1,1,1,,,,,,0,"2.50",,,,
+Class,"textblob.blob.Word",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,1,1,1,1,6,0,2,3,1,1,0,0,,,,,16,2,16,16,134,33,47,26,25,54,,,41,22,24,,,,,2,2,2,1,1,1,"1.15",19,19,19,16
+Function,"textblob.blob.Word.__init__(self,string,pos_tag)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,3,0,3,3,2,0,1,0,3,3,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.blob.Word.__new__(cls,string,pos_tag)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,6,0,2,1,1,4,1,0,2,1,1,1,1,1,1,,,,,,0,"2.00",,,,
+Function,"textblob.blob.Word.__repr__(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.blob.Word.__str__(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.blob.Word.correct(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,7,1,2,1,1,4,1,0,2,1,1,1,1,1,1,,,,,,0,"2.00",,,,
+Function,"textblob.blob.Word.define(self,pos)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,11,2,2,1,1,7,1,0,2,1,1,1,1,1,1,,,,,,0,"3.50",,,,
+Function,"textblob.blob.Word.definitions(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,7,1,2,1,1,4,1,0,2,1,1,1,1,1,1,,,,,,0,"2.00",,,,
+Function,"textblob.blob.Word.detect_language(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,6,1,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"textblob.blob.Word.get_synsets(self,pos)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,11,3,2,1,1,6,1,0,2,1,1,1,1,1,1,,,,,,0,"3.00",,,,
+Function,"textblob.blob.Word.lemma(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,5,0,3,2,2,2,1,0,3,2,2,2,2,2,1,,,,,,0,"0.67",,,,
+Function,"textblob.blob.Word.lemmatize(self,pos)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,12,2,5,2,4,5,2,0,5,2,4,2,2,2,1,,,,,,1,"1.00",,,,
+Function,"textblob.blob.Word.pluralize(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob.blob.Word.singularize(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob.blob.Word.spellcheck(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,10,2,2,1,1,6,1,0,2,1,1,1,1,1,1,,,,,,0,"3.00",,,,
+Function,"textblob.blob.Word.synsets(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,8,2,2,1,1,4,1,0,2,1,1,1,1,1,1,,,,,,0,"2.00",,,,
+Function,"textblob.blob.Word.translate(self,from_lang,to)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,10,1,5,1,4,4,2,0,4,1,3,2,2,2,1,,,,,,1,"0.80",,,,
+Class,"textblob.blob.WordList",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,1,1,1,1,4,0,2,1,1,5,1,0,,,,,14,1,14,48,79,15,42,17,27,22,,,38,17,23,,,,,2,2,2,1,2,1,"0.52",18,18,18,14
+Function,"textblob.blob.WordList.__getitem__(self,key)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,6,0,5,1,4,1,2,0,4,1,3,2,2,2,1,,,,,,1,"0.20",,,,
+Function,"textblob.blob.WordList.__getslice__(self,i,j)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob.blob.WordList.__init__(self,collection)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,6,0,3,2,2,3,1,0,3,2,2,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"textblob.blob.WordList.__iter__(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.blob.WordList.__repr__(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,4,0,3,2,2,1,1,0,3,2,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"textblob.blob.WordList.__str__(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.blob.WordList.append(self,obj)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,8,0,5,1,4,3,2,0,4,1,3,2,2,2,1,,,,,,1,"0.60",,,,
+Function,"textblob.blob.WordList.count(self,strg,case_sensitive,args,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,10,1,5,1,4,4,2,0,4,1,3,2,2,2,1,,,,,,1,"0.80",,,,
+Function,"textblob.blob.WordList.extend(self,iterable)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,7,0,4,1,3,3,1,0,3,1,2,2,2,2,1,,,,,,0,"0.75",,,,
+Function,"textblob.blob.WordList.lemmatize(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob.blob.WordList.lower(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob.blob.WordList.pluralize(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob.blob.WordList.singularize(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob.blob.WordList.upper(self)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob.blob._initialize_models(obj,tokenizer,pos_tagger,np_extractor,analyzer,parser,classifier)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,17,0,15,2,13,2,1,0,7,1,6,1,1,1,1,,,,,,0,"0.13",,,,
+Function,"textblob.blob._penn_to_wordnet(tag)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,11,0,10,1,9,1,5,1,10,1,9,5,5,5,5,,,,,,1,"0.10",,,,
+Function,"textblob.blob._validated_param(obj,name,base_class,default,base_class_name)",D:\thesis2\real 106 project\TextBlob\textblob\blob.py,,,,,,,,,,,,,,,,,,,,,14,1,6,1,5,7,2,0,5,1,4,3,3,5,1,,,,,,1,"1.17",,,,
+Abstract Class,"textblob.classifiers.BaseClassifier",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,1,1,1,1,6,0,4,1,1,5,1,1,,,,,7,4,7,7,74,10,35,15,26,30,,,31,14,23,,,,,4,4,4,4,1,2,"0.86",12,12,12,10
+Function,"textblob.classifiers.BaseClassifier.__init__(self,train_set,feature_extractor,format,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,8,0,8,5,7,1,2,0,7,5,6,2,2,2,1,,,,,,1,"0.12",,,,
+Function,"textblob.classifiers.BaseClassifier._read_data(self,dataset,format)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,16,0,12,3,11,4,4,1,10,3,9,4,4,4,4,,,,,,2,"0.33",,,,
+Function,"textblob.classifiers.BaseClassifier.classifier(self)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob.classifiers.BaseClassifier.classify(self,text)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob.classifiers.BaseClassifier.extract_features(self,text)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,10,1,5,1,4,4,2,0,5,1,4,2,2,2,1,,,,,,1,"0.80",,,,
+Function,"textblob.classifiers.BaseClassifier.labels(self)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob.classifiers.BaseClassifier.train(self,labeled_featureset)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"textblob.classifiers.DecisionTreeClassifier",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,1,1,1,1,7,1,2,4,1,0,0,0,,,,,2,0,2,17,37,8,7,5,4,22,,,7,5,4,,,,,1,1,1,1,3,0,"3.14",2,2,2,2
+Function,"textblob.classifiers.DecisionTreeClassifier.pretty_format(self,args,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,8,1,2,1,1,5,1,0,2,1,1,1,1,1,1,,,,,,0,"2.50",,,,
+Function,"textblob.classifiers.DecisionTreeClassifier.pseudocode(self,args,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,7,1,2,1,1,4,1,0,2,1,1,1,1,1,1,,,,,,0,"2.00",,,,
+Class,"textblob.classifiers.MaxEntClassifier",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,1,1,1,1,18,3,3,12,1,0,0,0,,,,,1,0,1,16,22,4,6,5,4,12,,,6,5,4,,,,,1,1,1,1,3,0,"2.00",1,1,1,1
+Function,"textblob.classifiers.MaxEntClassifier.prob_classify(self,text)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,18,3,3,2,2,12,1,0,3,2,2,1,1,1,1,,,,,,0,"4.00",,,,
+Class,"textblob.classifiers.NLTKClassifier",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,1,1,1,1,9,0,5,3,1,3,0,5,,,,,8,1,8,15,98,17,48,17,37,36,,,38,15,29,,,,,2,2,2,1,2,1,"0.75",12,12,12,8
+Function,"textblob.classifiers.NLTKClassifier.__init__(self,train_set,feature_extractor,format,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.classifiers.NLTKClassifier.__repr__(self)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.classifiers.NLTKClassifier.accuracy(self,test_set,format)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,15,1,7,3,6,8,2,0,6,3,5,2,2,2,1,,,,,,1,"1.14",,,,
+Function,"textblob.classifiers.NLTKClassifier.classifier(self)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,7,0,6,1,5,2,2,0,5,1,4,2,2,2,1,,,,,,1,"0.33",,,,
+Function,"textblob.classifiers.NLTKClassifier.classify(self,text)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,7,1,3,2,2,3,1,0,3,2,2,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"textblob.classifiers.NLTKClassifier.labels(self)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob.classifiers.NLTKClassifier.train(self,args,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,18,2,8,1,7,8,2,0,6,1,5,2,2,2,1,,,,,,1,"1.00",,,,
+Function,"textblob.classifiers.NLTKClassifier.update(self,new_data,args,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,17,1,11,1,10,6,2,0,8,1,7,2,2,2,1,,,,,,1,"0.55",,,,
+Class,"textblob.classifiers.NaiveBayesClassifier",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,1,1,1,1,10,1,2,6,1,0,0,0,,,,,3,0,3,18,52,11,9,6,5,32,,,9,6,5,,,,,1,1,1,1,3,0,"3.56",3,3,3,3
+Function,"textblob.classifiers.NaiveBayesClassifier.informative_features(self,args,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,7,1,2,1,1,4,1,0,2,1,1,1,1,1,1,,,,,,0,"2.00",,,,
+Function,"textblob.classifiers.NaiveBayesClassifier.prob_classify(self,text)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,18,3,3,2,2,12,1,0,3,2,2,1,1,1,1,,,,,,0,"4.00",,,,
+Function,"textblob.classifiers.NaiveBayesClassifier.show_informative_features(self,args,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,7,1,2,1,1,4,1,0,2,1,1,1,1,1,1,,,,,,0,"2.00",,,,
+Class,"textblob.classifiers.PositiveNaiveBayesClassifier",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,1,1,1,1,13,0,9,3,1,0,0,0,,,,,4,7,4,19,98,12,40,18,31,46,,,25,14,20,,,,,3,3,3,1,3,1,"1.15",6,6,6,4
+Function,"textblob.classifiers.PositiveNaiveBayesClassifier.__init__(self,positive_set,unlabeled_set,feature_extractor,positive_prob_prior,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,11,0,11,9,8,0,1,0,7,7,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.classifiers.PositiveNaiveBayesClassifier.__repr__(self)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.classifiers.PositiveNaiveBayesClassifier.train(self,args,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,13,1,5,2,4,7,1,0,3,2,2,1,1,1,1,,,,,,0,"1.40",,,,
+Function,"textblob.classifiers.PositiveNaiveBayesClassifier.update(self,new_positive_data,new_unlabeled_data,positive_prob_prior,args,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,23,1,17,3,14,5,4,1,10,1,9,3,3,3,1,,,,,,1,"0.29",,,,
+Function,"textblob.classifiers._get_document_tokens(document)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,2,0,5,2,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"textblob.classifiers._get_words_from_dataset(dataset)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,15,1,8,3,6,6,1,0,7,3,5,1,1,1,1,,,,,,0,"0.75",,,,
+Function,"textblob.classifiers._get_words_from_dataset.tokenize(words)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"textblob.classifiers.basic_extractor(document,train_set)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,13,1,6,4,5,6,1,0,5,4,4,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"textblob.classifiers.contains_extractor(document)",D:\thesis2\real 106 project\TextBlob\textblob\classifiers.py,,,,,,,,,,,,,,,,,,,,,7,0,4,3,3,3,1,0,4,3,3,1,1,1,1,,,,,,0,"0.75",,,,
+Function,"textblob.compat.implements_to_string(cls)",D:\thesis2\real 106 project\TextBlob\textblob\compat.py,,,,,,,,,,,,,,,,,,,,,7,0,4,1,3,3,1,0,4,1,3,1,1,1,1,,,,,,0,"0.75",,,,
+Function,"textblob.compat.with_metaclass(meta,bases)",D:\thesis2\real 106 project\TextBlob\textblob\compat.py,,,,,,,,,,,,,,,,,,,,,10,1,5,3,2,5,1,0,5,3,2,1,1,1,1,,,,,,0,"1.00",,,,
+Class,"textblob.compat.with_metaclass.metaclass",D:\thesis2\real 106 project\TextBlob\textblob\compat.py,1,1,1,1,2,0,2,0,1,0,0,0,,,,,1,0,1,1,4,1,3,2,1,1,,,3,2,1,,,,,1,1,1,1,1,0,"0.33",1,1,1,1
+Function,"textblob.compat.with_metaclass.metaclass.__new__(cls,name,this_bases,d)",D:\thesis2\real 106 project\TextBlob\textblob\compat.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"textblob.decorators.cached_property",D:\thesis2\real 106 project\TextBlob\textblob\decorators.py,1,1,1,1,4,0,4,0,1,0,0,0,,,,,2,2,2,2,17,3,9,6,6,5,,,9,6,6,,,,,2,2,2,1,1,1,"0.56",3,3,3,2
+Function,"textblob.decorators.cached_property.__get__(self,obj,cls)",D:\thesis2\real 106 project\TextBlob\textblob\decorators.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,2,0,5,2,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"textblob.decorators.cached_property.__init__(self,func)",D:\thesis2\real 106 project\TextBlob\textblob\decorators.py,,,,,,,,,,,,,,,,,,,,,3,0,3,3,2,0,1,0,3,3,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.decorators.requires_nltk_corpus(func)",D:\thesis2\real 106 project\TextBlob\textblob\decorators.py,,,,,,,,,,,,,,,,,,,,,12,0,9,4,6,3,1,0,8,2,6,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"textblob.decorators.requires_nltk_corpus.decorated(args,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\decorators.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,2,0,6,1,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"textblob.download_corpora.download_all()",D:\thesis2\real 106 project\TextBlob\textblob\download_corpora.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"textblob.download_corpora.download_lite()",D:\thesis2\real 106 project\TextBlob\textblob\download_corpora.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"textblob.download_corpora.main()",D:\thesis2\real 106 project\TextBlob\textblob\download_corpora.py,,,,,,,,,,,,,,,,,,,,,6,0,6,1,5,0,2,0,5,1,4,2,2,2,1,,,,,,1,"0.00",,,,
+Package,"textblob.en",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob.en",,1,1,1,1,3,0,2,1,,,,,1,,1,1,,,,,18,4,6,5,1,8,,,6,5,1,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"textblob.en",,12,12,15,10,130,5,33,8,,,,,0,,1,2,,,,,466,24,365,30,362,77,,,77,30,74,,,,,17,17,24,15,,5,,37,37,46,31
+Package,"textblob.en",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob.en",,2,2,2,1,11,0,9,1,,,,,3,,1,12,,,,,204,33,146,71,123,27,,,111,69,90,,,,,5,5,6,5,,3,,26,26,30,22
+Package,"textblob.en",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob.en",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob.en",,1,1,1,1,4,0,3,1,,,,,2,,1,2,,,,,35,8,16,12,5,11,,,15,11,5,,,,,2,2,2,1,,1,,3,3,3,2
+Package,"textblob.en",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob.en",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob.en",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob.en",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob.en",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob.en",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"textblob.en",,1,1,1,1,7,0,5,1,,,,,2,,1,5,,,,,85,17,43,30,28,25,,,36,29,22,,,,,1,1,1,1,,0,,5,5,5,5
+Package,"textblob.en",,1,1,2,1,7,0,3,1,,,,,2,,1,13,,,,,139,25,85,32,65,29,,,64,31,45,,,,,6,6,6,1,,4,,27,27,28,14
+Class,"textblob.en.Parser",D:\thesis2\real 106 project\TextBlob\textblob\en\__init__.py,2,2,2,1,4,0,4,0,1,0,0,0,,,,,2,0,2,10,11,2,9,3,6,0,,,9,3,6,,,,,3,3,3,1,1,1,"0.00",4,4,4,2
+Function,"textblob.en.Parser.find_lemmata(self,tokens,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\en\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.en.Parser.find_tags(self,tokens,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\en\__init__.py,,,,,,,,,,,,,,,,,,,,,6,0,6,1,5,0,4,1,6,1,5,3,3,3,1,,,,,,1,"0.00",,,,
+Class,"textblob.en.Sentiment",D:\thesis2\real 106 project\TextBlob\textblob\en\__init__.py,6,6,6,1,12,0,11,1,1,1,0,0,,,,,1,0,1,60,14,1,12,4,10,1,,,12,4,10,,,,,6,6,6,1,4,4,"0.08",6,6,6,1
+Function,"textblob.en.Sentiment.load(self,path)",D:\thesis2\real 106 project\TextBlob\textblob\en\__init__.py,,,,,,,,,,,,,,,,,,,,,12,0,11,3,10,1,7,1,11,3,10,6,6,6,1,,,,,,4,"0.09",,,,
+Function,"textblob.en.find_lemmata(tokens)",D:\thesis2\real 106 project\TextBlob\textblob\en\__init__.py,,,,,,,,,,,,,,,,,,,,,14,0,9,3,8,5,5,1,9,3,8,4,4,5,1,,,,,,2,"0.56",,,,
+Function,"textblob.en.inflect.pluralize(word,pos,custom,classical)",D:\thesis2\real 106 project\TextBlob\textblob\en\inflect.py,,,,,,,,,,,,,,,,,,,,,54,5,34,9,33,15,36,2,30,9,29,16,16,24,15,,,,,,5,"0.44",,,,
+Function,"textblob.en.inflect.singularize(word,pos,custom)",D:\thesis2\real 106 project\TextBlob\textblob\en\inflect.py,,,,,,,,,,,,,,,,,,,,,39,5,32,9,31,2,194,2,32,9,31,17,17,18,15,,,,,,4,"0.06",,,,
+Class,"textblob.en.np_extractors.ChunkParser",D:\thesis2\real 106 project\TextBlob\textblob\en\np_extractors.py,1,1,1,1,7,0,6,0,1,0,0,0,,,,,3,2,3,3,26,3,21,13,16,2,,,16,12,12,,,,,2,2,2,1,1,1,"0.10",4,4,4,3
+Function,"textblob.en.np_extractors.ChunkParser.__init__(self)",D:\thesis2\real 106 project\TextBlob\textblob\en\np_extractors.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.en.np_extractors.ChunkParser.parse(self,sentence)",D:\thesis2\real 106 project\TextBlob\textblob\en\np_extractors.py,,,,,,,,,,,,,,,,,,,,,10,0,9,5,8,1,2,0,8,5,7,2,2,2,1,,,,,,1,"0.11",,,,
+Function,"textblob.en.np_extractors.ChunkParser.train(self)",D:\thesis2\real 106 project\TextBlob\textblob\en\np_extractors.py,,,,,,,,,,,,,,,,,,,,,9,0,8,4,7,1,1,0,5,4,4,1,1,1,1,,,,,,0,"0.12",,,,
+Class,"textblob.en.np_extractors.ConllExtractor",D:\thesis2\real 106 project\TextBlob\textblob\en\np_extractors.py,1,1,2,1,7,0,6,1,1,1,1,0,,,,,3,1,3,4,44,7,28,15,24,9,,,18,15,14,,,,,2,2,5,1,2,1,"0.32",5,5,8,3
+Function,"textblob.en.np_extractors.ConllExtractor.__init__(self,parser)",D:\thesis2\real 106 project\TextBlob\textblob\en\np_extractors.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,2,2,2,1,,,,,,0,"0.00",,,,
+Function,"textblob.en.np_extractors.ConllExtractor._parse_sentence(self,sentence)",D:\thesis2\real 106 project\TextBlob\textblob\en\np_extractors.py,,,,,,,,,,,,,,,,,,,,,4,0,3,2,2,1,1,0,3,2,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"textblob.en.np_extractors.ConllExtractor.extract(self,text)",D:\thesis2\real 106 project\TextBlob\textblob\en\np_extractors.py,,,,,,,,,,,,,,,,,,,,,16,0,13,7,12,3,2,0,9,7,8,2,2,5,1,,,,,,1,"0.23",,,,
+Class,"textblob.en.np_extractors.FastNPExtractor",D:\thesis2\real 106 project\TextBlob\textblob\en\np_extractors.py,2,2,2,1,13,0,12,0,1,0,0,0,,,,,4,2,4,5,74,10,58,25,52,6,,,38,24,33,,,,,5,5,5,4,2,3,"0.10",8,8,8,7
+Function,"textblob.en.np_extractors.FastNPExtractor.__init__(self)",D:\thesis2\real 106 project\TextBlob\textblob\en\np_extractors.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.en.np_extractors.FastNPExtractor._tokenize_sentence(self,sentence)",D:\thesis2\real 106 project\TextBlob\textblob\en\np_extractors.py,,,,,,,,,,,,,,,,,,,,,4,0,3,2,2,1,1,0,3,2,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"textblob.en.np_extractors.FastNPExtractor.extract(self,sentence)",D:\thesis2\real 106 project\TextBlob\textblob\en\np_extractors.py,,,,,,,,,,,,,,,,,,,,,26,1,24,13,23,1,8,1,24,13,23,5,5,5,4,,,,,,3,"0.04",,,,
+Function,"textblob.en.np_extractors.FastNPExtractor.train(self)",D:\thesis2\real 106 project\TextBlob\textblob\en\np_extractors.py,,,,,,,,,,,,,,,,,,,,,20,0,20,5,19,0,1,0,7,5,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.en.np_extractors._is_match(tagged_phrase,cfg)",D:\thesis2\real 106 project\TextBlob\textblob\en\np_extractors.py,,,,,,,,,,,,,,,,,,,,,21,0,19,9,18,4,4,1,19,9,18,4,4,4,4,,,,,,3,"0.21",,,,
+Function,"textblob.en.np_extractors._normalize_tags(chunk)",D:\thesis2\real 106 project\TextBlob\textblob\en\np_extractors.py,,,,,,,,,,,,,,,,,,,,,17,0,14,3,13,3,9,1,14,3,13,5,5,6,5,,,,,,2,"0.21",,,,
+Function,"textblob.en.parse(s,args,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\en\__init__.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Class,"textblob.en.parsers.PatternParser",D:\thesis2\real 106 project\TextBlob\textblob\en\parsers.py,1,1,1,1,3,0,2,1,1,0,0,0,,,,,1,0,1,2,8,1,3,2,1,4,,,3,2,1,,,,,1,1,1,1,2,0,"1.33",1,1,1,1
+Function,"textblob.en.parsers.PatternParser.parse(self,text)",D:\thesis2\real 106 project\TextBlob\textblob\en\parsers.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob.en.parsetree(s,args,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\en\__init__.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"textblob.en.polarity(s,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\en\__init__.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"textblob.en.positive(s,threshold,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\en\__init__.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Class,"textblob.en.sentiments.NaiveBayesAnalyzer",D:\thesis2\real 106 project\TextBlob\textblob\en\sentiments.py,1,1,1,1,10,0,8,1,1,1,0,0,,,,,3,2,3,6,46,5,29,18,24,12,,,22,17,18,,,,,1,1,1,1,2,0,"0.41",3,3,3,3
+Function,"textblob.en.sentiments.NaiveBayesAnalyzer.__init__(self,feature_extractor)",D:\thesis2\real 106 project\TextBlob\textblob\en\sentiments.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.en.sentiments.NaiveBayesAnalyzer.analyze(self,text)",D:\thesis2\real 106 project\TextBlob\textblob\en\sentiments.py,,,,,,,,,,,,,,,,,,,,,15,0,11,5,10,4,1,0,7,5,6,1,1,1,1,,,,,,0,"0.36",,,,
+Function,"textblob.en.sentiments.NaiveBayesAnalyzer.train(self)",D:\thesis2\real 106 project\TextBlob\textblob\en\sentiments.py,,,,,,,,,,,,,,,,,,,,,11,0,10,6,9,1,1,0,8,6,7,1,1,1,1,,,,,,0,"0.10",,,,
+Class,"textblob.en.sentiments.PatternAnalyzer",D:\thesis2\real 106 project\TextBlob\textblob\en\sentiments.py,1,1,1,1,5,0,2,3,1,0,0,0,,,,,1,0,1,4,16,3,5,4,3,8,,,5,4,3,,,,,1,1,1,1,2,0,"1.60",1,1,1,1
+Function,"textblob.en.sentiments.PatternAnalyzer.analyze(self,text)",D:\thesis2\real 106 project\TextBlob\textblob\en\sentiments.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"textblob.en.sentiments._default_feature_extractor(words)",D:\thesis2\real 106 project\TextBlob\textblob\en\sentiments.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob.en.split(s,token)",D:\thesis2\real 106 project\TextBlob\textblob\en\__init__.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"textblob.en.subjectivity(s,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\en\__init__.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"textblob.en.suggest(w)",D:\thesis2\real 106 project\TextBlob\textblob\en\__init__.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"textblob.en.tag(s,tokenize,encoding)",D:\thesis2\real 106 project\TextBlob\textblob\en\__init__.py,,,,,,,,,,,,,,,,,,,,,8,0,6,4,5,2,3,0,6,4,5,3,3,3,1,,,,,,2,"0.33",,,,
+Class,"textblob.en.taggers.NLTKTagger",D:\thesis2\real 106 project\TextBlob\textblob\en\taggers.py,2,2,2,1,6,0,5,1,1,1,0,0,,,,,1,0,1,2,12,1,7,4,4,4,,,6,3,4,,,,,2,2,2,1,2,1,"0.57",2,2,2,1
+Function,"textblob.en.taggers.NLTKTagger.tag(self,text,tokenize)",D:\thesis2\real 106 project\TextBlob\textblob\en\taggers.py,,,,,,,,,,,,,,,,,,,,,6,0,5,2,4,1,2,0,5,2,4,2,2,2,1,,,,,,1,"0.20",,,,
+Class,"textblob.en.taggers.PatternTagger",D:\thesis2\real 106 project\TextBlob\textblob\en\taggers.py,1,1,1,1,3,0,2,1,1,0,0,0,,,,,1,0,1,2,9,1,3,2,1,5,,,3,2,1,,,,,1,1,1,1,2,0,"1.67",1,1,1,1
+Function,"textblob.en.taggers.PatternTagger.tag(self,text,tokenize)",D:\thesis2\real 106 project\TextBlob\textblob\en\taggers.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob.en.tokenize(s,args,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\en\__init__.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Class,"textblob.exceptions.DeprecationError",D:\thesis2\real 106 project\TextBlob\textblob\exceptions.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,12,3,0,2,1,1,1,,,2,1,1,,,,,0,0,0,0,4,0,"0.50",0,0,0,0
+Class,"textblob.exceptions.FormatError",D:\thesis2\real 106 project\TextBlob\textblob\exceptions.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,12,3,0,2,1,1,1,,,2,1,1,,,,,0,0,0,0,4,0,"0.50",0,0,0,0
+Class,"textblob.exceptions.MissingCorpusError",D:\thesis2\real 106 project\TextBlob\textblob\exceptions.py,1,1,1,1,2,0,2,0,1,1,0,0,,,,,1,0,1,13,7,1,3,2,1,3,,,3,2,1,,,,,1,1,1,1,4,0,"1.00",1,1,1,1
+Function,"textblob.exceptions.MissingCorpusError.__init__(self,message,args,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\exceptions.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"textblob.exceptions.NotTranslated",D:\thesis2\real 106 project\TextBlob\textblob\exceptions.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,12,5,0,2,1,1,3,,,2,1,1,,,,,0,0,0,0,5,0,"1.50",0,0,0,0
+Class,"textblob.exceptions.TextBlobError",D:\thesis2\real 106 project\TextBlob\textblob\exceptions.py,0,0,0,0,0,0,0,0,1,0,0,4,,,,,0,0,0,12,3,0,2,1,1,1,,,2,1,1,,,,,0,0,0,0,3,0,"0.50",0,0,0,0
+Class,"textblob.exceptions.TranslatorError",D:\thesis2\real 106 project\TextBlob\textblob\exceptions.py,0,0,0,0,0,0,0,0,1,0,0,1,,,,,0,0,0,12,3,0,2,1,1,1,,,2,1,1,,,,,0,0,0,0,4,0,"0.50",0,0,0,0
+Abstract Class,"textblob.formats.BaseFormat",D:\thesis2\real 106 project\TextBlob\textblob\formats.py,1,1,1,1,4,0,2,2,1,1,0,4,,,,,2,0,3,3,25,5,8,5,3,12,,,7,4,3,,,,,1,1,1,1,1,0,"1.50",3,3,3,3
+Function,"textblob.formats.BaseFormat.__init__(self,fp,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\formats.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.formats.BaseFormat.detect(cls,stream)",D:\thesis2\real 106 project\TextBlob\textblob\formats.py,,,,,,,,,,,,,,,,,,,,,8,1,2,1,1,5,1,0,2,1,1,1,1,1,1,,,,,,0,"2.50",,,,
+Function,"textblob.formats.BaseFormat.to_iterable(self)",D:\thesis2\real 106 project\TextBlob\textblob\formats.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"textblob.formats.CSV",D:\thesis2\real 106 project\TextBlob\textblob\formats.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,6,8,1,2,2,1,5,,,2,2,1,,,,,0,0,0,0,3,0,"2.50",0,0,0,0
+Class,"textblob.formats.DelimitedFormat",D:\thesis2\real 106 project\TextBlob\textblob\formats.py,1,1,1,1,6,0,5,0,1,1,0,2,,,,,2,1,3,6,26,4,19,8,14,3,,,16,7,12,,,,,2,2,2,1,2,1,"0.16",5,5,5,3
+Function,"textblob.formats.DelimitedFormat.__init__(self,fp,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\formats.py,,,,,,,,,,,,,,,,,,,,,8,0,8,3,7,0,2,0,6,3,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"textblob.formats.DelimitedFormat.detect(cls,stream)",D:\thesis2\real 106 project\TextBlob\textblob\formats.py,,,,,,,,,,,,,,,,,,,,,7,0,6,1,5,1,2,0,6,1,5,2,2,2,1,,,,,,1,"0.17",,,,
+Function,"textblob.formats.DelimitedFormat.to_iterable(self)",D:\thesis2\real 106 project\TextBlob\textblob\formats.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"textblob.formats.JSON",D:\thesis2\real 106 project\TextBlob\textblob\formats.py,1,1,1,1,4,0,3,0,1,1,0,0,,,,,2,1,3,6,28,4,13,6,8,11,,,12,5,8,,,,,2,2,2,1,2,1,"0.85",4,4,4,3
+Function,"textblob.formats.JSON.__init__(self,fp,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\formats.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.formats.JSON.detect(cls,stream)",D:\thesis2\real 106 project\TextBlob\textblob\formats.py,,,,,,,,,,,,,,,,,,,,,7,0,6,1,5,1,2,0,6,1,5,2,2,2,1,,,,,,1,"0.17",,,,
+Function,"textblob.formats.JSON.to_iterable(self)",D:\thesis2\real 106 project\TextBlob\textblob\formats.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"textblob.formats.TSV",D:\thesis2\real 106 project\TextBlob\textblob\formats.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,6,4,0,2,2,1,2,,,2,2,1,,,,,0,0,0,0,3,0,"1.00",0,0,0,0
+Function,"textblob.formats.detect(fp,max_read)",D:\thesis2\real 106 project\TextBlob\textblob\formats.py,,,,,,,,,,,,,,,,,,,,,13,0,9,2,8,4,4,1,9,2,8,4,4,4,4,,,,,,2,"0.44",,,,
+Function,"textblob.formats.get_registry()",D:\thesis2\real 106 project\TextBlob\textblob\formats.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob.formats.register(name,format_class)",D:\thesis2\real 106 project\TextBlob\textblob\formats.py,,,,,,,,,,,,,,,,,,,,,7,1,2,1,1,4,1,0,2,1,1,1,1,1,1,,,,,,0,"2.00",,,,
+Class,"textblob.mixins.BlobComparableMixin",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,2,2,2,1,5,0,4,1,1,2,0,1,,,,,1,0,1,8,9,2,5,2,3,2,,,5,2,3,,,,,2,2,2,1,2,1,"0.40",2,2,2,1
+Function,"textblob.mixins.BlobComparableMixin._compare(self,other,method)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,5,0,4,1,3,1,2,0,4,1,3,2,2,2,1,,,,,,1,"0.25",,,,
+Class,"textblob.mixins.ComparableMixin",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,1,1,1,1,2,0,2,0,1,2,0,1,,,,,7,0,7,7,29,8,18,8,10,3,,,18,8,10,,,,,2,2,2,1,1,1,"0.17",8,8,8,7
+Function,"textblob.mixins.ComparableMixin.__eq__(self,other)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.mixins.ComparableMixin.__ge__(self,other)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.mixins.ComparableMixin.__gt__(self,other)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.mixins.ComparableMixin.__le__(self,other)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.mixins.ComparableMixin.__lt__(self,other)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.mixins.ComparableMixin.__ne__(self,other)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.mixins.ComparableMixin._compare(self,other,method)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,7,0,5,1,4,2,2,0,5,1,4,2,2,2,1,,,,,,1,"0.40",,,,
+Class,"textblob.mixins.StringlikeMixin",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,1,1,1,1,4,0,2,2,1,2,0,1,,,,,20,0,20,20,130,24,50,26,29,57,,,48,26,27,,,,,3,3,3,1,1,1,"1.14",23,23,23,20
+Function,"textblob.mixins.StringlikeMixin.__contains__(self,sub)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob.mixins.StringlikeMixin.__getitem__(self,index)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,10,0,5,1,4,6,2,0,4,1,3,2,2,2,1,,,,,,1,"1.20",,,,
+Function,"textblob.mixins.StringlikeMixin.__iter__(self)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"textblob.mixins.StringlikeMixin.__len__(self)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob.mixins.StringlikeMixin.__repr__(self)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,7,0,6,4,5,1,1,0,5,4,4,3,3,3,1,,,,,,0,"0.17",,,,
+Function,"textblob.mixins.StringlikeMixin.__str__(self)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"textblob.mixins.StringlikeMixin.endswith(self,suffix,start,end)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob.mixins.StringlikeMixin.find(self,sub,start,end)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,6,0,2,1,1,4,1,0,2,1,1,1,1,1,1,,,,,,0,"2.00",,,,
+Function,"textblob.mixins.StringlikeMixin.format(self,args,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"textblob.mixins.StringlikeMixin.index(self,sub,start,end)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"textblob.mixins.StringlikeMixin.join(self,iterable)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,8,1,2,1,1,5,1,0,2,1,1,1,1,1,1,,,,,,0,"2.50",,,,
+Function,"textblob.mixins.StringlikeMixin.lower(self)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"textblob.mixins.StringlikeMixin.replace(self,old,new,count)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"textblob.mixins.StringlikeMixin.rfind(self,sub,start,end)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,6,0,2,1,1,4,1,0,2,1,1,1,1,1,1,,,,,,0,"2.00",,,,
+Function,"textblob.mixins.StringlikeMixin.rindex(self,sub,start,end)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"textblob.mixins.StringlikeMixin.split(self,sep,maxsplit)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"textblob.mixins.StringlikeMixin.startswith(self,prefix,start,end)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob.mixins.StringlikeMixin.strip(self,chars)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"textblob.mixins.StringlikeMixin.title(self)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob.mixins.StringlikeMixin.upper(self)",D:\thesis2\real 106 project\TextBlob\textblob\mixins.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Class,"textblob.ordereddict.OrderedDict",D:\thesis2\real 106 project\TextBlob\textblob\ordereddict.py,2,2,2,1,5,0,5,0,2,5,0,0,,,,,13,2,14,48,103,15,88,41,72,2,,,86,40,71,,,,,5,5,5,5,2,3,"0.02",28,28,28,18
+Function,"textblob.ordereddict.OrderedDict.__delitem__(self,key)",D:\thesis2\real 106 project\TextBlob\textblob\ordereddict.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.ordereddict.OrderedDict.__eq__(self,other)",D:\thesis2\real 106 project\TextBlob\textblob\ordereddict.py,,,,,,,,,,,,,,,,,,,,,9,0,9,2,8,0,5,1,9,2,8,5,5,5,5,,,,,,3,"0.00",,,,
+Function,"textblob.ordereddict.OrderedDict.__init__(self,args,kwds)",D:\thesis2\real 106 project\TextBlob\textblob\ordereddict.py,,,,,,,,,,,,,,,,,,,,,8,0,8,1,7,0,4,1,8,1,7,3,3,3,1,,,,,,1,"0.00",,,,
+Function,"textblob.ordereddict.OrderedDict.__iter__(self)",D:\thesis2\real 106 project\TextBlob\textblob\ordereddict.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,2,0,6,3,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"textblob.ordereddict.OrderedDict.__ne__(self,other)",D:\thesis2\real 106 project\TextBlob\textblob\ordereddict.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.ordereddict.OrderedDict.__reduce__(self)",D:\thesis2\real 106 project\TextBlob\textblob\ordereddict.py,,,,,,,,,,,,,,,,,,,,,9,0,9,4,8,0,2,0,9,4,8,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"textblob.ordereddict.OrderedDict.__repr__(self)",D:\thesis2\real 106 project\TextBlob\textblob\ordereddict.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"textblob.ordereddict.OrderedDict.__reversed__(self)",D:\thesis2\real 106 project\TextBlob\textblob\ordereddict.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,2,0,6,3,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"textblob.ordereddict.OrderedDict.__setitem__(self,key,value)",D:\thesis2\real 106 project\TextBlob\textblob\ordereddict.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,2,0,6,3,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"textblob.ordereddict.OrderedDict.clear(self)",D:\thesis2\real 106 project\TextBlob\textblob\ordereddict.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,2,1,0,5,3,4,1,1,1,1,,,,,,0,"0.40",,,,
+Function,"textblob.ordereddict.OrderedDict.copy(self)",D:\thesis2\real 106 project\TextBlob\textblob\ordereddict.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.ordereddict.OrderedDict.fromkeys(cls,iterable,value)",D:\thesis2\real 106 project\TextBlob\textblob\ordereddict.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,2,0,5,3,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"textblob.ordereddict.OrderedDict.keys(self)",D:\thesis2\real 106 project\TextBlob\textblob\ordereddict.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.ordereddict.OrderedDict.popitem(self,last)",D:\thesis2\real 106 project\TextBlob\textblob\ordereddict.py,,,,,,,,,,,,,,,,,,,,,9,0,9,3,8,0,4,1,8,3,7,3,3,3,1,,,,,,1,"0.00",,,,
+Class,"textblob.tokenizers.SentenceTokenizer",D:\thesis2\real 106 project\TextBlob\textblob\tokenizers.py,1,1,1,1,3,0,2,1,1,0,0,0,,,,,1,0,1,3,11,1,4,3,1,6,,,3,2,1,,,,,1,1,1,1,2,0,"1.50",1,1,1,1
+Function,"textblob.tokenizers.SentenceTokenizer.tokenize(self,text)",D:\thesis2\real 106 project\TextBlob\textblob\tokenizers.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"textblob.tokenizers.WordTokenizer",D:\thesis2\real 106 project\TextBlob\textblob\tokenizers.py,3,3,3,1,17,1,7,9,1,0,0,0,,,,,1,0,1,3,29,4,8,3,6,17,,,6,3,4,,,,,3,3,3,1,2,1,"2.12",3,3,3,1
+Function,"textblob.tokenizers.WordTokenizer.tokenize(self,text,include_punc)",D:\thesis2\real 106 project\TextBlob\textblob\tokenizers.py,,,,,,,,,,,,,,,,,,,,,17,1,7,2,6,9,2,0,5,2,4,3,3,3,1,,,,,,1,"1.29",,,,
+Function,"textblob.tokenizers.word_tokenize(text,include_punc,args,kwargs)",D:\thesis2\real 106 project\TextBlob\textblob\tokenizers.py,,,,,,,,,,,,,,,,,,,,,11,1,6,2,5,4,1,0,3,2,2,1,1,1,1,,,,,,0,"0.67",,,,
+Class,"textblob.translate.Translator",D:\thesis2\real 106 project\TextBlob\textblob\translate.py,2,2,2,1,8,0,7,0,1,2,2,0,,,,,6,0,6,6,75,10,50,24,43,15,,,47,24,40,,,,,3,3,4,1,1,2,"0.30",15,15,17,6
+Function,"textblob.translate.Translator._get_json5(self,url,host,type_,data)",D:\thesis2\real 106 project\TextBlob\textblob\translate.py,,,,,,,,,,,,,,,,,,,,,8,0,8,5,7,0,2,0,8,5,7,2,2,3,1,,,,,,1,"0.00",,,,
+Function,"textblob.translate.Translator._get_language_from_json5(self,content)",D:\thesis2\real 106 project\TextBlob\textblob\translate.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,2,0,5,2,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"textblob.translate.Translator._get_translation_from_json5(self,content)",D:\thesis2\real 106 project\TextBlob\textblob\translate.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,2,0,6,3,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"textblob.translate.Translator._translation_successful(self,content)",D:\thesis2\real 106 project\TextBlob\textblob\translate.py,,,,,,,,,,,,,,,,,,,,,11,0,8,4,7,3,3,0,8,4,7,3,3,4,1,,,,,,2,"0.38",,,,
+Function,"textblob.translate.Translator.detect(self,source,host,type_)",D:\thesis2\real 106 project\TextBlob\textblob\translate.py,,,,,,,,,,,,,,,,,,,,,10,0,9,4,8,1,4,1,9,4,8,3,3,3,1,,,,,,1,"0.11",,,,
+Function,"textblob.translate.Translator.translate(self,source,from_lang,to_lang,host,type_)",D:\thesis2\real 106 project\TextBlob\textblob\translate.py,,,,,,,,,,,,,,,,,,,,,11,0,10,3,9,1,4,1,8,3,7,3,3,3,1,,,,,,1,"0.10",,,,
+Function,"textblob.translate._unescape(text)",D:\thesis2\real 106 project\TextBlob\textblob\translate.py,,,,,,,,,,,,,,,,,,,,,6,0,4,3,3,2,1,0,4,3,3,1,1,1,1,,,,,,0,"0.50",,,,
+Package,"textblob.unicodecsv",,1,1,2,1,6,0,5,0,,,,,4,,1,16,,,,,194,19,126,63,97,50,,,92,55,70,,,,,5,5,5,4,,2,,33,33,34,22
+Class,"textblob.unicodecsv.DictReader",D:\thesis2\real 106 project\TextBlob\textblob\unicodecsv\__init__.py,2,2,3,1,11,0,11,0,1,3,1,0,,,,,2,4,2,2,41,1,23,13,18,17,,,18,11,15,,,,,3,3,4,1,1,1,"0.74",5,5,6,2
+Function,"textblob.unicodecsv.DictReader.__init__(self,csvfile,fieldnames,restkey,restval,dialect,encoding,errors,args,kwds)",D:\thesis2\real 106 project\TextBlob\textblob\unicodecsv\__init__.py,,,,,,,,,,,,,,,,,,,,,15,0,14,8,11,1,4,1,10,6,9,3,3,4,1,,,,,,1,"0.07",,,,
+Function,"textblob.unicodecsv.DictReader.next(self)",D:\thesis2\real 106 project\TextBlob\textblob\unicodecsv\__init__.py,,,,,,,,,,,,,,,,,,,,,8,0,8,4,7,0,2,0,7,4,6,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"textblob.unicodecsv.DictWriter",D:\thesis2\real 106 project\TextBlob\textblob\unicodecsv\__init__.py,1,1,1,1,4,0,4,0,1,2,1,0,,,,,2,3,2,2,27,1,10,8,7,16,,,10,8,7,,,,,1,1,1,1,1,0,"1.60",2,2,2,2
+Function,"textblob.unicodecsv.DictWriter.__init__(self,csvfile,fieldnames,restval,extrasaction,dialect,encoding,errors,args,kwds)",D:\thesis2\real 106 project\TextBlob\textblob\unicodecsv\__init__.py,,,,,,,,,,,,,,,,,,,,,5,0,5,4,4,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.unicodecsv.DictWriter.writeheader(self)",D:\thesis2\real 106 project\TextBlob\textblob\unicodecsv\__init__.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"textblob.unicodecsv.UnicodeReader",D:\thesis2\real 106 project\TextBlob\textblob\unicodecsv\__init__.py,1,1,1,1,4,0,4,0,1,2,0,0,,,,,5,3,5,5,30,4,26,18,17,0,,,22,15,16,,,,,3,3,3,1,1,2,"0.00",8,8,8,5
+Function,"textblob.unicodecsv.UnicodeReader.__init__(self,f,dialect,encoding,errors,kwds)",D:\thesis2\real 106 project\TextBlob\textblob\unicodecsv\__init__.py,,,,,,,,,,,,,,,,,,,,,9,0,9,6,7,0,3,0,8,5,7,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"textblob.unicodecsv.UnicodeReader.__iter__(self)",D:\thesis2\real 106 project\TextBlob\textblob\unicodecsv\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.unicodecsv.UnicodeReader.dialect-getter(self)",D:\thesis2\real 106 project\TextBlob\textblob\unicodecsv\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.unicodecsv.UnicodeReader.line_num-getter(self)",D:\thesis2\real 106 project\TextBlob\textblob\unicodecsv\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.unicodecsv.UnicodeReader.next(self)",D:\thesis2\real 106 project\TextBlob\textblob\unicodecsv\__init__.py,,,,,,,,,,,,,,,,,,,,,8,0,8,6,7,0,1,0,7,6,6,2,2,2,1,,,,,,0,"0.00",,,,
+Class,"textblob.unicodecsv.UnicodeWriter",D:\thesis2\real 106 project\TextBlob\textblob\unicodecsv\__init__.py,1,1,1,1,3,0,3,0,1,0,0,0,,,,,4,3,4,4,31,3,14,11,7,14,,,12,9,7,,,,,2,2,2,1,1,1,"1.00",5,5,5,4
+Function,"textblob.unicodecsv.UnicodeWriter.__init__(self,f,dialect,encoding,errors,args,kwds)",D:\thesis2\real 106 project\TextBlob\textblob\unicodecsv\__init__.py,,,,,,,,,,,,,,,,,,,,,5,0,5,5,3,0,1,0,4,4,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.unicodecsv.UnicodeWriter.dialect-getter(self)",D:\thesis2\real 106 project\TextBlob\textblob\unicodecsv\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.unicodecsv.UnicodeWriter.writerow(self,row)",D:\thesis2\real 106 project\TextBlob\textblob\unicodecsv\__init__.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"textblob.unicodecsv.UnicodeWriter.writerows(self,rows)",D:\thesis2\real 106 project\TextBlob\textblob\unicodecsv\__init__.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"textblob.unicodecsv._stringify(s,encoding,errors)",D:\thesis2\real 106 project\TextBlob\textblob\unicodecsv\__init__.py,,,,,,,,,,,,,,,,,,,,,10,0,10,1,9,1,5,1,8,1,7,5,5,5,3,,,,,,1,"0.10",,,,
+Function,"textblob.unicodecsv._stringify_list(l,encoding,errors)",D:\thesis2\real 106 project\TextBlob\textblob\unicodecsv\__init__.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,2,0,5,1,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"textblob.unicodecsv._unicodify(s,encoding)",D:\thesis2\real 106 project\TextBlob\textblob\unicodecsv\__init__.py,,,,,,,,,,,,,,,,,,,,,8,0,8,1,7,0,4,1,7,1,6,4,4,4,4,,,,,,1,"0.00",,,,
+Function,"textblob.utils.filter_insignificant(chunk,tag_suffixes)",D:\thesis2\real 106 project\TextBlob\textblob\utils.py,,,,,,,,,,,,,,,,,,,,,12,0,11,5,10,1,7,1,11,5,10,5,5,5,4,,,,,,3,"0.09",,,,
+Function,"textblob.utils.is_filelike(obj)",D:\thesis2\real 106 project\TextBlob\textblob\utils.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"textblob.utils.lowerstrip(s,all)",D:\thesis2\real 106 project\TextBlob\textblob\utils.py,,,,,,,,,,,,,,,,,,,,,8,1,2,1,1,5,1,0,2,1,1,1,1,1,1,,,,,,0,"2.50",,,,
+Function,"textblob.utils.strip_punc(s,all)",D:\thesis2\real 106 project\TextBlob\textblob\utils.py,,,,,,,,,,,,,,,,,,,,,11,1,5,1,4,5,2,0,4,1,3,2,2,2,1,,,,,,1,"1.00",,,,
+Function,"textblob.utils.tree2str(tree,concat)",D:\thesis2\real 106 project\TextBlob\textblob\utils.py,,,,,,,,,,,,,,,,,,,,,7,1,2,2,1,4,1,0,2,1,1,1,1,1,1,,,,,,0,"2.00",,,,

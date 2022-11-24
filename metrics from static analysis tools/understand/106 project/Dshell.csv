@@ -1,0 +1,491 @@
+Kind,Name,File,AvgCyclomatic,AvgCyclomaticModified,AvgCyclomaticStrict,AvgEssential,AvgLine,AvgLineBlank,AvgLineCode,AvgLineComment,CountClassBase,CountClassCoupled,CountClassCoupledModified,CountClassDerived,CountDeclClass,CountDeclExecutableUnit,CountDeclFile,CountDeclFunction,CountDeclInstanceMethod,CountDeclInstanceVariable,CountDeclMethod,CountDeclMethodAll,CountLine,CountLineBlank,CountLineCode,CountLineCodeDecl,CountLineCodeExe,CountLineComment,CountPath,CountPathLog,CountStmt,CountStmtDecl,CountStmtExe,Cyclomatic,CyclomaticModified,CyclomaticStrict,Essential,MaxCyclomatic,MaxCyclomaticModified,MaxCyclomaticStrict,MaxEssential,MaxInheritanceTree,MaxNesting,RatioCommentToCode,SumCyclomatic,SumCyclomaticModified,SumCyclomaticStrict,SumEssential
+Module File,"D:\thesis2\real 106 project\Dshell\bin\decode.py",D:\thesis2\real 106 project\Dshell\bin\decode.py,11,11,12,3,52,5,39,12,,,,,1,17,,16,,,,,962,118,660,125,624,212,6,1,564,121,528,4,4,4,3,90,90,99,26,,7,"0.32",187,187,204,60
+Module File,"D:\thesis2\real 106 project\Dshell\bin\generate-dshellrc.py",D:\thesis2\real 106 project\Dshell\bin\generate-dshellrc.py,4,4,5,1,107,0,0,0,,,,,0,1,,0,,,,,147,25,109,9,107,16,5,1,29,8,27,4,4,5,1,4,4,5,1,,2,"0.15",4,4,5,1
+Module File,"D:\thesis2\real 106 project\Dshell\bin\pcapanon.py",D:\thesis2\real 106 project\Dshell\bin\pcapanon.py,4,4,6,1,18,0,11,2,,,,,0,10,,9,,,,,229,32,183,47,159,32,115,2,165,46,141,11,11,18,3,11,11,18,3,,3,"0.17",47,47,62,14
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\dhcp\dhcp.py",D:\thesis2\real 106 project\Dshell\decoders\dhcp\dhcp.py,3,3,4,1,25,7,26,2,,,,,1,3,,2,,,,,89,20,63,16,55,6,2,0,32,15,24,2,2,2,1,7,7,9,1,,3,"0.10",10,10,12,3
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\dns\dns-asn.py",D:\thesis2\real 106 project\Dshell\decoders\dns\dns-asn.py,4,4,5,3,16,1,17,1,,,,,1,4,,3,,,,,76,11,62,16,54,4,2,0,47,16,39,2,2,2,1,12,12,14,10,,5,"0.06",18,18,20,13
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\dns\dns-cc.py",D:\thesis2\real 106 project\Dshell\decoders\dns\dns-cc.py,5,5,7,4,18,1,20,1,,,,,1,4,,3,,,,,86,11,72,16,64,4,2,0,53,16,45,2,2,2,1,16,16,24,14,,6,"0.06",22,22,30,17
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\dns\dns.py",D:\thesis2\real 106 project\Dshell\decoders\dns\dns.py,9,9,11,5,28,3,31,2,,,,,1,4,,3,,,,,123,15,103,15,96,6,2,0,75,15,68,2,2,2,1,23,23,32,18,,5,"0.06",37,37,46,21
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\dns\innuendo-dns.py",D:\thesis2\real 106 project\Dshell\decoders\dns\innuendo-dns.py,3,3,4,1,13,2,9,3,,,,,1,5,,4,,,,,93,23,45,17,38,26,2,0,38,17,30,2,2,2,1,12,12,16,5,,4,"0.58",17,17,21,9
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\dns\reservedips.py",D:\thesis2\real 106 project\Dshell\decoders\dns\reservedips.py,4,4,5,3,27,1,22,12,,,,,1,5,,4,,,,,151,15,100,22,90,50,2,0,58,22,48,2,2,2,1,14,14,16,10,,6,"0.50",24,24,26,16
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\filter\asn-filter.py",D:\thesis2\real 106 project\Dshell\decoders\filter\asn-filter.py,2,2,2,1,10,1,9,1,,,,,1,8,,7,,,,,100,18,73,20,62,13,2,0,49,20,38,2,2,2,1,4,4,4,4,,2,"0.18",18,18,20,11
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\filter\country.py",D:\thesis2\real 106 project\Dshell\decoders\filter\country.py,2,2,3,1,13,1,11,2,,,,,1,8,,7,,,,,124,24,84,20,73,20,1,0,53,20,42,1,1,1,1,7,7,14,7,,2,"0.24",20,20,29,14
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\filter\snort.py",D:\thesis2\real 106 project\Dshell\decoders\filter\snort.py,7,7,8,2,33,1,32,7,,,,,1,6,,5,,,,,209,18,169,29,162,37,2,0,120,28,113,2,2,2,1,26,26,27,7,,4,"0.22",46,46,53,16
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\filter\track.py",D:\thesis2\real 106 project\Dshell\decoders\filter\track.py,4,4,4,1,14,0,13,4,,,,,1,8,,7,,,,,135,13,95,30,85,38,1,0,82,30,72,1,1,1,1,10,10,10,3,,5,"0.40",33,33,38,10
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\flows\large-flows.py",D:\thesis2\real 106 project\Dshell\decoders\flows\large-flows.py,1,1,1,1,6,0,7,0,,,,,1,4,,3,,,,,36,7,29,10,23,1,2,0,20,10,14,2,2,2,1,2,2,2,1,,1,"0.03",7,7,7,4
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\flows\long-flows.py",D:\thesis2\real 106 project\Dshell\decoders\flows\long-flows.py,1,1,1,1,6,0,7,0,,,,,1,3,,2,,,,,29,6,23,8,18,0,2,0,14,8,9,2,2,2,1,2,2,2,1,,1,"0.00",5,5,5,3
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\flows\netflow.py",D:\thesis2\real 106 project\Dshell\decoders\flows\netflow.py,1,1,1,1,5,0,4,0,,,,,1,5,,4,,,,,37,8,27,9,20,3,2,0,19,9,12,2,2,2,1,2,2,2,1,,1,"0.11",7,7,7,5
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\flows\reverse-flow.py",D:\thesis2\real 106 project\Dshell\decoders\flows\reverse-flow.py,2,2,2,1,14,3,14,0,,,,,1,4,,3,,,,,68,16,51,7,46,1,2,0,18,7,13,2,2,2,1,3,3,5,1,,1,"0.02",9,9,11,4
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\ftp\ftp.py",D:\thesis2\real 106 project\Dshell\decoders\ftp\ftp.py,5,5,6,1,22,1,18,5,,,,,1,11,,10,,,,,291,28,192,52,178,79,2,0,169,52,155,2,2,2,1,27,27,31,6,,4,"0.41",63,63,76,19
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\http\flash-detect.py",D:\thesis2\real 106 project\Dshell\decoders\http\flash-detect.py,4,4,4,2,26,3,22,3,,,,,1,8,,7,,,,,236,38,174,34,162,24,2,0,100,33,88,2,2,2,1,11,11,13,6,,3,"0.14",34,34,39,16
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\http\httpdump.py",D:\thesis2\real 106 project\Dshell\decoders\http\httpdump.py,7,7,8,2,33,5,36,1,,,,,1,4,,3,,,,,149,24,121,28,111,4,2,0,86,28,76,2,2,2,1,24,24,28,5,,3,"0.03",28,28,32,8
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\http\ms15-034.py",D:\thesis2\real 106 project\Dshell\decoders\http\ms15-034.py,3,3,4,2,16,2,18,3,,,,,1,3,,2,,,,,74,12,46,8,40,20,2,0,29,8,23,2,2,2,1,8,8,10,6,,3,"0.43",11,11,13,8
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\http\rip-http.py",D:\thesis2\real 106 project\Dshell\decoders\http\rip-http.py,5,5,6,1,17,0,17,1,,,,,2,10,,9,,,,,203,18,172,51,151,14,2,0,148,49,127,2,2,2,1,18,18,27,3,,6,"0.08",51,51,60,12
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\http\web.py",D:\thesis2\real 106 project\Dshell\decoders\http\web.py,5,5,5,1,21,2,22,1,,,,,1,6,,5,,,,,145,20,121,35,110,6,2,0,98,35,87,2,2,2,1,15,15,17,4,,6,"0.05",32,32,34,11
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\misc\followstream.py",D:\thesis2\real 106 project\Dshell\decoders\misc\followstream.py,2,2,2,1,18,3,16,2,,,,,1,5,,4,,,,,114,23,80,18,67,13,2,0,45,17,32,2,2,2,1,5,5,5,4,,2,"0.16",12,12,12,8
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\misc\grep.py",D:\thesis2\real 106 project\Dshell\decoders\misc\grep.py,3,3,3,1,18,3,15,1,,,,,1,10,,9,,,,,205,43,146,29,132,16,2,0,81,29,67,2,2,2,1,6,6,9,1,,2,"0.11",32,32,38,10
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\misc\merge.py",D:\thesis2\real 106 project\Dshell\decoders\misc\merge.py,1,1,1,1,6,0,6,0,,,,,1,3,,2,,,,,33,8,21,7,16,4,2,0,14,7,9,2,2,2,1,2,2,2,1,,1,"0.19",5,5,5,3
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\misc\synrst.py",D:\thesis2\real 106 project\Dshell\decoders\misc\synrst.py,2,2,2,1,9,0,11,1,,,,,1,3,,2,,,,,41,8,30,12,25,6,2,0,21,12,16,2,2,2,1,4,4,4,1,,2,"0.20",7,7,7,3
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\misc\writer.py",D:\thesis2\real 106 project\Dshell\decoders\misc\writer.py,1,1,1,1,5,0,5,1,,,,,1,5,,4,,,,,49,10,25,10,17,15,1,0,18,10,10,1,1,1,1,1,1,1,1,,0,"0.60",5,5,5,5
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\misc\xor.py",D:\thesis2\real 106 project\Dshell\decoders\misc\xor.py,2,2,3,1,10,0,9,2,,,,,1,8,,7,,,,,118,11,75,24,64,36,2,0,58,24,47,2,2,2,1,6,6,10,3,,2,"0.48",23,23,27,10
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\protocol\ether.py",D:\thesis2\real 106 project\Dshell\decoders\protocol\ether.py,1,1,1,1,6,0,7,0,,,,,1,3,,2,,,,,31,5,26,12,18,0,2,0,19,12,11,2,2,2,1,2,2,2,1,,1,"0.00",5,5,5,3
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\protocol\ip.py",D:\thesis2\real 106 project\Dshell\decoders\protocol\ip.py,2,2,2,1,6,0,6,0,,,,,1,3,,2,,,,,30,6,24,9,17,0,2,0,18,9,11,2,2,2,1,3,3,3,1,,1,"0.00",6,6,6,3
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\protocol\protocol.py",D:\thesis2\real 106 project\Dshell\decoders\protocol\protocol.py,1,1,2,1,7,0,5,0,,,,,1,3,,2,,,,,40,9,24,8,19,7,4,1,16,8,11,3,3,5,1,3,3,5,1,,1,"0.29",5,5,7,3
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\smb\psexec.py",D:\thesis2\real 106 project\Dshell\decoders\smb\psexec.py,3,3,3,1,15,0,14,1,,,,,2,13,,12,,,,,247,30,187,62,168,40,2,0,142,62,123,2,2,2,1,17,17,20,8,,4,"0.21",41,41,44,20
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\smb\rip-smb-uploads.py",D:\thesis2\real 106 project\Dshell\decoders\smb\rip-smb-uploads.py,4,4,4,2,20,1,19,2,,,,,1,5,,4,,,,,126,19,94,30,84,21,2,0,77,29,67,2,2,2,1,11,11,12,8,,4,"0.22",21,21,23,14
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\smb\smbfiles.py",D:\thesis2\real 106 project\Dshell\decoders\smb\smbfiles.py,3,3,3,1,17,0,14,3,,,,,2,10,,9,,,,,210,24,145,52,132,49,2,0,109,52,96,2,2,2,1,16,16,18,8,,3,"0.34",32,32,37,19
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\templates\PacketDecoder.py",D:\thesis2\real 106 project\Dshell\decoders\templates\PacketDecoder.py,1,1,1,1,5,1,3,3,,,,,1,3,,2,,,,,31,10,11,9,5,10,1,0,15,9,9,1,1,1,1,1,1,1,1,,0,"0.91",3,3,3,3
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\templates\SessionDecoder.py",D:\thesis2\real 106 project\Dshell\decoders\templates\SessionDecoder.py,1,1,1,1,4,0,2,2,,,,,1,7,,6,,,,,47,14,18,13,8,15,1,0,22,13,12,1,1,1,1,1,1,1,1,,0,"0.83",7,7,7,7
+Module File,"D:\thesis2\real 106 project\Dshell\decoders\tftp\tftp.py",D:\thesis2\real 106 project\Dshell\decoders\tftp\tftp.py,5,5,6,1,32,2,28,7,,,,,1,7,,6,,,,,290,28,184,48,173,86,2,0,128,48,117,2,2,2,1,20,20,22,7,,3,"0.47",37,37,42,13
+Module File,"D:\thesis2\real 106 project\Dshell\install-ubuntu.py",D:\thesis2\real 106 project\Dshell\install-ubuntu.py,4,4,4,1,18,0,0,0,,,,,0,1,,0,,,,,28,7,20,6,18,1,6,1,14,6,12,4,4,4,1,4,4,4,1,,2,"0.05",4,4,4,1
+Module File,"D:\thesis2\real 106 project\Dshell\lib\dfile.py",D:\thesis2\real 106 project\Dshell\lib\dfile.py,2,2,2,1,13,0,9,4,,,,,1,10,,9,,,,,178,24,95,33,81,61,1,0,92,33,78,1,1,1,1,6,6,7,3,,2,"0.64",27,27,28,16
+Module File,"D:\thesis2\real 106 project\Dshell\lib\dnsdecoder.py",D:\thesis2\real 106 project\Dshell\lib\dnsdecoder.py,3,3,3,1,9,0,9,1,,,,,2,7,,6,,,,,101,15,65,27,54,25,2,0,57,25,46,2,2,2,1,6,6,8,3,,4,"0.38",24,24,26,9
+Module File,"D:\thesis2\real 106 project\Dshell\lib\dshell.py",D:\thesis2\real 106 project\Dshell\lib\dshell.py,2,2,3,1,12,0,8,4,,,,,11,63,,62,,,,,1048,155,560,190,481,373,2,0,487,186,406,2,2,2,1,12,12,15,8,,5,"0.67",180,180,196,94
+Module File,"D:\thesis2\real 106 project\Dshell\lib\httpdecoder.py",D:\thesis2\real 106 project\Dshell\lib\httpdecoder.py,2,2,2,1,8,0,8,0,,,,,2,8,,7,,,,,101,16,68,22,54,17,2,0,52,21,38,2,2,2,1,8,8,10,1,,5,"0.25",19,19,22,8
+Module File,"D:\thesis2\real 106 project\Dshell\lib\output\colorout.py",D:\thesis2\real 106 project\Dshell\lib\output\colorout.py,4,4,5,1,21,2,17,3,,,,,1,14,,13,,,,,374,50,244,49,223,83,1,0,168,49,147,1,1,1,1,22,22,26,1,,3,"0.34",68,68,81,14
+Module File,"D:\thesis2\real 106 project\Dshell\lib\output\csvout.py",D:\thesis2\real 106 project\Dshell\lib\output\csvout.py,5,5,5,1,22,6,27,14,,,,,1,2,,1,,,,,72,15,35,13,31,26,1,0,33,13,29,1,1,1,1,9,9,10,1,,3,"0.74",10,10,11,2
+Module File,"D:\thesis2\real 106 project\Dshell\lib\output\jsonout.py",D:\thesis2\real 106 project\Dshell\lib\output\jsonout.py,7,7,7,1,18,2,20,4,,,,,1,3,,2,,,,,85,15,48,14,42,22,1,0,44,14,38,1,1,1,1,15,15,15,1,,4,"0.46",22,22,23,3
+Module File,"D:\thesis2\real 106 project\Dshell\lib\output\netflowout.py",D:\thesis2\real 106 project\Dshell\lib\output\netflowout.py,2,2,2,1,12,0,14,1,,,,,1,5,,4,,,,,86,9,64,16,55,16,1,0,35,16,26,1,1,1,1,4,4,4,1,,3,"0.25",13,13,13,5
+Module File,"D:\thesis2\real 106 project\Dshell\lib\output\output.py",D:\thesis2\real 106 project\Dshell\lib\output\output.py,3,3,3,1,14,0,10,4,,,,,7,29,,28,,,,,554,69,333,122,293,178,1,0,296,121,253,1,1,1,1,12,12,16,6,,5,"0.53",99,99,108,39
+Module File,"D:\thesis2\real 106 project\Dshell\lib\output\xmlout.py",D:\thesis2\real 106 project\Dshell\lib\output\xmlout.py,1,1,1,1,5,0,4,2,,,,,1,7,,6,,,,,60,11,34,18,25,20,1,0,34,18,23,1,1,1,1,5,5,5,1,,2,"0.59",11,11,11,7
+Module File,"D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,2,2,2,1,14,1,11,2,,,,,6,22,,21,,,,,429,71,252,103,223,108,2,0,208,103,179,2,2,2,1,8,8,8,8,,4,"0.43",60,60,60,34
+Module File,"D:\thesis2\real 106 project\Dshell\lib\util.py",D:\thesis2\real 106 project\Dshell\lib\util.py,3,3,3,1,9,0,9,0,,,,,0,16,,15,,,,,290,47,147,53,123,102,1,0,129,49,107,1,1,1,1,8,8,11,5,,3,"0.69",50,50,56,29
+Unknown Class,"OptionParser",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Class,"PacketDecoder.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\templates\PacketDecoder.py,1,1,1,1,8,1,3,3,1,0,0,0,,,,,2,2,2,32,21,6,7,5,4,8,,,11,5,8,,,,,1,1,1,1,3,0,"1.14",2,2,2,2
+Function,"PacketDecoder.DshellDecoder.__init__(self,kwargs)",D:\thesis2\real 106 project\Dshell\decoders\templates\PacketDecoder.py,,,,,,,,,,,,,,,,,,,,,13,3,4,3,3,6,1,0,8,3,7,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"PacketDecoder.DshellDecoder.packetHandler(self,ip)",D:\thesis2\real 106 project\Dshell\decoders\templates\PacketDecoder.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"SessionDecoder.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\templates\SessionDecoder.py,1,1,1,1,4,0,2,2,1,0,0,0,,,,,6,2,6,42,37,10,14,9,7,13,,,18,9,11,,,,,1,1,1,1,5,0,"0.93",6,6,6,6
+Function,"SessionDecoder.DshellDecoder.__init__(self,kwargs)",D:\thesis2\real 106 project\Dshell\decoders\templates\SessionDecoder.py,,,,,,,,,,,,,,,,,,,,,13,3,4,3,3,6,1,0,8,3,7,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"SessionDecoder.DshellDecoder.blobHandler(self,conn,blob)",D:\thesis2\real 106 project\Dshell\decoders\templates\SessionDecoder.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"SessionDecoder.DshellDecoder.connectionCloseHandler(self,conn)",D:\thesis2\real 106 project\Dshell\decoders\templates\SessionDecoder.py,,,,,,,,,,,,,,,,,,,,,2,0,1,1,0,1,1,0,1,1,0,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"SessionDecoder.DshellDecoder.connectionHandler(self,conn)",D:\thesis2\real 106 project\Dshell\decoders\templates\SessionDecoder.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"SessionDecoder.DshellDecoder.connectionInitHandler(self,conn)",D:\thesis2\real 106 project\Dshell\decoders\templates\SessionDecoder.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"SessionDecoder.DshellDecoder.packetHandler(self,udp,data)",D:\thesis2\real 106 project\Dshell\decoders\templates\SessionDecoder.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Class,"asn-filter.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\filter\asn-filter.py,2,2,2,1,11,1,9,1,1,2,1,0,,,,,7,6,7,43,91,15,67,16,59,13,,,43,16,35,,,,,4,4,4,4,5,2,"0.19",16,16,18,10
+Function,"asn-filter.DshellDecoder.__asnTest(self,conn)",D:\thesis2\real 106 project\Dshell\decoders\filter\asn-filter.py,,,,,,,,,,,,,,,,,,,,,11,0,8,1,7,3,4,1,8,1,7,4,4,4,4,,,,,,1,"0.38",,,,
+Function,"asn-filter.DshellDecoder.__callback(self,addr,pkt,ts,raw,kw)",D:\thesis2\real 106 project\Dshell\decoders\filter\asn-filter.py,,,,,,,,,,,,,,,,,,,,,8,0,6,1,5,3,3,0,5,1,4,3,3,4,1,,,,,,2,"0.50",,,,
+Function,"asn-filter.DshellDecoder.__init__(self,kwargs)",D:\thesis2\real 106 project\Dshell\decoders\filter\asn-filter.py,,,,,,,,,,,,,,,,,,,,,42,8,33,7,32,1,1,0,9,7,8,1,1,1,1,,,,,,0,"0.03",,,,
+Function,"asn-filter.DshellDecoder.connectionCloseHandler(self,conn)",D:\thesis2\real 106 project\Dshell\decoders\filter\asn-filter.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,2,0,3,1,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"asn-filter.DshellDecoder.connectionHandler(self,conn)",D:\thesis2\real 106 project\Dshell\decoders\filter\asn-filter.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,2,0,3,1,2,2,2,3,1,,,,,,1,"0.00",,,,
+Function,"asn-filter.DshellDecoder.connectionInitHandler(self,conn)",D:\thesis2\real 106 project\Dshell\decoders\filter\asn-filter.py,,,,,,,,,,,,,,,,,,,,,5,0,4,2,3,1,2,0,4,2,3,2,2,2,1,,,,,,1,"0.25",,,,
+Function,"asn-filter.DshellDecoder.decode(self,args)",D:\thesis2\real 106 project\Dshell\decoders\filter\asn-filter.py,,,,,,,,,,,,,,,,,,,,,11,0,9,2,8,5,2,0,10,2,9,2,2,2,1,,,,,,1,"0.56",,,,
+Class,"colorout.ColorOutput",D:\thesis2\real 106 project\Dshell\lib\output\colorout.py,5,5,6,1,22,2,17,3,1,5,2,0,,,,,13,8,13,25,359,46,236,41,222,80,,,160,41,146,,,,,22,22,26,1,4,3,"0.34",67,67,80,13
+Function,"colorout.ColorOutput._HTMLFooter(self)",D:\thesis2\real 106 project\Dshell\lib\output\colorout.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,0,2,0,5,2,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"colorout.ColorOutput._HTMLHeader(self,title)",D:\thesis2\real 106 project\Dshell\lib\output\colorout.py,,,,,,,,,,,,,,,,,,,,,44,1,43,1,42,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"colorout.ColorOutput.__init__(self,args,kwargs)",D:\thesis2\real 106 project\Dshell\lib\output\colorout.py,,,,,,,,,,,,,,,,,,,,,58,9,37,8,36,15,648,3,32,8,31,12,12,12,1,,,,,,2,"0.41",,,,
+Function,"colorout.ColorOutput._htmlwrite(self,text)",D:\thesis2\real 106 project\Dshell\lib\output\colorout.py,,,,,,,,,,,,,,,,,,,,,7,0,7,1,6,0,3,0,6,1,5,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"colorout.ColorOutput._reset_offsets(self,value)",D:\thesis2\real 106 project\Dshell\lib\output\colorout.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,4,1,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"colorout.ColorOutput._write_blob(self,blob,encoding)",D:\thesis2\real 106 project\Dshell\lib\output\colorout.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"colorout.ColorOutput._write_string(self,text,direction,timestamp,encoding)",D:\thesis2\real 106 project\Dshell\lib\output\colorout.py,,,,,,,,,,,,,,,,,,,,,74,6,61,5,60,7,1344,3,46,5,45,22,22,26,1,,,,,,3,"0.11",,,,
+Function,"colorout.ColorOutput._write_tty(self,text,colorTag)",D:\thesis2\real 106 project\Dshell\lib\output\colorout.py,,,,,,,,,,,,,,,,,,,,,10,1,8,3,7,1,5,1,8,3,7,4,4,4,1,,,,,,2,"0.12",,,,
+Function,"colorout.ColorOutput.close(self)",D:\thesis2\real 106 project\Dshell\lib\output\colorout.py,,,,,,,,,,,,,,,,,,,,,5,0,4,1,3,1,2,0,4,1,3,2,2,2,1,,,,,,1,"0.25",,,,
+Function,"colorout.ColorOutput.errorH(self,x)",D:\thesis2\real 106 project\Dshell\lib\output\colorout.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"colorout.ColorOutput.htmldump(self)",D:\thesis2\real 106 project\Dshell\lib\output\colorout.py,,,,,,,,,,,,,,,,,,,,,9,0,4,2,3,5,1,0,4,2,3,1,1,1,1,,,,,,0,"1.25",,,,
+Function,"colorout.ColorOutput.setColorMode(self)",D:\thesis2\real 106 project\Dshell\lib\output\colorout.py,,,,,,,,,,,,,,,,,,,,,11,0,8,1,7,3,3,0,6,1,5,3,3,6,1,,,,,,2,"0.38",,,,
+Function,"colorout.ColorOutput.write(self,args,kw)",D:\thesis2\real 106 project\Dshell\lib\output\colorout.py,,,,,,,,,,,,,,,,,,,,,60,9,42,9,41,9,2560,3,34,9,33,14,14,20,1,,,,,,3,"0.21",,,,
+Class,"country.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\filter\country.py,2,2,4,1,14,1,11,2,1,2,1,0,,,,,7,6,7,43,113,20,80,16,72,17,,,49,16,41,,,,,7,7,14,7,5,2,"0.21",19,19,28,13
+Function,"country.DshellDecoder.__callback(self,addr,pkt,ts,raw,kw)",D:\thesis2\real 106 project\Dshell\decoders\filter\country.py,,,,,,,,,,,,,,,,,,,,,8,0,6,1,5,3,3,0,5,1,4,3,3,4,1,,,,,,2,"0.50",,,,
+Function,"country.DshellDecoder.__countryTest(self,conn)",D:\thesis2\real 106 project\Dshell\decoders\filter\country.py,,,,,,,,,,,,,,,,,,,,,17,0,14,1,13,3,7,1,14,1,13,7,7,14,7,,,,,,1,"0.21",,,,
+Function,"country.DshellDecoder.__init__(self,kwargs)",D:\thesis2\real 106 project\Dshell\decoders\filter\country.py,,,,,,,,,,,,,,,,,,,,,56,12,40,7,39,4,1,0,9,7,8,1,1,1,1,,,,,,0,"0.10",,,,
+Function,"country.DshellDecoder.connectionCloseHandler(self,conn)",D:\thesis2\real 106 project\Dshell\decoders\filter\country.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,2,0,3,1,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"country.DshellDecoder.connectionHandler(self,conn)",D:\thesis2\real 106 project\Dshell\decoders\filter\country.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,2,0,3,1,2,2,2,3,1,,,,,,1,"0.00",,,,
+Function,"country.DshellDecoder.connectionInitHandler(self,conn)",D:\thesis2\real 106 project\Dshell\decoders\filter\country.py,,,,,,,,,,,,,,,,,,,,,5,0,4,2,3,1,2,0,4,2,3,2,2,2,1,,,,,,1,"0.25",,,,
+Function,"country.DshellDecoder.decode(self,args)",D:\thesis2\real 106 project\Dshell\decoders\filter\country.py,,,,,,,,,,,,,,,,,,,,,11,0,9,2,8,5,2,0,10,2,9,2,2,2,1,,,,,,1,"0.56",,,,
+Class,"csvout.CSVOutput",D:\thesis2\real 106 project\Dshell\lib\output\csvout.py,9,9,10,1,43,6,27,14,1,0,0,0,,,,,1,0,1,13,60,11,32,10,30,21,,,29,10,27,,,,,9,9,10,1,4,3,"0.66",9,9,10,1
+Function,"csvout.CSVOutput.__init__(self,args,kwargs)",D:\thesis2\real 106 project\Dshell\lib\output\csvout.py,,,,,,,,,,,,,,,,,,,,,43,6,27,6,26,14,96,2,25,6,24,9,9,10,1,,,,,,3,"0.52",,,,
+Function,"decode.addFilesFromDirectory(inputs,curDir,wildcard)",D:\thesis2\real 106 project\Dshell\bin\decode.py,,,,,,,,,,,,,,,,,,,,,13,3,7,4,6,3,3,0,7,4,6,3,3,3,1,,,,,,2,"0.43",,,,
+Function,"decode.decode_live(out,options,decoder,decoder_args,decoder_options)",D:\thesis2\real 106 project\Dshell\bin\decode.py,,,,,,,,,,,,,,,,,,,,,32,5,24,3,23,3,160,2,24,2,23,10,10,11,4,,,,,,2,"0.12",,,,
+Class,"decode.dshellOptionParser",D:\thesis2\real 106 project\Dshell\bin\decode.py,2,2,2,1,8,0,7,1,1,1,0,0,,,,,4,0,4,4,42,4,30,10,25,9,,,29,9,24,,,,,5,5,5,1,1,3,"0.30",11,11,11,4
+Function,"decode.dshellOptionParser._process_args(self,largs,rargs,values)",D:\thesis2\real 106 project\Dshell\bin\decode.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,3,0,6,1,5,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"decode.dshellOptionParser.add_decoder_options(self,d)",D:\thesis2\real 106 project\Dshell\bin\decode.py,,,,,,,,,,,,,,,,,,,,,14,0,13,4,12,2,8,1,12,4,11,5,5,5,1,,,,,,3,"0.15",,,,
+Function,"decode.dshellOptionParser.error(self,msg)",D:\thesis2\real 106 project\Dshell\bin\decode.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"decode.dshellOptionParser.parse_args(self,args,kwargs)",D:\thesis2\real 106 project\Dshell\bin\decode.py,,,,,,,,,,,,,,,,,,,,,10,0,8,2,7,2,2,0,8,2,7,2,2,2,1,,,,,,1,"0.25",,,,
+Function,"decode.expandCompressedFile(fname,verbose,tmpdir)",D:\thesis2\real 106 project\Dshell\bin\decode.py,,,,,,,,,,,,,,,,,,,,,34,2,28,7,27,4,27,1,25,7,24,8,8,8,5,,,,,,2,"0.14",,,,
+Function,"decode.getDecoders(decoder_paths)",D:\thesis2\real 106 project\Dshell\bin\decode.py,,,,,,,,,,,,,,,,,,,,,15,0,11,7,10,6,4,1,10,7,9,4,4,4,1,,,,,,3,"0.55",,,,
+Function,"decode.import_module(name,silent,search)",D:\thesis2\real 106 project\Dshell\bin\decode.py,,,,,,,,,,,,,,,,,,,,,36,0,31,5,30,7,196,2,28,4,27,12,12,14,5,,,,,,3,"0.23",,,,
+Function,"decode.initDecoderOptions(decoder,out,options,decoder_args,decoder_options)",D:\thesis2\real 106 project\Dshell\bin\decode.py,,,,,,,,,,,,,,,,,,,,,95,14,56,4,54,26,40352,5,49,4,47,20,20,23,3,,,,,,3,"0.46",,,,
+Function,"decode.main(largs,kwargs)",D:\thesis2\real 106 project\Dshell\bin\decode.py,,,,,,,,,,,,,,,,,,,,,543,58,374,50,370,123,999999999,16,299,50,295,90,90,99,26,,,,,,7,"0.33",,,,
+Function,"decode.printDecoderBriefs(decoders)",D:\thesis2\real 106 project\Dshell\bin\decode.py,,,,,,,,,,,,,,,,,,,,,12,0,11,2,10,1,3,0,10,2,9,3,3,3,1,,,,,,2,"0.09",,,,
+Function,"decode.printDecoders(decoder_map,silent)",D:\thesis2\real 106 project\Dshell\bin\decode.py,,,,,,,,,,,,,,,,,,,,,31,1,28,8,27,3,36,2,24,7,23,9,9,9,4,,,,,,3,"0.11",,,,
+Function,"decode.readInFilter(fname)",D:\thesis2\real 106 project\Dshell\bin\decode.py,,,,,,,,,,,,,,,,,,,,,12,1,9,3,8,4,3,0,9,3,8,3,3,3,1,,,,,,2,"0.44",,,,
+Function,"decode.runChildProcs(procs,q,out,numprocs)",D:\thesis2\real 106 project\Dshell\bin\decode.py,,,,,,,,,,,,,,,,,,,,,21,0,20,5,18,6,19,1,19,5,17,7,7,9,1,,,,,,3,"0.30",,,,
+Function,"decode.setDecoderPath(decoder_path)",D:\thesis2\real 106 project\Dshell\bin\decode.py,,,,,,,,,,,,,,,,,,,,,13,0,8,3,7,7,3,0,8,3,7,3,3,3,1,,,,,,2,"0.88",,,,
+Class,"dfile.dfile",D:\thesis2\real 106 project\Dshell\lib\dfile.py,2,2,3,1,14,0,9,4,1,0,0,0,,,,,9,7,9,25,142,14,89,27,79,39,,,84,27,74,,,,,6,6,7,3,3,2,"0.44",26,26,27,15
+Function,"dfile.dfile.__init__(self,mode,name,data,kwargs)",D:\thesis2\real 106 project\Dshell\lib\dfile.py,,,,,,,,,,,,,,,,,,,,,20,3,12,8,11,5,2,0,11,8,10,2,2,2,1,,,,,,1,"0.42",,,,
+Function,"dfile.dfile.__iter__(self)",D:\thesis2\real 106 project\Dshell\lib\dfile.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"dfile.dfile.__localfilename(self,origname,path,clobber)",D:\thesis2\real 106 project\Dshell\lib\dfile.py,,,,,,,,,,,,,,,,,,,,,28,0,24,6,23,4,18,1,23,6,22,6,6,7,1,,,,,,2,"0.17",,,,
+Function,"dfile.dfile.__repr__(self)",D:\thesis2\real 106 project\Dshell\lib\dfile.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"dfile.dfile.__str__(self)",D:\thesis2\real 106 project\Dshell\lib\dfile.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"dfile.dfile.load(self)",D:\thesis2\real 106 project\Dshell\lib\dfile.py,,,,,,,,,,,,,,,,,,,,,13,0,10,2,9,3,3,0,10,2,9,3,3,3,3,,,,,,1,"0.30",,,,
+Function,"dfile.dfile.md5(self)",D:\thesis2\real 106 project\Dshell\lib\dfile.py,,,,,,,,,,,,,,,,,,,,,16,0,11,3,10,5,3,0,9,3,8,3,3,3,3,,,,,,1,"0.45",,,,
+Function,"dfile.dfile.update(self,data,offset)",D:\thesis2\real 106 project\Dshell\lib\dfile.py,,,,,,,,,,,,,,,,,,,,,12,0,9,1,8,3,9,1,9,1,8,5,5,5,1,,,,,,1,"0.33",,,,
+Function,"dfile.dfile.write(self,path,name,clobber,errorHandler,padding,overlap)",D:\thesis2\real 106 project\Dshell\lib\dfile.py,,,,,,,,,,,,,,,,,,,,,25,2,16,3,15,7,6,1,15,3,14,4,4,4,3,,,,,,1,"0.44",,,,
+Class,"dhcp.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\dhcp\dhcp.py,4,4,5,1,35,7,26,2,1,1,0,0,,,,,2,3,2,35,76,17,53,10,50,6,,,23,9,20,,,,,7,7,9,1,4,3,"0.11",8,8,10,2
+Function,"dhcp.DshellDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\dhcp\dhcp.py,,,,,,,,,,,,,,,,,,,,,41,8,33,4,32,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"dhcp.DshellDecoder.packetHandler(self,udp,data)",D:\thesis2\real 106 project\Dshell\decoders\dhcp\dhcp.py,,,,,,,,,,,,,,,,,,,,,30,6,19,5,18,5,11,1,17,4,16,7,7,9,1,,,,,,3,"0.26",,,,
+Class,"dns-asn.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\dns\dns-asn.py,5,5,6,4,19,1,17,1,1,1,0,0,,,,,3,0,3,44,63,7,53,11,49,4,,,39,11,35,,,,,12,12,14,10,6,5,"0.08",16,16,18,12
+Function,"dns-asn.DshellDecoder.DNSHandler(self,conn,request,response,kwargs)",D:\thesis2\real 106 project\Dshell\decoders\dns\dns-asn.py,,,,,,,,,,,,,,,,,,,,,43,4,36,7,35,4,58,2,29,7,28,12,12,14,10,,,,,,5,"0.11",,,,
+Function,"dns-asn.DshellDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\dns\dns-asn.py,,,,,,,,,,,,,,,,,,,,,9,0,9,1,8,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"dns-asn.DshellDecoder.decode_q(self,dns)",D:\thesis2\real 106 project\Dshell\decoders\dns\dns-asn.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,4,1,7,2,6,3,3,3,1,,,,,,1,"0.00",,,,
+Class,"dns-cc.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\dns\dns-cc.py,6,6,9,5,23,1,20,1,1,1,0,0,,,,,3,0,3,44,73,7,63,11,59,4,,,45,11,41,,,,,16,16,24,14,6,6,"0.06",20,20,28,16
+Function,"dns-cc.DshellDecoder.DNSHandler(self,conn,request,response,kwargs)",D:\thesis2\real 106 project\Dshell\decoders\dns\dns-cc.py,,,,,,,,,,,,,,,,,,,,,51,4,44,7,43,4,90,2,35,7,34,16,16,24,14,,,,,,6,"0.09",,,,
+Function,"dns-cc.DshellDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\dns\dns-cc.py,,,,,,,,,,,,,,,,,,,,,11,0,11,1,10,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"dns-cc.DshellDecoder.decode_q(self,dns)",D:\thesis2\real 106 project\Dshell\decoders\dns\dns-cc.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,4,1,7,2,6,3,3,3,1,,,,,,1,"0.00",,,,
+Class,"dns.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\dns\dns.py,11,11,14,6,36,3,31,2,1,2,0,0,,,,,3,0,3,44,112,12,95,11,91,6,,,68,11,64,,,,,23,23,32,18,6,5,"0.06",35,35,44,20
+Function,"dns.DshellDecoder.DNSHandler(self,conn,request,response,kwargs)",D:\thesis2\real 106 project\Dshell\decoders\dns\dns.py,,,,,,,,,,,,,,,,,,,,,67,6,56,6,55,6,173,2,41,6,40,23,23,32,18,,,,,,5,"0.11",,,,
+Function,"dns.DshellDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\dns\dns.py,,,,,,,,,,,,,,,,,,,,,12,0,12,1,11,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"dns.DshellDecoder.decode_q(self,dns)",D:\thesis2\real 106 project\Dshell\decoders\dns\dns.py,,,,,,,,,,,,,,,,,,,,,29,3,26,3,25,0,408,3,24,3,23,11,11,11,1,,,,,,2,"0.00",,,,
+Class,"dnsdecoder.DNSDecoder",D:\thesis2\real 106 project\Dshell\lib\dnsdecoder.py,4,4,4,1,11,0,9,2,1,3,1,5,,,,,5,3,5,41,78,8,50,21,44,23,,,47,19,41,,,,,6,6,8,3,5,4,"0.46",21,21,23,7
+Function,"dnsdecoder.DNSDecoder.__init__(self,kwargs)",D:\thesis2\real 106 project\Dshell\lib\dnsdecoder.py,,,,,,,,,,,,,,,,,,,,,5,0,5,4,4,1,1,0,5,4,4,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"dnsdecoder.DNSDecoder.blobHandler(self,conn,blob)",D:\thesis2\real 106 project\Dshell\lib\dnsdecoder.py,,,,,,,,,,,,,,,,,,,,,19,0,16,6,15,3,9,1,14,5,13,6,6,6,3,,,,,,3,"0.19",,,,
+Function,"dnsdecoder.DNSDecoder.connectionHandler(self,conn)",D:\thesis2\real 106 project\Dshell\lib\dnsdecoder.py,,,,,,,,,,,,,,,,,,,,,10,0,9,2,8,2,10,1,9,2,8,6,6,8,1,,,,,,4,"0.22",,,,
+Function,"dnsdecoder.DNSDecoder.packetHandler(self,udp,data)",D:\thesis2\real 106 project\Dshell\lib\dnsdecoder.py,,,,,,,,,,,,,,,,,,,,,18,0,16,6,15,3,16,1,15,5,14,6,6,6,1,,,,,,2,"0.19",,,,
+Function,"dnsdecoder.DNSDecoder.postModule(self)",D:\thesis2\real 106 project\Dshell\lib\dnsdecoder.py,,,,,,,,,,,,,,,,,,,,,4,0,3,2,2,1,2,0,3,2,2,2,2,2,1,,,,,,1,"0.33",,,,
+Class,"dnsdecoder.displaystub",D:\thesis2\real 106 project\Dshell\lib\dnsdecoder.py,1,1,1,1,6,0,6,0,1,0,0,0,,,,,1,0,1,27,8,1,7,2,5,0,,,3,2,1,,,,,1,1,1,1,2,0,"0.00",1,1,1,1
+Function,"dnsdecoder.displaystub.__init__(self)",D:\thesis2\real 106 project\Dshell\lib\dnsdecoder.py,,,,,,,,,,,,,,,,,,,,,6,0,6,1,5,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"dshell.Blob",D:\thesis2\real 106 project\Dshell\lib\dshell.py,3,3,3,2,13,0,7,6,1,2,0,1,,,,,6,7,6,16,97,8,48,19,41,45,,,41,19,34,,,,,9,9,10,8,2,5,"0.94",18,18,19,13
+Function,"dshell.Blob.__init__(self,ts,direction,startoffset)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,9,0,9,8,8,1,1,0,8,8,7,1,1,1,1,,,,,,0,"0.11",,,,
+Function,"dshell.Blob.__iter__(self)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,9,0,3,2,2,6,2,0,3,2,2,2,2,2,1,,,,,,1,"2.00",,,,
+Function,"dshell.Blob.__repr__(self)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"dshell.Blob.__str__(self)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"dshell.Blob.data(self,errorHandler,padding,overlap,caller,dup)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,44,0,22,4,21,25,9,1,16,4,15,9,9,10,8,,,,,,5,"1.14",,,,
+Function,"dshell.Blob.update(self,ts,data,offset)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,12,0,8,1,7,4,8,1,8,1,7,4,4,4,1,,,,,,1,"0.50",,,,
+Class,"dshell.Connection",D:\thesis2\real 106 project\Dshell\lib\dshell.py,2,2,2,1,13,0,10,3,1,1,1,0,,,,,6,19,6,20,115,11,66,23,59,42,,,46,23,39,,,,,6,6,7,1,3,2,"0.64",12,12,14,6
+Function,"dshell.Connection.__init__(self,decoder,addr,ts,kwargs)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,29,1,23,14,22,7,1,0,18,14,17,1,1,1,1,,,,,,0,"0.30",,,,
+Function,"dshell.Connection.__iter__(self)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,4,0,3,2,2,1,2,0,3,2,2,2,2,2,1,,,,,,1,"0.33",,,,
+Function,"dshell.Connection.__repr__(self)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,16,0,15,1,14,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.07",,,,
+Function,"dshell.Connection.__str__(self)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"dshell.Connection.data(self,direction,errorHandler,padding,overlap,caller)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,2,1,,,,,,0,"1.50",,,,
+Function,"dshell.Connection.update(self,ts,direction,data,offset)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,26,0,19,2,18,8,18,1,17,2,16,6,6,7,1,,,,,,2,"0.42",,,,
+Class,"dshell.Data",D:\thesis2\real 106 project\Dshell\lib\dshell.py,1,1,1,1,3,0,2,0,1,2,0,2,,,,,10,2,10,10,55,11,29,16,20,15,,,31,16,20,,,,,4,4,4,1,1,3,"0.52",14,14,14,10
+Function,"dshell.Data.__getitem__(self,k)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,1,0,1,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"dshell.Data.__init__(self,args,kwargs)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,6,0,4,3,3,2,1,0,4,3,3,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"dshell.Data.__iter__(self)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,4,0,3,2,2,1,2,0,3,2,2,2,2,2,1,,,,,,1,"0.33",,,,
+Function,"dshell.Data.__repr__(self)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"dshell.Data.__setitem__(self,k,v)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,1,0,1,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"dshell.Data.__str__(self)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"dshell.Data.info(self,args,kwargs)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,10,0,8,3,7,2,4,1,8,3,7,4,4,4,1,,,,,,3,"0.25",,,,
+Function,"dshell.Data.pack(self,fmt,args)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"dshell.Data.unpack(self,fmt,data,args)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"dshell.Data.update(self,args,kwargs)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Class,"dshell.Decoder",D:\thesis2\real 106 project\Dshell\lib\dshell.py,3,3,3,1,13,0,8,4,1,8,1,7,,,,,26,23,26,26,415,60,227,67,200,144,,,209,66,182,,,,,11,11,15,4,1,3,"0.63",87,87,93,40
+Function,"dshell.Decoder.__init__(self,kwargs)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,72,9,52,23,51,13,144,2,46,23,45,9,9,9,1,,,,,,2,"0.25",,,,
+Function,"dshell.Decoder.__repr__(self)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"dshell.Decoder.__super__(self)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"dshell.Decoder._exc(self,e)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,5,0,4,1,3,1,2,0,4,1,3,2,2,2,1,,,,,,1,"0.25",,,,
+Function,"dshell.Decoder.alert(self,args,kw)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,35,6,12,3,11,18,8,1,10,3,9,5,5,5,1,,,,,,2,"1.50",,,,
+Function,"dshell.Decoder.cleanConnectionStore(self)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,4,0,3,2,2,1,2,0,3,2,2,2,2,2,1,,,,,,1,"0.33",,,,
+Function,"dshell.Decoder.cleanup(self,ts)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,9,0,7,2,6,2,4,1,7,2,6,4,4,4,1,,,,,,3,"0.29",,,,
+Function,"dshell.Decoder.close(self,conn,ts)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,29,1,15,1,14,13,41,2,15,1,14,8,8,9,1,,,,,,2,"0.87",,,,
+Function,"dshell.Decoder.debug(self,msg)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"dshell.Decoder.decode(self,args,kw)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,22,0,18,5,17,6,18,1,16,4,15,6,6,6,3,,,,,,2,"0.33",,,,
+Function,"dshell.Decoder.dump(self,args,kw)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,9,0,8,1,7,1,4,1,6,1,5,4,4,4,1,,,,,,1,"0.12",,,,
+Function,"dshell.Decoder.error(self,msg)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"dshell.Decoder.find(self,addr,state)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,11,0,11,2,10,0,5,1,8,2,7,4,4,5,4,,,,,,1,"0.00",,,,
+Function,"dshell.Decoder.getASN(self,ip,db,notfound)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,17,0,12,3,11,8,10,1,12,3,11,5,5,5,4,,,,,,2,"0.67",,,,
+Function,"dshell.Decoder.getGeoIP(self,ip,db,notfound)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,17,0,12,3,11,8,10,1,12,3,11,5,5,5,4,,,,,,2,"0.67",,,,
+Function,"dshell.Decoder.log(self,msg,level)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,2,1,0,2,1,1,1,1,1,1,,,,,,0,"0.67",,,,
+Function,"dshell.Decoder.parseArgs(self,args,options)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,12,0,6,2,5,6,4,1,6,2,5,3,3,3,1,,,,,,1,"1.00",,,,
+Function,"dshell.Decoder.parseOptions(self,options)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,6,0,4,2,3,2,3,0,4,2,3,3,3,3,1,,,,,,2,"0.50",,,,
+Function,"dshell.Decoder.postFile(self)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,2,0,3,1,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"dshell.Decoder.postModule(self)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,8,0,6,1,5,2,2,0,5,1,4,2,2,2,1,,,,,,1,"0.33",,,,
+Function,"dshell.Decoder.preFile(self)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,2,0,3,1,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"dshell.Decoder.preModule(self)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,6,0,4,1,3,2,2,0,4,1,3,2,2,2,1,,,,,,1,"0.50",,,,
+Function,"dshell.Decoder.stop(self,conn)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"dshell.Decoder.track(self,addr,data,ts,offset,kwargs)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,54,5,27,4,26,26,80,2,26,4,25,11,11,15,4,,,,,,3,"0.96",,,,
+Function,"dshell.Decoder.warn(self,msg)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"dshell.Decoder.write(self,obj,kw)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"dshell.IP6Decoder",D:\thesis2\real 106 project\Dshell\lib\dshell.py,0,0,0,0,0,0,0,0,1,0,0,1,,,,,0,0,0,30,2,0,2,1,1,0,,,2,1,1,,,,,0,0,0,0,3,0,"0.00",0,0,0,0
+Class,"dshell.IPDecoder",D:\thesis2\real 106 project\Dshell\lib\dshell.py,4,4,5,1,26,0,20,9,1,3,1,7,,,,,4,7,4,30,134,9,91,23,86,49,,,69,22,64,,,,,12,12,14,4,2,5,"0.54",19,19,22,7
+Function,"dshell.IPDecoder.IPHandler(self,addr,pkt,ts,kwargs)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,7,0,5,1,4,2,2,0,5,1,4,2,2,3,1,,,,,,1,"0.40",,,,
+Function,"dshell.IPDecoder.__init__(self,kwargs)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,9,0,9,8,8,0,1,0,9,8,8,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"dshell.IPDecoder.ipdefrag(self,pkt)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,23,0,17,4,16,14,4,1,17,4,16,4,4,4,4,,,,,,2,"0.82",,,,
+Function,"dshell.IPDecoder.rawHandler(self,pktlen,pkt,ts,kwargs)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,66,0,52,8,51,21,100,2,36,7,35,12,12,14,1,,,,,,5,"0.40",,,,
+Class,"dshell.Packet",D:\thesis2\real 106 project\Dshell\lib\dshell.py,1,1,1,1,7,0,5,1,1,0,0,1,,,,,4,12,4,14,44,7,24,12,19,13,,,21,12,16,,,,,3,3,3,1,2,1,"0.54",7,7,7,4
+Function,"dshell.Packet.__init__(self,decoder,addr,ts,pkt,kwargs)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,22,2,16,7,15,4,4,1,13,7,12,3,3,3,1,,,,,,1,"0.25",,,,
+Function,"dshell.Packet.__iter__(self)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"dshell.Packet.__repr__(self)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"dshell.Packet.__str__(self)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"dshell.TCP6Decoder",D:\thesis2\real 106 project\Dshell\lib\dshell.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,36,2,0,2,1,1,0,,,2,1,1,,,,,0,0,0,0,5,0,"0.00",0,0,0,0
+Class,"dshell.TCPDecoder",D:\thesis2\real 106 project\Dshell\lib\dshell.py,4,4,6,2,16,1,12,3,1,2,0,16,,,,,3,4,3,36,78,12,38,10,34,29,,,33,9,29,,,,,9,9,13,4,4,3,"0.76",14,14,18,6
+Function,"dshell.TCPDecoder.IPHandler(self,addr,pkt,ts,kwargs)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,7,0,6,1,5,1,4,1,5,1,4,4,4,4,4,,,,,,2,"0.17",,,,
+Function,"dshell.TCPDecoder.TCP(self,addr,tcp,ts,kwargs)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,32,3,23,3,22,6,15,1,20,2,19,9,9,13,1,,,,,,3,"0.26",,,,
+Function,"dshell.TCPDecoder.__init__(self,kwargs)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,11,0,8,5,7,4,1,0,7,5,6,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"dshell.UDP6Decoder",D:\thesis2\real 106 project\Dshell\lib\dshell.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,33,2,0,2,1,1,0,,,2,1,1,,,,,0,0,0,0,4,0,"0.00",0,0,0,0
+Class,"dshell.UDPDecoder",D:\thesis2\real 106 project\Dshell\lib\dshell.py,2,2,2,2,17,2,6,8,1,3,1,3,,,,,3,3,3,33,61,11,19,8,15,31,,,19,7,15,,,,,3,3,3,3,3,2,"1.63",7,7,7,7
+Function,"dshell.UDPDecoder.IPHandler(self,addr,pkt,ts,kwargs)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,5,0,4,1,3,1,3,0,4,1,3,3,3,3,3,,,,,,2,"0.25",,,,
+Function,"dshell.UDPDecoder.UDP(self,addr,data,pkt,ts,kwargs)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,39,7,9,2,8,23,3,0,9,1,8,3,3,3,3,,,,,,2,"2.56",,,,
+Function,"dshell.UDPDecoder.__init__(self,kwargs)",D:\thesis2\real 106 project\Dshell\lib\dshell.py,,,,,,,,,,,,,,,,,,,,,7,0,5,4,4,2,1,0,5,4,4,1,1,1,1,,,,,,0,"0.40",,,,
+Class,"ether.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\protocol\ether.py,1,1,1,1,7,0,7,0,1,2,0,0,,,,,2,0,2,28,18,2,16,6,13,0,,,10,6,7,,,,,2,2,2,1,2,1,"0.00",3,3,3,2
+Function,"ether.DshellDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\protocol\ether.py,,,,,,,,,,,,,,,,,,,,,7,0,7,1,6,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"ether.DshellDecoder.rawHandler(self,dlen,data,ts,kw)",D:\thesis2\real 106 project\Dshell\decoders\protocol\ether.py,,,,,,,,,,,,,,,,,,,,,8,0,8,4,7,0,2,0,7,4,6,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"flash-detect.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\http\flash-detect.py,4,4,5,2,29,3,22,3,1,1,0,0,,,,,7,1,7,49,224,35,165,29,157,24,,,92,28,84,,,,,11,11,13,6,6,3,"0.15",32,32,37,15
+Function,"flash-detect.DshellDecoder.HTTPHandler(self,conn,request,response,requesttime,responsetime)",D:\thesis2\real 106 project\Dshell\decoders\http\flash-detect.py,,,,,,,,,,,,,,,,,,,,,47,5,33,7,32,9,33,2,25,6,24,11,11,13,4,,,,,,2,"0.27",,,,
+Function,"flash-detect.DshellDecoder.__body_md5(self,response)",D:\thesis2\real 106 project\Dshell\decoders\http\flash-detect.py,,,,,,,,,,,,,,,,,,,,,7,0,6,1,5,1,2,0,5,1,4,2,2,2,1,,,,,,1,"0.17",,,,
+Function,"flash-detect.DshellDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\http\flash-detect.py,,,,,,,,,,,,,,,,,,,,,82,16,66,2,65,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"flash-detect.DshellDecoder.__localfilename(self,path,origname)",D:\thesis2\real 106 project\Dshell\decoders\http\flash-detect.py,,,,,,,,,,,,,,,,,,,,,18,0,17,6,16,1,6,1,16,6,15,4,4,5,1,,,,,,2,"0.06",,,,
+Function,"flash-detect.DshellDecoder.__mkoutdir(self,outdir)",D:\thesis2\real 106 project\Dshell\decoders\http\flash-detect.py,,,,,,,,,,,,,,,,,,,,,27,1,22,2,21,4,14,1,22,2,21,7,7,7,6,,,,,,1,"0.18",,,,
+Function,"flash-detect.DshellDecoder.get_file_info(self,request,response)",D:\thesis2\real 106 project\Dshell\decoders\http\flash-detect.py,,,,,,,,,,,,,,,,,,,,,22,4,12,5,11,6,8,1,12,5,11,5,5,7,1,,,,,,3,"0.50",,,,
+Function,"flash-detect.DshellDecoder.preModule(self)",D:\thesis2\real 106 project\Dshell\decoders\http\flash-detect.py,,,,,,,,,,,,,,,,,,,,,5,0,4,1,3,1,2,0,4,1,3,2,2,2,1,,,,,,1,"0.25",,,,
+Class,"followstream.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\misc\followstream.py,2,2,2,1,22,3,16,2,1,4,1,0,,,,,4,5,4,40,94,18,67,9,62,11,,,33,8,28,,,,,5,5,5,4,5,2,"0.16",10,10,10,7
+Function,"followstream.DshellDecoder.__errorHandler(self,blob,expected,offset,caller)",D:\thesis2\real 106 project\Dshell\decoders\misc\followstream.py,,,,,,,,,,,,,,,,,,,,,10,0,8,1,7,4,3,0,5,1,4,3,3,3,1,,,,,,1,"0.50",,,,
+Function,"followstream.DshellDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\misc\followstream.py,,,,,,,,,,,,,,,,,,,,,35,7,28,2,27,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"followstream.DshellDecoder.connectionHandler(self,connection)",D:\thesis2\real 106 project\Dshell\decoders\misc\followstream.py,,,,,,,,,,,,,,,,,,,,,36,7,25,2,24,4,5,1,19,1,18,5,5,5,4,,,,,,2,"0.16",,,,
+Function,"followstream.DshellDecoder.preModule(self)",D:\thesis2\real 106 project\Dshell\decoders\misc\followstream.py,,,,,,,,,,,,,,,,,,,,,8,0,5,3,4,3,1,0,5,3,4,1,1,1,1,,,,,,0,"0.60",,,,
+Class,"ftp.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\ftp\ftp.py,6,6,7,1,23,1,18,5,1,3,0,0,,,,,10,4,10,46,265,25,184,48,173,64,,,162,48,151,,,,,27,27,31,6,5,4,"0.35",61,61,74,18
+Function,"ftp.DshellDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\ftp\ftp.py,,,,,,,,,,,,,,,,,,,,,13,0,13,1,12,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"ftp.DshellDecoder.__localfilename(self,path,origname)",D:\thesis2\real 106 project\Dshell\decoders\ftp\ftp.py,,,,,,,,,,,,,,,,,,,,,17,0,17,6,16,0,6,1,16,6,15,4,4,5,1,,,,,,2,"0.00",,,,
+Function,"ftp.DshellDecoder.__mkoutdir(self,outdir)",D:\thesis2\real 106 project\Dshell\decoders\ftp\ftp.py,,,,,,,,,,,,,,,,,,,,,17,0,17,2,16,2,14,1,20,2,19,7,7,7,6,,,,,,1,"0.12",,,,
+Function,"ftp.DshellDecoder.__updatebpf(self)",D:\thesis2\real 106 project\Dshell\decoders\ftp\ftp.py,,,,,,,,,,,,,,,,,,,,,10,0,10,3,9,0,2,0,7,3,6,3,3,4,1,,,,,,1,"0.00",,,,
+Function,"ftp.DshellDecoder.blobHandler(self,conn,blob)",D:\thesis2\real 106 project\Dshell\decoders\ftp\ftp.py,,,,,,,,,,,,,,,,,,,,,106,9,69,12,68,31,158,2,63,12,62,27,27,31,4,,,,,,4,"0.45",,,,
+Function,"ftp.DshellDecoder.calculateTransfer(self,val)",D:\thesis2\real 106 project\Dshell\decoders\ftp\ftp.py,,,,,,,,,,,,,,,,,,,,,6,0,5,4,4,1,1,0,5,4,4,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"ftp.DshellDecoder.connectionCloseHandler(self,conn)",D:\thesis2\real 106 project\Dshell\decoders\ftp\ftp.py,,,,,,,,,,,,,,,,,,,,,29,1,18,3,17,10,13,1,17,3,16,8,8,11,1,,,,,,3,"0.56",,,,
+Function,"ftp.DshellDecoder.connectionInitHandler(self,conn)",D:\thesis2\real 106 project\Dshell\decoders\ftp\ftp.py,,,,,,,,,,,,,,,,,,,,,14,0,9,1,8,5,5,1,6,1,5,5,5,7,1,,,,,,1,"0.56",,,,
+Function,"ftp.DshellDecoder.postModule(self)",D:\thesis2\real 106 project\Dshell\decoders\ftp\ftp.py,,,,,,,,,,,,,,,,,,,,,15,0,14,8,13,1,3,0,14,8,13,3,3,5,1,,,,,,2,"0.07",,,,
+Function,"ftp.DshellDecoder.preModule(self)",D:\thesis2\real 106 project\Dshell\decoders\ftp\ftp.py,,,,,,,,,,,,,,,,,,,,,11,1,8,4,7,5,2,0,8,4,7,2,2,2,1,,,,,,1,"0.62",,,,
+Class,"grep.grepDecoder",D:\thesis2\real 106 project\Dshell\decoders\misc\grep.py,3,3,4,1,19,3,15,1,1,1,0,0,,,,,9,7,9,45,189,38,137,24,127,14,,,73,24,63,,,,,6,6,9,1,5,2,"0.10",30,30,36,9
+Function,"grep.grepDecoder.__alert(self,conn,hitstring,matchObj)",D:\thesis2\real 106 project\Dshell\decoders\misc\grep.py,,,,,,,,,,,,,,,,,,,,,7,0,7,4,6,0,2,0,7,4,6,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"grep.grepDecoder.__connectionTest(self,connection)",D:\thesis2\real 106 project\Dshell\decoders\misc\grep.py,,,,,,,,,,,,,,,,,,,,,12,0,12,1,11,0,10,1,10,1,9,5,5,5,1,,,,,,2,"0.00",,,,
+Function,"grep.grepDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\misc\grep.py,,,,,,,,,,,,,,,,,,,,,77,19,58,2,57,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"grep.grepDecoder.__runSearch(self,d,conn)",D:\thesis2\real 106 project\Dshell\decoders\misc\grep.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,0,4,1,7,2,6,4,4,4,1,,,,,,2,"0.00",,,,
+Function,"grep.grepDecoder.__searchStream(self,d,conn)",D:\thesis2\real 106 project\Dshell\decoders\misc\grep.py,,,,,,,,,,,,,,,,,,,,,9,1,8,3,7,0,3,0,7,3,6,3,3,4,1,,,,,,2,"0.00",,,,
+Function,"grep.grepDecoder.blobHandler(self,connection,blob)",D:\thesis2\real 106 project\Dshell\decoders\misc\grep.py,,,,,,,,,,,,,,,,,,,,,7,0,5,1,4,2,3,0,5,1,4,3,3,3,1,,,,,,2,"0.40",,,,
+Function,"grep.grepDecoder.connectionHandler(self,connection)",D:\thesis2\real 106 project\Dshell\decoders\misc\grep.py,,,,,,,,,,,,,,,,,,,,,19,3,13,2,12,3,7,1,11,2,10,5,5,7,1,,,,,,2,"0.23",,,,
+Function,"grep.grepDecoder.errorH(self,x)",D:\thesis2\real 106 project\Dshell\decoders\misc\grep.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"grep.grepDecoder.preModule(self)",D:\thesis2\real 106 project\Dshell\decoders\misc\grep.py,,,,,,,,,,,,,,,,,,,,,37,6,23,7,22,8,32,2,20,7,19,6,6,9,1,,,,,,1,"0.35",,,,
+Class,"httpdecoder.HTTPDecoder",D:\thesis2\real 106 project\Dshell\lib\httpdecoder.py,2,2,3,1,8,0,8,0,1,1,0,5,,,,,6,3,6,42,75,9,51,14,44,15,,,40,13,33,,,,,8,8,10,1,5,5,"0.29",16,16,19,6
+Function,"httpdecoder.HTTPDecoder.UnpackError(self,error)",D:\thesis2\real 106 project\Dshell\lib\httpdecoder.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpdecoder.HTTPDecoder.__init__(self,kwargs)",D:\thesis2\real 106 project\Dshell\lib\httpdecoder.py,,,,,,,,,,,,,,,,,,,,,5,0,5,4,4,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpdecoder.HTTPDecoder.blobHandler(self,conn,blob)",D:\thesis2\real 106 project\Dshell\lib\httpdecoder.py,,,,,,,,,,,,,,,,,,,,,27,0,26,4,25,1,8,1,19,3,18,8,8,10,1,,,,,,5,"0.04",,,,
+Function,"httpdecoder.HTTPDecoder.connectionHandler(self,conn)",D:\thesis2\real 106 project\Dshell\lib\httpdecoder.py,,,,,,,,,,,,,,,,,,,,,10,0,9,1,8,1,3,0,5,1,4,3,3,4,1,,,,,,2,"0.11",,,,
+Function,"httpdecoder.HTTPDecoder.decompressGzipContent(self,httpcontent)",D:\thesis2\real 106 project\Dshell\lib\httpdecoder.py,,,,,,,,,,,,,,,,,,,,,7,0,6,2,5,1,2,0,6,2,5,2,2,2,1,,,,,,1,"0.17",,,,
+Function,"httpdecoder.HTTPDecoder.errorH(self,x)",D:\thesis2\real 106 project\Dshell\lib\httpdecoder.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"httpdecoder.displaystub",D:\thesis2\real 106 project\Dshell\lib\httpdecoder.py,1,1,1,1,6,0,6,0,1,0,0,0,,,,,1,0,1,27,8,1,7,2,5,0,,,3,2,1,,,,,1,1,1,1,2,0,"0.00",1,1,1,1
+Function,"httpdecoder.displaystub.__init__(self)",D:\thesis2\real 106 project\Dshell\lib\httpdecoder.py,,,,,,,,,,,,,,,,,,,,,6,0,6,1,5,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"httpdump.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\http\httpdump.py,8,8,10,2,43,5,36,1,1,1,0,0,,,,,3,2,3,45,133,19,110,21,106,4,,,76,21,72,,,,,24,24,28,5,6,3,"0.04",26,26,30,7
+Function,"httpdump.DshellDecoder.HTTPHandler(self,conn,request,response,requesttime,responsetime)",D:\thesis2\real 106 project\Dshell\decoders\http\httpdump.py,,,,,,,,,,,,,,,,,,,,,106,16,88,15,87,2,172808,5,68,15,67,24,24,28,5,,,,,,3,"0.02",,,,
+Function,"httpdump.DshellDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\http\httpdump.py,,,,,,,,,,,,,,,,,,,,,20,0,18,3,17,2,1,0,4,3,3,1,1,1,1,,,,,,0,"0.11",,,,
+Function,"httpdump.DshellDecoder._parseCookies(self,data)",D:\thesis2\real 106 project\Dshell\decoders\http\httpdump.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"innuendo-dns.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\dns\innuendo-dns.py,3,3,4,2,15,2,9,3,1,0,0,0,,,,,4,1,4,45,81,19,37,13,33,26,,,31,13,26,,,,,12,12,16,5,6,4,"0.70",15,15,19,8
+Function,"innuendo-dns.DshellDecoder.DNSHandler(self,conn,request,response,kwargs)",D:\thesis2\real 106 project\Dshell\decoders\dns\innuendo-dns.py,,,,,,,,,,,,,,,,,,,,,49,11,25,8,24,13,66,2,23,8,22,12,12,16,5,,,,,,4,"0.52",,,,
+Function,"innuendo-dns.DshellDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\dns\innuendo-dns.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,1,1,0,3,2,2,1,1,1,1,,,,,,0,"0.12",,,,
+Function,"innuendo-dns.DshellDecoder.decrypt_payload(payload)",D:\thesis2\real 106 project\Dshell\decoders\dns\innuendo-dns.py,,,,,,,,,,,,,,,,,,,,,1,0,1,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"innuendo-dns.DshellDecoder.in_whitelist(self,domain)",D:\thesis2\real 106 project\Dshell\decoders\dns\innuendo-dns.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"ip.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\protocol\ip.py,2,2,2,1,6,0,6,0,1,0,0,0,,,,,2,0,2,32,18,3,15,4,12,0,,,10,4,7,,,,,3,3,3,1,4,1,"0.00",4,4,4,2
+Function,"ip.DshellDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\protocol\ip.py,,,,,,,,,,,,,,,,,,,,,7,0,7,1,6,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"ip.DshellDecoder.packetHandler(self,ip,proto)",D:\thesis2\real 106 project\Dshell\decoders\protocol\ip.py,,,,,,,,,,,,,,,,,,,,,6,0,6,1,5,0,4,1,6,1,5,3,3,3,1,,,,,,1,"0.00",,,,
+Class,"jsonout.JSONOutput",D:\thesis2\real 106 project\Dshell\lib\output\jsonout.py,10,10,11,1,27,2,20,4,1,2,0,0,,,,,2,2,2,14,74,11,44,10,41,19,,,40,10,37,,,,,15,15,15,1,4,4,"0.43",21,21,22,2
+Function,"jsonout.JSONOutput.__init__(self,args,kwargs)",D:\thesis2\real 106 project\Dshell\lib\output\jsonout.py,,,,,,,,,,,,,,,,,,,,,20,3,14,5,13,3,12,1,14,5,13,6,6,7,1,,,,,,3,"0.21",,,,
+Function,"jsonout.JSONOutput.alert(self,args,kw)",D:\thesis2\real 106 project\Dshell\lib\output\jsonout.py,,,,,,,,,,,,,,,,,,,,,34,1,27,3,26,6,224,2,24,3,23,15,15,15,1,,,,,,4,"0.22",,,,
+Class,"large-flows.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\flows\large-flows.py,1,1,1,1,7,0,7,0,1,1,1,0,,,,,3,3,3,39,25,3,22,7,18,1,,,14,7,10,,,,,2,2,2,1,5,1,"0.05",5,5,5,3
+Function,"large-flows.DshellDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\flows\large-flows.py,,,,,,,,,,,,,,,,,,,,,11,0,11,3,10,1,1,0,4,3,3,1,1,1,1,,,,,,0,"0.09",,,,
+Function,"large-flows.DshellDecoder.connectionHandler(self,conn)",D:\thesis2\real 106 project\Dshell\decoders\flows\large-flows.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,2,0,3,1,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"large-flows.DshellDecoder.preModule(self)",D:\thesis2\real 106 project\Dshell\decoders\flows\large-flows.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,2,0,6,2,5,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"long-flows.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\flows\long-flows.py,1,1,1,1,7,0,7,0,1,1,1,0,,,,,2,2,2,38,18,2,16,5,13,0,,,8,5,5,,,,,2,2,2,1,5,1,"0.00",3,3,3,2
+Function,"long-flows.DshellDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\flows\long-flows.py,,,,,,,,,,,,,,,,,,,,,12,0,12,3,11,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"long-flows.DshellDecoder.connectionHandler(self,conn)",D:\thesis2\real 106 project\Dshell\decoders\flows\long-flows.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,2,0,3,1,2,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"merge.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\misc\merge.py,1,1,1,1,6,0,6,0,1,1,0,0,,,,,2,1,2,28,22,4,14,4,11,4,,,8,4,5,,,,,2,2,2,1,2,1,"0.29",3,3,3,2
+Function,"merge.DshellDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\misc\merge.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"merge.DshellDecoder.rawHandler(self,pktlen,pkt,ts,kw)",D:\thesis2\real 106 project\Dshell\decoders\misc\merge.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"ms15-034.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\http\ms15-034.py,4,4,5,3,22,2,18,3,1,0,0,0,,,,,2,0,2,44,63,9,38,4,35,20,,,22,4,19,,,,,8,8,10,6,6,3,"0.53",9,9,11,7
+Function,"ms15-034.DshellDecoder.HTTPHandler(self,conn,request,response,requesttime,responsetime)",D:\thesis2\real 106 project\Dshell\decoders\http\ms15-034.py,,,,,,,,,,,,,,,,,,,,,26,4,19,2,18,7,8,1,19,2,18,8,8,10,6,,,,,,3,"0.37",,,,
+Function,"ms15-034.DshellDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\http\ms15-034.py,,,,,,,,,,,,,,,,,,,,,19,1,18,1,17,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"netflow.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\flows\netflow.py,1,1,1,1,5,0,4,0,1,2,1,0,,,,,4,1,4,40,26,4,20,6,15,3,,,13,6,8,,,,,2,2,2,1,5,1,"0.15",5,5,5,4
+Function,"netflow.DshellDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\flows\netflow.py,,,,,,,,,,,,,,,,,,,,,11,0,10,2,9,1,1,0,3,2,2,1,1,1,1,,,,,,0,"0.10",,,,
+Function,"netflow.DshellDecoder.connectionHandler(self,conn)",D:\thesis2\real 106 project\Dshell\decoders\flows\netflow.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"netflow.DshellDecoder.postModule(self)",D:\thesis2\real 106 project\Dshell\decoders\flows\netflow.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"netflow.DshellDecoder.preModule(self)",D:\thesis2\real 106 project\Dshell\decoders\flows\netflow.py,,,,,,,,,,,,,,,,,,,,,5,0,4,1,3,1,2,0,4,1,3,2,2,2,1,,,,,,1,"0.25",,,,
+Class,"netflowout.NetflowOutput",D:\thesis2\real 106 project\Dshell\lib\output\netflowout.py,3,3,3,1,15,0,14,1,1,3,0,0,,,,,4,2,4,16,74,5,59,11,54,13,,,30,11,25,,,,,4,4,4,1,4,3,"0.22",12,12,12,4
+Function,"netflowout.NetflowOutput.__alert(self,args,kw)",D:\thesis2\real 106 project\Dshell\lib\output\netflowout.py,,,,,,,,,,,,,,,,,,,,,30,0,30,1,29,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"netflowout.NetflowOutput.__init__(self,args,kwargs)",D:\thesis2\real 106 project\Dshell\lib\output\netflowout.py,,,,,,,,,,,,,,,,,,,,,7,0,6,3,5,1,2,0,6,3,5,2,2,2,1,,,,,,1,"0.17",,,,
+Function,"netflowout.NetflowOutput.alert(self,args,kw)",D:\thesis2\real 106 project\Dshell\lib\output\netflowout.py,,,,,,,,,,,,,,,,,,,,,12,0,12,3,11,3,4,1,10,3,9,4,4,4,1,,,,,,3,"0.25",,,,
+Function,"netflowout.NetflowOutput.close(self)",D:\thesis2\real 106 project\Dshell\lib\output\netflowout.py,,,,,,,,,,,,,,,,,,,,,12,0,10,3,9,2,4,1,9,3,8,4,4,4,1,,,,,,3,"0.20",,,,
+Class,"output.DBOutput",D:\thesis2\real 106 project\Dshell\lib\output\output.py,4,4,5,1,22,1,15,6,1,2,0,0,,,,,6,6,6,13,188,16,107,38,99,69,,,88,37,80,,,,,12,12,12,6,2,4,"0.64",28,28,30,11
+Function,"output.DBOutput.__init__(self,args,kw)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,39,6,15,8,13,18,4,1,14,8,12,4,4,4,1,,,,,,3,"1.20",,,,
+Function,"output.DBOutput.alert(self,args,kw)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,6,0,4,2,3,2,2,0,4,2,3,2,2,2,1,,,,,,1,"0.50",,,,
+Function,"output.DBOutput.close(self)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"output.DBOutput.createtable(self,table)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,25,0,20,7,19,6,12,1,19,7,18,6,6,8,1,,,,,,3,"0.30",,,,
+Function,"output.DBOutput.insert(self,rec,table)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,41,0,35,7,34,7,100,2,32,6,31,12,12,12,6,,,,,,4,"0.20",,,,
+Function,"output.DBOutput.setformat(self,formatstr)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,20,0,15,7,14,6,3,0,10,7,9,3,3,3,1,,,,,,2,"0.40",,,,
+Class,"output.FileOutput",D:\thesis2\real 106 project\Dshell\lib\output\output.py,5,5,5,1,16,0,13,3,1,4,0,3,,,,,3,1,3,10,54,3,42,9,38,10,,,37,9,33,,,,,10,10,10,1,2,5,"0.24",16,16,16,3
+Function,"output.FileOutput.__init__(self,args,kw)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,37,0,30,6,29,8,34,2,26,6,25,10,10,10,1,,,,,,5,"0.27",,,,
+Function,"output.FileOutput.close(self)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,5,0,4,1,3,1,2,0,4,1,3,2,2,2,1,,,,,,1,"0.25",,,,
+Function,"output.FileOutput.write(self,obj,kw)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,8,0,7,1,6,1,4,1,6,1,5,4,4,4,1,,,,,,2,"0.14",,,,
+Class,"output.Output",D:\thesis2\real 106 project\Dshell\lib\output\output.py,4,4,5,1,23,0,14,10,1,7,2,4,,,,,7,11,7,7,184,15,110,37,102,76,,,98,37,90,,,,,12,12,16,6,1,3,"0.69",32,32,39,12
+Function,"output.Output.__init__(self,a,kw)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,34,5,15,8,14,14,4,1,13,8,12,3,3,3,1,,,,,,1,"0.93",,,,
+Function,"output.Output.close(self)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,2,0,3,1,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"output.Output.dispatch(self,m,args,kwargs)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,8,0,7,1,6,1,8,1,7,1,6,4,4,4,1,,,,,,1,"0.14",,,,
+Function,"output.Output.dump(self,pkt,kw)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,9,0,7,3,6,4,2,0,6,3,5,2,2,2,1,,,,,,1,"0.57",,,,
+Function,"output.Output.log(self,msg,level,args,kw)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"output.Output.parse(self,args,kw)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,40,0,26,4,25,18,72,2,20,4,19,8,8,11,1,,,,,,2,"0.69",,,,
+Function,"output.Output.setformat(self,formatstr,typemap)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,63,0,44,13,43,30,578,3,41,13,40,12,12,16,6,,,,,,3,"0.68",,,,
+Class,"output.PCAPWriter",D:\thesis2\real 106 project\Dshell\lib\output\output.py,2,2,2,1,6,0,5,0,1,1,0,0,,,,,2,0,2,12,19,3,12,3,9,4,,,10,3,7,,,,,2,2,2,1,3,1,"0.33",4,4,4,2
+Function,"output.PCAPWriter.__init__(self,args,kw)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"output.PCAPWriter.write(self,pktlen,pktdata,ts)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,7,0,6,1,5,1,2,0,5,1,4,2,2,2,1,,,,,,1,"0.17",,,,
+Class,"output.QueueOutput",D:\thesis2\real 106 project\Dshell\lib\output\output.py,1,1,1,1,1,0,1,0,1,0,0,0,,,,,6,1,6,13,20,7,12,8,8,2,,,15,8,8,,,,,1,1,1,1,2,0,"0.17",6,6,6,6
+Function,"output.QueueOutput.__init__(self,q,kwargs)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"output.QueueOutput.alert(self,args,kw)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,1,0,1,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"output.QueueOutput.close(self)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"output.QueueOutput.dispatch(self,m,args,kw)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"output.QueueOutput.dump(self,args,kw)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,1,0,1,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"output.QueueOutput.write(self,args,kw)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,1,0,1,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"output.SessionWriter",D:\thesis2\real 106 project\Dshell\lib\output\output.py,3,3,3,1,16,0,13,4,1,3,1,0,,,,,2,5,2,9,37,3,28,12,25,9,,,26,12,23,,,,,6,6,6,1,2,2,"0.32",7,7,7,2
+Function,"output.SessionWriter.__init__(self,session,kw)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,6,0,6,6,5,0,1,0,6,6,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"output.SessionWriter.write(self,obj,kwargs)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,26,0,21,5,20,8,7,1,19,5,18,6,6,6,1,,,,,,2,"0.38",,,,
+Class,"output.TextOutput",D:\thesis2\real 106 project\Dshell\lib\output\output.py,2,2,2,1,6,0,5,1,1,0,0,4,,,,,2,0,2,12,22,5,14,7,11,3,,,14,7,11,,,,,3,3,3,1,3,2,"0.21",5,5,5,2
+Function,"output.TextOutput.__init__(self,args,kw)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"output.TextOutput.alert(self,args,kw)",D:\thesis2\real 106 project\Dshell\lib\output\output.py,,,,,,,,,,,,,,,,,,,,,8,0,6,2,5,2,3,0,6,2,5,3,3,3,1,,,,,,2,"0.33",,,,
+Function,"pcapanon.hashaddr(addr,extra)",D:\thesis2\real 106 project\Dshell\bin\pcapanon.py,,,,,,,,,,,,,,,,,,,,,9,0,6,4,4,3,2,0,6,4,4,2,2,2,1,,,,,,1,"0.50",,,,
+Function,"pcapanon.inttoip(l)",D:\thesis2\real 106 project\Dshell\bin\pcapanon.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,1,2,0,4,1,3,2,2,2,1,,,,,,1,"0.20",,,,
+Function,"pcapanon.iptoa(addr)",D:\thesis2\real 106 project\Dshell\bin\pcapanon.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"pcapanon.iptoint(addr)",D:\thesis2\real 106 project\Dshell\bin\pcapanon.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,2,2,0,5,2,4,2,2,2,1,,,,,,1,"0.33",,,,
+Function,"pcapanon.mactoa(addr)",D:\thesis2\real 106 project\Dshell\bin\pcapanon.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pcapanon.mangleIP(addr,ports)",D:\thesis2\real 106 project\Dshell\bin\pcapanon.py,,,,,,,,,,,,,,,,,,,,,27,0,24,6,22,6,72,2,19,6,17,8,8,15,1,,,,,,2,"0.25",,,,
+Function,"pcapanon.mangleIPs(src,dst,sport,dport)",D:\thesis2\real 106 project\Dshell\bin\pcapanon.py,,,,,,,,,,,,,,,,,,,,,20,0,19,1,18,2,7,1,13,1,12,6,6,6,1,,,,,,2,"0.11",,,,
+Function,"pcapanon.mangleMAC(addr)",D:\thesis2\real 106 project\Dshell\bin\pcapanon.py,,,,,,,,,,,,,,,,,,,,,17,0,16,3,14,3,10,1,16,3,14,6,6,6,3,,,,,,1,"0.19",,,,
+Function,"pcapanon.pcap_handler(ts,pktdata)",D:\thesis2\real 106 project\Dshell\bin\pcapanon.py,,,,,,,,,,,,,,,,,,,,,23,0,22,5,20,3,28,1,21,4,19,7,7,8,1,,,,,,3,"0.14",,,,
+Class,"protocol.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\protocol\protocol.py,1,1,1,1,5,0,5,0,1,0,0,0,,,,,2,0,2,32,23,5,12,4,9,6,,,6,4,3,,,,,1,1,1,1,3,0,"0.50",2,2,2,2
+Function,"protocol.DshellDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\protocol\protocol.py,,,,,,,,,,,,,,,,,,,,,7,0,7,1,6,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"protocol.DshellDecoder.packetHandler(self,ip)",D:\thesis2\real 106 project\Dshell\decoders\protocol\protocol.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"psexec.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\smb\psexec.py,3,3,3,1,15,0,14,1,1,2,1,0,,,,,4,5,4,48,210,21,170,49,156,25,,,126,49,112,,,,,17,17,20,8,6,4,"0.15",39,39,42,19
+Function,"psexec.DshellDecoder.SMBHandler(self,conn,request,response,requesttime,responsetime,cmd,status)",D:\thesis2\real 106 project\Dshell\decoders\smb\psexec.py,,,,,,,,,,,,,,,,,,,,,78,8,66,12,65,7,18,1,49,12,48,17,17,20,8,,,,,,4,"0.11",,,,
+Function,"psexec.DshellDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\smb\psexec.py,,,,,,,,,,,,,,,,,,,,,23,0,18,6,17,6,1,0,7,6,6,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"psexec.DshellDecoder.connectionHandler(self,conn)",D:\thesis2\real 106 project\Dshell\decoders\smb\psexec.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,2,0,4,2,3,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"psexec.DshellDecoder.psexec",D:\thesis2\real 106 project\Dshell\decoders\smb\psexec.py,2,2,2,1,9,0,9,0,0,2,1,0,,,,,8,15,8,8,94,8,79,27,70,9,,,63,27,54,,,,,4,4,4,1,0,1,"0.11",18,18,18,8
+Function,"psexec.DshellDecoder.psexec.__del__(self)",D:\thesis2\real 106 project\Dshell\decoders\smb\psexec.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"psexec.DshellDecoder.psexec.__init__(self,parent,conn,hostname,pid,opentime)",D:\thesis2\real 106 project\Dshell\decoders\smb\psexec.py,,,,,,,,,,,,,,,,,,,,,16,0,16,16,15,2,1,0,16,16,15,1,1,1,1,,,,,,0,"0.12",,,,
+Function,"psexec.DshellDecoder.psexec.addIO(self,fid,name)",D:\thesis2\real 106 project\Dshell\decoders\smb\psexec.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"psexec.DshellDecoder.psexec.addmsg(self,text,direction,ts)",D:\thesis2\real 106 project\Dshell\decoders\smb\psexec.py,,,,,,,,,,,,,,,,,,,,,13,0,12,1,11,1,6,1,10,1,9,4,4,4,1,,,,,,1,"0.08",,,,
+Function,"psexec.DshellDecoder.psexec.alert(self)",D:\thesis2\real 106 project\Dshell\decoders\smb\psexec.py,,,,,,,,,,,,,,,,,,,,,17,0,17,3,16,0,2,0,10,3,9,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"psexec.DshellDecoder.psexec.delIO(self,fid)",D:\thesis2\real 106 project\Dshell\decoders\smb\psexec.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"psexec.DshellDecoder.psexec.handleCount(self)",D:\thesis2\real 106 project\Dshell\decoders\smb\psexec.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"psexec.DshellDecoder.psexec.write(self,out)",D:\thesis2\real 106 project\Dshell\decoders\smb\psexec.py,,,,,,,,,,,,,,,,,,,,,17,0,17,2,16,0,8,1,12,2,11,4,4,4,1,,,,,,1,"0.00",,,,
+Function,"psexec.DshellDecoder.sessIndexFromPID(self,conn,pid)",D:\thesis2\real 106 project\Dshell\decoders\smb\psexec.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"reservedips.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\dns\reservedips.py,5,5,6,3,33,1,22,12,1,1,0,0,,,,,4,2,4,45,137,11,90,16,85,50,,,49,16,44,,,,,14,14,16,10,6,6,"0.56",22,22,24,15
+Function,"reservedips.DshellDecoder.DNSHandler(self,conn,request,response,kwargs)",D:\thesis2\real 106 project\Dshell\decoders\dns\reservedips.py,,,,,,,,,,,,,,,,,,,,,42,4,35,6,34,4,74,2,29,6,28,14,14,16,10,,,,,,6,"0.11",,,,
+Function,"reservedips.DshellDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\dns\reservedips.py,,,,,,,,,,,,,,,,,,,,,78,3,42,5,41,46,2,0,7,5,6,2,2,2,1,,,,,,1,"1.10",,,,
+Function,"reservedips.DshellDecoder.decode_q(self,dns)",D:\thesis2\real 106 project\Dshell\decoders\dns\reservedips.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,4,1,7,2,6,3,3,3,1,,,,,,1,"0.00",,,,
+Function,"reservedips.DshellDecoder.inReservedSpace(self,ipaddress)",D:\thesis2\real 106 project\Dshell\decoders\dns\reservedips.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,3,0,5,2,4,3,3,3,3,,,,,,2,"0.00",,,,
+Class,"reverse-flow.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\flows\reverse-flow.py,2,2,3,1,18,3,14,0,1,1,0,0,,,,,3,1,3,39,60,14,45,5,41,1,,,13,5,9,,,,,3,3,5,1,5,1,"0.02",7,7,9,3
+Function,"reverse-flow.DshellDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\flows\reverse-flow.py,,,,,,,,,,,,,,,,,,,,,40,9,31,1,30,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"reverse-flow.DshellDecoder.connectionHandler(self,conn)",D:\thesis2\real 106 project\Dshell\decoders\flows\reverse-flow.py,,,,,,,,,,,,,,,,,,,,,6,1,5,1,4,0,3,0,5,1,4,3,3,5,1,,,,,,1,"0.00",,,,
+Function,"reverse-flow.DshellDecoder.preModule(self)",D:\thesis2\real 106 project\Dshell\decoders\flows\reverse-flow.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,0,3,0,5,2,4,3,3,3,1,,,,,,1,"0.00",,,,
+Class,"rip-http.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\http\rip-http.py,6,6,8,1,21,0,20,1,1,3,1,0,,,,,4,3,4,46,92,6,82,17,77,5,,,63,16,58,,,,,18,18,27,3,6,6,"0.06",25,25,34,6
+Function,"rip-http.DshellDecoder.HTTPHandler(self,conn,request,response,requesttime,responsetime)",D:\thesis2\real 106 project\Dshell\decoders\http\rip-http.py,,,,,,,,,,,,,,,,,,,,,55,0,52,9,51,3,3105,3,45,9,44,18,18,27,1,,,,,,6,"0.06",,,,
+Function,"rip-http.DshellDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\http\rip-http.py,,,,,,,,,,,,,,,,,,,,,13,0,13,1,12,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"rip-http.DshellDecoder.preModule(self)",D:\thesis2\real 106 project\Dshell\decoders\http\rip-http.py,,,,,,,,,,,,,,,,,,,,,17,2,14,5,13,2,12,1,13,4,12,5,5,5,3,,,,,,2,"0.14",,,,
+Function,"rip-http.DshellDecoder.splitstrip(self,data,sep,strip)",D:\thesis2\real 106 project\Dshell\decoders\http\rip-http.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"rip-http.httpfile",D:\thesis2\real 106 project\Dshell\decoders\http\rip-http.py,4,4,4,1,16,0,14,1,0,2,0,0,,,,,5,6,5,5,87,5,75,23,69,7,,,71,22,65,,,,,10,10,10,1,0,4,"0.09",24,24,24,5
+Function,"rip-http.httpfile.__del__(self)",D:\thesis2\real 106 project\Dshell\decoders\http\rip-http.py,,,,,,,,,,,,,,,,,,,,,16,0,16,4,15,0,8,1,16,4,15,6,6,6,1,,,,,,3,"0.00",,,,
+Function,"rip-http.httpfile.__init__(self,filename,decoder_instance)",D:\thesis2\real 106 project\Dshell\decoders\http\rip-http.py,,,,,,,,,,,,,,,,,,,,,15,0,12,8,11,3,2,0,11,7,10,2,2,2,1,,,,,,1,"0.25",,,,
+Function,"rip-http.httpfile.checkranges(self)",D:\thesis2\real 106 project\Dshell\decoders\http\rip-http.py,,,,,,,,,,,,,,,,,,,,,17,0,16,5,15,1,9,1,15,5,14,5,5,5,1,,,,,,2,"0.06",,,,
+Function,"rip-http.httpfile.done(self)",D:\thesis2\real 106 project\Dshell\decoders\http\rip-http.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"rip-http.httpfile.handleresponse(self,response)",D:\thesis2\real 106 project\Dshell\decoders\http\rip-http.py,,,,,,,,,,,,,,,,,,,,,30,0,27,4,26,3,22,1,25,4,24,10,10,10,1,,,,,,4,"0.11",,,,
+Class,"rip-smb-uploads.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\smb\rip-smb-uploads.py,4,4,5,3,22,1,19,2,1,2,0,0,,,,,4,4,4,48,96,11,79,19,74,10,,,63,18,58,,,,,11,11,12,8,6,4,"0.13",19,19,21,13
+Function,"rip-smb-uploads.DshellDecoder.SMBHandler(self,conn,request,response,requesttime,responsetime,cmd,status)",D:\thesis2\real 106 project\Dshell\decoders\smb\rip-smb-uploads.py,,,,,,,,,,,,,,,,,,,,,48,6,39,5,38,6,12,1,33,5,32,11,11,12,8,,,,,,4,"0.15",,,,
+Function,"rip-smb-uploads.DshellDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\smb\rip-smb-uploads.py,,,,,,,,,,,,,,,,,,,,,17,0,15,5,14,3,1,0,6,5,5,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"rip-smb-uploads.DshellDecoder.__localfilename(self,path,origname)",D:\thesis2\real 106 project\Dshell\decoders\smb\rip-smb-uploads.py,,,,,,,,,,,,,,,,,,,,,18,0,17,6,16,1,6,1,16,6,15,4,4,5,1,,,,,,2,"0.06",,,,
+Function,"rip-smb-uploads.DshellDecoder.preModule(self)",D:\thesis2\real 106 project\Dshell\decoders\smb\rip-smb-uploads.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,3,0,7,1,6,3,3,3,3,,,,,,2,"0.00",,,,
+Class,"smbdecoder.InsufficientData",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,12,2,0,2,1,1,0,,,2,1,1,,,,,0,0,0,0,3,0,"0.00",0,0,0,0
+Class,"smbdecoder.NTLMSSP_AUTH_RECORD",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,4,4,4,1,54,9,37,8,0,0,0,0,,,,,1,9,1,1,70,11,38,17,36,21,,,25,17,23,,,,,4,4,4,1,0,2,"0.55",4,4,4,1
+Function,"smbdecoder.NTLMSSP_AUTH_RECORD.__init__(self,secblob)",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,,,,,,,,,,,,,,,,,,,,,54,9,37,16,36,8,5,1,24,16,23,4,4,4,1,,,,,,2,"0.22",,,,
+Class,"smbdecoder.NTLMSSP_CHALLENGE_RECORD",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,3,3,3,1,24,5,15,4,0,0,0,0,,,,,1,4,1,1,35,7,16,7,14,12,,,13,7,11,,,,,3,3,3,1,0,2,"0.75",3,3,3,1
+Function,"smbdecoder.NTLMSSP_CHALLENGE_RECORD.__init__(self,secblob)",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,,,,,,,,,,,,,,,,,,,,,24,5,15,6,14,4,3,0,12,6,11,3,3,3,1,,,,,,2,"0.27",,,,
+Class,"smbdecoder.SMB",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,2,2,2,1,17,0,11,4,0,4,3,0,,,,,9,14,9,9,164,13,108,41,98,44,,,89,41,79,,,,,8,8,8,8,0,4,"0.41",25,25,25,16
+Function,"smbdecoder.SMB.PARSE_COM_CLOSE(self,data)",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,,,,,,,,,,,,,,,,,,,,,7,0,6,2,5,1,2,0,6,2,5,2,2,2,1,,,,,,1,"0.17",,,,
+Function,"smbdecoder.SMB.PARSE_NT_CREATE_ANDX_REQUEST(self,data)",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,,,,,,,,,,,,,,,,,,,,,14,0,13,5,12,2,2,0,10,5,9,2,2,2,1,,,,,,1,"0.15",,,,
+Function,"smbdecoder.SMB.PARSE_NT_CREATE_ANDX_RESPONSE(self,data)",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,,,,,,,,,,,,,,,,,,,,,12,0,11,4,10,1,2,0,8,4,7,2,2,2,1,,,,,,1,"0.09",,,,
+Function,"smbdecoder.SMB.PARSE_READ_ANDX_Request(self,data)",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,,,,,,,,,,,,,,,,,,,,,11,0,6,2,5,5,2,0,6,2,5,2,2,2,1,,,,,,1,"0.83",,,,
+Function,"smbdecoder.SMB.PARSE_READ_ANDX_Response(self,data)",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,,,,,,,,,,,,,,,,,,,,,16,0,11,5,10,5,2,0,9,5,8,2,2,2,1,,,,,,1,"0.45",,,,
+Function,"smbdecoder.SMB.PARSE_SESSION_SETUP_ANDX_REQUEST(self,data)",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,,,,,,,,,,,,,,,,,,,,,33,1,28,7,27,4,8,1,22,7,21,8,8,8,8,,,,,,4,"0.14",,,,
+Function,"smbdecoder.SMB.PARSE_WRITE_ANDX(self,data)",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,,,,,,,,,,,,,,,,,,,,,16,0,11,5,10,5,2,0,9,5,8,2,2,2,1,,,,,,1,"0.45",,,,
+Function,"smbdecoder.SMB.SMB_COM_TREE_CONNECT_ANDX_Request(self,data)",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,,,,,,,,,,,,,,,,,,,,,17,0,14,6,13,3,3,0,12,6,11,3,3,3,1,,,,,,2,"0.21",,,,
+Function,"smbdecoder.SMB.__init__(self,pktdata)",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,,,,,,,,,,,,,,,,,,,,,28,3,7,4,6,18,2,0,6,4,5,2,2,2,1,,,,,,1,"2.57",,,,
+Class,"smbdecoder.SMBDecoder",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,2,2,2,1,9,0,7,0,1,2,2,3,,,,,8,1,8,44,86,15,64,26,55,8,,,60,26,51,,,,,8,8,8,4,5,3,"0.12",23,23,23,13
+Function,"smbdecoder.SMBDecoder.SMBHandler(self,conn,request,response,requesttime,responsetime,cmd,status)",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"smbdecoder.SMBDecoder.__init__(self,kwargs)",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,1,1,0,3,2,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"smbdecoder.SMBDecoder.blobHandler(self,conn,blob)",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,,,,,,,,,,,,,,,,,,,,,9,0,9,4,8,0,3,0,9,4,8,3,3,3,3,,,,,,2,"0.00",,,,
+Function,"smbdecoder.SMBDecoder.connectionHandler(self,conn)",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,,,,,,,,,,,,,,,,,,,,,10,0,9,3,8,1,4,1,8,3,7,4,4,4,1,,,,,,3,"0.11",,,,
+Function,"smbdecoder.SMBDecoder.connectionInitHandler(self,conn)",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"smbdecoder.SMBDecoder.parseNetBIOSSessionService(self,data)",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,,,,,,,,,,,,,,,,,,,,,9,0,8,5,7,1,2,0,8,5,7,2,2,2,1,,,,,,1,"0.12",,,,
+Function,"smbdecoder.SMBDecoder.postModule(self)",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,,,,,,,,,,,,,,,,,,,,,9,0,8,4,7,1,3,0,7,4,6,3,3,3,1,,,,,,2,"0.12",,,,
+Function,"smbdecoder.SMBDecoder.smbFactory(self,conn,blob,data)",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,,,,,,,,,,,,,,,,,,,,,30,7,22,5,21,1,24,1,20,5,19,8,8,8,4,,,,,,3,"0.05",,,,
+Function,"smbdecoder.UTF16LEtoUTF8(inbytes)",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,5,1,4,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"smbdecoder.displaystub",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,1,1,1,1,6,0,6,0,1,0,0,0,,,,,1,0,1,27,8,1,7,2,5,0,,,3,2,1,,,,,1,1,1,1,2,0,"0.00",1,1,1,1
+Function,"smbdecoder.displaystub.__init__(self)",D:\thesis2\real 106 project\Dshell\lib\smbdecoder.py,,,,,,,,,,,,,,,,,,,,,6,0,6,1,5,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"smbfiles.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\smb\smbfiles.py,3,3,3,2,18,0,14,3,1,3,1,0,,,,,4,3,4,48,177,16,130,41,119,35,,,95,41,84,,,,,16,16,18,8,6,3,"0.27",30,30,35,18
+Function,"smbfiles.DshellDecoder.SMBHandler(self,conn,request,response,requesttime,responsetime,cmd,status)",D:\thesis2\real 106 project\Dshell\decoders\smb\smbfiles.py,,,,,,,,,,,,,,,,,,,,,91,6,61,13,60,27,30,1,47,13,46,16,16,18,8,,,,,,3,"0.44",,,,
+Function,"smbfiles.DshellDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\smb\smbfiles.py,,,,,,,,,,,,,,,,,,,,,19,0,15,4,14,5,1,0,5,4,4,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"smbfiles.DshellDecoder.connectionHandler(self,conn)",D:\thesis2\real 106 project\Dshell\decoders\smb\smbfiles.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,2,0,4,2,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"smbfiles.DshellDecoder.fileIndexFromFID(self,conn,fid)",D:\thesis2\real 106 project\Dshell\decoders\smb\smbfiles.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"smbfiles.DshellDecoder.smbfile",D:\thesis2\real 106 project\Dshell\decoders\smb\smbfiles.py,2,2,2,1,9,0,9,0,0,0,0,0,,,,,5,12,5,5,52,5,47,20,41,0,,,36,20,30,,,,,6,6,9,3,0,1,"0.00",10,10,13,7
+Function,"smbfiles.DshellDecoder.smbfile.__del__(self)",D:\thesis2\real 106 project\Dshell\decoders\smb\smbfiles.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"smbfiles.DshellDecoder.smbfile.__init__(self,parent,conn,fid,opentime,filename,username,hostname,treepath)",D:\thesis2\real 106 project\Dshell\decoders\smb\smbfiles.py,,,,,,,,,,,,,,,,,,,,,13,0,13,13,12,0,1,0,13,13,12,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"smbfiles.DshellDecoder.smbfile.alert(self)",D:\thesis2\real 106 project\Dshell\decoders\smb\smbfiles.py,,,,,,,,,,,,,,,,,,,,,25,0,25,3,24,0,9,1,14,3,13,6,6,9,3,,,,,,1,"0.00",,,,
+Function,"smbfiles.DshellDecoder.smbfile.readblock(self,data)",D:\thesis2\real 106 project\Dshell\decoders\smb\smbfiles.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"smbfiles.DshellDecoder.smbfile.writeblock(self,data)",D:\thesis2\real 106 project\Dshell\decoders\smb\smbfiles.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"snort.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\filter\snort.py,8,8,10,3,38,1,32,7,1,5,1,0,,,,,5,2,5,35,199,14,163,27,157,37,,,115,26,109,,,,,26,26,27,7,3,4,"0.23",44,44,51,15
+Function,"snort.DshellDecoder.IPHandler(self,addr,pkt,ts,kwargs)",D:\thesis2\real 106 project\Dshell\decoders\filter\snort.py,,,,,,,,,,,,,,,,,,,,,30,1,26,6,25,9,35,2,23,6,22,9,9,14,5,,,,,,3,"0.35",,,,
+Function,"snort.DshellDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\filter\snort.py,,,,,,,,,,,,,,,,,,,,,42,8,34,2,33,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"snort.DshellDecoder.parseSnortRule(self,ruletext)",D:\thesis2\real 106 project\Dshell\decoders\filter\snort.py,,,,,,,,,,,,,,,,,,,,,93,0,77,12,76,24,308480,5,65,12,64,26,26,27,7,,,,,,4,"0.31",,,,
+Function,"snort.DshellDecoder.preModule(self)",D:\thesis2\real 106 project\Dshell\decoders\filter\snort.py,,,,,,,,,,,,,,,,,,,,,24,0,22,5,21,2,24,1,20,4,19,7,7,8,1,,,,,,3,"0.09",,,,
+Function,"snort.DshellDecoder.rawHandler(self,pktlen,pkt,ts,kwargs)",D:\thesis2\real 106 project\Dshell\decoders\filter\snort.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,2,1,0,3,1,2,1,1,1,1,,,,,,0,"0.67",,,,
+Class,"synrst.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\misc\synrst.py,2,2,2,1,11,0,11,1,1,0,0,0,,,,,2,1,2,32,30,4,23,9,20,6,,,15,9,12,,,,,4,4,4,1,3,2,"0.26",5,5,5,2
+Function,"synrst.DshellDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\misc\synrst.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,1,1,0,3,2,2,1,1,1,1,,,,,,0,"0.12",,,,
+Function,"synrst.DshellDecoder.packetHandler(self,ip)",D:\thesis2\real 106 project\Dshell\decoders\misc\synrst.py,,,,,,,,,,,,,,,,,,,,,15,1,14,6,13,2,4,1,11,6,10,4,4,4,1,,,,,,2,"0.14",,,,
+Class,"tftp.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\tftp\tftp.py,5,5,6,2,36,2,28,7,1,2,0,0,,,,,6,6,6,36,236,19,175,43,168,50,,,120,43,113,,,,,20,20,22,7,3,3,"0.29",35,35,40,12
+Function,"tftp.DshellDecoder.__closeStream(self,key,message)",D:\thesis2\real 106 project\Dshell\decoders\tftp\tftp.py,,,,,,,,,,,,,,,,,,,,,41,5,26,8,25,10,16,1,19,8,18,5,5,6,1,,,,,,1,"0.38",,,,
+Function,"tftp.DshellDecoder.__init__(self,kwargs)",D:\thesis2\real 106 project\Dshell\decoders\tftp\tftp.py,,,,,,,,,,,,,,,,,,,,,29,2,23,6,22,4,1,0,7,6,6,1,1,1,1,,,,,,0,"0.17",,,,
+Function,"tftp.DshellDecoder.__localfilename(self,path,origname)",D:\thesis2\real 106 project\Dshell\decoders\tftp\tftp.py,,,,,,,,,,,,,,,,,,,,,21,0,17,6,16,4,6,1,16,6,15,4,4,5,1,,,,,,2,"0.24",,,,
+Function,"tftp.DshellDecoder.packetHandler(self,ip)",D:\thesis2\real 106 project\Dshell\decoders\tftp\tftp.py,,,,,,,,,,,,,,,,,,,,,114,6,88,12,87,25,22,1,58,12,57,20,20,22,7,,,,,,3,"0.28",,,,
+Function,"tftp.DshellDecoder.postModule(self)",D:\thesis2\real 106 project\Dshell\decoders\tftp\tftp.py,,,,,,,,,,,,,,,,,,,,,7,0,6,2,5,1,2,0,6,2,5,2,2,2,1,,,,,,1,"0.17",,,,
+Function,"tftp.DshellDecoder.preModule(self)",D:\thesis2\real 106 project\Dshell\decoders\tftp\tftp.py,,,,,,,,,,,,,,,,,,,,,9,0,8,2,7,1,3,0,7,2,6,3,3,4,1,,,,,,2,"0.12",,,,
+Class,"track.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\filter\track.py,4,4,5,1,16,0,13,4,1,1,0,0,,,,,7,7,7,43,125,9,92,27,84,35,,,79,27,71,,,,,10,10,10,3,5,5,"0.38",32,32,37,9
+Function,"track.DshellDecoder.__callback(self,addr,pkt,ts,raw,kw)",D:\thesis2\real 106 project\Dshell\decoders\filter\track.py,,,,,,,,,,,,,,,,,,,,,18,0,14,3,13,8,9,1,11,3,10,5,5,5,3,,,,,,1,"0.57",,,,
+Function,"track.DshellDecoder.__init__(self,kwargs)",D:\thesis2\real 106 project\Dshell\decoders\filter\track.py,,,,,,,,,,,,,,,,,,,,,27,1,20,8,19,6,1,0,10,8,9,1,1,1,1,,,,,,0,"0.30",,,,
+Function,"track.DshellDecoder.connectionCloseHandler(self,conn)",D:\thesis2\real 106 project\Dshell\decoders\filter\track.py,,,,,,,,,,,,,,,,,,,,,10,0,7,1,6,3,5,1,7,1,6,4,4,5,1,,,,,,2,"0.43",,,,
+Function,"track.DshellDecoder.connectionHandler(self,conn)",D:\thesis2\real 106 project\Dshell\decoders\filter\track.py,,,,,,,,,,,,,,,,,,,,,10,0,9,1,8,1,15,1,9,1,8,6,6,7,1,,,,,,2,"0.11",,,,
+Function,"track.DshellDecoder.connectionInitHandler(self,conn)",D:\thesis2\real 106 project\Dshell\decoders\filter\track.py,,,,,,,,,,,,,,,,,,,,,15,0,10,3,9,5,4,1,10,3,9,4,4,7,1,,,,,,3,"0.50",,,,
+Function,"track.DshellDecoder.decode(self,args)",D:\thesis2\real 106 project\Dshell\decoders\filter\track.py,,,,,,,,,,,,,,,,,,,,,12,0,9,2,8,6,2,0,10,2,9,2,2,2,1,,,,,,1,"0.67",,,,
+Function,"track.DshellDecoder.preModule(self)",D:\thesis2\real 106 project\Dshell\decoders\filter\track.py,,,,,,,,,,,,,,,,,,,,,23,0,22,8,21,5,36,2,21,8,20,10,10,10,1,,,,,,5,"0.23",,,,
+Function,"util.HTTPlastmodified(response)",D:\thesis2\real 106 project\Dshell\lib\util.py,,,,,,,,,,,,,,,,,,,,,8,0,8,1,7,0,3,0,8,1,7,3,3,3,3,,,,,,2,"0.00",,,,
+Function,"util.URLDataToParameterDict(data)",D:\thesis2\real 106 project\Dshell\lib\util.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,2,0,4,2,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"util.decode_base64(intext,alphabet,padchar,debug)",D:\thesis2\real 106 project\Dshell\lib\util.py,,,,,,,,,,,,,,,,,,,,,39,6,31,7,30,2,23,1,30,7,29,8,8,11,5,,,,,,3,"0.06",,,,
+Function,"util.getHeader(request_or_response,header_name)",D:\thesis2\real 106 project\Dshell\lib\util.py,,,,,,,,,,,,,,,,,,,,,12,0,11,2,10,1,4,1,9,2,8,4,4,4,4,,,,,,1,"0.09",,,,
+Function,"util.getopts(args,options,long_options,list_options,auto_list,replace_value)",D:\thesis2\real 106 project\Dshell\lib\util.py,,,,,,,,,,,,,,,,,,,,,21,0,21,9,15,6,7,1,13,5,11,7,7,8,1,,,,,,3,"0.29",,,,
+Function,"util.hexPlusAscii(data,width,offset)",D:\thesis2\real 106 project\Dshell\lib\util.py,,,,,,,,,,,,,,,,,,,,,12,0,12,8,11,0,2,0,10,8,9,2,2,4,1,,,,,,1,"0.00",,,,
+Function,"util.inttoip(i)",D:\thesis2\real 106 project\Dshell\lib\util.py,,,,,,,,,,,,,,,,,,,,,1,0,1,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"util.iptoint(ip)",D:\thesis2\real 106 project\Dshell\lib\util.py,,,,,,,,,,,,,,,,,,,,,1,0,1,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"util.mktime(ts)",D:\thesis2\real 106 project\Dshell\lib\util.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"util.printableText(intext,onlyText)",D:\thesis2\real 106 project\Dshell\lib\util.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,0,2,0,5,2,4,4,4,4,1,,,,,,1,"0.00",,,,
+Function,"util.printableUnicode(intext,onlyText)",D:\thesis2\real 106 project\Dshell\lib\util.py,,,,,,,,,,,,,,,,,,,,,14,0,13,1,12,1,7,1,12,1,11,5,5,5,5,,,,,,3,"0.08",,,,
+Function,"util.strtok(data,sep,kvsep,as_list)",D:\thesis2\real 106 project\Dshell\lib\util.py,,,,,,,,,,,,,,,,,,,,,15,0,15,5,14,0,12,1,13,5,12,6,6,6,1,,,,,,2,"0.00",,,,
+Function,"util.utctime()",D:\thesis2\real 106 project\Dshell\lib\util.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"util.xor(input,key)",D:\thesis2\real 106 project\Dshell\lib\util.py,,,,,,,,,,,,,,,,,,,,,6,0,3,2,2,3,1,0,3,2,2,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"util.xorStringDecode(key,data)",D:\thesis2\real 106 project\Dshell\lib\util.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,2,0,5,3,4,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"web.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\http\web.py,6,6,6,2,24,2,22,1,1,1,1,0,,,,,5,1,5,47,130,15,111,29,105,6,,,89,29,83,,,,,15,15,17,4,6,6,"0.05",30,30,32,10
+Function,"web.DshellDecoder.HTTPHandler(self,conn,request,response,requesttime,responsetime)",D:\thesis2\real 106 project\Dshell\decoders\http\web.py,,,,,,,,,,,,,,,,,,,,,73,10,60,16,59,3,3456,4,50,16,49,15,15,17,1,,,,,,2,"0.05",,,,
+Function,"web.DshellDecoder.POSTHandler(self,postdata)",D:\thesis2\real 106 project\Dshell\decoders\http\web.py,,,,,,,,,,,,,,,,,,,,,26,0,26,8,25,1,45,2,26,8,25,10,10,10,4,,,,,,6,"0.04",,,,
+Function,"web.DshellDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\http\web.py,,,,,,,,,,,,,,,,,,,,,14,0,14,2,13,1,1,0,3,2,2,1,1,1,1,,,,,,0,"0.07",,,,
+Function,"web.DshellDecoder._bodyMD5(self,response)",D:\thesis2\real 106 project\Dshell\decoders\http\web.py,,,,,,,,,,,,,,,,,,,,,8,0,8,1,7,0,3,0,7,1,6,3,3,3,3,,,,,,2,"0.00",,,,
+Function,"web.DshellDecoder.splitstrip(self,data,sep,strip)",D:\thesis2\real 106 project\Dshell\decoders\http\web.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"writer.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\misc\writer.py,1,1,1,1,6,0,5,1,1,2,0,0,,,,,4,1,4,30,36,5,21,6,16,11,,,14,6,9,,,,,1,1,1,1,2,0,"0.52",4,4,4,4
+Function,"writer.DshellDecoder.IPHandler(self,addr,ip,ts,pkttype,kw)",D:\thesis2\real 106 project\Dshell\decoders\misc\writer.py,,,,,,,,,,,,,,,,,,,,,6,0,4,1,3,2,1,0,4,1,3,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"writer.DshellDecoder.__init__(self,kwargs)",D:\thesis2\real 106 project\Dshell\decoders\misc\writer.py,,,,,,,,,,,,,,,,,,,,,13,0,10,2,9,3,1,0,3,2,2,1,1,1,1,,,,,,0,"0.30",,,,
+Function,"writer.DshellDecoder.connectionHandler(self,conn)",D:\thesis2\real 106 project\Dshell\decoders\misc\writer.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"writer.DshellDecoder.rawHandler(self,pktlen,pkt,ts)",D:\thesis2\real 106 project\Dshell\decoders\misc\writer.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,1,1,0,4,1,3,1,1,1,1,,,,,,0,"0.25",,,,
+Class,"xmlout.XMLOutput",D:\thesis2\real 106 project\Dshell\lib\output\xmlout.py,1,1,1,1,6,0,4,2,1,2,0,0,,,,,6,2,6,16,46,7,29,13,24,15,,,28,13,21,,,,,5,5,5,1,3,2,"0.52",10,10,10,6
+Function,"xmlout.XMLOutput.__init__(self,args,kwargs)",D:\thesis2\real 106 project\Dshell\lib\output\xmlout.py,,,,,,,,,,,,,,,,,,,,,6,0,5,3,4,2,1,0,4,3,3,1,1,1,1,,,,,,0,"0.40",,,,
+Function,"xmlout.XMLOutput._filter_attr(self,d)",D:\thesis2\real 106 project\Dshell\lib\output\xmlout.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"xmlout.XMLOutput._filter_text(self,t)",D:\thesis2\real 106 project\Dshell\lib\output\xmlout.py,,,,,,,,,,,,,,,,,,,,,1,0,1,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"xmlout.XMLOutput.alert(self,args,kwargs)",D:\thesis2\real 106 project\Dshell\lib\output\xmlout.py,,,,,,,,,,,,,,,,,,,,,5,0,4,1,3,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.25",,,,
+Function,"xmlout.XMLOutput.close(self)",D:\thesis2\real 106 project\Dshell\lib\output\xmlout.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"xmlout.XMLOutput.write(self,obj,parent,kwargs)",D:\thesis2\real 106 project\Dshell\lib\output\xmlout.py,,,,,,,,,,,,,,,,,,,,,20,0,14,5,13,10,12,1,14,5,13,5,5,5,1,,,,,,2,"0.71",,,,
+Class,"xor.DshellDecoder",D:\thesis2\real 106 project\Dshell\decoders\misc\xor.py,3,3,3,1,10,0,9,2,1,3,1,0,,,,,7,5,7,43,106,7,67,20,59,36,,,51,20,43,,,,,6,6,10,3,5,2,"0.54",21,21,25,9
+Function,"xor.DshellDecoder.__init__(self)",D:\thesis2\real 106 project\Dshell\decoders\misc\xor.py,,,,,,,,,,,,,,,,,,,,,17,0,15,3,14,3,1,0,4,3,3,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"xor.DshellDecoder.blobHandler(self,conn,blob)",D:\thesis2\real 106 project\Dshell\decoders\misc\xor.py,,,,,,,,,,,,,,,,,,,,,26,0,20,6,19,9,18,1,17,6,16,6,6,10,1,,,,,,2,"0.45",,,,
+Function,"xor.DshellDecoder.connectionCloseHandler(self,conn)",D:\thesis2\real 106 project\Dshell\decoders\misc\xor.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,3,0,5,1,4,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"xor.DshellDecoder.connectionHandler(self,conn)",D:\thesis2\real 106 project\Dshell\decoders\misc\xor.py,,,,,,,,,,,,,,,,,,,,,7,0,7,1,6,0,3,0,6,1,5,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"xor.DshellDecoder.connectionInitHandler(self,conn)",D:\thesis2\real 106 project\Dshell\decoders\misc\xor.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"xor.DshellDecoder.makeKey(self,key)",D:\thesis2\real 106 project\Dshell\decoders\misc\xor.py,,,,,,,,,,,,,,,,,,,,,10,0,10,3,9,0,4,1,9,3,8,4,4,4,3,,,,,,2,"0.00",,,,
+Function,"xor.DshellDecoder.preModule(self,args,kwargs)",D:\thesis2\real 106 project\Dshell\decoders\misc\xor.py,,,,,,,,,,,,,,,,,,,,,8,0,7,4,6,1,4,1,7,4,6,3,3,3,1,,,,,,1,"0.14",,,,

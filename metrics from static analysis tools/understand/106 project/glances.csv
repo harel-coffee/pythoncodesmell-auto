@@ -1,0 +1,979 @@
+Kind,Name,File,AvgCyclomatic,AvgCyclomaticModified,AvgCyclomaticStrict,AvgEssential,AvgLine,AvgLineBlank,AvgLineCode,AvgLineComment,CountClassBase,CountClassCoupled,CountClassCoupledModified,CountClassDerived,CountDeclClass,CountDeclExecutableUnit,CountDeclFile,CountDeclFunction,CountDeclInstanceMethod,CountDeclInstanceVariable,CountDeclMethod,CountDeclMethodAll,CountLine,CountLineBlank,CountLineCode,CountLineCodeDecl,CountLineCodeExe,CountLineComment,CountPath,CountPathLog,CountStmt,CountStmtDecl,CountStmtExe,Cyclomatic,CyclomaticModified,CyclomaticStrict,Essential,MaxCyclomatic,MaxCyclomaticModified,MaxCyclomaticStrict,MaxEssential,MaxInheritanceTree,MaxNesting,RatioCommentToCode,SumCyclomatic,SumCyclomaticModified,SumCyclomaticStrict,SumEssential
+Module File,"D:\thesis2\real 106 project\glances\docs\conf.py",D:\thesis2\real 106 project\glances\docs\conf.py,2,2,2,2,21,0,11,0,,,,,0,2,,1,,,,,261,67,45,26,42,149,1,0,33,26,30,1,1,1,1,3,3,3,3,,3,"3.31",4,4,4,4
+File,"D:\thesis2\real 106 project\glances\glances\__init__.py",D:\thesis2\real 106 project\glances\glances\__init__.py,4,4,5,2,36,9,21,11,,,,,0,4,,3,,,,,193,43,92,23,76,58,7,1,76,23,60,5,5,6,4,8,8,8,5,,3,"0.63",19,19,20,11
+Module File,"D:\thesis2\real 106 project\glances\glances\__main__.py",D:\thesis2\real 106 project\glances\glances\__main__.py,3,3,4,1,5,0,0,0,,,,,0,1,,0,,,,,38,6,8,4,5,24,4,1,8,4,5,3,3,4,1,3,3,4,1,,1,"3.00",3,3,4,1
+File,"D:\thesis2\real 106 project\glances\glances\core\__init__.py",D:\thesis2\real 106 project\glances\glances\core\__init__.py,0,0,0,0,0,0,0,0,,,,,0,0,,0,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,"0.00",0,0,0,0
+Module File,"D:\thesis2\real 106 project\glances\glances\core\glances_actions.py",D:\thesis2\real 106 project\glances\glances\core\glances_actions.py,2,2,2,1,11,1,7,4,,,,,1,5,,4,,,,,96,17,39,13,31,40,2,0,35,12,27,2,2,2,1,5,5,5,1,,2,"1.03",11,11,11,5
+Module File,"D:\thesis2\real 106 project\glances\glances\core\glances_autodiscover.py",D:\thesis2\real 106 project\glances\glances\core\glances_autodiscover.py,2,2,2,1,8,0,6,1,,,,,4,18,,17,,,,,229,39,139,54,106,59,6,1,110,46,83,4,4,4,3,6,6,6,3,,4,"0.42",37,37,40,20
+Module File,"D:\thesis2\real 106 project\glances\glances\core\glances_client.py",D:\thesis2\real 106 project\glances\glances\core\glances_client.py,2,2,2,1,15,1,10,4,,,,,2,12,,11,,,,,240,40,129,45,104,71,2,0,115,40,92,2,2,2,1,11,11,11,8,,3,"0.55",33,33,34,21
+Module File,"D:\thesis2\real 106 project\glances\glances\core\glances_client_browser.py",D:\thesis2\real 106 project\glances\glances\core\glances_client_browser.py,3,3,3,1,23,2,16,7,,,,,1,9,,8,,,,,262,36,141,38,122,85,2,0,118,37,99,2,2,2,1,17,17,19,5,,6,"0.60",33,33,35,13
+Module File,"D:\thesis2\real 106 project\glances\glances\core\glances_config.py",D:\thesis2\real 106 project\glances\glances\core\glances_config.py,3,3,3,1,20,2,17,3,,,,,1,9,,8,,,,,240,31,156,33,130,54,2,0,134,23,117,2,2,2,1,14,14,14,4,,4,"0.35",30,30,32,12
+Module File,"D:\thesis2\real 106 project\glances\glances\core\glances_cpu_percent.py",D:\thesis2\real 106 project\glances\glances\core\glances_cpu_percent.py,2,2,2,1,10,0,9,2,,,,,1,6,,5,,,,,97,14,49,16,41,34,1,0,43,16,35,1,1,1,1,10,10,10,1,,3,"0.69",17,17,17,6
+Module File,"D:\thesis2\real 106 project\glances\glances\core\glances_globals.py",D:\thesis2\real 106 project\glances\glances\core\glances_globals.py,1,1,1,1,17,0,0,0,,,,,0,1,,0,,,,,54,9,19,17,17,26,1,0,19,17,17,1,1,1,1,1,1,1,1,,0,"1.37",1,1,1,1
+Module File,"D:\thesis2\real 106 project\glances\glances\core\glances_logging.py",D:\thesis2\real 106 project\glances\glances\core\glances_logging.py,1,1,2,1,22,1,7,1,,,,,0,3,,2,,,,,103,10,68,12,61,25,2,0,23,12,16,2,2,2,1,2,2,3,1,,1,"0.37",5,5,6,3
+Module File,"D:\thesis2\real 106 project\glances\glances\core\glances_logs.py",D:\thesis2\real 106 project\glances\glances\core\glances_logs.py,2,2,3,1,16,1,9,8,,,,,1,9,,8,,,,,202,26,81,23,68,106,1,0,62,22,50,1,1,1,1,9,9,12,3,,3,"1.31",23,23,29,11
+Module File,"D:\thesis2\real 106 project\glances\glances\core\glances_main.py",D:\thesis2\real 106 project\glances\glances\core\glances_main.py,2,2,4,1,23,1,18,3,,,,,1,11,,11,,,,,351,39,248,36,227,64,0,0,150,36,129,0,0,0,0,16,16,24,5,,2,"0.26",28,28,44,15
+Module File,"D:\thesis2\real 106 project\glances\glances\core\glances_monitor_list.py",D:\thesis2\real 106 project\glances\glances\core\glances_monitor_list.py,1,1,1,1,7,0,5,1,,,,,1,18,,18,,,,,193,34,98,37,75,61,0,0,93,36,70,0,0,0,0,7,7,8,5,,4,"0.62",31,31,34,24
+Module File,"D:\thesis2\real 106 project\glances\glances\core\glances_password.py",D:\thesis2\real 106 project\glances\glances\core\glances_password.py,2,2,2,1,11,1,7,3,,,,,1,10,,9,,,,,162,29,75,34,58,58,2,0,70,31,53,2,2,2,1,8,8,10,4,,3,"0.77",23,23,27,15
+Module File,"D:\thesis2\real 106 project\glances\glances\core\glances_passwordlist.py",D:\thesis2\real 106 project\glances\glances\core\glances_passwordlist.py,2,2,2,1,10,1,7,2,,,,,1,4,,4,,,,,78,14,33,10,26,31,0,0,30,10,23,0,0,0,0,4,4,4,4,,3,"0.94",9,9,9,7
+Module File,"D:\thesis2\real 106 project\glances\glances\core\glances_processes.py",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,3,3,4,1,17,1,11,4,,,,,2,37,,36,,,,,737,101,448,125,391,189,1,0,396,112,351,1,1,1,1,20,20,30,12,,4,"0.42",128,128,148,54
+Module File,"D:\thesis2\real 106 project\glances\glances\core\glances_server.py",D:\thesis2\real 106 project\glances\glances\core\glances_server.py,1,1,1,1,7,0,4,2,,,,,4,22,,21,,,,,246,48,124,60,81,75,2,0,115,54,76,2,2,2,1,3,3,3,3,,2,"0.60",34,34,34,26
+Module File,"D:\thesis2\real 106 project\glances\glances\core\glances_snmp.py",D:\thesis2\real 106 project\glances\glances\core\glances_snmp.py,2,2,2,1,13,1,10,3,,,,,1,7,,6,,,,,134,20,73,26,62,41,2,0,49,25,39,2,2,2,1,4,4,4,1,,3,"0.56",17,17,19,7
+Module File,"D:\thesis2\real 106 project\glances\glances\core\glances_standalone.py",D:\thesis2\real 106 project\glances\glances\core\glances_standalone.py,2,2,3,1,15,2,9,4,,,,,1,5,,5,,,,,118,23,53,17,40,42,0,0,48,16,36,0,0,0,0,7,7,8,1,,2,"0.79",14,14,15,5
+Module File,"D:\thesis2\real 106 project\glances\glances\core\glances_staticlist.py",D:\thesis2\real 106 project\glances\glances\core\glances_staticlist.py,2,2,2,2,14,1,9,3,,,,,1,4,,4,,,,,93,17,41,15,34,35,0,0,39,14,32,0,0,0,0,8,8,8,6,,4,"0.85",11,11,11,9
+Module File,"D:\thesis2\real 106 project\glances\glances\core\glances_stats.py",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,1,1,2,1,10,0,5,3,,,,,4,32,,31,,,,,407,71,201,98,158,135,1,0,178,97,135,1,1,1,1,5,5,9,4,,3,"0.67",61,61,70,37
+Module File,"D:\thesis2\real 106 project\glances\glances\core\glances_timer.py",D:\thesis2\real 106 project\glances\glances\core\glances_timer.py,1,1,1,1,3,0,3,0,,,,,1,7,,6,,,,,60,13,24,15,15,23,1,0,23,15,14,1,1,1,1,2,2,2,1,,1,"0.96",8,8,8,7
+Module File,"D:\thesis2\real 106 project\glances\glances\core\glances_webserver.py",D:\thesis2\real 106 project\glances\glances\core\glances_webserver.py,1,1,1,1,6,1,3,2,,,,,1,3,,3,,,,,54,11,16,10,8,27,0,0,16,10,8,0,0,0,0,2,2,3,1,,1,"1.69",4,4,5,3
+File,"D:\thesis2\real 106 project\glances\glances\exports\__init__.py",D:\thesis2\real 106 project\glances\glances\exports\__init__.py,0,0,0,0,0,0,0,0,,,,,0,0,,0,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,"0.00",0,0,0,0
+Module File,"D:\thesis2\real 106 project\glances\glances\exports\glances_csv.py",D:\thesis2\real 106 project\glances\glances\exports\glances_csv.py,4,4,4,1,21,2,14,4,,,,,1,3,,3,,,,,101,17,50,23,41,34,0,0,46,22,37,0,0,0,0,9,9,9,1,,5,"0.68",13,13,13,3
+Module File,"D:\thesis2\real 106 project\glances\glances\exports\glances_export.py",D:\thesis2\real 106 project\glances\glances\exports\glances_export.py,3,3,3,1,17,1,12,3,,,,,1,7,,7,,,,,164,22,92,27,83,50,0,0,72,27,63,0,0,0,0,10,10,10,6,,4,"0.54",25,25,25,12
+Module File,"D:\thesis2\real 106 project\glances\glances\exports\glances_history.py",D:\thesis2\real 106 project\glances\glances\exports\glances_history.py,2,2,2,1,14,0,11,3,,,,,1,9,,8,,,,,176,20,106,31,93,51,2,0,95,31,82,2,2,2,1,11,11,11,4,,6,"0.48",26,26,26,12
+Module File,"D:\thesis2\real 106 project\glances\glances\exports\glances_influxdb.py",D:\thesis2\real 106 project\glances\glances\exports\glances_influxdb.py,3,3,3,2,22,2,20,3,,,,,1,5,,4,,,,,154,20,97,32,83,38,2,0,84,29,70,2,2,2,1,6,6,6,5,,1,"0.39",19,19,19,12
+Module File,"D:\thesis2\real 106 project\glances\glances\exports\glances_opentsdb.py",D:\thesis2\real 106 project\glances\glances\exports\glances_opentsdb.py,3,3,3,2,14,1,12,2,,,,,1,6,,5,,,,,125,20,70,26,57,36,2,0,68,23,55,2,2,2,1,6,6,6,4,,2,"0.51",19,19,19,13
+Module File,"D:\thesis2\real 106 project\glances\glances\exports\glances_rabbitmq.py",D:\thesis2\real 106 project\glances\glances\exports\glances_rabbitmq.py,3,3,3,2,13,0,14,1,,,,,1,5,,4,,,,,112,13,70,30,56,30,2,0,64,27,50,2,2,2,1,4,4,4,4,,2,"0.43",15,15,15,12
+Module File,"D:\thesis2\real 106 project\glances\glances\exports\glances_statsd.py",D:\thesis2\real 106 project\glances\glances\exports\glances_statsd.py,3,3,3,2,12,0,12,2,,,,,1,5,,4,,,,,103,14,59,22,47,31,2,0,55,20,43,2,2,2,1,5,5,5,4,,2,"0.53",16,16,16,10
+File,"D:\thesis2\real 106 project\glances\glances\outputs\__init__.py",D:\thesis2\real 106 project\glances\glances\outputs\__init__.py,0,0,0,0,0,0,0,0,,,,,0,0,,0,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,"0.00",0,0,0,0
+Module File,"D:\thesis2\real 106 project\glances\glances\outputs\glances_bars.py",D:\thesis2\real 106 project\glances\glances\outputs\glances_bars.py,1,1,1,1,4,0,4,0,,,,,1,8,,7,,,,,95,17,41,24,26,37,1,0,36,19,26,1,1,1,1,3,3,3,3,,1,"0.90",13,13,14,10
+Module File,"D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py",D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py,1,1,1,1,13,2,6,5,,,,,2,25,,24,,,,,398,84,173,63,140,141,2,0,170,54,137,2,2,2,1,3,3,3,1,,2,"0.82",46,46,46,25
+Module File,"D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,1,1,1,1,3,0,3,0,,,,,3,29,,28,,,,,178,42,117,64,77,21,3,0,115,64,75,3,3,3,1,3,3,3,1,,1,"0.18",36,36,36,29
+Module File,"D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,5,5,6,1,33,2,22,8,,,,,5,34,,33,,,,,1232,144,784,178,722,306,5,1,612,164,562,4,4,4,3,39,39,48,9,,4,"0.39",180,180,224,51
+File,"D:\thesis2\real 106 project\glances\glances\plugins\__init__.py",D:\thesis2\real 106 project\glances\glances\plugins\__init__.py,0,0,0,0,0,0,0,0,,,,,0,0,,0,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,"0.00",0,0,0,0
+Module File,"D:\thesis2\real 106 project\glances\glances\plugins\glances_alert.py",D:\thesis2\real 106 project\glances\glances\plugins\glances_alert.py,2,2,2,1,18,1,10,5,,,,,1,5,,5,,,,,130,20,58,16,49,52,0,0,50,16,41,0,0,0,0,8,8,8,1,,3,"0.90",13,13,14,5
+Module File,"D:\thesis2\real 106 project\glances\glances\plugins\glances_batpercent.py",D:\thesis2\real 106 project\glances\glances\plugins\glances_batpercent.py,2,2,2,1,9,1,6,2,,,,,2,8,,7,,,,,123,25,55,23,41,43,2,0,48,20,36,2,2,2,1,4,4,5,4,,2,"0.78",16,16,17,11
+Module File,"D:\thesis2\real 106 project\glances\glances\plugins\glances_core.py",D:\thesis2\real 106 project\glances\glances\plugins\glances_core.py,2,2,2,1,13,2,5,5,,,,,1,3,,3,,,,,78,18,20,8,14,40,0,0,19,8,13,0,0,0,0,4,4,4,1,,2,"2.00",6,6,6,3
+Module File,"D:\thesis2\real 106 project\glances\glances\plugins\glances_cpu.py",D:\thesis2\real 106 project\glances\glances\plugins\glances_cpu.py,5,5,6,1,33,2,25,9,,,,,1,6,,5,,,,,250,28,144,24,134,80,1,0,117,22,108,1,1,1,1,13,13,14,5,,4,"0.56",34,34,37,10
+Module File,"D:\thesis2\real 106 project\glances\glances\plugins\glances_diskio.py",D:\thesis2\real 106 project\glances\glances\plugins\glances_diskio.py,2,2,3,2,20,2,15,6,,,,,1,7,,6,,,,,193,29,99,32,87,67,1,0,78,31,67,1,1,1,1,8,8,8,6,,4,"0.68",20,20,21,15
+Module File,"D:\thesis2\real 106 project\glances\glances\plugins\glances_docker.py",D:\thesis2\real 106 project\glances\glances\plugins\glances_docker.py,3,3,3,1,23,2,14,7,,,,,2,21,,20,,,,,572,72,314,85,279,186,2,0,300,74,268,2,2,2,1,12,12,15,5,,3,"0.59",73,73,79,31
+Module File,"D:\thesis2\real 106 project\glances\glances\plugins\glances_fs.py",D:\thesis2\real 106 project\glances\glances\plugins\glances_fs.py,4,4,4,2,27,3,19,6,,,,,1,7,,6,,,,,252,35,137,30,126,81,1,0,88,28,78,1,1,1,1,13,13,15,11,,4,"0.59",28,28,33,17
+Module File,"D:\thesis2\real 106 project\glances\glances\plugins\glances_hddtemp.py",D:\thesis2\real 106 project\glances\glances\plugins\glances_hddtemp.py,2,2,2,1,12,1,7,2,,,,,2,8,,8,,,,,145,30,67,33,53,48,0,0,66,32,52,0,0,0,0,7,7,8,3,,1,"0.72",16,16,17,10
+Module File,"D:\thesis2\real 106 project\glances\glances\plugins\glances_help.py",D:\thesis2\real 106 project\glances\glances\plugins\glances_help.py,1,1,1,1,27,2,22,2,,,,,1,5,,5,,,,,174,23,115,14,107,36,0,0,115,14,107,0,0,0,0,2,2,2,1,,1,"0.31",7,7,7,5
+Module File,"D:\thesis2\real 106 project\glances\glances\plugins\glances_ip.py",D:\thesis2\real 106 project\glances\glances\plugins\glances_ip.py,2,2,2,1,11,2,7,3,,,,,1,7,,6,,,,,128,25,56,21,43,47,3,0,52,18,41,3,3,3,1,5,5,6,1,,3,"0.84",15,15,17,7
+Module File,"D:\thesis2\real 106 project\glances\glances\plugins\glances_load.py",D:\thesis2\real 106 project\glances\glances\plugins\glances_load.py,2,2,2,1,20,3,14,6,,,,,1,6,,5,,,,,175,29,83,20,73,66,1,0,71,19,62,1,1,1,1,7,7,7,4,,2,"0.80",16,16,17,9
+Module File,"D:\thesis2\real 106 project\glances\glances\plugins\glances_mem.py",D:\thesis2\real 106 project\glances\glances\plugins\glances_mem.py,4,4,4,2,31,3,20,11,,,,,1,6,,5,,,,,239,31,120,22,111,89,1,0,101,20,93,1,1,1,1,14,14,14,8,,5,"0.74",26,26,27,13
+Module File,"D:\thesis2\real 106 project\glances\glances\plugins\glances_memswap.py",D:\thesis2\real 106 project\glances\glances\plugins\glances_memswap.py,3,3,3,2,23,3,15,8,,,,,1,6,,5,,,,,187,29,87,20,78,72,1,0,70,19,62,1,1,1,1,12,12,12,8,,5,"0.83",18,18,19,13
+Module File,"D:\thesis2\real 106 project\glances\glances\plugins\glances_monitor.py",D:\thesis2\real 106 project\glances\glances\plugins\glances_monitor.py,4,4,4,2,16,1,11,3,,,,,1,5,,5,,,,,120,20,63,15,54,37,0,0,58,15,49,0,0,0,0,11,11,12,5,,3,"0.59",23,23,24,11
+Module File,"D:\thesis2\real 106 project\glances\glances\plugins\glances_network.py",D:\thesis2\real 106 project\glances\glances\plugins\glances_network.py,5,5,5,2,36,3,29,8,,,,,1,7,,6,,,,,306,38,187,41,174,83,1,0,145,40,133,1,1,1,1,15,15,16,10,,6,"0.44",35,35,37,19
+Module File,"D:\thesis2\real 106 project\glances\glances\plugins\glances_now.py",D:\thesis2\real 106 project\glances\glances\plugins\glances_now.py,1,1,1,1,8,1,4,3,,,,,1,3,,3,,,,,61,14,15,11,9,32,0,0,15,11,9,0,0,0,0,1,1,1,1,,0,"2.13",3,3,3,3
+Module File,"D:\thesis2\real 106 project\glances\glances\plugins\glances_percpu.py",D:\thesis2\real 106 project\glances\glances\plugins\glances_percpu.py,2,2,2,1,13,2,7,3,,,,,1,5,,5,,,,,106,22,42,14,34,42,0,0,40,14,32,0,0,0,0,7,7,7,5,,2,"1.00",12,12,12,9
+Module File,"D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,2,2,2,1,13,1,7,4,,,,,1,45,,45,,,,,669,102,354,117,290,213,0,0,283,105,229,0,0,0,0,14,14,14,8,,6,"0.60",112,112,124,64
+Module File,"D:\thesis2\real 106 project\glances\glances\plugins\glances_processcount.py",D:\thesis2\real 106 project\glances\glances\plugins\glances_processcount.py,3,3,3,1,23,3,14,5,,,,,1,4,,4,,,,,133,26,60,12,53,47,0,0,58,12,51,0,0,0,0,9,9,9,3,,1,"0.78",14,14,14,6
+Module File,"D:\thesis2\real 106 project\glances\glances\plugins\glances_processlist.py",D:\thesis2\real 106 project\glances\glances\plugins\glances_processlist.py,7,7,10,1,39,1,30,7,,,,,1,13,,13,,,,,571,46,400,71,378,125,0,0,344,70,322,0,0,0,0,43,43,66,3,,4,"0.31",100,100,134,15
+Module File,"D:\thesis2\real 106 project\glances\glances\plugins\glances_psutilversion.py",D:\thesis2\real 106 project\glances\glances\plugins\glances_psutilversion.py,1,1,1,1,8,1,5,2,,,,,1,3,,3,,,,,57,12,18,7,12,27,0,0,17,7,11,0,0,0,0,3,3,3,1,,2,"1.50",5,5,5,3
+Module File,"D:\thesis2\real 106 project\glances\glances\plugins\glances_quicklook.py",D:\thesis2\real 106 project\glances\glances\plugins\glances_quicklook.py,2,2,3,1,15,1,10,4,,,,,1,7,,6,,,,,147,24,77,23,64,46,2,0,71,22,59,2,2,2,1,8,8,10,1,,4,"0.60",20,20,22,7
+Module File,"D:\thesis2\real 106 project\glances\glances\plugins\glances_raid.py",D:\thesis2\real 106 project\glances\glances\plugins\glances_raid.py,3,3,3,1,18,2,14,5,,,,,1,6,,5,,,,,152,22,81,23,71,49,2,0,77,21,68,2,2,2,1,10,10,11,3,,4,"0.60",21,21,22,10
+Module File,"D:\thesis2\real 106 project\glances\glances\plugins\glances_sensors.py",D:\thesis2\real 106 project\glances\glances\plugins\glances_sensors.py,3,3,3,1,16,1,10,4,,,,,2,13,,12,,,,,277,45,145,46,123,87,4,1,130,44,109,3,3,3,1,8,8,9,3,,4,"0.60",42,42,43,15
+Module File,"D:\thesis2\real 106 project\glances\glances\plugins\glances_system.py",D:\thesis2\real 106 project\glances\glances\plugins\glances_system.py,5,5,5,1,25,2,20,5,,,,,1,6,,5,,,,,201,27,117,26,107,57,1,0,90,25,80,1,1,1,1,15,15,16,6,,5,"0.49",33,33,35,11
+Module File,"D:\thesis2\real 106 project\glances\glances\plugins\glances_uptime.py",D:\thesis2\real 106 project\glances\glances\plugins\glances_uptime.py,1,1,1,1,8,1,5,3,,,,,1,5,,4,,,,,84,19,26,13,18,39,1,0,25,13,17,1,1,1,1,4,4,4,1,,2,"1.50",8,8,8,5
+Module File,"D:\thesis2\real 106 project\glances\setup.py",D:\thesis2\real 106 project\glances\setup.py,2,2,2,1,22,1,7,0,,,,,0,3,,2,,,,,80,11,67,7,62,2,2,0,17,7,12,2,2,3,1,3,3,3,1,,1,"0.03",6,6,7,3
+Module File,"D:\thesis2\real 106 project\glances\unitest-restful.py",D:\thesis2\real 106 project\glances\unitest-restful.py,1,1,1,1,10,1,8,1,,,,,1,13,,12,,,,,186,36,115,52,95,35,4,1,111,52,91,3,3,3,1,5,5,5,1,,2,"0.30",22,22,22,13
+Module File,"D:\thesis2\real 106 project\glances\unitest-xmlrpc.py",D:\thesis2\real 106 project\glances\unitest-xmlrpc.py,1,1,1,1,8,1,6,1,,,,,1,15,,14,,,,,191,45,107,52,83,39,4,1,107,52,83,3,3,3,1,3,3,3,1,,1,"0.36",17,17,17,15
+Module File,"D:\thesis2\real 106 project\glances\unitest.py",D:\thesis2\real 106 project\glances\unitest.py,1,1,1,1,9,0,7,2,,,,,1,14,,13,,,,,195,28,110,48,88,57,3,0,109,46,88,3,3,3,1,3,3,3,1,,1,"0.52",24,24,24,14
+Unknown Class,"SimpleXMLRPCRequestHandler",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"SimpleXMLRPCServer",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"TestCase",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"TestCase",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"TestCase",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"Textbox",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"Thread",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"Thread",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"Transport",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Function,"conf.get_version()",D:\thesis2\real 106 project\glances\docs\conf.py,,,,,,,,,,,,,,,,,,,,,11,0,11,4,10,0,3,0,10,4,9,3,3,3,3,,,,,,3,"0.00",,,,
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,1,1,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,1,1,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,1,1,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,3,3,4,1,5,0,0,0,,,,,0,,1,0,,,,,38,6,8,4,5,24,,,8,4,5,,,,,3,3,4,1,,1,,3,3,4,1
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,4,4,5,2,36,9,21,11,,,,,0,,1,3,,,,,193,43,92,23,76,58,,,76,23,60,,,,,8,8,8,5,,3,,19,19,20,11
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,1,1,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Function,"glances.__signal_handler(signal,frame)",D:\thesis2\real 106 project\glances\glances\__init__.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,3,3,3,1,20,2,17,3,,,,,1,,1,8,,,,,240,31,156,33,130,54,,,134,23,117,,,,,14,14,14,4,,4,,30,30,32,12
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,3,3,4,1,17,1,11,4,,,,,2,,1,36,,,,,737,101,448,125,391,189,,,396,112,351,,,,,20,20,30,12,,4,,128,128,148,54
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,1,1,1,1,7,0,5,1,,,,,1,,1,18,,,,,193,34,98,37,75,61,,,93,36,70,,,,,7,7,8,5,,4,,31,31,34,24
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,2,2,2,1,11,1,7,4,,,,,1,,1,4,,,,,96,17,39,13,31,40,,,35,12,27,,,,,5,5,5,1,,2,,11,11,11,5
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,1,1,1,1,7,0,4,2,,,,,4,,1,21,,,,,246,48,124,60,81,75,,,115,54,76,,,,,3,3,3,3,,2,,34,34,34,26
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,1,1,2,1,22,1,7,1,,,,,0,,1,2,,,,,103,10,68,12,61,25,,,23,12,16,,,,,2,2,3,1,,1,,5,5,6,3
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,1,1,2,1,10,0,5,3,,,,,4,,1,31,,,,,407,71,201,98,158,135,,,178,97,135,,,,,5,5,9,4,,3,,61,61,70,37
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,2,2,3,1,15,2,9,4,,,,,1,,1,5,,,,,118,23,53,17,40,42,,,48,16,36,,,,,7,7,8,1,,2,,14,14,15,5
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,2,2,4,1,23,1,18,3,,,,,1,,1,11,,,,,351,39,248,36,227,64,,,150,36,129,,,,,16,16,24,5,,2,,28,28,44,15
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,1,1,1,1,6,1,3,2,,,,,1,,1,3,,,,,54,11,16,10,8,27,,,16,10,8,,,,,2,2,3,1,,1,,4,4,5,3
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,2,2,2,1,11,1,7,3,,,,,1,,1,9,,,,,162,29,75,34,58,58,,,70,31,53,,,,,8,8,10,4,,3,,23,23,27,15
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,2,2,2,1,10,1,7,2,,,,,1,,1,4,,,,,78,14,33,10,26,31,,,30,10,23,,,,,4,4,4,4,,3,,9,9,9,7
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,3,3,3,1,23,2,16,7,,,,,1,,1,8,,,,,262,36,141,38,122,85,,,118,37,99,,,,,17,17,19,5,,6,,33,33,35,13
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,2,2,2,2,14,1,9,3,,,,,1,,1,4,,,,,93,17,41,15,34,35,,,39,14,32,,,,,8,8,8,6,,4,,11,11,11,9
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,2,2,2,1,15,1,10,4,,,,,2,,1,11,,,,,240,40,129,45,104,71,,,115,40,92,,,,,11,11,11,8,,3,,33,33,34,21
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,2,2,2,1,10,0,9,2,,,,,1,,1,5,,,,,97,14,49,16,41,34,,,43,16,35,,,,,10,10,10,1,,3,,17,17,17,6
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,2,2,2,1,8,0,6,1,,,,,4,,1,17,,,,,229,39,139,54,106,59,,,110,46,83,,,,,6,6,6,3,,4,,37,37,40,20
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,1,1,1,1,17,0,0,0,,,,,0,,1,0,,,,,54,9,19,17,17,26,,,19,17,17,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,2,2,3,1,16,1,9,8,,,,,1,,1,8,,,,,202,26,81,23,68,106,,,62,22,50,,,,,9,9,12,3,,3,,23,23,29,11
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,1,1,1,1,3,0,3,0,,,,,1,,1,6,,,,,60,13,24,15,15,23,,,23,15,14,,,,,2,2,2,1,,1,,8,8,8,7
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,1,1,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.core",,2,2,2,1,13,1,10,3,,,,,1,,1,6,,,,,134,20,73,26,62,41,,,49,25,39,,,,,4,4,4,1,,3,,17,17,19,7
+Class,"glances.core.glances_actions.GlancesActions",D:\thesis2\real 106 project\glances\glances\core\glances_actions.py,2,2,2,1,13,1,7,4,1,2,0,0,,,,,4,1,4,4,60,11,30,9,25,19,,,26,8,21,,,,,5,5,5,1,1,2,"0.63",9,9,9,4
+Function,"glances.core.glances_actions.GlancesActions.__init__(self)",D:\thesis2\real 106 project\glances\glances\core\glances_actions.py,,,,,,,,,,,,,,,,,,,,,7,0,2,2,1,5,1,0,2,2,1,1,1,1,1,,,,,,0,"2.50",,,,
+Function,"glances.core.glances_actions.GlancesActions.get(self,stat_name)",D:\thesis2\real 106 project\glances\glances\core\glances_actions.py,,,,,,,,,,,,,,,,,,,,,6,0,5,1,4,1,2,0,5,1,4,2,2,2,1,,,,,,1,"0.20",,,,
+Function,"glances.core.glances_actions.GlancesActions.run(self,stat_name,criticity,commands,mustache_dict)",D:\thesis2\real 106 project\glances\glances\core\glances_actions.py,,,,,,,,,,,,,,,,,,,,,37,6,20,4,19,11,6,1,16,3,15,5,5,5,1,,,,,,2,"0.55",,,,
+Function,"glances.core.glances_actions.GlancesActions.set(self,stat_name,criticity)",D:\thesis2\real 106 project\glances\glances\core\glances_actions.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"glances.core.glances_autodiscover.AutoDiscovered",D:\thesis2\real 106 project\glances\glances\core\glances_autodiscover.py,1,1,1,1,7,0,6,2,1,1,0,0,,,,,5,1,5,5,44,6,31,9,25,15,,,20,9,14,,,,,4,4,4,1,1,3,"0.48",8,8,8,5
+Function,"glances.core.glances_autodiscover.AutoDiscovered.__init__(self)",D:\thesis2\real 106 project\glances\glances\core\glances_autodiscover.py,,,,,,,,,,,,,,,,,,,,,4,0,2,2,1,2,1,0,2,2,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"glances.core.glances_autodiscover.AutoDiscovered.add_server(self,name,ip,port)",D:\thesis2\real 106 project\glances\glances\core\glances_autodiscover.py,,,,,,,,,,,,,,,,,,,,,14,0,13,2,12,9,1,0,4,2,3,1,1,1,1,,,,,,0,"0.69",,,,
+Function,"glances.core.glances_autodiscover.AutoDiscovered.get_servers_list(self)",D:\thesis2\real 106 project\glances\glances\core\glances_autodiscover.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_autodiscover.AutoDiscovered.remove_server(self,name)",D:\thesis2\real 106 project\glances\glances\core\glances_autodiscover.py,,,,,,,,,,,,,,,,,,,,,12,0,11,2,10,1,4,1,9,2,8,4,4,4,1,,,,,,3,"0.09",,,,
+Function,"glances.core.glances_autodiscover.AutoDiscovered.set_server(self,server_pos,key,value)",D:\thesis2\real 106 project\glances\glances\core\glances_autodiscover.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"glances.core.glances_autodiscover.GlancesAutoDiscoverClient",D:\thesis2\real 106 project\glances\glances\core\glances_autodiscover.py,3,3,3,1,12,0,9,2,1,1,0,0,,,,,2,2,3,3,45,6,31,11,25,8,,,26,9,21,,,,,6,6,6,1,1,4,"0.26",9,9,9,3
+Function,"glances.core.glances_autodiscover.GlancesAutoDiscoverClient.__init__(self,hostname,args)",D:\thesis2\real 106 project\glances\glances\core\glances_autodiscover.py,,,,,,,,,,,,,,,,,,,,,27,2,21,5,20,4,9,1,17,4,16,6,6,6,1,,,,,,4,"0.19",,,,
+Function,"glances.core.glances_autodiscover.GlancesAutoDiscoverClient.close(self)",D:\thesis2\real 106 project\glances\glances\core\glances_autodiscover.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"glances.core.glances_autodiscover.GlancesAutoDiscoverClient.find_active_ip_address()",D:\thesis2\real 106 project\glances\glances\core\glances_autodiscover.py,,,,,,,,,,,,,,,,,,,,,7,0,4,3,2,3,1,0,4,3,2,1,1,1,1,,,,,,0,"0.75",,,,
+Class,"glances.core.glances_autodiscover.GlancesAutoDiscoverListener",D:\thesis2\real 106 project\glances\glances\core\glances_autodiscover.py,1,1,1,1,7,0,5,1,1,1,1,0,,,,,5,1,5,5,45,8,27,10,21,10,,,22,10,16,,,,,3,3,3,1,1,1,"0.37",7,7,7,5
+Function,"glances.core.glances_autodiscover.GlancesAutoDiscoverListener.__init__(self)",D:\thesis2\real 106 project\glances\glances\core\glances_autodiscover.py,,,,,,,,,,,,,,,,,,,,,3,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_autodiscover.GlancesAutoDiscoverListener.add_service(self,zeroconf,srv_type,srv_name)",D:\thesis2\real 106 project\glances\glances\core\glances_autodiscover.py,,,,,,,,,,,,,,,,,,,,,23,2,16,4,15,5,3,0,12,4,11,3,3,3,1,,,,,,1,"0.31",,,,
+Function,"glances.core.glances_autodiscover.GlancesAutoDiscoverListener.get_servers_list(self)",D:\thesis2\real 106 project\glances\glances\core\glances_autodiscover.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_autodiscover.GlancesAutoDiscoverListener.remove_service(self,zeroconf,srv_type,srv_name)",D:\thesis2\real 106 project\glances\glances\core\glances_autodiscover.py,,,,,,,,,,,,,,,,,,,,,5,0,4,1,3,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.25",,,,
+Function,"glances.core.glances_autodiscover.GlancesAutoDiscoverListener.set_server(self,server_pos,key,value)",D:\thesis2\real 106 project\glances\glances\core\glances_autodiscover.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"glances.core.glances_autodiscover.GlancesAutoDiscoverServer",D:\thesis2\real 106 project\glances\glances\core\glances_autodiscover.py,2,2,3,1,7,0,6,0,1,1,1,0,,,,,4,4,4,4,36,5,28,10,23,3,,,25,9,20,,,,,3,3,3,1,1,2,"0.11",9,9,12,4
+Function,"glances.core.glances_autodiscover.GlancesAutoDiscoverServer.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\core\glances_autodiscover.py,,,,,,,,,,,,,,,,,,,,,16,0,16,6,15,0,3,0,14,5,13,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"glances.core.glances_autodiscover.GlancesAutoDiscoverServer.close(self)",D:\thesis2\real 106 project\glances\glances\core\glances_autodiscover.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,2,0,3,1,2,2,2,3,1,,,,,,1,"0.00",,,,
+Function,"glances.core.glances_autodiscover.GlancesAutoDiscoverServer.get_servers_list(self)",D:\thesis2\real 106 project\glances\glances\core\glances_autodiscover.py,,,,,,,,,,,,,,,,,,,,,6,0,5,1,4,1,2,0,4,1,3,2,2,3,1,,,,,,1,"0.20",,,,
+Function,"glances.core.glances_autodiscover.GlancesAutoDiscoverServer.set_server(self,server_pos,key,value)",D:\thesis2\real 106 project\glances\glances\core\glances_autodiscover.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,1,2,0,3,1,2,2,2,3,1,,,,,,1,"0.33",,,,
+Class,"glances.core.glances_client.GlancesClient",D:\thesis2\real 106 project\glances\glances\core\glances_client.py,3,3,3,1,17,2,11,4,1,6,4,0,,,,,10,7,10,10,194,31,115,33,101,48,,,101,28,89,,,,,11,11,11,8,1,3,"0.42",30,30,31,19
+Function,"glances.core.glances_client.GlancesClient.__init__(self,config,args,timeout,return_to_browser)",D:\thesis2\real 106 project\glances\glances\core\glances_client.py,,,,,,,,,,,,,,,,,,,,,27,4,17,9,16,6,4,1,15,8,14,3,3,3,1,,,,,,1,"0.35",,,,
+Function,"glances.core.glances_client.GlancesClient.client_mode-getter(self)",D:\thesis2\real 106 project\glances\glances\core\glances_client.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_client.GlancesClient.client_mode-setter(self,mode)",D:\thesis2\real 106 project\glances\glances\core\glances_client.py,,,,,,,,,,,,,,,,,,,,,7,1,2,1,1,4,1,0,2,1,1,1,1,1,1,,,,,,0,"2.00",,,,
+Function,"glances.core.glances_client.GlancesClient.end(self)",D:\thesis2\real 106 project\glances\glances\core\glances_client.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_client.GlancesClient.log_and_exit(self,msg)",D:\thesis2\real 106 project\glances\glances\core\glances_client.py,,,,,,,,,,,,,,,,,,,,,7,0,6,1,5,1,2,0,5,1,4,2,2,2,1,,,,,,1,"0.17",,,,
+Function,"glances.core.glances_client.GlancesClient.login(self)",D:\thesis2\real 106 project\glances\glances\core\glances_client.py,,,,,,,,,,,,,,,,,,,,,65,10,43,9,41,12,40,2,38,8,36,11,11,11,8,,,,,,3,"0.28",,,,
+Function,"glances.core.glances_client.GlancesClient.serve_forever(self)",D:\thesis2\real 106 project\glances\glances\core\glances_client.py,,,,,,,,,,,,,,,,,,,,,20,3,13,4,12,4,3,0,11,3,10,3,3,4,1,,,,,,2,"0.31",,,,
+Function,"glances.core.glances_client.GlancesClient.update(self)",D:\thesis2\real 106 project\glances\glances\core\glances_client.py,,,,,,,,,,,,,,,,,,,,,10,0,9,1,8,1,3,0,7,1,6,3,3,3,3,,,,,,1,"0.11",,,,
+Function,"glances.core.glances_client.GlancesClient.update_glances(self)",D:\thesis2\real 106 project\glances\glances\core\glances_client.py,,,,,,,,,,,,,,,,,,,,,21,1,11,2,10,9,3,0,11,2,10,3,3,3,1,,,,,,1,"0.82",,,,
+Function,"glances.core.glances_client.GlancesClient.update_snmp(self)",D:\thesis2\real 106 project\glances\glances\core\glances_client.py,,,,,,,,,,,,,,,,,,,,,16,1,7,1,6,8,2,0,7,1,6,2,2,2,1,,,,,,1,"1.14",,,,
+Class,"glances.core.glances_client.GlancesClientTransport",D:\thesis2\real 106 project\glances\glances\core\glances_client.py,1,1,1,1,2,0,2,0,1,0,0,0,,,,,1,1,1,1,6,2,3,3,1,1,,,3,3,1,,,,,1,1,1,1,1,0,"0.33",1,1,1,1
+Function,"glances.core.glances_client.GlancesClientTransport.set_timeout(self,timeout)",D:\thesis2\real 106 project\glances\glances\core\glances_client.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"glances.core.glances_client_browser.GlancesClientBrowser",D:\thesis2\real 106 project\glances\glances\core\glances_client_browser.py,3,3,4,1,26,2,16,7,1,10,5,0,,,,,8,6,8,8,223,31,129,28,120,63,,,106,27,97,,,,,17,17,19,5,1,6,"0.49",31,31,33,12
+Function,"glances.core.glances_client_browser.GlancesClientBrowser.__get_uri(self,server)",D:\thesis2\real 106 project\glances\glances\core\glances_client_browser.py,,,,,,,,,,,,,,,,,,,,,13,0,10,2,9,3,4,1,8,2,7,4,4,4,1,,,,,,3,"0.30",,,,
+Function,"glances.core.glances_client_browser.GlancesClientBrowser.__init__(self,config,args)",D:\thesis2\real 106 project\glances\glances\core\glances_client_browser.py,,,,,,,,,,,,,,,,,,,,,18,3,11,7,10,4,2,0,10,7,9,2,2,2,1,,,,,,1,"0.36",,,,
+Function,"glances.core.glances_client_browser.GlancesClientBrowser.__serve_forever(self)",D:\thesis2\real 106 project\glances\glances\core\glances_client_browser.py,,,,,,,,,,,,,,,,,,,,,139,14,83,12,82,42,295,2,67,11,66,17,17,19,5,,,,,,6,"0.51",,,,
+Function,"glances.core.glances_client_browser.GlancesClientBrowser.end(self)",D:\thesis2\real 106 project\glances\glances\core\glances_client_browser.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_client_browser.GlancesClientBrowser.get_servers_list(self)",D:\thesis2\real 106 project\glances\glances\core\glances_client_browser.py,,,,,,,,,,,,,,,,,,,,,13,3,7,2,6,3,3,0,7,2,6,3,3,3,1,,,,,,2,"0.43",,,,
+Function,"glances.core.glances_client_browser.GlancesClientBrowser.load(self)",D:\thesis2\real 106 project\glances\glances\core\glances_client_browser.py,,,,,,,,,,,,,,,,,,,,,7,1,3,1,2,3,1,0,3,1,2,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"glances.core.glances_client_browser.GlancesClientBrowser.serve_forever(self)",D:\thesis2\real 106 project\glances\glances\core\glances_client_browser.py,,,,,,,,,,,,,,,,,,,,,10,1,5,1,4,4,1,0,4,1,3,1,1,1,1,,,,,,1,"0.80",,,,
+Function,"glances.core.glances_client_browser.GlancesClientBrowser.set_in_selected(self,key,value)",D:\thesis2\real 106 project\glances\glances\core\glances_client_browser.py,,,,,,,,,,,,,,,,,,,,,9,0,7,1,6,2,2,0,4,1,3,2,2,2,1,,,,,,1,"0.29",,,,
+Class,"glances.core.glances_config.Config",D:\thesis2\real 106 project\glances\glances\core\glances_config.py,3,3,3,1,22,2,17,3,1,2,0,0,,,,,8,4,8,8,196,26,138,17,128,32,,,124,15,115,,,,,14,14,14,4,1,4,"0.23",28,28,30,11
+Function,"glances.core.glances_config.Config.__init__(self,config_dir)",D:\thesis2\real 106 project\glances\glances\core\glances_config.py,,,,,,,,,,,,,,,,,,,,,7,1,6,5,5,0,1,0,6,5,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.core.glances_config.Config.config_file_paths(self)",D:\thesis2\real 106 project\glances\glances\core\glances_config.py,,,,,,,,,,,,,,,,,,,,,43,6,25,2,24,12,10,1,13,2,12,6,6,8,1,,,,,,2,"0.48",,,,
+Function,"glances.core.glances_config.Config.get_float_value(self,section,option,default)",D:\thesis2\real 106 project\glances\glances\core\glances_config.py,,,,,,,,,,,,,,,,,,,,,6,0,5,1,4,1,2,0,5,1,4,2,2,2,1,,,,,,1,"0.20",,,,
+Function,"glances.core.glances_config.Config.get_value(self,section,option,default)",D:\thesis2\real 106 project\glances\glances\core\glances_config.py,,,,,,,,,,,,,,,,,,,,,6,0,5,1,4,1,2,0,5,1,4,2,2,2,1,,,,,,1,"0.20",,,,
+Function,"glances.core.glances_config.Config.has_section(self,section)",D:\thesis2\real 106 project\glances\glances\core\glances_config.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_config.Config.items(self,section)",D:\thesis2\real 106 project\glances\glances\core\glances_config.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_config.Config.loaded_config_file-getter(self)",D:\thesis2\real 106 project\glances\glances\core\glances_config.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_config.Config.read(self)",D:\thesis2\real 106 project\glances\glances\core\glances_config.py,,,,,,,,,,,,,,,,,,,,,109,9,89,3,88,11,2049,3,88,2,87,14,14,14,4,,,,,,4,"0.12",,,,
+Class,"glances.core.glances_cpu_percent.CpuPercent",D:\thesis2\real 106 project\glances\glances\core\glances_cpu_percent.py,3,3,3,1,11,0,9,2,1,2,1,0,,,,,5,5,5,5,67,7,46,13,40,14,,,40,13,34,,,,,10,10,10,1,1,3,"0.30",16,16,16,5
+Function,"glances.core.glances_cpu_percent.CpuPercent.__get_cpu(self)",D:\thesis2\real 106 project\glances\glances\core\glances_cpu_percent.py,,,,,,,,,,,,,,,,,,,,,8,0,5,1,4,3,2,0,5,1,4,2,2,2,1,,,,,,1,"0.60",,,,
+Function,"glances.core.glances_cpu_percent.CpuPercent.__get_percpu(self)",D:\thesis2\real 106 project\glances\glances\core\glances_cpu_percent.py,,,,,,,,,,,,,,,,,,,,,32,0,27,3,26,5,130,2,22,3,21,10,10,10,1,,,,,,3,"0.19",,,,
+Function,"glances.core.glances_cpu_percent.CpuPercent.__init__(self,cached_time)",D:\thesis2\real 106 project\glances\glances\core\glances_cpu_percent.py,,,,,,,,,,,,,,,,,,,,,9,1,6,6,5,2,1,0,6,6,5,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"glances.core.glances_cpu_percent.CpuPercent.get(self,percpu)",D:\thesis2\real 106 project\glances\glances\core\glances_cpu_percent.py,,,,,,,,,,,,,,,,,,,,,7,0,5,1,4,2,2,0,4,1,3,2,2,2,1,,,,,,1,"0.40",,,,
+Function,"glances.core.glances_cpu_percent.CpuPercent.get_key(self)",D:\thesis2\real 106 project\glances\glances\core\glances_cpu_percent.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_logging.glances_logger()",D:\thesis2\real 106 project\glances\glances\core\glances_logging.py,,,,,,,,,,,,,,,,,,,,,8,1,6,3,5,1,1,0,6,3,5,1,1,1,1,,,,,,0,"0.17",,,,
+Function,"glances.core.glances_logging.tempfile_name()",D:\thesis2\real 106 project\glances\glances\core\glances_logging.py,,,,,,,,,,,,,,,,,,,,,10,1,8,2,7,1,2,0,8,2,7,2,2,3,1,,,,,,1,"0.12",,,,
+Class,"glances.core.glances_logs.GlancesLogs",D:\thesis2\real 106 project\glances\glances\core\glances_logs.py,2,2,3,1,18,1,9,8,1,1,0,0,,,,,8,2,8,8,171,20,77,19,67,85,,,58,18,49,,,,,9,9,12,3,1,3,"1.10",22,22,28,10
+Function,"glances.core.glances_logs.GlancesLogs.__init__(self)",D:\thesis2\real 106 project\glances\glances\core\glances_logs.py,,,,,,,,,,,,,,,,,,,,,7,1,3,3,2,3,1,0,3,3,2,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"glances.core.glances_logs.GlancesLogs.__itemexist__(self,item_type)",D:\thesis2\real 106 project\glances\glances\core\glances_logs.py,,,,,,,,,,,,,,,,,,,,,12,1,5,2,4,6,3,0,5,2,4,3,3,4,3,,,,,,2,"1.20",,,,
+Function,"glances.core.glances_logs.GlancesLogs.add(self,item_state,item_type,item_value,proc_list,proc_desc,peak_time)",D:\thesis2\real 106 project\glances\glances\core\glances_logs.py,,,,,,,,,,,,,,,,,,,,,86,6,44,5,42,47,11,1,27,4,26,9,9,12,1,,,,,,3,"1.07",,,,
+Function,"glances.core.glances_logs.GlancesLogs.clean(self,critical)",D:\thesis2\real 106 project\glances\glances\core\glances_logs.py,,,,,,,,,,,,,,,,,,,,,15,1,8,3,7,6,3,0,8,3,7,3,3,5,1,,,,,,2,"0.75",,,,
+Function,"glances.core.glances_logs.GlancesLogs.get(self)",D:\thesis2\real 106 project\glances\glances\core\glances_logs.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_logs.GlancesLogs.len(self)",D:\thesis2\real 106 project\glances\glances\core\glances_logs.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_logs.GlancesLogs.reset_process_sort(self)",D:\thesis2\real 106 project\glances\glances\core\glances_logs.py,,,,,,,,,,,,,,,,,,,,,5,0,3,1,2,2,1,0,3,1,2,1,1,1,1,,,,,,0,"0.67",,,,
+Function,"glances.core.glances_logs.GlancesLogs.set_process_sort(self,item_type)",D:\thesis2\real 106 project\glances\glances\core\glances_logs.py,,,,,,,,,,,,,,,,,,,,,14,0,9,2,8,5,3,0,7,2,6,3,3,3,1,,,,,,1,"0.56",,,,
+Class,"glances.core.glances_main.GlancesMain",D:\thesis2\real 106 project\glances\glances\core\glances_main.py,2,2,4,1,23,1,18,3,1,5,2,0,,,,,11,2,11,11,318,34,241,29,227,43,,,143,29,129,,,,,16,16,24,5,1,2,"0.18",28,28,44,15
+Function,"glances.core.glances_main.GlancesMain.__get_password(self,description,confirm,clear)",D:\thesis2\real 106 project\glances\glances\core\glances_main.py,,,,,,,,,,,,,,,,,,,,,11,3,4,3,2,4,1,0,4,3,2,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"glances.core.glances_main.GlancesMain.__init__(self)",D:\thesis2\real 106 project\glances\glances\core\glances_main.py,,,,,,,,,,,,,,,,,,,,,3,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_main.GlancesMain.get_args(self)",D:\thesis2\real 106 project\glances\glances\core\glances_main.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_main.GlancesMain.get_config(self)",D:\thesis2\real 106 project\glances\glances\core\glances_main.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_main.GlancesMain.init_args(self)",D:\thesis2\real 106 project\glances\glances\core\glances_main.py,,,,,,,,,,,,,,,,,,,,,127,1,121,3,120,5,4,1,61,3,60,3,3,3,1,,,,,,1,"0.04",,,,
+Function,"glances.core.glances_main.GlancesMain.is_client(self)",D:\thesis2\real 106 project\glances\glances\core\glances_main.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,3,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_main.GlancesMain.is_client_browser(self)",D:\thesis2\real 106 project\glances\glances\core\glances_main.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,2,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_main.GlancesMain.is_server(self)",D:\thesis2\real 106 project\glances\glances\core\glances_main.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,2,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_main.GlancesMain.is_standalone(self)",D:\thesis2\real 106 project\glances\glances\core\glances_main.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,4,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_main.GlancesMain.is_webserver(self)",D:\thesis2\real 106 project\glances\glances\core\glances_main.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,2,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_main.GlancesMain.parse_args(self)",D:\thesis2\real 106 project\glances\glances\core\glances_main.py,,,,,,,,,,,,,,,,,,,,,96,15,64,5,62,17,1680,3,53,5,51,16,16,24,5,,,,,,2,"0.27",,,,
+Class,"glances.core.glances_monitor_list.MonitorList",D:\thesis2\real 106 project\glances\glances\core\glances_monitor_list.py,1,1,1,1,7,0,5,1,1,2,0,0,,,,,18,1,18,18,163,29,94,33,75,40,,,89,32,70,,,,,7,7,8,5,1,4,"0.43",31,31,34,24
+Function,"glances.core.glances_monitor_list.MonitorList.__get__(self,item,key)",D:\thesis2\real 106 project\glances\glances\core\glances_monitor_list.py,,,,,,,,,,,,,,,,,,,,,12,1,8,1,7,3,3,0,7,1,6,3,3,3,3,,,,,,2,"0.38",,,,
+Function,"glances.core.glances_monitor_list.MonitorList.__getitem__(self,item)",D:\thesis2\real 106 project\glances\glances\core\glances_monitor_list.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.core.glances_monitor_list.MonitorList.__init__(self,config)",D:\thesis2\real 106 project\glances\glances\core\glances_monitor_list.py,,,,,,,,,,,,,,,,,,,,,10,1,7,2,6,2,2,0,6,2,5,2,2,3,1,,,,,,1,"0.29",,,,
+Function,"glances.core.glances_monitor_list.MonitorList.__len__(self)",D:\thesis2\real 106 project\glances\glances\core\glances_monitor_list.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.core.glances_monitor_list.MonitorList.__repr__(self)",D:\thesis2\real 106 project\glances\glances\core\glances_monitor_list.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.core.glances_monitor_list.MonitorList.__set_monitor_list(self,section,key)",D:\thesis2\real 106 project\glances\glances\core\glances_monitor_list.py,,,,,,,,,,,,,,,,,,,,,33,1,27,9,26,5,5,1,27,8,26,5,5,6,5,,,,,,4,"0.19",,,,
+Function,"glances.core.glances_monitor_list.MonitorList.__str__(self)",D:\thesis2\real 106 project\glances\glances\core\glances_monitor_list.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.core.glances_monitor_list.MonitorList.command(self,item)",D:\thesis2\real 106 project\glances\glances\core\glances_monitor_list.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_monitor_list.MonitorList.countmax(self,item)",D:\thesis2\real 106 project\glances\glances\core\glances_monitor_list.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_monitor_list.MonitorList.countmin(self,item)",D:\thesis2\real 106 project\glances\glances\core\glances_monitor_list.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_monitor_list.MonitorList.description(self,item)",D:\thesis2\real 106 project\glances\glances\core\glances_monitor_list.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_monitor_list.MonitorList.get(self)",D:\thesis2\real 106 project\glances\glances\core\glances_monitor_list.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_monitor_list.MonitorList.getAll(self)",D:\thesis2\real 106 project\glances\glances\core\glances_monitor_list.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_monitor_list.MonitorList.regex(self,item)",D:\thesis2\real 106 project\glances\glances\core\glances_monitor_list.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_monitor_list.MonitorList.result(self,item)",D:\thesis2\real 106 project\glances\glances\core\glances_monitor_list.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_monitor_list.MonitorList.set(self,newlist)",D:\thesis2\real 106 project\glances\glances\core\glances_monitor_list.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_monitor_list.MonitorList.setAll(self,newlist)",D:\thesis2\real 106 project\glances\glances\core\glances_monitor_list.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_monitor_list.MonitorList.update(self)",D:\thesis2\real 106 project\glances\glances\core\glances_monitor_list.py,,,,,,,,,,,,,,,,,,,,,33,4,21,4,20,8,10,1,18,4,17,7,7,8,1,,,,,,3,"0.38",,,,
+Class,"glances.core.glances_password.GlancesPassword",D:\thesis2\real 106 project\glances\glances\core\glances_password.py,2,2,2,1,12,1,7,3,1,1,0,1,,,,,9,3,9,9,123,23,64,27,54,36,,,59,24,49,,,,,8,8,10,4,1,3,"0.56",21,21,25,14
+Function,"glances.core.glances_password.GlancesPassword.__init__(self)",D:\thesis2\real 106 project\glances\glances\core\glances_password.py,,,,,,,,,,,,,,,,,,,,,4,0,4,4,3,0,1,0,4,4,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.core.glances_password.GlancesPassword.check_password(self,hashed_password,plain_password)",D:\thesis2\real 106 project\glances\glances\core\glances_password.py,,,,,,,,,,,,,,,,,,,,,8,1,4,3,3,3,1,0,4,3,3,1,1,1,1,,,,,,0,"0.75",,,,
+Function,"glances.core.glances_password.GlancesPassword.get_hash(self,salt,plain_password)",D:\thesis2\real 106 project\glances\glances\core\glances_password.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_password.GlancesPassword.get_password(self,description,confirm,clear)",D:\thesis2\real 106 project\glances\glances\core\glances_password.py,,,,,,,,,,,,,,,,,,,,,47,7,23,6,22,17,27,1,21,6,20,8,8,10,4,,,,,,3,"0.74",,,,
+Function,"glances.core.glances_password.GlancesPassword.get_password_path(self)",D:\thesis2\real 106 project\glances\glances\core\glances_password.py,,,,,,,,,,,,,,,,,,,,,20,3,11,2,10,6,4,1,8,2,7,4,4,6,1,,,,,,1,"0.55",,,,
+Function,"glances.core.glances_password.GlancesPassword.hash_password(self,plain_password)",D:\thesis2\real 106 project\glances\glances\core\glances_password.py,,,,,,,,,,,,,,,,,,,,,5,0,4,3,3,1,1,0,4,3,3,1,1,1,1,,,,,,0,"0.25",,,,
+Function,"glances.core.glances_password.GlancesPassword.load_password(self)",D:\thesis2\real 106 project\glances\glances\core\glances_password.py,,,,,,,,,,,,,,,,,,,,,7,1,4,3,3,2,1,0,4,2,3,1,1,1,1,,,,,,1,"0.50",,,,
+Function,"glances.core.glances_password.GlancesPassword.save_password(self,hashed_password)",D:\thesis2\real 106 project\glances\glances\core\glances_password.py,,,,,,,,,,,,,,,,,,,,,14,1,9,3,8,4,3,0,9,1,8,3,3,3,3,,,,,,2,"0.44",,,,
+Function,"glances.core.glances_password.GlancesPassword.sha256_hash(self,plain_password)",D:\thesis2\real 106 project\glances\glances\core\glances_password.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"glances.core.glances_passwordlist.GlancesPasswordList",D:\thesis2\real 106 project\glances\glances\core\glances_passwordlist.py,2,2,2,1,10,1,7,2,1,4,0,0,,,,,4,1,4,13,52,10,31,8,26,11,,,28,8,23,,,,,4,4,4,4,2,3,"0.35",9,9,9,7
+Function,"glances.core.glances_passwordlist.GlancesPasswordList.__init__(self,config,args)",D:\thesis2\real 106 project\glances\glances\core\glances_passwordlist.py,,,,,,,,,,,,,,,,,,,,,6,0,3,2,2,3,1,0,3,2,2,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"glances.core.glances_passwordlist.GlancesPasswordList.get_password(self,host)",D:\thesis2\real 106 project\glances\glances\core\glances_passwordlist.py,,,,,,,,,,,,,,,,,,,,,16,0,12,1,11,4,4,1,11,1,10,4,4,4,4,,,,,,3,"0.33",,,,
+Function,"glances.core.glances_passwordlist.GlancesPasswordList.load(self,config)",D:\thesis2\real 106 project\glances\glances\core\glances_passwordlist.py,,,,,,,,,,,,,,,,,,,,,18,4,12,2,11,2,3,0,10,2,9,3,3,3,1,,,,,,1,"0.17",,,,
+Function,"glances.core.glances_passwordlist.GlancesPasswordList.set_password(self,host,password)",D:\thesis2\real 106 project\glances\glances\core\glances_passwordlist.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"glances.core.glances_processes.GlancesProcesses",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,3,3,3,1,17,1,11,4,1,10,2,0,,,,,26,18,26,26,498,70,307,71,269,121,,,269,59,242,,,,,20,20,30,12,1,4,"0.39",84,84,100,41
+Function,"glances.core.glances_processes.GlancesProcesses.__get_extended_stats(self,proc,procstat)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,86,7,63,1,62,16,21870,4,60,1,59,20,20,21,1,,,,,,2,"0.25",,,,
+Function,"glances.core.glances_processes.GlancesProcesses.__get_mandatory_stats(self,proc,procstat)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,67,6,36,4,35,25,14,1,32,4,31,8,8,9,3,,,,,,3,"0.69",,,,
+Function,"glances.core.glances_processes.GlancesProcesses.__get_process_stats(self,proc,mandatory_stats,standard_stats,extended_stats)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,18,4,12,5,8,2,8,1,9,2,8,4,4,7,1,,,,,,1,"0.17",,,,
+Function,"glances.core.glances_processes.GlancesProcesses.__get_standard_stats(self,proc,procstat)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,33,4,23,1,22,6,10,1,22,1,21,6,6,6,1,,,,,,3,"0.26",,,,
+Function,"glances.core.glances_processes.GlancesProcesses.__init__(self,cache_timeout)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,43,9,19,19,18,15,1,0,19,19,18,1,1,1,1,,,,,,0,"0.79",,,,
+Function,"glances.core.glances_processes.GlancesProcesses.disable(self)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_processes.GlancesProcesses.disable_extended(self)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_processes.GlancesProcesses.disable_kernel_threads(self)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_processes.GlancesProcesses.enable(self)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"glances.core.glances_processes.GlancesProcesses.enable_extended(self)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"glances.core.glances_processes.GlancesProcesses.enable_tree(self)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_processes.GlancesProcesses.getalllist(self)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_processes.GlancesProcesses.getcount(self)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_processes.GlancesProcesses.getlist(self,sortedby)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_processes.GlancesProcesses.gettree(self)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_processes.GlancesProcesses.is_filtered(self,value)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,11,0,8,1,7,3,3,0,7,1,6,3,3,3,3,,,,,,2,"0.38",,,,
+Function,"glances.core.glances_processes.GlancesProcesses.is_tree_enabled(self)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_processes.GlancesProcesses.max_processes-getter(self)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_processes.GlancesProcesses.max_processes-setter(self,value)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_processes.GlancesProcesses.process_filter-getter(self)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_processes.GlancesProcesses.process_filter-setter(self,value)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,13,0,12,1,11,1,3,0,11,1,10,3,3,3,1,,,,,,2,"0.08",,,,
+Function,"glances.core.glances_processes.GlancesProcesses.process_filter_re-getter(self)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_processes.GlancesProcesses.sort_key-getter(self)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_processes.GlancesProcesses.sort_key-setter(self,key)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_processes.GlancesProcesses.sort_reverse-getter(self)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,6,1,4,1,3,1,2,0,4,1,3,2,2,3,1,,,,,,1,"0.25",,,,
+Function,"glances.core.glances_processes.GlancesProcesses.update(self)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,131,12,85,12,84,34,2211,3,68,11,67,20,20,30,12,,,,,,4,"0.40",,,,
+Class,"glances.core.glances_processes.ProcessTreeNode",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,4,4,5,1,19,1,14,4,1,0,0,0,,,,,8,7,9,9,192,21,128,45,117,44,,,114,44,104,,,,,9,9,9,3,1,4,"0.34",41,41,45,11
+Function,"glances.core.glances_processes.ProcessTreeNode.__init__(self,process,stats,sort_key,sort_reverse,root)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,8,0,8,8,7,0,1,0,8,8,7,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.core.glances_processes.ProcessTreeNode.__iter__(self)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,13,0,10,3,9,3,12,1,9,3,8,5,5,5,1,,,,,,2,"0.30",,,,
+Function,"glances.core.glances_processes.ProcessTreeNode.__len__(self)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,10,0,9,4,8,1,3,0,9,4,8,3,3,3,1,,,,,,2,"0.11",,,,
+Function,"glances.core.glances_processes.ProcessTreeNode.__str__(self)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,25,0,24,7,23,2,25,1,20,7,19,7,7,7,1,,,,,,3,"0.08",,,,
+Function,"glances.core.glances_processes.ProcessTreeNode.build_tree(process_dict,sort_key,sort_reverse,hide_kernel_threads)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,54,4,33,8,32,17,35,2,29,8,28,9,9,9,1,,,,,,4,"0.52",,,,
+Function,"glances.core.glances_processes.ProcessTreeNode.find_process(self,process)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,11,1,7,3,6,3,3,0,7,3,6,3,3,4,3,,,,,,2,"0.43",,,,
+Function,"glances.core.glances_processes.ProcessTreeNode.get_weight(self)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,22,2,18,5,17,2,6,1,15,5,14,6,6,7,1,,,,,,2,"0.11",,,,
+Function,"glances.core.glances_processes.ProcessTreeNode.iter_children(self,exclude_incomplete_stats)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,19,2,8,2,7,9,6,1,7,2,6,4,4,5,1,,,,,,2,"1.12",,,,
+Function,"glances.core.glances_processes.ProcessTreeNode.set_sorting(self,key,reverse)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,13,1,9,3,8,3,3,0,9,3,8,3,3,4,1,,,,,,2,"0.33",,,,
+Function,"glances.core.glances_processes.is_kernel_thread(proc)",D:\thesis2\real 106 project\glances\glances\core\glances_processes.py,,,,,,,,,,,,,,,,,,,,,8,0,5,1,4,3,2,0,5,1,4,2,2,2,1,,,,,,1,"0.60",,,,
+Class,"glances.core.glances_server.GlancesInstance",D:\thesis2\real 106 project\glances\glances\core\glances_server.py,1,1,1,1,6,0,3,2,1,4,2,0,,,,,9,3,9,9,68,13,33,14,23,22,,,32,14,22,,,,,3,3,3,3,1,2,"0.67",12,12,12,11
+Function,"glances.core.glances_server.GlancesInstance.__getattr__(self,item)",D:\thesis2\real 106 project\glances\glances\core\glances_server.py,,,,,,,,,,,,,,,,,,,,,19,1,10,2,9,8,3,0,9,2,8,3,3,3,3,,,,,,2,"0.80",,,,
+Function,"glances.core.glances_server.GlancesInstance.__init__(self,cached_time,config)",D:\thesis2\real 106 project\glances\glances\core\glances_server.py,,,,,,,,,,,,,,,,,,,,,12,2,5,4,4,5,1,0,5,4,4,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"glances.core.glances_server.GlancesInstance.__update__(self)",D:\thesis2\real 106 project\glances\glances\core\glances_server.py,,,,,,,,,,,,,,,,,,,,,5,0,4,1,3,1,2,0,4,1,3,2,2,2,1,,,,,,1,"0.25",,,,
+Function,"glances.core.glances_server.GlancesInstance.getAll(self)",D:\thesis2\real 106 project\glances\glances\core\glances_server.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"glances.core.glances_server.GlancesInstance.getAllLimits(self)",D:\thesis2\real 106 project\glances\glances\core\glances_server.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_server.GlancesInstance.getAllMonitored(self)",D:\thesis2\real 106 project\glances\glances\core\glances_server.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"glances.core.glances_server.GlancesInstance.getAllPlugins(self)",D:\thesis2\real 106 project\glances\glances\core\glances_server.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_server.GlancesInstance.getAllViews(self)",D:\thesis2\real 106 project\glances\glances\core\glances_server.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_server.GlancesInstance.init(self)",D:\thesis2\real 106 project\glances\glances\core\glances_server.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"glances.core.glances_server.GlancesServer",D:\thesis2\real 106 project\glances\glances\core\glances_server.py,1,1,1,1,8,0,5,2,1,5,4,0,,,,,5,3,5,5,52,10,30,13,21,12,,,26,9,20,,,,,3,3,3,1,1,1,"0.40",8,8,8,5
+Function,"glances.core.glances_server.GlancesServer.__init__(self,requestHandler,cached_time,config,args)",D:\thesis2\real 106 project\glances\glances\core\glances_server.py,,,,,,,,,,,,,,,,,,,,,29,4,18,8,14,7,3,0,14,4,13,3,3,3,1,,,,,,1,"0.39",,,,
+Function,"glances.core.glances_server.GlancesServer.add_user(self,username,password)",D:\thesis2\real 106 project\glances\glances\core\glances_server.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"glances.core.glances_server.GlancesServer.end(self)",D:\thesis2\real 106 project\glances\glances\core\glances_server.py,,,,,,,,,,,,,,,,,,,,,5,0,4,1,3,1,2,0,4,1,3,2,2,2,1,,,,,,1,"0.25",,,,
+Function,"glances.core.glances_server.GlancesServer.serve_forever(self)",D:\thesis2\real 106 project\glances\glances\core\glances_server.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_server.GlancesServer.server_close(self)",D:\thesis2\real 106 project\glances\glances\core\glances_server.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"glances.core.glances_server.GlancesXMLRPCHandler",D:\thesis2\real 106 project\glances\glances\core\glances_server.py,1,1,1,1,8,0,5,2,1,2,1,0,,,,,6,0,6,6,64,10,36,15,28,18,,,34,15,26,,,,,3,3,3,3,1,2,"0.50",10,10,10,8
+Function,"glances.core.glances_server.GlancesXMLRPCHandler.authenticate(self,headers)",D:\thesis2\real 106 project\glances\glances\core\glances_server.py,,,,,,,,,,,,,,,,,,,,,23,0,13,6,12,10,2,0,13,6,12,2,2,2,1,,,,,,1,"0.77",,,,
+Function,"glances.core.glances_server.GlancesXMLRPCHandler.check_user(self,username,password)",D:\thesis2\real 106 project\glances\glances\core\glances_server.py,,,,,,,,,,,,,,,,,,,,,10,2,7,3,5,1,2,0,6,3,4,2,2,2,1,,,,,,1,"0.14",,,,
+Function,"glances.core.glances_server.GlancesXMLRPCHandler.end_headers(self)",D:\thesis2\real 106 project\glances\glances\core\glances_server.py,,,,,,,,,,,,,,,,,,,,,5,0,3,1,2,2,1,0,3,1,2,1,1,1,1,,,,,,0,"0.67",,,,
+Function,"glances.core.glances_server.GlancesXMLRPCHandler.log_message(self,log_format,args)",D:\thesis2\real 106 project\glances\glances\core\glances_server.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_server.GlancesXMLRPCHandler.parse_request(self)",D:\thesis2\real 106 project\glances\glances\core\glances_server.py,,,,,,,,,,,,,,,,,,,,,9,0,7,1,6,2,3,0,6,1,5,3,3,3,3,,,,,,2,"0.29",,,,
+Function,"glances.core.glances_server.GlancesXMLRPCHandler.send_my_headers(self)",D:\thesis2\real 106 project\glances\glances\core\glances_server.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"glances.core.glances_server.GlancesXMLRPCServer",D:\thesis2\real 106 project\glances\glances\core\glances_server.py,2,2,2,1,11,2,9,0,1,1,1,0,,,,,1,1,1,1,15,4,10,5,7,1,,,8,3,6,,,,,2,2,2,1,1,1,"0.10",2,2,2,1
+Function,"glances.core.glances_server.GlancesXMLRPCServer.__init__(self,bind_address,bind_port,requestHandler)",D:\thesis2\real 106 project\glances\glances\core\glances_server.py,,,,,,,,,,,,,,,,,,,,,11,2,9,4,7,0,2,0,7,2,6,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"glances.core.glances_snmp.GlancesSNMPClient",D:\thesis2\real 106 project\glances\glances\core\glances_snmp.py,2,2,2,1,15,1,10,3,1,2,0,0,,,,,6,7,6,6,102,15,66,23,58,21,,,42,22,35,,,,,4,4,4,1,1,3,"0.32",15,15,17,6
+Function,"glances.core.glances_snmp.GlancesSNMPClient.__buid_result(self,varBinds)",D:\thesis2\real 106 project\glances\glances\core\glances_snmp.py,,,,,,,,,,,,,,,,,,,,,12,0,10,3,9,2,4,1,9,3,8,4,4,4,1,,,,,,3,"0.20",,,,
+Function,"glances.core.glances_snmp.GlancesSNMPClient.__bulk_result__(self,errorIndication,errorStatus,errorIndex,varBindTable)",D:\thesis2\real 106 project\glances\glances\core\glances_snmp.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,3,0,6,3,5,3,3,4,1,,,,,,2,"0.00",,,,
+Function,"glances.core.glances_snmp.GlancesSNMPClient.__get_result__(self,errorIndication,errorStatus,errorIndex,varBinds)",D:\thesis2\real 106 project\glances\glances\core\glances_snmp.py,,,,,,,,,,,,,,,,,,,,,6,0,5,2,4,1,2,0,5,2,4,2,2,3,1,,,,,,1,"0.20",,,,
+Function,"glances.core.glances_snmp.GlancesSNMPClient.__init__(self,host,port,version,community,user,auth)",D:\thesis2\real 106 project\glances\glances\core\glances_snmp.py,,,,,,,,,,,,,,,,,,,,,14,4,10,9,8,0,1,0,9,8,8,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.core.glances_snmp.GlancesSNMPClient.get_by_oid(self,oid)",D:\thesis2\real 106 project\glances\glances\core\glances_snmp.py,,,,,,,,,,,,,,,,,,,,,21,2,14,2,13,5,2,0,5,2,4,2,2,2,1,,,,,,1,"0.36",,,,
+Function,"glances.core.glances_snmp.GlancesSNMPClient.getbulk_by_oid(self,non_repeaters,max_repetitions,oid)",D:\thesis2\real 106 project\glances\glances\core\glances_snmp.py,,,,,,,,,,,,,,,,,,,,,34,2,20,3,19,12,4,1,7,3,6,3,3,3,1,,,,,,1,"0.60",,,,
+Class,"glances.core.glances_standalone.GlancesStandalone",D:\thesis2\real 106 project\glances\glances\core\glances_standalone.py,2,2,3,1,15,2,9,4,1,3,2,0,,,,,5,4,5,5,87,18,47,11,40,22,,,42,10,36,,,,,7,7,8,1,1,2,"0.47",14,14,15,5
+Function,"glances.core.glances_standalone.GlancesStandalone.__init__(self,config,args)",D:\thesis2\real 106 project\glances\glances\core\glances_standalone.py,,,,,,,,,,,,,,,,,,,,,44,8,26,5,25,10,48,2,24,5,23,7,7,8,1,,,,,,2,"0.38",,,,
+Function,"glances.core.glances_standalone.GlancesStandalone.__serve_forever(self)",D:\thesis2\real 106 project\glances\glances\core\glances_standalone.py,,,,,,,,,,,,,,,,,,,,,15,2,8,1,7,5,3,0,7,1,6,3,3,3,1,,,,,,2,"0.62",,,,
+Function,"glances.core.glances_standalone.GlancesStandalone.end(self)",D:\thesis2\real 106 project\glances\glances\core\glances_standalone.py,,,,,,,,,,,,,,,,,,,,,7,1,4,1,3,2,2,0,4,1,3,2,2,2,1,,,,,,1,"0.50",,,,
+Function,"glances.core.glances_standalone.GlancesStandalone.quiet-getter(self)",D:\thesis2\real 106 project\glances\glances\core\glances_standalone.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.core.glances_standalone.GlancesStandalone.serve_forever(self)",D:\thesis2\real 106 project\glances\glances\core\glances_standalone.py,,,,,,,,,,,,,,,,,,,,,10,1,5,1,4,4,1,0,4,1,3,1,1,1,1,,,,,,1,"0.80",,,,
+Class,"glances.core.glances_staticlist.GlancesStaticServer",D:\thesis2\real 106 project\glances\glances\core\glances_staticlist.py,2,2,2,2,14,1,9,3,1,1,0,0,,,,,4,1,4,4,65,12,39,13,34,14,,,37,12,32,,,,,8,8,8,6,1,4,"0.36",11,11,11,9
+Function,"glances.core.glances_staticlist.GlancesStaticServer.__init__(self,config,args)",D:\thesis2\real 106 project\glances\glances\core\glances_staticlist.py,,,,,,,,,,,,,,,,,,,,,5,0,2,2,1,3,1,0,2,2,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"glances.core.glances_staticlist.GlancesStaticServer.get_servers_list(self)",D:\thesis2\real 106 project\glances\glances\core\glances_staticlist.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_staticlist.GlancesStaticServer.load(self,config)",D:\thesis2\real 106 project\glances\glances\core\glances_staticlist.py,,,,,,,,,,,,,,,,,,,,,45,6,31,7,30,8,13,1,29,6,28,8,8,8,6,,,,,,4,"0.26",,,,
+Function,"glances.core.glances_staticlist.GlancesStaticServer.set_server(self,server_pos,key,value)",D:\thesis2\real 106 project\glances\glances\core\glances_staticlist.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"glances.core.glances_stats.GlancesStats",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,1,1,2,1,9,0,5,3,1,2,0,3,,,,,19,4,19,19,193,27,101,47,81,65,,,89,47,69,,,,,4,4,9,3,1,3,"0.64",36,36,44,21
+Function,"glances.core.glances_stats.GlancesStats.__getattr__(self,item)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,21,1,10,3,9,10,3,0,8,3,7,3,3,3,3,,,,,,2,"1.00",,,,
+Function,"glances.core.glances_stats.GlancesStats.__init__(self,config,args)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,19,4,8,5,7,7,1,0,8,5,7,1,1,1,1,,,,,,0,"0.88",,,,
+Function,"glances.core.glances_stats.GlancesStats.end(self)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,8,0,5,3,4,3,4,1,5,3,4,3,3,3,1,,,,,,1,"0.60",,,,
+Function,"glances.core.glances_stats.GlancesStats.export(self,input_stats)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,14,2,7,3,6,5,2,0,6,3,5,2,2,3,1,,,,,,1,"0.71",,,,
+Function,"glances.core.glances_stats.GlancesStats.getAll(self)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_stats.GlancesStats.getAllAsDict(self)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,8,0,5,3,4,3,2,0,5,3,4,2,2,2,1,,,,,,1,"0.60",,,,
+Function,"glances.core.glances_stats.GlancesStats.getAllExports(self)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,6,0,2,1,1,4,1,0,2,1,1,1,1,1,1,,,,,,0,"2.00",,,,
+Function,"glances.core.glances_stats.GlancesStats.getAllLimits(self)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_stats.GlancesStats.getAllLimitsAsDict(self)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,6,0,5,3,4,1,2,0,5,3,4,2,2,2,1,,,,,,1,"0.20",,,,
+Function,"glances.core.glances_stats.GlancesStats.getAllPlugins(self)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_stats.GlancesStats.getAllViews(self)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_stats.GlancesStats.getAllViewsAsDict(self)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,6,0,5,3,4,1,2,0,5,3,4,2,2,2,1,,,,,,1,"0.20",,,,
+Function,"glances.core.glances_stats.GlancesStats.getExportList(self)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_stats.GlancesStats.get_plugin(self,plugin_name)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,6,0,5,1,4,1,2,0,4,1,3,2,2,2,1,,,,,,1,"0.20",,,,
+Function,"glances.core.glances_stats.GlancesStats.get_plugin_list(self)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_stats.GlancesStats.load_exports(self,args)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,26,0,17,6,16,9,4,1,12,6,11,4,4,9,1,,,,,,2,"0.53",,,,
+Function,"glances.core.glances_stats.GlancesStats.load_limits(self,config)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,6,0,3,2,2,3,2,0,3,2,2,2,2,2,1,,,,,,1,"1.00",,,,
+Function,"glances.core.glances_stats.GlancesStats.load_plugins(self,args)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,20,0,13,5,12,7,4,1,10,5,9,4,4,6,1,,,,,,3,"0.54",,,,
+Function,"glances.core.glances_stats.GlancesStats.update(self)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,7,0,3,2,2,4,2,0,3,2,2,2,2,2,1,,,,,,1,"1.33",,,,
+Class,"glances.core.glances_stats.GlancesStatsClient",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,1,1,1,1,12,1,5,5,1,1,0,0,,,,,3,4,3,22,43,7,18,12,14,18,,,18,12,14,,,,,2,2,2,1,2,1,"1.00",5,5,5,3
+Function,"glances.core.glances_stats.GlancesStatsClient.__init__(self,config,args)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,15,3,6,5,5,6,1,0,6,5,5,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"glances.core.glances_stats.GlancesStatsClient.set_plugins(self,input_plugins)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,14,0,7,4,6,7,2,0,7,4,6,2,2,2,1,,,,,,1,"1.00",,,,
+Function,"glances.core.glances_stats.GlancesStatsClient.update(self,input_stats)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,8,0,4,2,3,4,2,0,4,2,3,2,2,2,1,,,,,,1,"1.00",,,,
+Class,"glances.core.glances_stats.GlancesStatsClientSNMP",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,3,3,3,1,19,2,11,4,1,5,1,0,,,,,4,6,4,23,83,16,48,20,42,19,,,43,19,37,,,,,5,5,5,4,2,2,"0.40",12,12,12,7
+Function,"glances.core.glances_stats.GlancesStatsClientSNMP.__init__(self,config,args)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,20,5,8,6,7,7,1,0,8,6,7,1,1,1,1,,,,,,0,"0.88",,,,
+Function,"glances.core.glances_stats.GlancesStatsClientSNMP.check_snmp(self)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,26,3,18,6,16,5,3,0,13,6,11,3,3,3,1,,,,,,2,"0.28",,,,
+Function,"glances.core.glances_stats.GlancesStatsClientSNMP.get_system_name(self,oid_system_name)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,19,3,13,4,12,3,7,1,13,4,12,5,5,5,4,,,,,,2,"0.23",,,,
+Function,"glances.core.glances_stats.GlancesStatsClientSNMP.update(self)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,11,0,8,3,7,3,3,0,8,2,7,3,3,3,1,,,,,,2,"0.38",,,,
+Class,"glances.core.glances_stats.GlancesStatsServer",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,1,1,1,1,6,0,3,2,1,1,0,0,,,,,5,1,5,24,42,9,20,11,14,13,,,20,11,14,,,,,2,2,2,1,2,1,"0.65",7,7,8,5
+Function,"glances.core.glances_stats.GlancesStatsServer.__init__(self,config)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,7,1,3,2,2,3,1,0,3,2,2,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"glances.core.glances_stats.GlancesStatsServer._set_stats(self,input_stats)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,7,0,5,3,4,2,2,0,5,3,4,2,2,2,1,,,,,,1,"0.40",,,,
+Function,"glances.core.glances_stats.GlancesStatsServer.getAll(self)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.core.glances_stats.GlancesStatsServer.getAllAsDict(self)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,8,0,5,3,4,3,2,0,5,3,4,2,2,2,1,,,,,,1,"0.60",,,,
+Function,"glances.core.glances_stats.GlancesStatsServer.update(self,input_stats)",D:\thesis2\real 106 project\glances\glances\core\glances_stats.py,,,,,,,,,,,,,,,,,,,,,9,2,4,1,3,3,1,0,4,1,3,1,1,2,1,,,,,,0,"0.75",,,,
+Class,"glances.core.glances_timer.Timer",D:\thesis2\real 106 project\glances\glances\core\glances_timer.py,1,1,1,1,2,0,2,0,1,0,0,0,,,,,5,2,5,5,19,6,12,8,6,1,,,12,8,6,,,,,1,1,1,1,1,0,"0.08",5,5,5,5
+Function,"glances.core.glances_timer.Timer.__init__(self,duration)",D:\thesis2\real 106 project\glances\glances\core\glances_timer.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.core.glances_timer.Timer.finished(self)",D:\thesis2\real 106 project\glances\glances\core\glances_timer.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.core.glances_timer.Timer.reset(self)",D:\thesis2\real 106 project\glances\glances\core\glances_timer.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.core.glances_timer.Timer.set(self,duration)",D:\thesis2\real 106 project\glances\glances\core\glances_timer.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.core.glances_timer.Timer.start(self)",D:\thesis2\real 106 project\glances\glances\core\glances_timer.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.core.glances_timer.getTimeSinceLastUpdate(IOType)",D:\thesis2\real 106 project\glances\glances\core\glances_timer.py,,,,,,,,,,,,,,,,,,,,,12,0,10,5,8,2,2,0,9,5,7,2,2,2,1,,,,,,1,"0.20",,,,
+Class,"glances.core.glances_webserver.GlancesWebServer",D:\thesis2\real 106 project\glances\glances\core\glances_webserver.py,1,1,1,1,6,1,3,2,1,2,2,0,,,,,3,2,3,3,26,7,12,6,8,7,,,12,6,8,,,,,2,2,3,1,1,1,"0.58",4,4,5,3
+Function,"glances.core.glances_webserver.GlancesWebServer.__init__(self,config,args)",D:\thesis2\real 106 project\glances\glances\core\glances_webserver.py,,,,,,,,,,,,,,,,,,,,,13,3,6,3,5,4,2,0,6,3,5,2,2,3,1,,,,,,1,"0.67",,,,
+Function,"glances.core.glances_webserver.GlancesWebServer.end(self)",D:\thesis2\real 106 project\glances\glances\core\glances_webserver.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"glances.core.glances_webserver.GlancesWebServer.serve_forever(self)",D:\thesis2\real 106 project\glances\glances\core\glances_webserver.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.end()",D:\thesis2\real 106 project\glances\glances\__init__.py,,,,,,,,,,,,,,,,,,,,,21,1,14,1,13,6,5,1,11,1,10,5,5,5,1,,,,,,1,"0.43",,,,
+Package,"glances.exports",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.exports",,3,3,3,2,14,1,12,2,,,,,1,,1,5,,,,,125,20,70,26,57,36,,,68,23,55,,,,,6,6,6,4,,2,,19,19,19,13
+Package,"glances.exports",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,1,1,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.exports",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.exports",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.exports",,3,3,3,2,22,2,20,3,,,,,1,,1,4,,,,,154,20,97,32,83,38,,,84,29,70,,,,,6,6,6,5,,1,,19,19,19,12
+Package,"glances.exports",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.exports",,3,3,3,2,12,0,12,2,,,,,1,,1,4,,,,,103,14,59,22,47,31,,,55,20,43,,,,,5,5,5,4,,2,,16,16,16,10
+Package,"glances.exports",,2,2,2,1,14,0,11,3,,,,,1,,1,8,,,,,176,20,106,31,93,51,,,95,31,82,,,,,11,11,11,4,,6,,26,26,26,12
+Package,"glances.exports",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.exports",,3,3,3,2,13,0,14,1,,,,,1,,1,4,,,,,112,13,70,30,56,30,,,64,27,50,,,,,4,4,4,4,,2,,15,15,15,12
+Package,"glances.exports",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.exports",,4,4,4,1,21,2,14,4,,,,,1,,1,3,,,,,101,17,50,23,41,34,,,46,22,37,,,,,9,9,9,1,,5,,13,13,13,3
+Package,"glances.exports",,3,3,3,1,17,1,12,3,,,,,1,,1,7,,,,,164,22,92,27,83,50,,,72,27,63,,,,,10,10,10,6,,4,,25,25,25,12
+Class,"glances.exports.glances_csv.Export",D:\thesis2\real 106 project\glances\glances\exports\glances_csv.py,4,4,4,1,21,2,14,4,1,4,0,0,,,,,3,5,3,10,70,12,45,18,41,13,,,41,17,37,,,,,9,9,9,1,2,5,"0.29",13,13,13,3
+Function,"glances.exports.glances_csv.Export.__init__(self,config,args)",D:\thesis2\real 106 project\glances\glances\exports\glances_csv.py,,,,,,,,,,,,,,,,,,,,,23,5,15,7,14,3,3,0,14,6,13,3,3,3,1,,,,,,2,"0.20",,,,
+Function,"glances.exports.glances_csv.Export.exit(self)",D:\thesis2\real 106 project\glances\glances\exports\glances_csv.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"glances.exports.glances_csv.Export.update(self,stats)",D:\thesis2\real 106 project\glances\glances\exports\glances_csv.py,,,,,,,,,,,,,,,,,,,,,37,3,26,9,25,8,16,1,23,9,22,9,9,9,1,,,,,,5,"0.31",,,,
+Class,"glances.exports.glances_export.GlancesExport",D:\thesis2\real 106 project\glances\glances\exports\glances_export.py,3,3,3,1,17,1,12,3,1,8,0,5,,,,,7,5,7,7,132,16,91,26,83,25,,,71,26,63,,,,,10,10,10,6,1,4,"0.27",25,25,25,12
+Function,"glances.exports.glances_export.GlancesExport.__build_export(self,stats)",D:\thesis2\real 106 project\glances\glances\exports\glances_export.py,,,,,,,,,,,,,,,,,,,,,39,1,32,8,31,6,31,1,29,8,28,10,10,10,1,,,,,,4,"0.19",,,,
+Function,"glances.exports.glances_export.GlancesExport.__init__(self,config,args)",D:\thesis2\real 106 project\glances\glances\exports\glances_export.py,,,,,,,,,,,,,,,,,,,,,13,2,6,5,5,5,1,0,6,5,5,1,1,1,1,,,,,,0,"0.83",,,,
+Function,"glances.exports.glances_export.GlancesExport.exit(self)",D:\thesis2\real 106 project\glances\glances\exports\glances_export.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.exports.glances_export.GlancesExport.get_item_key(self,item)",D:\thesis2\real 106 project\glances\glances\exports\glances_export.py,,,,,,,,,,,,,,,,,,,,,10,0,9,2,8,1,4,1,8,2,7,3,3,3,1,,,,,,1,"0.11",,,,
+Function,"glances.exports.glances_export.GlancesExport.parse_tags(self)",D:\thesis2\real 106 project\glances\glances\exports\glances_export.py,,,,,,,,,,,,,,,,,,,,,11,0,9,2,8,2,3,0,8,2,7,3,3,3,1,,,,,,2,"0.22",,,,
+Function,"glances.exports.glances_export.GlancesExport.plugins_to_export(self)",D:\thesis2\real 106 project\glances\glances\exports\glances_export.py,,,,,,,,,,,,,,,,,,,,,16,0,15,1,14,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.07",,,,
+Function,"glances.exports.glances_export.GlancesExport.update(self,stats)",D:\thesis2\real 106 project\glances\glances\exports\glances_export.py,,,,,,,,,,,,,,,,,,,,,30,5,17,6,16,8,6,1,15,6,14,6,6,6,6,,,,,,3,"0.47",,,,
+Class,"glances.exports.glances_history.GlancesHistory",D:\thesis2\real 106 project\glances\glances\exports\glances_history.py,3,3,3,1,15,0,11,3,1,1,0,0,,,,,8,1,8,8,137,14,95,26,86,29,,,84,26,75,,,,,11,11,11,4,1,6,"0.31",24,24,24,11
+Function,"glances.exports.glances_history.GlancesHistory.__init__(self,output_folder)",D:\thesis2\real 106 project\glances\glances\exports\glances_history.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.exports.glances_history.GlancesHistory.generate_graph(self,stats)",D:\thesis2\real 106 project\glances\glances\exports\glances_history.py,,,,,,,,,,,,,,,,,,,,,87,5,61,12,60,21,30,1,51,12,50,11,11,11,4,,,,,,6,"0.34",,,,
+Function,"glances.exports.glances_history.GlancesHistory.get_graph_color(self,item)",D:\thesis2\real 106 project\glances\glances\exports\glances_history.py,,,,,,,,,,,,,,,,,,,,,8,0,7,2,6,2,2,0,7,2,6,2,2,2,1,,,,,,1,"0.29",,,,
+Function,"glances.exports.glances_history.GlancesHistory.get_graph_legend(self,item)",D:\thesis2\real 106 project\glances\glances\exports\glances_history.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.exports.glances_history.GlancesHistory.get_graph_yunit(self,item,pre_label)",D:\thesis2\real 106 project\glances\glances\exports\glances_history.py,,,,,,,,,,,,,,,,,,,,,11,0,10,3,9,1,4,1,9,3,8,3,3,3,1,,,,,,1,"0.10",,,,
+Function,"glances.exports.glances_history.GlancesHistory.get_output_folder(self)",D:\thesis2\real 106 project\glances\glances\exports\glances_history.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.exports.glances_history.GlancesHistory.graph_enabled(self)",D:\thesis2\real 106 project\glances\glances\exports\glances_history.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.exports.glances_history.GlancesHistory.reset(self,stats)",D:\thesis2\real 106 project\glances\glances\exports\glances_history.py,,,,,,,,,,,,,,,,,,,,,9,0,8,3,7,1,4,1,8,3,7,4,4,4,1,,,,,,2,"0.12",,,,
+Class,"glances.exports.glances_influxdb.Export",D:\thesis2\real 106 project\glances\glances\exports\glances_influxdb.py,4,4,4,2,26,2,20,3,1,2,0,0,,,,,4,10,4,11,113,14,84,21,79,15,,,71,18,66,,,,,6,6,6,5,2,1,"0.18",17,17,17,11
+Function,"glances.exports.glances_influxdb.Export.__init__(self,config,args)",D:\thesis2\real 106 project\glances\glances\exports\glances_influxdb.py,,,,,,,,,,,,,,,,,,,,,17,2,12,9,11,3,2,0,12,9,11,2,2,2,1,,,,,,1,"0.25",,,,
+Function,"glances.exports.glances_influxdb.Export.export(self,name,columns,points)",D:\thesis2\real 106 project\glances\glances\exports\glances_influxdb.py,,,,,,,,,,,,,,,,,,,,,19,0,14,3,13,5,8,1,11,2,10,4,4,4,1,,,,,,1,"0.36",,,,
+Function,"glances.exports.glances_influxdb.Export.init(self)",D:\thesis2\real 106 project\glances\glances\exports\glances_influxdb.py,,,,,,,,,,,,,,,,,,,,,38,4,31,5,30,3,6,1,21,4,20,5,5,5,5,,,,,,1,"0.10",,,,
+Function,"glances.exports.glances_influxdb.Export.load_conf(self,section)",D:\thesis2\real 106 project\glances\glances\exports\glances_influxdb.py,,,,,,,,,,,,,,,,,,,,,32,3,26,3,25,3,7,1,26,2,25,6,6,6,4,,,,,,1,"0.12",,,,
+Class,"glances.exports.glances_opentsdb.Export",D:\thesis2\real 106 project\glances\glances\exports\glances_opentsdb.py,3,3,3,2,16,1,12,2,1,2,0,0,,,,,5,6,5,12,90,15,61,19,55,14,,,59,16,53,,,,,6,6,6,4,2,2,"0.23",17,17,17,12
+Function,"glances.exports.glances_opentsdb.Export.__init__(self,config,args)",D:\thesis2\real 106 project\glances\glances\exports\glances_opentsdb.py,,,,,,,,,,,,,,,,,,,,,18,3,11,6,10,4,3,0,11,6,10,3,3,3,1,,,,,,1,"0.36",,,,
+Function,"glances.exports.glances_opentsdb.Export.exit(self)",D:\thesis2\real 106 project\glances\glances\exports\glances_opentsdb.py,,,,,,,,,,,,,,,,,,,,,6,0,3,1,2,3,1,0,3,1,2,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"glances.exports.glances_opentsdb.Export.export(self,name,columns,points)",D:\thesis2\real 106 project\glances\glances\exports\glances_opentsdb.py,,,,,,,,,,,,,,,,,,,,,12,0,11,5,10,1,5,1,11,4,10,4,4,4,3,,,,,,2,"0.09",,,,
+Function,"glances.exports.glances_opentsdb.Export.init(self)",D:\thesis2\real 106 project\glances\glances\exports\glances_opentsdb.py,,,,,,,,,,,,,,,,,,,,,17,3,12,3,11,2,3,0,10,2,9,3,3,3,3,,,,,,1,"0.17",,,,
+Function,"glances.exports.glances_opentsdb.Export.load_conf(self,section)",D:\thesis2\real 106 project\glances\glances\exports\glances_opentsdb.py,,,,,,,,,,,,,,,,,,,,,29,3,23,3,22,3,7,1,23,2,22,6,6,6,4,,,,,,1,"0.13",,,,
+Class,"glances.exports.glances_rabbitmq.Export",D:\thesis2\real 106 project\glances\glances\exports\glances_rabbitmq.py,3,3,3,2,16,0,14,1,1,3,0,0,,,,,4,8,4,11,73,7,59,21,54,7,,,53,18,48,,,,,4,4,4,4,2,2,"0.12",13,13,13,11
+Function,"glances.exports.glances_rabbitmq.Export.__init__(self,config,args)",D:\thesis2\real 106 project\glances\glances\exports\glances_rabbitmq.py,,,,,,,,,,,,,,,,,,,,,17,2,12,9,11,3,2,0,12,9,11,2,2,2,1,,,,,,1,"0.25",,,,
+Function,"glances.exports.glances_rabbitmq.Export.export(self,name,columns,points)",D:\thesis2\real 106 project\glances\glances\exports\glances_rabbitmq.py,,,,,,,,,,,,,,,,,,,,,14,0,13,4,12,1,6,1,11,3,10,4,4,4,3,,,,,,2,"0.08",,,,
+Function,"glances.exports.glances_rabbitmq.Export.init(self)",D:\thesis2\real 106 project\glances\glances\exports\glances_rabbitmq.py,,,,,,,,,,,,,,,,,,,,,16,0,15,5,14,1,3,0,11,4,10,3,3,3,3,,,,,,1,"0.07",,,,
+Function,"glances.exports.glances_rabbitmq.Export.load_conf(self,section)",D:\thesis2\real 106 project\glances\glances\exports\glances_rabbitmq.py,,,,,,,,,,,,,,,,,,,,,19,0,18,2,17,1,4,1,18,1,17,4,4,4,4,,,,,,1,"0.06",,,,
+Class,"glances.exports.glances_statsd.Export",D:\thesis2\real 106 project\glances\glances\exports\glances_statsd.py,3,3,3,2,15,0,12,2,1,2,0,0,,,,,4,5,4,11,67,8,50,15,45,9,,,46,13,41,,,,,5,5,5,4,2,2,"0.18",14,14,14,9
+Function,"glances.exports.glances_statsd.Export.__init__(self,config,args)",D:\thesis2\real 106 project\glances\glances\exports\glances_statsd.py,,,,,,,,,,,,,,,,,,,,,20,3,13,6,12,4,3,0,11,6,10,3,3,3,1,,,,,,1,"0.31",,,,
+Function,"glances.exports.glances_statsd.Export.export(self,name,columns,points)",D:\thesis2\real 106 project\glances\glances\exports\glances_statsd.py,,,,,,,,,,,,,,,,,,,,,12,0,11,5,10,1,5,1,11,4,10,4,4,4,3,,,,,,2,"0.09",,,,
+Function,"glances.exports.glances_statsd.Export.init(self,prefix)",D:\thesis2\real 106 project\glances\glances\exports\glances_statsd.py,,,,,,,,,,,,,,,,,,,,,7,0,6,1,5,1,2,0,4,1,3,2,2,2,1,,,,,,1,"0.17",,,,
+Function,"glances.exports.glances_statsd.Export.load_conf(self,section)",D:\thesis2\real 106 project\glances\glances\exports\glances_statsd.py,,,,,,,,,,,,,,,,,,,,,21,0,19,2,18,2,5,1,19,1,18,5,5,5,4,,,,,,1,"0.11",,,,
+Function,"glances.main()",D:\thesis2\real 106 project\glances\glances\__init__.py,,,,,,,,,,,,,,,,,,,,,103,28,49,8,42,26,8,1,36,8,29,8,8,8,5,,,,,,3,"0.53",,,,
+Package,"glances.outputs",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.outputs",,5,5,6,1,33,2,22,8,,,,,5,,1,33,,,,,1232,144,784,178,722,306,,,612,164,562,,,,,39,39,48,9,,4,,180,180,224,51
+Package,"glances.outputs",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.outputs",,1,1,1,1,13,2,6,5,,,,,2,,1,24,,,,,398,84,173,63,140,141,,,170,54,137,,,,,3,3,3,1,,2,,46,46,46,25
+Package,"glances.outputs",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.outputs",,1,1,1,1,3,0,3,0,,,,,3,,1,28,,,,,178,42,117,64,77,21,,,115,64,75,,,,,3,3,3,1,,1,,36,36,36,29
+Package,"glances.outputs",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,1,1,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.outputs",,1,1,1,1,4,0,4,0,,,,,1,,1,7,,,,,95,17,41,24,26,37,,,36,19,26,,,,,3,3,3,3,,1,,13,13,14,10
+Package,"glances.outputs",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.outputs",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.outputs",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.outputs",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Class,"glances.outputs.glances_bars.Bar",D:\thesis2\real 106 project\glances\glances\outputs\glances_bars.py,1,1,1,1,5,0,4,0,1,2,0,0,,,,,7,6,7,7,67,11,38,21,25,18,,,33,16,25,,,,,3,3,3,3,1,1,"0.47",12,12,13,9
+Function,"glances.outputs.glances_bars.Bar.__init__(self,size,pre_char,post_char,empty_char,with_text)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bars.py,,,,,,,,,,,,,,,,,,,,,10,0,7,7,6,3,1,0,7,7,6,1,1,1,1,,,,,,0,"0.43",,,,
+Function,"glances.outputs.glances_bars.Bar.__str__(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bars.py,,,,,,,,,,,,,,,,,,,,,11,0,10,3,9,1,4,1,10,3,9,3,3,3,1,,,,,,1,"0.10",,,,
+Function,"glances.outputs.glances_bars.Bar.percent-getter(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bars.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.outputs.glances_bars.Bar.percent-setter(self,value)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bars.py,,,,,,,,,,,,,,,,,,,,,5,1,4,1,3,0,2,0,4,1,3,2,2,3,1,,,,,,1,"0.00",,,,
+Function,"glances.outputs.glances_bars.Bar.post_char-getter(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bars.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.outputs.glances_bars.Bar.pre_char-getter(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bars.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.outputs.glances_bars.Bar.size-getter(self,with_decoration)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bars.py,,,,,,,,,,,,,,,,,,,,,6,0,5,1,4,1,3,0,5,1,4,3,3,3,3,,,,,,1,"0.20",,,,
+Class,"glances.outputs.glances_bottle.EnableCors",D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py,1,1,1,1,10,1,7,2,1,0,0,0,,,,,1,0,1,1,16,3,11,5,8,2,,,11,5,8,,,,,2,2,2,1,1,1,"0.18",3,3,3,2
+Function,"glances.outputs.glances_bottle.EnableCors.apply(self,fn,context)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py,,,,,,,,,,,,,,,,,,,,,12,2,8,2,6,2,1,0,8,2,6,1,1,1,1,,,,,,0,"0.25",,,,
+Function,"glances.outputs.glances_bottle.EnableCors.apply._enable_cors(args,kwargs)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py,,,,,,,,,,,,,,,,,,,,,9,1,6,1,5,2,2,0,6,1,5,2,2,2,1,,,,,,1,"0.33",,,,
+Class,"glances.outputs.glances_bottle.GlancesBottle",D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py,1,1,1,1,14,2,6,5,1,4,2,0,,,,,22,5,22,22,345,73,152,52,128,120,,,149,43,125,,,,,3,3,3,1,1,2,"0.79",41,41,41,22
+Function,"glances.outputs.glances_bottle.GlancesBottle.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py,,,,,,,,,,,,,,,,,,,,,20,3,9,5,8,8,2,0,9,5,8,2,2,2,1,,,,,,1,"0.89",,,,
+Function,"glances.outputs.glances_bottle.GlancesBottle._api(self,plugin)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py,,,,,,,,,,,,,,,,,,,,,22,4,10,3,9,8,4,1,10,2,9,3,3,3,1,,,,,,1,"0.80",,,,
+Function,"glances.outputs.glances_bottle.GlancesBottle._api_all(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py,,,,,,,,,,,,,,,,,,,,,24,4,12,5,11,8,3,0,12,3,11,3,3,3,1,,,,,,2,"0.67",,,,
+Function,"glances.outputs.glances_bottle.GlancesBottle._api_all_limits(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py,,,,,,,,,,,,,,,,,,,,,16,2,7,3,6,7,2,0,7,2,6,2,2,2,1,,,,,,1,"1.00",,,,
+Function,"glances.outputs.glances_bottle.GlancesBottle._api_all_views(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py,,,,,,,,,,,,,,,,,,,,,16,2,7,3,6,7,2,0,7,2,6,2,2,2,1,,,,,,1,"1.00",,,,
+Function,"glances.outputs.glances_bottle.GlancesBottle._api_help(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py,,,,,,,,,,,,,,,,,,,,,14,2,8,4,7,4,2,0,8,3,7,2,2,2,1,,,,,,1,"0.50",,,,
+Function,"glances.outputs.glances_bottle.GlancesBottle._api_item(self,plugin,item)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py,,,,,,,,,,,,,,,,,,,,,23,6,10,2,9,7,4,1,9,2,8,3,3,3,1,,,,,,1,"0.70",,,,
+Function,"glances.outputs.glances_bottle.GlancesBottle._api_limits(self,plugin)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py,,,,,,,,,,,,,,,,,,,,,22,4,9,3,8,9,4,1,9,2,8,3,3,3,1,,,,,,1,"1.00",,,,
+Function,"glances.outputs.glances_bottle.GlancesBottle._api_plugins(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py,,,,,,,,,,,,,,,,,,,,,35,6,8,3,7,21,2,0,8,2,7,2,2,2,1,,,,,,1,"2.62",,,,
+Function,"glances.outputs.glances_bottle.GlancesBottle._api_value(self,plugin,item,value)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py,,,,,,,,,,,,,,,,,,,,,22,5,10,2,9,7,4,1,9,2,8,3,3,3,1,,,,,,1,"0.70",,,,
+Function,"glances.outputs.glances_bottle.GlancesBottle._api_views(self,plugin)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py,,,,,,,,,,,,,,,,,,,,,22,4,9,3,8,9,4,1,9,2,8,3,3,3,1,,,,,,1,"1.00",,,,
+Function,"glances.outputs.glances_bottle.GlancesBottle._css(self,filename)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"glances.outputs.glances_bottle.GlancesBottle._favicon(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"glances.outputs.glances_bottle.GlancesBottle._html(self,filename)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"glances.outputs.glances_bottle.GlancesBottle._images(self,filename)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"glances.outputs.glances_bottle.GlancesBottle._index(self,refresh_time)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py,,,,,,,,,,,,,,,,,,,,,11,2,5,1,4,4,2,0,5,1,4,2,2,2,1,,,,,,1,"0.80",,,,
+Function,"glances.outputs.glances_bottle.GlancesBottle._js(self,filename)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"glances.outputs.glances_bottle.GlancesBottle._js_map(self,filename)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"glances.outputs.glances_bottle.GlancesBottle._route(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py,,,,,,,,,,,,,,,,,,,,,24,3,19,1,18,2,1,0,19,1,18,1,1,1,1,,,,,,0,"0.11",,,,
+Function,"glances.outputs.glances_bottle.GlancesBottle.check_auth(self,username,password)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py,,,,,,,,,,,,,,,,,,,,,8,0,7,3,5,1,2,0,6,3,4,2,2,2,1,,,,,,1,"0.14",,,,
+Function,"glances.outputs.glances_bottle.GlancesBottle.end(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.outputs.glances_bottle.GlancesBottle.start(self,stats)",D:\thesis2\real 106 project\glances\glances\outputs\glances_bottle.py,,,,,,,,,,,,,,,,,,,,,13,2,7,3,6,4,1,0,7,3,6,1,1,1,1,,,,,,0,"0.57",,,,
+Class,"glances.outputs.glances_colorconsole.ListenGetch",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,1,1,1,1,4,0,4,0,1,1,0,0,,,,,4,2,4,4,22,4,18,8,13,0,,,18,8,13,,,,,2,2,2,1,1,1,"0.00",7,7,7,4
+Function,"glances.outputs.glances_colorconsole.ListenGetch.__init__(self,nom)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.outputs.glances_colorconsole.ListenGetch.get(self,default)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,5,1,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"glances.outputs.glances_colorconsole.ListenGetch.run(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,2,0,4,2,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"glances.outputs.glances_colorconsole.ListenGetch.stop(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"glances.outputs.glances_colorconsole.Screen",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,1,1,1,1,4,0,3,0,1,2,1,0,,,,,10,3,10,10,55,12,42,20,31,2,,,40,20,29,,,,,2,2,2,1,1,1,"0.05",11,11,11,10
+Function,"glances.outputs.glances_colorconsole.Screen.__init__(self,nc)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,8,1,6,4,5,1,1,0,6,4,5,1,1,1,1,,,,,,0,"0.17",,,,
+Function,"glances.outputs.glances_colorconsole.Screen.addnstr(self,y,x,msg,ln,typo)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,0,2,0,8,2,7,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"glances.outputs.glances_colorconsole.Screen.erase(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.outputs.glances_colorconsole.Screen.getch(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.outputs.glances_colorconsole.Screen.getmaxyx(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.outputs.glances_colorconsole.Screen.keypad(self,screen_id)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.outputs.glances_colorconsole.Screen.nodelay(self,screen_id)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.outputs.glances_colorconsole.Screen.reset(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,4,1,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.outputs.glances_colorconsole.Screen.restore_buffered_mode(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.outputs.glances_colorconsole.Screen.subwin(self,x,y)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"glances.outputs.glances_colorconsole.WCurseLight",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,1,1,1,1,2,0,2,0,1,1,1,0,,,,,14,1,14,14,57,15,42,27,27,0,,,42,27,27,,,,,2,2,2,1,1,0,"0.00",15,15,15,14
+Function,"glances.outputs.glances_colorconsole.WCurseLight.__init__(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.outputs.glances_colorconsole.WCurseLight.cbreak(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.outputs.glances_colorconsole.WCurseLight.color_pair(self,color_id)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.outputs.glances_colorconsole.WCurseLight.curs_set(self,y)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.outputs.glances_colorconsole.WCurseLight.echo(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.outputs.glances_colorconsole.WCurseLight.endwin(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,4,1,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.outputs.glances_colorconsole.WCurseLight.has_colors(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.outputs.glances_colorconsole.WCurseLight.init_pair(self,color_id,fg,bk)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.outputs.glances_colorconsole.WCurseLight.initscr(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.outputs.glances_colorconsole.WCurseLight.napms(self,t)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,2,2,2,1,,,,,,0,"0.00",,,,
+Function,"glances.outputs.glances_colorconsole.WCurseLight.nocbreak(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.outputs.glances_colorconsole.WCurseLight.noecho(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.outputs.glances_colorconsole.WCurseLight.start_color(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.outputs.glances_colorconsole.WCurseLight.use_default_colors(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_colorconsole.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"glances.outputs.glances_curses.GlancesCursesBrowser",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,3,3,4,1,20,2,12,5,1,3,1,0,,,,,11,5,11,31,241,38,143,37,127,60,,,106,32,94,,,,,17,17,23,1,2,4,"0.42",35,35,46,11
+Function,"glances.outputs.glances_curses.GlancesCursesBrowser.__catch_key(self,servers_list)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,23,2,14,2,13,7,5,1,11,2,10,5,5,6,1,,,,,,1,"0.50",,,,
+Function,"glances.outputs.glances_curses.GlancesCursesBrowser.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,25,5,14,6,13,6,1,0,8,6,7,1,1,1,1,,,,,,0,"0.43",,,,
+Function,"glances.outputs.glances_curses.GlancesCursesBrowser.active_server-getter(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.outputs.glances_curses.GlancesCursesBrowser.active_server-setter(self,index)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.outputs.glances_curses.GlancesCursesBrowser.cursor-getter(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.outputs.glances_curses.GlancesCursesBrowser.cursor-setter(self,position)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.outputs.glances_curses.GlancesCursesBrowser.cursor_down(self,servers_list)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,6,0,5,1,4,1,2,0,4,1,3,2,2,2,1,,,,,,1,"0.20",,,,
+Function,"glances.outputs.glances_curses.GlancesCursesBrowser.cursor_up(self,servers_list)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,6,0,5,1,4,1,2,0,4,1,3,2,2,2,1,,,,,,1,"0.20",,,,
+Function,"glances.outputs.glances_curses.GlancesCursesBrowser.display(self,servers_list)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,117,14,76,13,75,27,2072,3,55,12,54,17,17,23,1,,,,,,4,"0.36",,,,
+Function,"glances.outputs.glances_curses.GlancesCursesBrowser.flush(self,servers_list)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,7,1,3,1,2,3,1,0,3,1,2,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"glances.outputs.glances_curses.GlancesCursesBrowser.update(self,servers_list)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,27,4,13,4,12,10,3,0,12,4,11,3,3,7,1,,,,,,2,"0.77",,,,
+Class,"glances.outputs.glances_curses.GlancesCursesClient",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,20,5,2,2,1,1,1,,,2,1,1,,,,,0,0,0,0,2,0,"0.50",0,0,0,0
+Class,"glances.outputs.glances_curses.GlancesCursesStandalone",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,20,5,2,2,1,1,1,,,2,1,1,,,,,0,0,0,0,2,0,"0.50",0,0,0,0
+Class,"glances.outputs.glances_curses.GlancesTextbox",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,2,2,2,2,4,0,4,1,1,0,0,0,,,,,2,0,2,2,11,2,9,3,6,2,,,9,3,6,,,,,3,3,3,3,1,1,"0.22",4,4,4,4
+Function,"glances.outputs.glances_curses.GlancesTextbox.__init__(args,kwargs)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.outputs.glances_curses.GlancesTextbox.do_command(self,ch)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,6,0,6,1,5,2,3,0,6,1,5,3,3,3,3,,,,,,1,"0.33",,,,
+Class,"glances.outputs.glances_curses._GlancesCurses",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,6,6,8,1,44,3,30,10,1,7,3,3,,,,,20,35,20,20,914,86,608,125,578,220,,,475,116,453,,,,,39,39,48,9,1,3,"0.36",137,137,170,33
+Function,"glances.outputs.glances_curses._GlancesCurses.__catch_key(self,return_to_browser)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,142,1,101,1,100,40,39,2,64,1,63,39,39,40,3,,,,,,2,"0.40",,,,
+Function,"glances.outputs.glances_curses._GlancesCurses.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,149,14,120,33,118,15,3649,4,92,33,90,16,16,17,1,,,,,,3,"0.12",,,,
+Function,"glances.outputs.glances_curses._GlancesCurses.display(self,stats,cs_status)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,294,27,208,37,207,59,6912096,7,161,36,160,30,30,48,1,,,,,,3,"0.28",,,,
+Function,"glances.outputs.glances_curses._GlancesCurses.display_plugin(self,plugin_stats,display_optional,display_additional,max_y)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,86,5,52,13,48,29,1285,3,43,10,42,14,14,21,9,,,,,,3,"0.56",,,,
+Function,"glances.outputs.glances_curses._GlancesCurses.display_popup(self,message,size_x,size_y,duration,is_input,input_size,input_value)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,77,6,47,15,41,24,66,2,39,10,38,9,9,11,4,,,,,,2,"0.51",,,,
+Function,"glances.outputs.glances_curses._GlancesCurses.end(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,12,0,11,1,10,1,12,1,11,1,10,5,5,5,1,,,,,,2,"0.09",,,,
+Function,"glances.outputs.glances_curses._GlancesCurses.erase(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.outputs.glances_curses._GlancesCurses.flash_cursor(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.outputs.glances_curses._GlancesCurses.flush(self,stats,cs_status)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,11,1,3,1,2,7,1,0,3,1,2,1,1,1,1,,,,,,0,"2.33",,,,
+Function,"glances.outputs.glances_curses._GlancesCurses.get_key(self,window)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,14,2,10,2,9,2,4,1,9,2,8,3,3,4,1,,,,,,1,"0.20",,,,
+Function,"glances.outputs.glances_curses._GlancesCurses.get_stats_display_height(self,curse_msg)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,11,1,7,2,6,3,2,0,7,2,6,2,2,2,1,,,,,,1,"0.43",,,,
+Function,"glances.outputs.glances_curses._GlancesCurses.get_stats_display_width(self,curse_msg,without_option)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,18,1,12,2,11,5,3,0,9,2,8,4,4,4,1,,,,,,2,"0.42",,,,
+Function,"glances.outputs.glances_curses._GlancesCurses.init_column(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,4,0,3,3,2,1,1,0,3,3,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"glances.outputs.glances_curses._GlancesCurses.init_line(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,4,0,3,3,2,1,1,0,3,3,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"glances.outputs.glances_curses._GlancesCurses.init_line_column(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"glances.outputs.glances_curses._GlancesCurses.new_column(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.outputs.glances_curses._GlancesCurses.new_line(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.outputs.glances_curses._GlancesCurses.no_flash_cursor(self)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.outputs.glances_curses._GlancesCurses.set_cursor(self,value)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,12,1,6,1,5,5,3,0,6,1,5,3,3,3,1,,,,,,2,"0.83",,,,
+Function,"glances.outputs.glances_curses._GlancesCurses.update(self,stats,cs_status,return_to_browser)",D:\thesis2\real 106 project\glances\glances\outputs\glances_curses.py,,,,,,,,,,,,,,,,,,,,,37,5,11,4,10,21,3,0,11,4,10,3,3,6,1,,,,,,2,"1.91",,,,
+Package,"glances.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.plugins",,4,4,4,2,16,1,11,3,,,,,1,,1,5,,,,,120,20,63,15,54,37,,,58,15,49,,,,,11,11,12,5,,3,,23,23,24,11
+Package,"glances.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.plugins",,2,2,2,1,18,1,10,5,,,,,1,,1,5,,,,,130,20,58,16,49,52,,,50,16,41,,,,,8,8,8,1,,3,,13,13,14,5
+Package,"glances.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.plugins",,2,2,2,1,11,2,7,3,,,,,1,,1,6,,,,,128,25,56,21,43,47,,,52,18,41,,,,,5,5,6,1,,3,,15,15,17,7
+Package,"glances.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.plugins",,2,2,2,1,13,2,5,5,,,,,1,,1,3,,,,,78,18,20,8,14,40,,,19,8,13,,,,,4,4,4,1,,2,,6,6,6,3
+Package,"glances.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.plugins",,3,3,3,1,16,1,10,4,,,,,2,,1,12,,,,,277,45,145,46,123,87,,,130,44,109,,,,,8,8,9,3,,4,,42,42,43,15
+Package,"glances.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.plugins",,5,5,5,2,36,3,29,8,,,,,1,,1,6,,,,,306,38,187,41,174,83,,,145,40,133,,,,,15,15,16,10,,6,,35,35,37,19
+Package,"glances.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.plugins",,2,2,2,1,20,3,14,6,,,,,1,,1,5,,,,,175,29,83,20,73,66,,,71,19,62,,,,,7,7,7,4,,2,,16,16,17,9
+Package,"glances.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.plugins",,1,1,1,1,27,2,22,2,,,,,1,,1,5,,,,,174,23,115,14,107,36,,,115,14,107,,,,,2,2,2,1,,1,,7,7,7,5
+Package,"glances.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.plugins",,2,2,3,1,15,1,10,4,,,,,1,,1,6,,,,,147,24,77,23,64,46,,,71,22,59,,,,,8,8,10,1,,4,,20,20,22,7
+Package,"glances.plugins",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,1,1,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.plugins",,3,3,3,2,23,3,15,8,,,,,1,,1,5,,,,,187,29,87,20,78,72,,,70,19,62,,,,,12,12,12,8,,5,,18,18,19,13
+Package,"glances.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.plugins",,7,7,10,1,39,1,30,7,,,,,1,,1,13,,,,,571,46,400,71,378,125,,,344,70,322,,,,,43,43,66,3,,4,,100,100,134,15
+Package,"glances.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.plugins",,3,3,3,1,23,3,14,5,,,,,1,,1,4,,,,,133,26,60,12,53,47,,,58,12,51,,,,,9,9,9,3,,1,,14,14,14,6
+Package,"glances.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.plugins",,2,2,2,1,9,1,6,2,,,,,2,,1,7,,,,,123,25,55,23,41,43,,,48,20,36,,,,,4,4,5,4,,2,,16,16,17,11
+Package,"glances.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.plugins",,2,2,2,1,12,1,7,2,,,,,2,,1,8,,,,,145,30,67,33,53,48,,,66,32,52,,,,,7,7,8,3,,1,,16,16,17,10
+Package,"glances.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.plugins",,1,1,1,1,8,1,5,3,,,,,1,,1,4,,,,,84,19,26,13,18,39,,,25,13,17,,,,,4,4,4,1,,2,,8,8,8,5
+Package,"glances.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.plugins",,4,4,4,2,27,3,19,6,,,,,1,,1,6,,,,,252,35,137,30,126,81,,,88,28,78,,,,,13,13,15,11,,4,,28,28,33,17
+Package,"glances.plugins",,2,2,2,1,13,1,7,4,,,,,1,,1,45,,,,,669,102,354,117,290,213,,,283,105,229,,,,,14,14,14,8,,6,,112,112,124,64
+Package,"glances.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.plugins",,5,5,5,1,25,2,20,5,,,,,1,,1,5,,,,,201,27,117,26,107,57,,,90,25,80,,,,,15,15,16,6,,5,,33,33,35,11
+Package,"glances.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.plugins",,3,3,3,1,23,2,14,7,,,,,2,,1,20,,,,,572,72,314,85,279,186,,,300,74,268,,,,,12,12,15,5,,3,,73,73,79,31
+Package,"glances.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.plugins",,1,1,1,1,8,1,5,2,,,,,1,,1,3,,,,,57,12,18,7,12,27,,,17,7,11,,,,,3,3,3,1,,2,,5,5,5,3
+Package,"glances.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.plugins",,2,2,2,1,13,2,7,3,,,,,1,,1,5,,,,,106,22,42,14,34,42,,,40,14,32,,,,,7,7,7,5,,2,,12,12,12,9
+Package,"glances.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.plugins",,3,3,3,1,18,2,14,5,,,,,1,,1,5,,,,,152,22,81,23,71,49,,,77,21,68,,,,,10,10,11,3,,4,,21,21,22,10
+Package,"glances.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.plugins",,4,4,4,2,31,3,20,11,,,,,1,,1,5,,,,,239,31,120,22,111,89,,,101,20,93,,,,,14,14,14,8,,5,,26,26,27,13
+Package,"glances.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.plugins",,1,1,1,1,8,1,4,3,,,,,1,,1,3,,,,,61,14,15,11,9,32,,,15,11,9,,,,,1,1,1,1,,0,,3,3,3,3
+Package,"glances.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.plugins",,5,5,6,1,33,2,25,9,,,,,1,,1,5,,,,,250,28,144,24,134,80,,,117,22,108,,,,,13,13,14,5,,4,,34,34,37,10
+Package,"glances.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"glances.plugins",,2,2,3,2,20,2,15,6,,,,,1,,1,6,,,,,193,29,99,32,87,67,,,78,31,67,,,,,8,8,8,6,,4,,20,20,21,15
+Class,"glances.plugins.glances_alert.Plugin",D:\thesis2\real 106 project\glances\glances\plugins\glances_alert.py,2,2,2,1,18,1,10,5,1,3,0,0,,,,,5,3,5,49,101,15,55,13,49,31,,,47,13,41,,,,,8,8,8,1,2,3,"0.56",13,13,14,5
+Function,"glances.plugins.glances_alert.Plugin.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_alert.py,,,,,,,,,,,,,,,,,,,,,12,3,5,3,4,4,1,0,5,3,4,1,1,1,1,,,,,,0,"0.80",,,,
+Function,"glances.plugins.glances_alert.Plugin.approx_equal(self,a,b,tolerance)",D:\thesis2\real 106 project\glances\glances\plugins\glances_alert.py,,,,,,,,,,,,,,,,,,,,,6,0,5,1,4,1,2,0,4,1,3,2,2,3,1,,,,,,1,"0.20",,,,
+Function,"glances.plugins.glances_alert.Plugin.msg_curse(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_alert.py,,,,,,,,,,,,,,,,,,,,,65,5,40,5,39,20,20,1,33,5,32,8,8,8,1,,,,,,3,"0.50",,,,
+Function,"glances.plugins.glances_alert.Plugin.reset(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_alert.py,,,,,,,,,,,,,,,,,,,,,3,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_alert.Plugin.update(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_alert.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Class,"glances.plugins.glances_batpercent.GlancesGrabBat",D:\thesis2\real 106 project\glances\glances\plugins\glances_batpercent.py,2,2,2,1,9,0,7,1,1,3,0,0,,,,,4,3,4,4,47,7,32,12,26,8,,,27,10,22,,,,,4,4,5,4,1,2,"0.25",9,9,10,7
+Function,"glances.plugins.glances_batpercent.GlancesGrabBat.__init__(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_batpercent.py,,,,,,,,,,,,,,,,,,,,,10,0,9,5,8,1,2,0,9,4,8,2,2,2,1,,,,,,1,"0.11",,,,
+Function,"glances.plugins.glances_batpercent.GlancesGrabBat.battery_percent-getter(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_batpercent.py,,,,,,,,,,,,,,,,,,,,,16,2,10,3,9,4,4,1,10,3,9,4,4,5,4,,,,,,2,"0.40",,,,
+Function,"glances.plugins.glances_batpercent.GlancesGrabBat.get(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_batpercent.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_batpercent.GlancesGrabBat.update(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_batpercent.py,,,,,,,,,,,,,,,,,,,,,10,0,9,1,8,1,2,0,5,1,4,2,2,2,1,,,,,,1,"0.11",,,,
+Class,"glances.plugins.glances_batpercent.Plugin",D:\thesis2\real 106 project\glances\glances\plugins\glances_batpercent.py,1,1,1,1,10,2,5,3,1,1,1,0,,,,,3,3,3,47,42,11,17,8,12,14,,,15,7,11,,,,,3,3,3,1,2,1,"0.82",5,5,5,3
+Function,"glances.plugins.glances_batpercent.Plugin.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_batpercent.py,,,,,,,,,,,,,,,,,,,,,13,3,5,3,4,5,1,0,5,3,4,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"glances.plugins.glances_batpercent.Plugin.reset(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_batpercent.py,,,,,,,,,,,,,,,,,,,,,3,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_batpercent.Plugin.update(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_batpercent.py,,,,,,,,,,,,,,,,,,,,,16,3,8,1,7,5,3,0,7,1,6,3,3,3,1,,,,,,1,"0.62",,,,
+Class,"glances.plugins.glances_core.Plugin",D:\thesis2\real 106 project\glances\glances\plugins\glances_core.py,2,2,2,1,13,2,5,5,1,1,0,0,,,,,3,2,3,47,52,13,18,6,14,21,,,17,6,13,,,,,4,4,4,1,2,2,"1.17",6,6,6,3
+Function,"glances.plugins.glances_core.Plugin.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_core.py,,,,,,,,,,,,,,,,,,,,,10,2,4,2,3,4,1,0,4,2,3,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"glances.plugins.glances_core.Plugin.reset(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_core.py,,,,,,,,,,,,,,,,,,,,,3,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_core.Plugin.update(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_core.py,,,,,,,,,,,,,,,,,,,,,28,5,11,1,10,12,4,1,10,1,9,4,4,4,1,,,,,,2,"1.09",,,,
+Class,"glances.plugins.glances_cpu.Plugin",D:\thesis2\real 106 project\glances\glances\plugins\glances_cpu.py,6,6,7,1,37,2,25,9,1,3,0,0,,,,,5,3,5,49,202,21,131,19,124,50,,,112,17,106,,,,,13,13,14,5,2,4,"0.38",33,33,36,9
+Function,"glances.plugins.glances_cpu.Plugin.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_cpu.py,,,,,,,,,,,,,,,,,,,,,10,2,5,2,4,3,1,0,4,2,3,1,1,1,1,,,,,,0,"0.60",,,,
+Function,"glances.plugins.glances_cpu.Plugin.msg_curse(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_cpu.py,,,,,,,,,,,,,,,,,,,,,90,3,68,4,67,19,385,3,58,4,57,11,11,14,1,,,,,,1,"0.28",,,,
+Function,"glances.plugins.glances_cpu.Plugin.reset(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_cpu.py,,,,,,,,,,,,,,,,,,,,,3,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_cpu.Plugin.update(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_cpu.py,,,,,,,,,,,,,,,,,,,,,68,8,43,7,42,17,22,1,36,6,35,13,13,13,5,,,,,,4,"0.40",,,,
+Function,"glances.plugins.glances_cpu.Plugin.update_views(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_cpu.py,,,,,,,,,,,,,,,,,,,,,18,1,11,2,10,6,27,1,11,2,10,7,7,7,1,,,,,,2,"0.55",,,,
+Class,"glances.plugins.glances_diskio.Plugin",D:\thesis2\real 106 project\glances\glances\plugins\glances_diskio.py,3,3,3,2,23,2,15,6,1,6,0,0,,,,,6,3,6,50,156,21,93,27,85,42,,,73,26,66,,,,,8,8,8,6,2,4,"0.45",19,19,20,14
+Function,"glances.plugins.glances_diskio.Plugin.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_diskio.py,,,,,,,,,,,,,,,,,,,,,10,2,5,2,4,3,1,0,4,2,3,1,1,1,1,,,,,,0,"0.60",,,,
+Function,"glances.plugins.glances_diskio.Plugin.get_key(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_diskio.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_diskio.Plugin.msg_curse(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_diskio.py,,,,,,,,,,,,,,,,,,,,,50,3,37,8,36,10,10,1,29,8,28,6,6,7,4,,,,,,2,"0.27",,,,
+Function,"glances.plugins.glances_diskio.Plugin.reset(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_diskio.py,,,,,,,,,,,,,,,,,,,,,3,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_diskio.Plugin.update(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_diskio.py,,,,,,,,,,,,,,,,,,,,,64,7,37,9,36,20,8,1,29,9,28,8,8,8,6,,,,,,4,"0.54",,,,
+Function,"glances.plugins.glances_diskio.Plugin.update_views(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_diskio.py,,,,,,,,,,,,,,,,,,,,,13,1,8,3,7,4,2,0,6,3,5,2,2,2,1,,,,,,1,"0.50",,,,
+Class,"glances.plugins.glances_docker.Plugin",D:\thesis2\real 106 project\glances\glances\plugins\glances_docker.py,4,4,4,1,33,2,19,10,1,12,1,0,,,,,14,8,14,58,483,57,274,60,257,152,,,262,52,246,,,,,12,12,15,5,2,3,"0.55",63,63,69,22
+Function,"glances.plugins.glances_docker.Plugin.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_docker.py,,,,,,,,,,,,,,,,,,,,,17,4,6,5,5,7,1,0,6,5,5,1,1,1,1,,,,,,0,"1.17",,,,
+Function,"glances.plugins.glances_docker.Plugin.connect(self,version)",D:\thesis2\real 106 project\glances\glances\plugins\glances_docker.py,,,,,,,,,,,,,,,,,,,,,46,2,33,3,32,11,23,1,29,2,28,9,9,9,5,,,,,,3,"0.33",,,,
+Function,"glances.plugins.glances_docker.Plugin.container_alert(self,status)",D:\thesis2\real 106 project\glances\glances\plugins\glances_docker.py,,,,,,,,,,,,,,,,,,,,,6,0,5,1,4,1,2,0,4,1,3,2,2,2,1,,,,,,1,"0.20",,,,
+Function,"glances.plugins.glances_docker.Plugin.exit(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_docker.py,,,,,,,,,,,,,,,,,,,,,5,0,4,2,3,1,2,0,4,2,3,2,2,2,1,,,,,,1,"0.25",,,,
+Function,"glances.plugins.glances_docker.Plugin.get_docker_cpu(self,container_id,all_stats)",D:\thesis2\real 106 project\glances\glances\plugins\glances_docker.py,,,,,,,,,,,,,,,,,,,,,49,5,28,7,27,16,13,1,27,6,26,7,7,8,1,,,,,,3,"0.57",,,,
+Function,"glances.plugins.glances_docker.Plugin.get_docker_io(self,container_id,all_stats)",D:\thesis2\real 106 project\glances\glances\plugins\glances_docker.py,,,,,,,,,,,,,,,,,,,,,61,6,34,9,33,21,13,1,33,8,32,7,7,7,1,,,,,,2,"0.62",,,,
+Function,"glances.plugins.glances_docker.Plugin.get_docker_memory(self,container_id,all_stats)",D:\thesis2\real 106 project\glances\glances\plugins\glances_docker.py,,,,,,,,,,,,,,,,,,,,,19,1,10,3,9,8,2,0,10,2,9,2,2,2,1,,,,,,1,"0.80",,,,
+Function,"glances.plugins.glances_docker.Plugin.get_docker_network(self,container_id,all_stats)",D:\thesis2\real 106 project\glances\glances\plugins\glances_docker.py,,,,,,,,,,,,,,,,,,,,,51,6,26,5,25,19,10,1,25,4,24,6,6,6,1,,,,,,2,"0.73",,,,
+Function,"glances.plugins.glances_docker.Plugin.get_export(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_docker.py,,,,,,,,,,,,,,,,,,,,,12,1,7,3,6,4,2,0,7,2,6,2,2,2,1,,,,,,1,"0.57",,,,
+Function,"glances.plugins.glances_docker.Plugin.get_key(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_docker.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_docker.Plugin.get_user_ticks(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_docker.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_docker.Plugin.msg_curse(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_docker.py,,,,,,,,,,,,,,,,,,,,,95,3,72,9,71,20,74,2,70,9,69,10,10,12,1,,,,,,3,"0.28",,,,
+Function,"glances.plugins.glances_docker.Plugin.reset(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_docker.py,,,,,,,,,,,,,,,,,,,,,3,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_docker.Plugin.update(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_docker.py,,,,,,,,,,,,,,,,,,,,,92,13,41,7,39,38,51,2,40,6,38,12,12,15,5,,,,,,3,"0.93",,,,
+Class,"glances.plugins.glances_docker.ThreadDockerGrabber",D:\thesis2\real 106 project\glances\glances\plugins\glances_docker.py,1,1,1,1,5,0,3,1,1,1,0,0,,,,,6,4,6,6,45,8,25,14,16,12,,,23,12,16,,,,,3,3,3,3,1,2,"0.48",8,8,8,8
+Function,"glances.plugins.glances_docker.ThreadDockerGrabber.__init__(self,docker_client,container_id)",D:\thesis2\real 106 project\glances\glances\plugins\glances_docker.py,,,,,,,,,,,,,,,,,,,,,13,0,7,5,6,6,1,0,7,5,6,1,1,1,1,,,,,,0,"0.86",,,,
+Function,"glances.plugins.glances_docker.ThreadDockerGrabber.run(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_docker.py,,,,,,,,,,,,,,,,,,,,,9,1,6,2,5,2,3,0,6,2,5,3,3,3,3,,,,,,2,"0.33",,,,
+Function,"glances.plugins.glances_docker.ThreadDockerGrabber.stats-getter(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_docker.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.plugins.glances_docker.ThreadDockerGrabber.stats-setter(self,value)",D:\thesis2\real 106 project\glances\glances\plugins\glances_docker.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.plugins.glances_docker.ThreadDockerGrabber.stop(self,timeout)",D:\thesis2\real 106 project\glances\glances\plugins\glances_docker.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.plugins.glances_docker.ThreadDockerGrabber.stopped(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_docker.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"glances.plugins.glances_fs.Plugin",D:\thesis2\real 106 project\glances\glances\plugins\glances_fs.py,4,4,5,2,29,3,19,6,1,6,0,0,,,,,6,3,6,50,188,26,118,25,110,44,,,82,23,75,,,,,13,13,15,11,2,4,"0.37",27,27,32,16
+Function,"glances.plugins.glances_fs.Plugin.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_fs.py,,,,,,,,,,,,,,,,,,,,,10,2,5,2,4,3,1,0,4,2,3,1,1,1,1,,,,,,0,"0.60",,,,
+Function,"glances.plugins.glances_fs.Plugin.get_key(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_fs.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_fs.Plugin.msg_curse(self,args,max_width)",D:\thesis2\real 106 project\glances\glances\plugins\glances_fs.py,,,,,,,,,,,,,,,,,,,,,56,5,40,6,39,11,37,2,31,6,30,9,9,12,1,,,,,,2,"0.28",,,,
+Function,"glances.plugins.glances_fs.Plugin.reset(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_fs.py,,,,,,,,,,,,,,,,,,,,,3,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_fs.Plugin.update(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_fs.py,,,,,,,,,,,,,,,,,,,,,93,10,62,10,61,21,19,1,38,9,37,13,13,15,11,,,,,,4,"0.34",,,,
+Function,"glances.plugins.glances_fs.Plugin.update_views(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_fs.py,,,,,,,,,,,,,,,,,,,,,10,1,5,2,4,4,2,0,4,2,3,2,2,2,1,,,,,,1,"0.80",,,,
+Class,"glances.plugins.glances_hddtemp.GlancesGrabHDDTemp",D:\thesis2\real 106 project\glances\glances\plugins\glances_hddtemp.py,2,2,2,1,13,1,9,2,1,1,0,0,,,,,5,5,5,5,73,12,48,22,42,13,,,48,21,42,,,,,7,7,8,3,1,1,"0.27",12,12,13,7
+Function,"glances.plugins.glances_hddtemp.GlancesGrabHDDTemp.__init__(self,host,port,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_hddtemp.py,,,,,,,,,,,,,,,,,,,,,7,0,6,5,5,1,1,0,6,5,5,1,1,1,1,,,,,,0,"0.17",,,,
+Function,"glances.plugins.glances_hddtemp.GlancesGrabHDDTemp.__update__(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_hddtemp.py,,,,,,,,,,,,,,,,,,,,,36,5,24,9,23,7,10,1,24,9,23,7,7,8,3,,,,,,1,"0.29",,,,
+Function,"glances.plugins.glances_hddtemp.GlancesGrabHDDTemp.fetch(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_hddtemp.py,,,,,,,,,,,,,,,,,,,,,15,1,12,4,11,2,2,0,12,3,11,2,2,2,1,,,,,,1,"0.17",,,,
+Function,"glances.plugins.glances_hddtemp.GlancesGrabHDDTemp.get(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_hddtemp.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"glances.plugins.glances_hddtemp.GlancesGrabHDDTemp.reset(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_hddtemp.py,,,,,,,,,,,,,,,,,,,,,3,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"glances.plugins.glances_hddtemp.Plugin",D:\thesis2\real 106 project\glances\glances\plugins\glances_hddtemp.py,1,1,1,1,10,2,4,3,1,1,1,0,,,,,3,3,3,47,40,11,15,7,11,14,,,14,7,10,,,,,2,2,2,1,2,1,"0.93",4,4,4,3
+Function,"glances.plugins.glances_hddtemp.Plugin.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_hddtemp.py,,,,,,,,,,,,,,,,,,,,,13,3,5,3,4,5,1,0,5,3,4,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"glances.plugins.glances_hddtemp.Plugin.reset(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_hddtemp.py,,,,,,,,,,,,,,,,,,,,,3,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_hddtemp.Plugin.update(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_hddtemp.py,,,,,,,,,,,,,,,,,,,,,15,3,7,1,6,5,2,0,6,1,5,2,2,2,1,,,,,,1,"0.71",,,,
+Class,"glances.plugins.glances_help.Plugin",D:\thesis2\real 106 project\glances\glances\plugins\glances_help.py,1,1,1,1,27,2,22,2,1,1,0,0,,,,,5,3,5,49,144,18,113,12,107,13,,,113,12,107,,,,,2,2,2,1,2,1,"0.12",7,7,7,5
+Function,"glances.plugins.glances_help.Plugin.__init__(self,args,config)",D:\thesis2\real 106 project\glances\glances\plugins\glances_help.py,,,,,,,,,,,,,,,,,,,,,13,3,6,4,5,4,1,0,6,4,5,1,1,1,1,,,,,,0,"0.67",,,,
+Function,"glances.plugins.glances_help.Plugin.generate_view_data(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_help.py,,,,,,,,,,,,,,,,,,,,,43,2,41,3,40,0,2,0,41,3,40,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"glances.plugins.glances_help.Plugin.get_view_data(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_help.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"glances.plugins.glances_help.Plugin.msg_curse(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_help.py,,,,,,,,,,,,,,,,,,,,,75,7,61,2,60,7,2,0,61,2,60,2,2,2,1,,,,,,1,"0.11",,,,
+Function,"glances.plugins.glances_help.Plugin.update(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_help.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"glances.plugins.glances_ip.Plugin",D:\thesis2\real 106 project\glances\glances\plugins\glances_ip.py,2,2,2,1,12,2,7,3,1,3,0,0,,,,,5,2,6,50,90,20,45,16,36,25,,,42,13,35,,,,,5,5,6,1,2,3,"0.56",12,12,14,6
+Function,"glances.plugins.glances_ip.Plugin.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_ip.py,,,,,,,,,,,,,,,,,,,,,9,2,4,2,3,3,1,0,4,2,3,1,1,1,1,,,,,,0,"0.75",,,,
+Function,"glances.plugins.glances_ip.Plugin.ip_to_cidr(ip)",D:\thesis2\real 106 project\glances\glances\plugins\glances_ip.py,,,,,,,,,,,,,,,,,,,,,6,1,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"glances.plugins.glances_ip.Plugin.msg_curse(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_ip.py,,,,,,,,,,,,,,,,,,,,,18,3,11,3,10,4,2,0,11,3,10,2,2,3,1,,,,,,1,"0.36",,,,
+Function,"glances.plugins.glances_ip.Plugin.reset(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_ip.py,,,,,,,,,,,,,,,,,,,,,3,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_ip.Plugin.update(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_ip.py,,,,,,,,,,,,,,,,,,,,,31,5,19,3,18,7,5,1,18,2,17,5,5,6,1,,,,,,3,"0.37",,,,
+Function,"glances.plugins.glances_ip.Plugin.update_views(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_ip.py,,,,,,,,,,,,,,,,,,,,,9,1,4,2,3,4,2,0,4,2,3,2,2,2,1,,,,,,1,"1.00",,,,
+Class,"glances.plugins.glances_load.Plugin",D:\thesis2\real 106 project\glances\glances\plugins\glances_load.py,3,3,3,1,23,3,14,6,1,7,1,0,,,,,5,3,5,49,131,22,74,15,67,35,,,66,14,60,,,,,7,7,7,4,2,2,"0.47",15,15,16,8
+Function,"glances.plugins.glances_load.Plugin.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_load.py,,,,,,,,,,,,,,,,,,,,,16,3,9,3,8,4,2,0,8,3,7,2,2,2,1,,,,,,1,"0.44",,,,
+Function,"glances.plugins.glances_load.Plugin.msg_curse(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_load.py,,,,,,,,,,,,,,,,,,,,,42,3,27,3,26,12,3,0,25,3,24,3,3,4,1,,,,,,1,"0.44",,,,
+Function,"glances.plugins.glances_load.Plugin.reset(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_load.py,,,,,,,,,,,,,,,,,,,,,3,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_load.Plugin.update(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_load.py,,,,,,,,,,,,,,,,,,,,,44,8,27,4,26,9,8,1,23,4,22,7,7,7,4,,,,,,2,"0.33",,,,
+Function,"glances.plugins.glances_load.Plugin.update_views(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_load.py,,,,,,,,,,,,,,,,,,,,,14,1,7,1,6,6,2,0,7,1,6,2,2,2,1,,,,,,1,"0.86",,,,
+Class,"glances.plugins.glances_mem.Plugin",D:\thesis2\real 106 project\glances\glances\plugins\glances_mem.py,5,5,5,2,34,3,20,11,1,4,0,0,,,,,5,3,5,49,186,24,104,18,97,58,,,97,16,91,,,,,14,14,14,8,2,5,"0.56",25,25,26,12
+Function,"glances.plugins.glances_mem.Plugin.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_mem.py,,,,,,,,,,,,,,,,,,,,,9,2,4,2,3,3,1,0,4,2,3,1,1,1,1,,,,,,0,"0.75",,,,
+Function,"glances.plugins.glances_mem.Plugin.msg_curse(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_mem.py,,,,,,,,,,,,,,,,,,,,,64,3,45,3,44,16,17,1,44,3,43,6,6,7,1,,,,,,1,"0.36",,,,
+Function,"glances.plugins.glances_mem.Plugin.reset(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_mem.py,,,,,,,,,,,,,,,,,,,,,3,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_mem.Plugin.update(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_mem.py,,,,,,,,,,,,,,,,,,,,,86,11,45,7,44,30,21,1,40,6,39,14,14,14,8,,,,,,5,"0.67",,,,
+Function,"glances.plugins.glances_mem.Plugin.update_views(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_mem.py,,,,,,,,,,,,,,,,,,,,,12,1,6,2,5,5,3,0,6,2,5,3,3,3,1,,,,,,2,"0.83",,,,
+Class,"glances.plugins.glances_memswap.Plugin",D:\thesis2\real 106 project\glances\glances\plugins\glances_memswap.py,3,3,3,2,26,3,15,8,1,4,0,0,,,,,5,2,5,49,146,22,78,16,71,46,,,66,15,60,,,,,12,12,12,8,2,5,"0.59",17,17,18,12
+Function,"glances.plugins.glances_memswap.Plugin.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_memswap.py,,,,,,,,,,,,,,,,,,,,,10,2,5,2,4,3,1,0,4,2,3,1,1,1,1,,,,,,0,"0.60",,,,
+Function,"glances.plugins.glances_memswap.Plugin.msg_curse(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_memswap.py,,,,,,,,,,,,,,,,,,,,,40,3,25,3,24,12,2,0,24,3,23,2,2,3,1,,,,,,1,"0.48",,,,
+Function,"glances.plugins.glances_memswap.Plugin.reset(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_memswap.py,,,,,,,,,,,,,,,,,,,,,3,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_memswap.Plugin.update(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_memswap.py,,,,,,,,,,,,,,,,,,,,,73,9,41,6,40,23,12,1,32,6,31,12,12,12,8,,,,,,5,"0.56",,,,
+Function,"glances.plugins.glances_memswap.Plugin.update_views(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_memswap.py,,,,,,,,,,,,,,,,,,,,,8,1,3,1,2,4,1,0,3,1,2,1,1,1,1,,,,,,0,"1.33",,,,
+Class,"glances.plugins.glances_monitor.Plugin",D:\thesis2\real 106 project\glances\glances\plugins\glances_monitor.py,4,4,4,2,16,1,11,3,1,4,0,0,,,,,5,3,5,49,92,15,60,12,54,17,,,55,12,49,,,,,11,11,12,5,2,3,"0.28",23,23,24,11
+Function,"glances.plugins.glances_monitor.Plugin.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_monitor.py,,,,,,,,,,,,,,,,,,,,,10,2,5,4,4,3,1,0,5,4,4,1,1,1,1,,,,,,0,"0.60",,,,
+Function,"glances.plugins.glances_monitor.Plugin.get_alert(self,nbprocess,countmin,countmax,header,log)",D:\thesis2\real 106 project\glances\glances\plugins\glances_monitor.py,,,,,,,,,,,,,,,,,,,,,18,0,17,1,16,1,17,1,14,1,13,7,7,7,5,,,,,,2,"0.06",,,,
+Function,"glances.plugins.glances_monitor.Plugin.load_limits(self,config)",D:\thesis2\real 106 project\glances\glances\plugins\glances_monitor.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_monitor.Plugin.msg_curse(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_monitor.py,,,,,,,,,,,,,,,,,,,,,36,4,26,4,25,6,9,1,25,4,24,11,11,12,1,,,,,,3,"0.23",,,,
+Function,"glances.plugins.glances_monitor.Plugin.update(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_monitor.py,,,,,,,,,,,,,,,,,,,,,17,3,9,1,8,5,3,0,8,1,7,3,3,3,3,,,,,,2,"0.56",,,,
+Class,"glances.plugins.glances_network.Plugin",D:\thesis2\real 106 project\glances\glances\plugins\glances_network.py,5,5,6,3,41,3,29,8,1,9,0,0,,,,,6,3,6,50,263,30,177,34,169,56,,,138,33,131,,,,,15,15,16,10,2,6,"0.32",34,34,36,18
+Function,"glances.plugins.glances_network.Plugin.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_network.py,,,,,,,,,,,,,,,,,,,,,9,2,4,2,3,3,1,0,4,2,3,1,1,1,1,,,,,,0,"0.75",,,,
+Function,"glances.plugins.glances_network.Plugin.get_key(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_network.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_network.Plugin.msg_curse(self,args,max_width)",D:\thesis2\real 106 project\glances\glances\plugins\glances_network.py,,,,,,,,,,,,,,,,,,,,,97,4,73,10,72,20,521,3,59,10,58,14,14,16,4,,,,,,3,"0.27",,,,
+Function,"glances.plugins.glances_network.Plugin.reset(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_network.py,,,,,,,,,,,,,,,,,,,,,3,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_network.Plugin.update(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_network.py,,,,,,,,,,,,,,,,,,,,,125,15,86,14,85,24,21,1,64,14,63,15,15,15,10,,,,,,6,"0.28",,,,
+Function,"glances.plugins.glances_network.Plugin.update_views(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_network.py,,,,,,,,,,,,,,,,,,,,,13,1,8,3,7,4,2,0,6,3,5,2,2,2,1,,,,,,1,"0.50",,,,
+Class,"glances.plugins.glances_now.Plugin",D:\thesis2\real 106 project\glances\glances\plugins\glances_now.py,1,1,1,1,8,1,4,3,1,1,0,0,,,,,3,3,3,47,35,10,13,9,9,12,,,13,9,9,,,,,1,1,1,1,2,0,"0.92",3,3,3,3
+Function,"glances.plugins.glances_now.Plugin.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_now.py,,,,,,,,,,,,,,,,,,,,,9,2,4,3,3,3,1,0,4,3,3,1,1,1,1,,,,,,0,"0.75",,,,
+Function,"glances.plugins.glances_now.Plugin.msg_curse(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_now.py,,,,,,,,,,,,,,,,,,,,,11,2,5,3,4,4,1,0,5,3,4,1,1,1,1,,,,,,0,"0.80",,,,
+Function,"glances.plugins.glances_now.Plugin.update(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_now.py,,,,,,,,,,,,,,,,,,,,,6,1,3,2,2,2,1,0,3,2,2,1,1,1,1,,,,,,0,"0.67",,,,
+Class,"glances.plugins.glances_percpu.Plugin",D:\thesis2\real 106 project\glances\glances\plugins\glances_percpu.py,2,2,2,1,13,2,7,3,1,0,0,0,,,,,5,2,5,49,81,18,40,12,34,23,,,38,12,32,,,,,7,7,7,5,2,2,"0.57",12,12,12,9
+Function,"glances.plugins.glances_percpu.Plugin.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_percpu.py,,,,,,,,,,,,,,,,,,,,,9,2,4,2,3,3,1,0,4,2,3,1,1,1,1,,,,,,0,"0.75",,,,
+Function,"glances.plugins.glances_percpu.Plugin.get_key(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_percpu.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_percpu.Plugin.msg_curse(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_percpu.py,,,,,,,,,,,,,,,,,,,,,40,7,24,5,23,9,12,1,23,5,22,7,7,7,5,,,,,,2,"0.38",,,,
+Function,"glances.plugins.glances_percpu.Plugin.reset(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_percpu.py,,,,,,,,,,,,,,,,,,,,,3,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_percpu.Plugin.update(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_percpu.py,,,,,,,,,,,,,,,,,,,,,14,2,7,1,6,5,2,0,6,1,5,2,2,2,1,,,,,,1,"0.71",,,,
+Class,"glances.plugins.glances_plugin.GlancesPlugin",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,2,2,2,1,13,1,7,4,1,15,2,25,,,,,44,11,44,44,632,96,347,110,290,189,,,276,98,229,,,,,14,14,14,8,1,6,"0.54",112,112,124,64
+Function,"glances.plugins.glances_plugin.GlancesPlugin.__get_limit(self,criticity,stat_name)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,13,1,6,2,5,6,2,0,6,2,5,2,2,2,1,,,,,,1,"1.00",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.__get_limit_action(self,criticity,stat_name)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,13,1,6,2,5,6,2,0,6,2,5,2,2,2,1,,,,,,1,"1.00",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.__get_limit_log(self,stat_name,default_action)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,17,1,9,2,8,7,3,0,9,2,8,3,3,3,3,,,,,,2,"0.78",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.__init__(self,args,items_history_list)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,31,8,12,12,11,11,1,0,12,12,11,1,1,1,1,,,,,,0,"0.92",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.__repr__(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.__str__(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin._log_result_decorator(fct)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,16,0,15,3,13,1,1,0,8,3,6,1,1,1,1,,,,,,0,"0.07",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin._log_result_decorator.wrapper(args,kw)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,13,0,13,2,12,0,2,0,6,2,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.add_item_history(self,key,value)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,6,0,5,1,4,1,2,0,5,1,4,2,2,2,1,,,,,,1,"0.20",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.align-getter(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.align-setter(self,value)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,6,1,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.auto_unit(self,number,low_precision)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,47,4,30,6,29,13,14,1,17,6,16,8,8,8,3,,,,,,4,"0.43",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.curse_add_line(self,msg,decoration,optional,additional,splittable)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,29,1,4,3,1,24,1,0,2,1,1,1,1,1,1,,,,,,0,"6.00",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.curse_new_line(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.exit(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.get_alert(self,current,minimum,maximum,header,log)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,81,9,43,8,42,29,104,2,37,8,36,14,14,14,8,,,,,,4,"0.67",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.get_alert_log(self,current,minimum,maximum,header)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.get_conf_value(self,value,header,plugin_name)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,17,3,9,1,8,5,8,1,9,1,8,4,4,4,1,,,,,,1,"0.56",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.get_export(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.get_items_history_list(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.get_key(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.get_raw(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.get_stats(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.get_stats_display(self,args,max_width)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,26,4,15,4,14,7,8,1,10,4,9,4,4,4,1,,,,,,1,"0.47",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.get_stats_history(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.get_stats_item(self,item)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,21,1,15,2,14,5,5,1,13,1,12,5,5,5,5,,,,,,2,"0.33",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.get_stats_snmp(self,bulk,snmp_oid)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,54,7,35,11,33,12,14,1,28,11,26,11,11,12,1,,,,,,6,"0.34",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.get_stats_value(self,item,value)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,16,1,12,2,11,3,5,1,10,1,9,4,4,4,3,,,,,,2,"0.25",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.get_views(self,item,key,option)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,21,3,12,2,11,6,6,1,9,2,8,4,4,4,3,,,,,,2,"0.50",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.has_alias(self,header)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,6,0,5,1,4,1,2,0,5,1,4,2,2,2,1,,,,,,1,"0.20",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.init_stats_history(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,9,0,8,3,7,1,2,0,7,3,6,2,2,4,1,,,,,,1,"0.12",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.input_method-getter(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.input_method-setter(self,input_method)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,8,1,2,1,1,5,1,0,2,1,1,1,1,1,1,,,,,,0,"2.50",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.is_hide(self,value,header)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.limits-getter(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.limits-setter(self,input_limits)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.load_limits(self,config)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,12,0,10,3,9,2,4,1,9,3,8,4,4,5,1,,,,,,3,"0.20",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.msg_curse(self,args,max_width)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.reset_stats_history(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,7,0,6,2,5,1,2,0,5,2,4,2,2,4,1,,,,,,1,"0.17",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.set_stats(self,input_stats)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.set_views(self,input_views)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.short_system_name-getter(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.short_system_name-setter(self,short_name)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.update_stats_history(self,item_name)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,18,0,12,3,11,6,5,1,8,3,7,5,5,8,1,,,,,,4,"0.50",,,,
+Function,"glances.plugins.glances_plugin.GlancesPlugin.update_views(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_plugin.py,,,,,,,,,,,,,,,,,,,,,37,4,22,5,21,11,6,1,13,5,12,6,6,9,1,,,,,,3,"0.50",,,,
+Class,"glances.plugins.glances_processcount.Plugin",D:\thesis2\real 106 project\glances\glances\plugins\glances_processcount.py,3,3,3,1,23,3,14,5,1,0,0,0,,,,,4,2,4,48,104,21,58,10,53,25,,,56,10,51,,,,,9,9,9,3,2,1,"0.43",14,14,14,6
+Function,"glances.plugins.glances_processcount.Plugin.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_processcount.py,,,,,,,,,,,,,,,,,,,,,6,1,3,2,2,2,1,0,3,2,2,1,1,1,1,,,,,,0,"0.67",,,,
+Function,"glances.plugins.glances_processcount.Plugin.msg_curse(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_processcount.py,,,,,,,,,,,,,,,,,,,,,65,10,44,4,43,11,34,2,43,4,42,9,9,9,3,,,,,,1,"0.25",,,,
+Function,"glances.plugins.glances_processcount.Plugin.reset(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_processcount.py,,,,,,,,,,,,,,,,,,,,,3,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_processcount.Plugin.update(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_processcount.py,,,,,,,,,,,,,,,,,,,,,18,3,8,1,7,7,3,0,7,1,6,3,3,3,1,,,,,,1,"0.88",,,,
+Class,"glances.plugins.glances_processlist.Plugin",D:\thesis2\real 106 project\glances\glances\plugins\glances_processlist.py,8,8,11,1,41,1,32,8,1,12,1,0,,,,,12,4,12,56,523,38,385,57,372,100,,,329,56,316,,,,,43,43,66,3,2,4,"0.26",99,99,133,14
+Function,"glances.plugins.glances_processlist.Plugin.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_processlist.py,,,,,,,,,,,,,,,,,,,,,15,3,8,4,7,4,2,0,8,4,7,2,2,2,1,,,,,,1,"0.50",,,,
+Function,"glances.plugins.glances_processlist.Plugin.__msg_curse_header(self,ret,process_sort_key,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_processlist.py,,,,,,,,,,,,,,,,,,,,,35,1,31,3,30,3,3,0,29,3,28,10,10,12,1,,,,,,1,"0.10",,,,
+Function,"glances.plugins.glances_processlist.Plugin.__msg_curse_sum(self,ret,sep_char,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_processlist.py,,,,,,,,,,,,,,,,,,,,,60,0,44,4,43,16,10,1,40,4,39,5,5,7,1,,,,,,2,"0.36",,,,
+Function,"glances.plugins.glances_processlist.Plugin.__sum_stats(self,key,indice)",D:\thesis2\real 106 project\glances\glances\plugins\glances_processlist.py,,,,,,,,,,,,,,,,,,,,,12,0,8,3,7,4,3,0,7,3,6,3,3,3,1,,,,,,2,"0.50",,,,
+Function,"glances.plugins.glances_processlist.Plugin.add_tree_decoration(self,child_data,is_last_child,first_level)",D:\thesis2\real 106 project\glances\glances\plugins\glances_processlist.py,,,,,,,,,,,,,,,,,,,,,47,4,34,8,33,9,288,2,31,8,30,12,12,14,1,,,,,,3,"0.26",,,,
+Function,"glances.plugins.glances_processlist.Plugin.get_key(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_processlist.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_processlist.Plugin.get_process_curses_data(self,p,first,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_processlist.py,,,,,,,,,,,,,,,,,,,,,215,3,177,16,176,35,612900000,9,149,15,148,43,43,66,1,,,,,,4,"0.20",,,,
+Function,"glances.plugins.glances_processlist.Plugin.get_process_tree_curses_data(self,node,args,first_level,max_node_count)",D:\thesis2\real 106 project\glances\glances\plugins\glances_processlist.py,,,,,,,,,,,,,,,,,,,,,30,2,26,7,25,2,34,2,21,7,20,7,7,10,3,,,,,,2,"0.08",,,,
+Function,"glances.plugins.glances_processlist.Plugin.msg_curse(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_processlist.py,,,,,,,,,,,,,,,,,,,,,32,5,18,5,17,9,6,1,15,5,14,5,5,6,1,,,,,,2,"0.50",,,,
+Function,"glances.plugins.glances_processlist.Plugin.reset(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_processlist.py,,,,,,,,,,,,,,,,,,,,,3,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_processlist.Plugin.sort_stats(self,sortedby)",D:\thesis2\real 106 project\glances\glances\plugins\glances_processlist.py,,,,,,,,,,,,,,,,,,,,,33,3,24,2,23,6,6,1,16,2,15,6,6,7,1,,,,,,3,"0.25",,,,
+Function,"glances.plugins.glances_processlist.Plugin.update(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_processlist.py,,,,,,,,,,,,,,,,,,,,,18,2,10,1,9,6,4,1,8,1,7,4,4,4,1,,,,,,2,"0.60",,,,
+Function,"glances.plugins.glances_processlist.convert_timedelta(delta)",D:\thesis2\real 106 project\glances\glances\plugins\glances_processlist.py,,,,,,,,,,,,,,,,,,,,,12,1,7,6,6,4,1,0,7,6,6,1,1,1,1,,,,,,0,"0.57",,,,
+Class,"glances.plugins.glances_psutilversion.Plugin",D:\thesis2\real 106 project\glances\glances\plugins\glances_psutilversion.py,1,1,1,1,8,1,5,2,1,3,0,0,,,,,3,1,3,47,33,8,16,5,12,9,,,15,5,11,,,,,3,3,3,1,2,2,"0.56",5,5,5,3
+Function,"glances.plugins.glances_psutilversion.Plugin.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_psutilversion.py,,,,,,,,,,,,,,,,,,,,,5,1,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"glances.plugins.glances_psutilversion.Plugin.reset(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_psutilversion.py,,,,,,,,,,,,,,,,,,,,,3,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_psutilversion.Plugin.update(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_psutilversion.py,,,,,,,,,,,,,,,,,,,,,16,2,10,1,9,4,3,0,9,1,8,3,3,3,1,,,,,,2,"0.40",,,,
+Class,"glances.plugins.glances_quicklook.Plugin",D:\thesis2\real 106 project\glances\glances\plugins\glances_quicklook.py,3,3,3,1,16,1,10,4,1,2,1,0,,,,,6,2,6,50,113,19,67,17,59,27,,,61,16,54,,,,,8,8,10,1,2,4,"0.40",18,18,20,6
+Function,"glances.plugins.glances_quicklook.Plugin.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_quicklook.py,,,,,,,,,,,,,,,,,,,,,9,2,4,2,3,3,1,0,4,2,3,1,1,1,1,,,,,,0,"0.75",,,,
+Function,"glances.plugins.glances_quicklook.Plugin._hz_to_ghz(self,hz)",D:\thesis2\real 106 project\glances\glances\plugins\glances_quicklook.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_quicklook.Plugin.msg_curse(self,args,max_width)",D:\thesis2\real 106 project\glances\glances\plugins\glances_quicklook.py,,,,,,,,,,,,,,,,,,,,,46,4,36,6,35,6,16,1,32,6,31,8,8,10,1,,,,,,4,"0.17",,,,
+Function,"glances.plugins.glances_quicklook.Plugin.reset(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_quicklook.py,,,,,,,,,,,,,,,,,,,,,3,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_quicklook.Plugin.update(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_quicklook.py,,,,,,,,,,,,,,,,,,,,,29,4,16,2,15,9,6,1,15,2,14,4,4,4,1,,,,,,1,"0.56",,,,
+Function,"glances.plugins.glances_quicklook.Plugin.update_views(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_quicklook.py,,,,,,,,,,,,,,,,,,,,,10,1,5,2,4,4,3,0,5,2,4,3,3,3,1,,,,,,2,"0.80",,,,
+Class,"glances.plugins.glances_raid.Plugin",D:\thesis2\real 106 project\glances\glances\plugins\glances_raid.py,3,3,4,1,21,2,14,5,1,2,0,0,,,,,5,2,5,49,120,17,75,20,68,28,,,71,18,65,,,,,10,10,11,3,2,4,"0.37",19,19,20,9
+Function,"glances.plugins.glances_raid.Plugin.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_raid.py,,,,,,,,,,,,,,,,,,,,,9,2,4,2,3,3,1,0,4,2,3,1,1,1,1,,,,,,0,"0.75",,,,
+Function,"glances.plugins.glances_raid.Plugin.msg_curse(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_raid.py,,,,,,,,,,,,,,,,,,,,,61,3,48,10,47,10,17,1,46,10,45,10,10,11,1,,,,,,4,"0.21",,,,
+Function,"glances.plugins.glances_raid.Plugin.raid_alert(self,status,used,available)",D:\thesis2\real 106 project\glances\glances\plugins\glances_raid.py,,,,,,,,,,,,,,,,,,,,,12,1,6,1,5,5,3,0,6,1,5,3,3,3,3,,,,,,1,"0.83",,,,
+Function,"glances.plugins.glances_raid.Plugin.reset(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_raid.py,,,,,,,,,,,,,,,,,,,,,3,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_raid.Plugin.update(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_raid.py,,,,,,,,,,,,,,,,,,,,,23,4,13,3,12,6,4,1,12,2,11,4,4,4,3,,,,,,2,"0.46",,,,
+Class,"glances.plugins.glances_sensors.GlancesGrabSensors",D:\thesis2\real 106 project\glances\glances\plugins\glances_sensors.py,3,3,3,1,10,0,7,2,1,2,0,0,,,,,5,2,5,5,59,9,39,12,33,11,,,36,12,30,,,,,7,7,7,1,1,4,"0.28",15,15,15,5
+Function,"glances.plugins.glances_sensors.GlancesGrabSensors.__init__(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_sensors.py,,,,,,,,,,,,,,,,,,,,,11,1,8,2,7,2,2,0,8,2,7,2,2,2,1,,,,,,1,"0.25",,,,
+Function,"glances.plugins.glances_sensors.GlancesGrabSensors.__update__(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_sensors.py,,,,,,,,,,,,,,,,,,,,,21,2,15,4,14,4,9,1,14,4,13,7,7,7,1,,,,,,4,"0.27",,,,
+Function,"glances.plugins.glances_sensors.GlancesGrabSensors.get(self,sensor_type)",D:\thesis2\real 106 project\glances\glances\plugins\glances_sensors.py,,,,,,,,,,,,,,,,,,,,,12,0,10,2,9,2,3,0,8,2,7,3,3,3,1,,,,,,1,"0.20",,,,
+Function,"glances.plugins.glances_sensors.GlancesGrabSensors.quit(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_sensors.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,1,2,0,3,1,2,2,2,2,1,,,,,,1,"0.33",,,,
+Function,"glances.plugins.glances_sensors.GlancesGrabSensors.reset(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_sensors.py,,,,,,,,,,,,,,,,,,,,,3,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"glances.plugins.glances_sensors.Plugin",D:\thesis2\real 106 project\glances\glances\plugins\glances_sensors.py,3,3,3,1,21,2,12,6,1,4,1,0,,,,,7,5,7,51,169,26,91,25,82,52,,,80,23,72,,,,,8,8,9,3,2,3,"0.57",24,24,25,9
+Function,"glances.plugins.glances_sensors.Plugin.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_sensors.py,,,,,,,,,,,,,,,,,,,,,20,5,7,5,6,8,1,0,7,5,6,1,1,1,1,,,,,,0,"1.14",,,,
+Function,"glances.plugins.glances_sensors.Plugin.__set_type(self,stats,sensor_type)",D:\thesis2\real 106 project\glances\glances\plugins\glances_sensors.py,,,,,,,,,,,,,,,,,,,,,16,2,5,2,4,9,2,0,5,2,4,2,2,2,1,,,,,,1,"1.80",,,,
+Function,"glances.plugins.glances_sensors.Plugin.get_key(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_sensors.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_sensors.Plugin.msg_curse(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_sensors.py,,,,,,,,,,,,,,,,,,,,,41,4,28,5,27,9,19,1,24,5,23,8,8,9,1,,,,,,3,"0.32",,,,
+Function,"glances.plugins.glances_sensors.Plugin.reset(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_sensors.py,,,,,,,,,,,,,,,,,,,,,3,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_sensors.Plugin.update(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_sensors.py,,,,,,,,,,,,,,,,,,,,,56,5,36,6,35,15,18,1,31,5,30,7,7,7,1,,,,,,2,"0.42",,,,
+Function,"glances.plugins.glances_sensors.Plugin.update_views(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_sensors.py,,,,,,,,,,,,,,,,,,,,,14,1,9,2,8,4,5,1,8,2,7,4,4,4,3,,,,,,2,"0.44",,,,
+Class,"glances.plugins.glances_system.Plugin",D:\thesis2\real 106 project\glances\glances\plugins\glances_system.py,6,6,6,2,28,2,20,5,1,3,0,0,,,,,4,2,4,48,124,15,83,13,78,26,,,66,13,61,,,,,15,15,16,6,2,4,"0.31",24,24,26,9
+Function,"glances.plugins.glances_system.Plugin.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_system.py,,,,,,,,,,,,,,,,,,,,,9,2,4,2,3,3,1,0,4,2,3,1,1,1,1,,,,,,0,"0.75",,,,
+Function,"glances.plugins.glances_system.Plugin.msg_curse(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_system.py,,,,,,,,,,,,,,,,,,,,,38,3,28,3,27,7,15,1,20,3,19,7,7,8,1,,,,,,2,"0.25",,,,
+Function,"glances.plugins.glances_system.Plugin.reset(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_system.py,,,,,,,,,,,,,,,,,,,,,3,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_system.Plugin.update(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_system.py,,,,,,,,,,,,,,,,,,,,,64,4,48,5,47,12,29,1,39,5,38,15,15,16,6,,,,,,4,"0.25",,,,
+Function,"glances.plugins.glances_system._linux_os_release()",D:\thesis2\real 106 project\glances\glances\plugins\glances_system.py,,,,,,,,,,,,,,,,,,,,,26,3,18,7,17,5,21,1,18,6,17,8,8,8,1,,,,,,5,"0.28",,,,
+Class,"glances.plugins.glances_uptime.Plugin",D:\thesis2\real 106 project\glances\glances\plugins\glances_uptime.py,1,1,1,1,10,1,5,3,1,5,0,0,,,,,4,3,4,48,50,12,22,9,17,16,,,21,9,16,,,,,4,4,4,1,2,2,"0.73",7,7,7,4
+Function,"glances.plugins.glances_uptime.Plugin.__init__(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_uptime.py,,,,,,,,,,,,,,,,,,,,,12,3,5,3,4,4,1,0,5,3,4,1,1,1,1,,,,,,0,"0.80",,,,
+Function,"glances.plugins.glances_uptime.Plugin.msg_curse(self,args)",D:\thesis2\real 106 project\glances\glances\plugins\glances_uptime.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_uptime.Plugin.reset(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_uptime.py,,,,,,,,,,,,,,,,,,,,,3,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"glances.plugins.glances_uptime.Plugin.update(self)",D:\thesis2\real 106 project\glances\glances\plugins\glances_uptime.py,,,,,,,,,,,,,,,,,,,,,22,3,12,2,11,7,4,1,11,2,10,4,4,4,1,,,,,,2,"0.58",,,,
+Function,"setup.get_data_files()",D:\thesis2\real 106 project\glances\setup.py,,,,,,,,,,,,,,,,,,,,,9,1,8,2,7,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"setup.get_requires()",D:\thesis2\real 106 project\glances\setup.py,,,,,,,,,,,,,,,,,,,,,8,1,7,2,6,0,4,1,7,2,6,3,3,3,1,,,,,,1,"0.00",,,,
+Class,"unitest-restful.TestGlances",D:\thesis2\real 106 project\glances\unitest-restful.py,1,1,1,1,10,1,8,1,1,3,0,0,,,,,12,0,12,12,138,26,99,42,85,13,,,95,42,81,,,,,5,5,5,1,1,2,"0.13",19,19,19,12
+Function,"unitest-restful.TestGlances.setUp(self)",D:\thesis2\real 106 project\glances\unitest-restful.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"unitest-restful.TestGlances.test_000_start_server(self)",D:\thesis2\real 106 project\glances\unitest-restful.py,,,,,,,,,,,,,,,,,,,,,13,2,10,4,8,1,1,0,10,4,8,1,1,1,1,,,,,,0,"0.10",,,,
+Function,"unitest-restful.TestGlances.test_001_all(self)",D:\thesis2\real 106 project\glances\unitest-restful.py,,,,,,,,,,,,,,,,,,,,,8,1,6,3,5,1,1,0,6,3,5,1,1,1,1,,,,,,0,"0.17",,,,
+Function,"unitest-restful.TestGlances.test_002_pluginslist(self)",D:\thesis2\real 106 project\glances\unitest-restful.py,,,,,,,,,,,,,,,,,,,,,10,1,8,3,7,1,1,0,8,3,7,1,1,1,1,,,,,,0,"0.12",,,,
+Function,"unitest-restful.TestGlances.test_003_plugins(self)",D:\thesis2\real 106 project\glances\unitest-restful.py,,,,,,,,,,,,,,,,,,,,,19,1,17,5,16,1,5,1,13,5,12,5,5,5,1,,,,,,2,"0.06",,,,
+Function,"unitest-restful.TestGlances.test_004_items(self)",D:\thesis2\real 106 project\glances\unitest-restful.py,,,,,,,,,,,,,,,,,,,,,12,1,10,5,9,1,2,0,10,5,9,2,2,2,1,,,,,,1,"0.10",,,,
+Function,"unitest-restful.TestGlances.test_005_values(self)",D:\thesis2\real 106 project\glances\unitest-restful.py,,,,,,,,,,,,,,,,,,,,,9,1,7,3,6,1,1,0,7,3,6,1,1,1,1,,,,,,0,"0.14",,,,
+Function,"unitest-restful.TestGlances.test_006_all_limits(self)",D:\thesis2\real 106 project\glances\unitest-restful.py,,,,,,,,,,,,,,,,,,,,,9,1,7,3,6,1,1,0,7,3,6,1,1,1,1,,,,,,0,"0.14",,,,
+Function,"unitest-restful.TestGlances.test_007_all_views(self)",D:\thesis2\real 106 project\glances\unitest-restful.py,,,,,,,,,,,,,,,,,,,,,9,1,7,3,6,1,1,0,7,3,6,1,1,1,1,,,,,,0,"0.14",,,,
+Function,"unitest-restful.TestGlances.test_008_plugins_limits(self)",D:\thesis2\real 106 project\glances\unitest-restful.py,,,,,,,,,,,,,,,,,,,,,11,1,9,5,8,1,2,0,9,5,8,2,2,2,1,,,,,,1,"0.11",,,,
+Function,"unitest-restful.TestGlances.test_009_plugins_views(self)",D:\thesis2\real 106 project\glances\unitest-restful.py,,,,,,,,,,,,,,,,,,,,,11,1,9,5,8,1,2,0,9,5,8,2,2,2,1,,,,,,1,"0.11",,,,
+Function,"unitest-restful.TestGlances.test_999_stop_server(self)",D:\thesis2\real 106 project\glances\unitest-restful.py,,,,,,,,,,,,,,,,,,,,,9,2,6,1,5,1,1,0,6,1,5,1,1,1,1,,,,,,0,"0.17",,,,
+Class,"unitest-xmlrpc.TestGlances",D:\thesis2\real 106 project\glances\unitest-xmlrpc.py,1,1,1,1,8,1,6,1,1,2,0,0,,,,,14,0,14,14,141,36,90,40,74,15,,,90,40,74,,,,,1,1,1,1,1,0,"0.17",14,14,14,14
+Function,"unitest-xmlrpc.TestGlances.setUp(self)",D:\thesis2\real 106 project\glances\unitest-xmlrpc.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"unitest-xmlrpc.TestGlances.test_000_start_server(self)",D:\thesis2\real 106 project\glances\unitest-xmlrpc.py,,,,,,,,,,,,,,,,,,,,,13,2,10,4,8,1,1,0,10,4,8,1,1,1,1,,,,,,0,"0.10",,,,
+Function,"unitest-xmlrpc.TestGlances.test_001_all(self)",D:\thesis2\real 106 project\glances\unitest-xmlrpc.py,,,,,,,,,,,,,,,,,,,,,8,1,6,3,5,1,1,0,6,3,5,1,1,1,1,,,,,,0,"0.17",,,,
+Function,"unitest-xmlrpc.TestGlances.test_002_pluginslist(self)",D:\thesis2\real 106 project\glances\unitest-xmlrpc.py,,,,,,,,,,,,,,,,,,,,,8,1,6,3,5,1,1,0,6,3,5,1,1,1,1,,,,,,0,"0.17",,,,
+Function,"unitest-xmlrpc.TestGlances.test_003_system(self)",D:\thesis2\real 106 project\glances\unitest-xmlrpc.py,,,,,,,,,,,,,,,,,,,,,7,1,5,3,4,1,1,0,5,3,4,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"unitest-xmlrpc.TestGlances.test_004_cpu(self)",D:\thesis2\real 106 project\glances\unitest-xmlrpc.py,,,,,,,,,,,,,,,,,,,,,16,4,11,3,10,1,1,0,11,3,10,1,1,1,1,,,,,,0,"0.09",,,,
+Function,"unitest-xmlrpc.TestGlances.test_005_mem(self)",D:\thesis2\real 106 project\glances\unitest-xmlrpc.py,,,,,,,,,,,,,,,,,,,,,10,2,7,3,6,1,1,0,7,3,6,1,1,1,1,,,,,,0,"0.14",,,,
+Function,"unitest-xmlrpc.TestGlances.test_006_net(self)",D:\thesis2\real 106 project\glances\unitest-xmlrpc.py,,,,,,,,,,,,,,,,,,,,,7,1,5,3,4,1,1,0,5,3,4,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"unitest-xmlrpc.TestGlances.test_007_disk(self)",D:\thesis2\real 106 project\glances\unitest-xmlrpc.py,,,,,,,,,,,,,,,,,,,,,10,2,7,3,6,1,1,0,7,3,6,1,1,1,1,,,,,,0,"0.14",,,,
+Function,"unitest-xmlrpc.TestGlances.test_008_sensors(self)",D:\thesis2\real 106 project\glances\unitest-xmlrpc.py,,,,,,,,,,,,,,,,,,,,,7,1,5,3,4,1,1,0,5,3,4,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"unitest-xmlrpc.TestGlances.test_009_process(self)",D:\thesis2\real 106 project\glances\unitest-xmlrpc.py,,,,,,,,,,,,,,,,,,,,,10,2,7,3,6,1,1,0,7,3,6,1,1,1,1,,,,,,0,"0.14",,,,
+Function,"unitest-xmlrpc.TestGlances.test_010_all_limits(self)",D:\thesis2\real 106 project\glances\unitest-xmlrpc.py,,,,,,,,,,,,,,,,,,,,,8,1,6,3,5,1,1,0,6,3,5,1,1,1,1,,,,,,0,"0.17",,,,
+Function,"unitest-xmlrpc.TestGlances.test_011_all_views(self)",D:\thesis2\real 106 project\glances\unitest-xmlrpc.py,,,,,,,,,,,,,,,,,,,,,8,1,6,3,5,1,1,0,6,3,5,1,1,1,1,,,,,,0,"0.17",,,,
+Function,"unitest-xmlrpc.TestGlances.test_999_stop_server(self)",D:\thesis2\real 106 project\glances\unitest-xmlrpc.py,,,,,,,,,,,,,,,,,,,,,9,2,6,1,5,1,1,0,6,1,5,1,1,1,1,,,,,,0,"0.17",,,,
+Class,"unitest.TestGlances",D:\thesis2\real 106 project\glances\unitest.py,1,1,1,1,9,0,7,2,1,5,1,0,,,,,13,0,13,13,143,17,95,39,80,31,,,94,37,80,,,,,3,3,3,1,1,1,"0.33",21,21,21,13
+Function,"unitest.TestGlances.setUp(self)",D:\thesis2\real 106 project\glances\unitest.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"unitest.TestGlances.test_000_update(self)",D:\thesis2\real 106 project\glances\unitest.py,,,,,,,,,,,,,,,,,,,,,19,2,14,2,13,3,4,1,14,1,13,3,3,3,1,,,,,,1,"0.21",,,,
+Function,"unitest.TestGlances.test_001_plugins(self)",D:\thesis2\real 106 project\glances\unitest.py,,,,,,,,,,,,,,,,,,,,,7,0,6,4,5,1,2,0,6,4,5,2,2,2,1,,,,,,1,"0.17",,,,
+Function,"unitest.TestGlances.test_002_cpu(self)",D:\thesis2\real 106 project\glances\unitest.py,,,,,,,,,,,,,,,,,,,,,9,0,7,4,6,2,2,0,7,4,6,2,2,2,1,,,,,,1,"0.29",,,,
+Function,"unitest.TestGlances.test_003_cpu(self)",D:\thesis2\real 106 project\glances\unitest.py,,,,,,,,,,,,,,,,,,,,,12,0,9,4,8,3,2,0,9,4,8,2,2,2,1,,,,,,1,"0.33",,,,
+Function,"unitest.TestGlances.test_004_load(self)",D:\thesis2\real 106 project\glances\unitest.py,,,,,,,,,,,,,,,,,,,,,11,0,8,4,7,3,2,0,8,4,7,2,2,2,1,,,,,,1,"0.38",,,,
+Function,"unitest.TestGlances.test_005_mem(self)",D:\thesis2\real 106 project\glances\unitest.py,,,,,,,,,,,,,,,,,,,,,11,0,8,4,7,3,2,0,8,4,7,2,2,2,1,,,,,,1,"0.38",,,,
+Function,"unitest.TestGlances.test_006_swap(self)",D:\thesis2\real 106 project\glances\unitest.py,,,,,,,,,,,,,,,,,,,,,11,0,8,4,7,3,2,0,8,4,7,2,2,2,1,,,,,,1,"0.38",,,,
+Function,"unitest.TestGlances.test_007_network(self)",D:\thesis2\real 106 project\glances\unitest.py,,,,,,,,,,,,,,,,,,,,,6,0,5,2,4,1,1,0,5,2,4,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"unitest.TestGlances.test_008_diskio(self)",D:\thesis2\real 106 project\glances\unitest.py,,,,,,,,,,,,,,,,,,,,,6,0,5,2,4,1,1,0,5,2,4,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"unitest.TestGlances.test_009_fs(self)",D:\thesis2\real 106 project\glances\unitest.py,,,,,,,,,,,,,,,,,,,,,7,0,5,2,4,2,1,0,5,2,4,1,1,1,1,,,,,,0,"0.40",,,,
+Function,"unitest.TestGlances.test_010_processes(self)",D:\thesis2\real 106 project\glances\unitest.py,,,,,,,,,,,,,,,,,,,,,11,0,8,2,7,3,1,0,8,2,7,1,1,1,1,,,,,,0,"0.38",,,,
+Function,"unitest.TestGlances.test_011_output_bars_must_be_between_0_and_100_percent(self)",D:\thesis2\real 106 project\glances\unitest.py,,,,,,,,,,,,,,,,,,,,,11,1,8,2,7,2,1,0,8,2,7,1,1,1,1,,,,,,1,"0.25",,,,

@@ -1,0 +1,937 @@
+Kind,Name,File,AvgCyclomatic,AvgCyclomaticModified,AvgCyclomaticStrict,AvgEssential,AvgLine,AvgLineBlank,AvgLineCode,AvgLineComment,CountClassBase,CountClassCoupled,CountClassCoupledModified,CountClassDerived,CountDeclClass,CountDeclExecutableUnit,CountDeclFile,CountDeclFunction,CountDeclInstanceMethod,CountDeclInstanceVariable,CountDeclMethod,CountDeclMethodAll,CountLine,CountLineBlank,CountLineCode,CountLineCodeDecl,CountLineCodeExe,CountLineComment,CountPath,CountPathLog,CountStmt,CountStmtDecl,CountStmtExe,Cyclomatic,CyclomaticModified,CyclomaticStrict,Essential,MaxCyclomatic,MaxCyclomaticModified,MaxCyclomaticStrict,MaxEssential,MaxInheritanceTree,MaxNesting,RatioCommentToCode,SumCyclomatic,SumCyclomaticModified,SumCyclomaticStrict,SumEssential
+Module File,"D:\thesis2\real 106 project\bup\cmd\bloom-cmd.py",D:\thesis2\real 106 project\bup\cmd\bloom-cmd.py,7,7,11,1,35,2,32,1,,,,,0,4,,3,,,,,159,22,134,34,127,4,48,2,111,34,104,8,8,13,1,14,14,25,4,,2,"0.03",31,31,47,7
+Module File,"D:\thesis2\real 106 project\bup\cmd\cat-file-cmd.py",D:\thesis2\real 106 project\bup\cmd\cat-file-cmd.py,14,14,15,1,44,0,0,0,,,,,0,1,,0,,,,,62,11,47,13,44,5,1024,3,39,12,36,14,14,15,1,14,14,15,1,,3,"0.11",14,14,15,1
+Module File,"D:\thesis2\real 106 project\bup\cmd\daemon-cmd.py",D:\thesis2\real 106 project\bup\cmd\daemon-cmd.py,9,9,11,4,56,0,0,0,,,,,0,1,,0,,,,,69,7,61,20,56,1,49,2,50,20,45,9,9,11,4,9,9,11,4,,4,"0.02",9,9,11,4
+Module File,"D:\thesis2\real 106 project\bup\cmd\damage-cmd.py",D:\thesis2\real 106 project\bup\cmd\damage-cmd.py,5,5,7,1,23,0,5,0,,,,,0,2,,1,,,,,57,7,49,21,45,1,44,2,38,21,34,8,8,13,1,8,8,13,1,,3,"0.02",10,10,15,2
+Module File,"D:\thesis2\real 106 project\bup\cmd\drecurse-cmd.py",D:\thesis2\real 106 project\bup\cmd\drecurse-cmd.py,5,5,5,1,19,0,3,0,,,,,0,2,,1,,,,,48,5,42,15,37,1,40,2,28,15,23,8,8,8,1,8,8,8,1,,3,"0.02",10,10,10,2
+Module File,"D:\thesis2\real 106 project\bup\cmd\fsck-cmd.py",D:\thesis2\real 106 project\bup\cmd\fsck-cmd.py,4,4,5,2,17,0,10,0,,,,,0,11,,10,,,,,215,22,188,42,174,9,3722,4,155,40,141,21,21,28,11,21,21,28,11,,4,"0.05",49,49,64,25
+Module File,"D:\thesis2\real 106 project\bup\cmd\ftp-cmd.py",D:\thesis2\real 106 project\bup\cmd\ftp-cmd.py,5,5,6,3,21,0,11,1,,,,,1,8,,7,,,,,211,25,172,62,152,16,259,2,154,57,134,24,24,29,15,24,24,29,15,,7,"0.09",47,47,52,27
+Module File,"D:\thesis2\real 106 project\bup\cmd\fuse-cmd.py",D:\thesis2\real 106 project\bup\cmd\fuse-cmd.py,2,2,2,1,11,0,9,0,,,,,2,10,,9,,,,,145,20,120,53,105,6,33,2,113,53,98,7,7,7,3,7,7,7,3,,3,"0.05",24,24,24,14
+Module File,"D:\thesis2\real 106 project\bup\cmd\help-cmd.py",D:\thesis2\real 106 project\bup\cmd\help-cmd.py,5,5,7,4,22,0,0,0,,,,,0,1,,0,,,,,28,2,24,9,22,2,5,1,18,8,16,5,5,7,4,5,5,7,4,,3,"0.08",5,5,7,4
+Module File,"D:\thesis2\real 106 project\bup\cmd\import-duplicity-cmd.py",D:\thesis2\real 106 project\bup\cmd\import-duplicity-cmd.py,3,3,4,1,15,0,5,0,,,,,0,4,,3,,,,,93,17,72,28,58,4,128,2,61,28,47,9,9,11,1,9,9,11,1,,3,"0.06",15,15,17,4
+Module File,"D:\thesis2\real 106 project\bup\cmd\index-cmd.py",D:\thesis2\real 106 project\bup\cmd\index-cmd.py,8,8,13,2,36,1,24,3,,,,,1,7,,6,,,,,286,31,235,48,224,24,53760,5,195,46,184,21,21,42,4,24,24,42,5,,5,"0.10",62,62,92,17
+Module File,"D:\thesis2\real 106 project\bup\cmd\init-cmd.py",D:\thesis2\real 106 project\bup\cmd\init-cmd.py,4,4,4,1,18,0,0,0,,,,,0,1,,0,,,,,29,7,21,8,18,2,6,1,17,7,14,4,4,4,1,4,4,4,1,,1,"0.10",4,4,4,1
+Module File,"D:\thesis2\real 106 project\bup\cmd\join-cmd.py",D:\thesis2\real 106 project\bup\cmd\join-cmd.py,7,7,7,1,31,0,0,0,,,,,0,1,,0,,,,,44,9,34,14,31,1,32,2,27,13,24,7,7,7,1,7,7,7,1,,3,"0.03",7,7,7,1
+Module File,"D:\thesis2\real 106 project\bup\cmd\list-idx-cmd.py",D:\thesis2\real 106 project\bup\cmd\list-idx-cmd.py,12,12,13,3,43,0,0,0,,,,,0,1,,0,,,,,55,7,46,13,43,2,220,2,39,12,36,12,12,13,3,12,12,13,3,,4,"0.04",12,12,13,3
+Module File,"D:\thesis2\real 106 project\bup\cmd\ls-cmd.py",D:\thesis2\real 106 project\bup\cmd\ls-cmd.py,1,1,1,1,4,0,0,0,,,,,0,1,,0,,,,,12,3,7,5,4,2,1,0,7,5,4,1,1,1,1,1,1,1,1,,0,"0.29",1,1,1,1
+Module File,"D:\thesis2\real 106 project\bup\cmd\margin-cmd.py",D:\thesis2\real 106 project\bup\cmd\margin-cmd.py,4,4,4,2,27,0,11,0,,,,,0,2,,1,,,,,67,7,57,26,53,4,12,1,48,26,44,7,7,7,4,7,7,7,4,,3,"0.07",9,9,9,5
+Module File,"D:\thesis2\real 106 project\bup\cmd\memtest-cmd.py",D:\thesis2\real 106 project\bup\cmd\memtest-cmd.py,5,5,5,1,24,0,14,2,,,,,0,4,,3,,,,,118,15,92,30,84,11,128,2,73,29,65,9,9,9,1,9,9,9,1,,3,"0.12",20,20,20,4
+Module File,"D:\thesis2\real 106 project\bup\cmd\meta-cmd.py",D:\thesis2\real 106 project\bup\cmd\meta-cmd.py,11,11,13,1,42,0,4,0,,,,,0,3,,2,,,,,160,22,132,18,126,8,8056,4,82,18,76,31,31,33,1,31,31,33,1,,6,"0.06",35,35,39,3
+Module File,"D:\thesis2\real 106 project\bup\cmd\midx-cmd.py",D:\thesis2\real 106 project\bup\cmd\midx-cmd.py,7,7,10,1,30,2,24,1,,,,,0,8,,7,,,,,274,42,226,66,214,10,256,2,191,64,179,13,13,22,1,14,14,22,1,,4,"0.04",57,57,84,8
+Module File,"D:\thesis2\real 106 project\bup\cmd\mux-cmd.py",D:\thesis2\real 106 project\bup\cmd\mux-cmd.py,2,2,2,1,16,0,3,0,,,,,0,2,,1,,,,,47,9,36,14,32,2,4,1,32,14,28,3,3,3,1,3,3,3,1,,1,"0.06",4,4,4,2
+Module File,"D:\thesis2\real 106 project\bup\cmd\newliner-cmd.py",D:\thesis2\real 106 project\bup\cmd\newliner-cmd.py,11,11,12,5,40,0,0,0,,,,,0,1,,0,,,,,48,4,43,12,40,2,104,2,39,12,36,11,11,12,5,11,11,12,5,,3,"0.05",11,11,12,5
+Module File,"D:\thesis2\real 106 project\bup\cmd\on--server-cmd.py",D:\thesis2\real 106 project\bup\cmd\on--server-cmd.py,2,2,2,1,26,0,0,0,,,,,0,1,,0,,,,,51,4,28,9,26,19,2,0,24,9,22,2,2,2,1,2,2,2,1,,1,"0.68",2,2,2,1
+Module File,"D:\thesis2\real 106 project\bup\cmd\on-cmd.py",D:\thesis2\real 106 project\bup\cmd\on-cmd.py,3,3,3,2,18,0,2,0,,,,,1,3,,2,,,,,70,7,59,21,52,4,36,2,52,20,45,9,9,9,4,9,9,9,4,,5,"0.07",11,11,11,6
+Module File,"D:\thesis2\real 106 project\bup\cmd\random-cmd.py",D:\thesis2\real 106 project\bup\cmd\random-cmd.py,3,3,7,1,20,0,0,0,,,,,0,1,,0,,,,,29,5,23,7,20,1,4,1,14,7,11,3,3,7,1,3,3,7,1,,1,"0.04",3,3,7,1
+Module File,"D:\thesis2\real 106 project\bup\cmd\restore-cmd.py",D:\thesis2\real 106 project\bup\cmd\restore-cmd.py,4,4,5,2,17,0,12,2,,,,,0,16,,15,,,,,350,46,258,78,234,50,544,3,224,75,201,12,12,13,4,14,14,19,6,,5,"0.19",76,76,87,34
+Module File,"D:\thesis2\real 106 project\bup\cmd\save-cmd.py",D:\thesis2\real 106 project\bup\cmd\save-cmd.py,10,10,14,2,39,0,11,0,,,,,0,9,,8,,,,,465,57,357,95,342,61,999999999,14,304,92,289,71,71,98,11,71,71,98,11,,5,"0.17",93,93,131,21
+Module File,"D:\thesis2\real 106 project\bup\cmd\server-cmd.py",D:\thesis2\real 106 project\bup\cmd\server-cmd.py,2,2,3,1,13,0,10,0,,,,,0,13,,12,,,,,210,33,169,51,151,9,14,1,147,50,129,6,6,8,5,11,11,13,7,,4,"0.05",36,36,44,23
+Module File,"D:\thesis2\real 106 project\bup\cmd\split-cmd.py",D:\thesis2\real 106 project\bup\cmd\split-cmd.py,8,8,15,1,33,0,6,0,,,,,1,5,,4,,,,,198,16,171,38,162,16,254803968,8,123,37,114,34,34,65,1,34,34,65,4,,3,"0.09",43,43,75,8
+Module File,"D:\thesis2\real 106 project\bup\cmd\tag-cmd.py",D:\thesis2\real 106 project\bup\cmd\tag-cmd.py,13,13,15,9,55,0,0,0,,,,,0,1,,0,,,,,83,18,59,13,55,6,48,2,51,12,47,13,13,15,9,13,13,15,9,,2,"0.10",13,13,15,9
+Module File,"D:\thesis2\real 106 project\bup\cmd\tick-cmd.py",D:\thesis2\real 106 project\bup\cmd\tick-cmd.py,2,2,2,1,10,0,0,0,,,,,0,1,,0,,,,,16,3,12,7,10,1,2,0,10,7,8,2,2,2,1,2,2,2,1,,1,"0.08",2,2,2,1
+Module File,"D:\thesis2\real 106 project\bup\cmd\version-cmd.py",D:\thesis2\real 106 project\bup\cmd\version-cmd.py,2,2,3,1,10,0,4,2,,,,,0,4,,3,,,,,55,12,35,12,29,8,6,1,27,12,21,4,4,7,1,4,4,7,3,,2,"0.23",9,9,12,6
+Module File,"D:\thesis2\real 106 project\bup\cmd\web-cmd.py",D:\thesis2\real 106 project\bup\cmd\web-cmd.py,3,3,3,1,16,1,10,2,,,,,1,12,,11,,,,,236,43,169,56,149,27,21,1,140,53,121,7,7,7,1,8,8,12,3,,2,"0.16",37,37,43,18
+Module File,"D:\thesis2\real 106 project\bup\cmd\xstat-cmd.py",D:\thesis2\real 106 project\bup\cmd\xstat-cmd.py,11,11,12,3,40,1,13,1,,,,,0,2,,1,,,,,102,13,84,24,79,6,1144,3,67,21,63,18,18,20,5,18,18,20,5,,4,"0.07",22,22,25,6
+File,"D:\thesis2\real 106 project\bup\lib\__init__.py",D:\thesis2\real 106 project\bup\lib\__init__.py,0,0,0,0,0,0,0,0,,,,,0,0,,0,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,"0.00",0,0,0,0
+File,"D:\thesis2\real 106 project\bup\lib\bup\__init__.py",D:\thesis2\real 106 project\bup\lib\bup\__init__.py,0,0,0,0,0,0,0,0,,,,,0,0,,0,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,"0.00",0,0,0,0
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\bloom.py",D:\thesis2\real 106 project\bup\lib\bup\bloom.py,2,2,3,1,12,0,10,2,,,,,1,11,,10,,,,,242,33,112,38,97,101,1,0,106,38,91,1,1,1,1,7,7,9,4,,2,"0.90",26,26,35,14
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\client.py",D:\thesis2\real 106 project\bup\lib\bup\client.py,3,3,3,1,12,0,12,0,,,,,3,25,,24,,,,,344,33,298,87,265,19,1,0,269,79,239,1,1,1,1,9,9,11,4,,3,"0.06",77,77,85,44
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\csetup.py",D:\thesis2\real 106 project\bup\lib\bup\csetup.py,1,1,1,1,7,0,0,0,,,,,0,1,,0,,,,,10,2,8,2,7,0,1,0,3,2,2,1,1,1,1,1,1,1,1,,0,"0.00",1,1,1,1
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\drecurse.py",D:\thesis2\real 106 project\bup\lib\bup\drecurse.py,4,4,4,2,13,0,14,0,,,,,1,8,,7,,,,,126,12,111,34,97,4,4,1,99,28,88,3,3,3,1,11,11,13,8,,5,"0.04",33,33,35,22
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\git.py",D:\thesis2\real 106 project\bup\lib\bup\git.py,2,2,2,1,11,0,9,1,,,,,8,92,,91,,,,,1177,174,888,324,774,132,1,0,799,316,686,1,1,1,1,22,22,30,9,,6,"0.15",239,239,262,141
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\hashsplit.py",D:\thesis2\real 106 project\bup\lib\bup\hashsplit.py,2,2,3,1,9,0,8,0,,,,,1,22,,21,,,,,249,38,195,76,167,19,1,0,179,74,153,1,1,1,1,8,8,9,4,,3,"0.10",63,63,69,29
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\helpers.py",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,2,2,2,1,9,0,7,1,,,,,4,90,,89,,,,,1065,182,704,269,588,190,64,2,668,261,553,7,7,9,1,9,9,9,7,,5,"0.27",235,235,252,161
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\hlinkdb.py",D:\thesis2\real 106 project\bup\lib\bup\hlinkdb.py,2,2,2,2,10,0,9,0,,,,,2,10,,10,,,,,116,11,98,33,85,8,0,0,91,31,78,0,0,0,0,6,6,6,5,,3,"0.08",28,28,29,20
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\index.py",D:\thesis2\real 106 project\bup\lib\bup\index.py,1,1,2,1,7,0,7,0,,,,,10,61,,60,,,,,559,82,452,191,376,30,1,0,398,180,325,1,1,1,1,7,7,14,3,,4,"0.07",115,115,147,67
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\ls.py",D:\thesis2\real 106 project\bup\lib\bup\ls.py,6,6,8,1,33,2,33,3,,,,,0,4,,3,,,,,130,13,105,29,94,12,1,0,69,23,63,1,1,1,1,16,16,20,1,,5,"0.11",25,25,32,4
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\metadata.py",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,4,4,5,2,16,0,14,1,,,,,3,58,,57,,,,,1130,128,863,209,785,157,42,2,697,190,626,8,8,11,1,24,24,30,16,,4,"0.18",277,277,325,144
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\midx.py",D:\thesis2\real 106 project\bup\lib\bup\midx.py,1,1,1,1,7,0,7,0,,,,,1,12,,11,,,,,120,17,93,45,77,14,1,0,88,45,72,1,1,1,1,5,5,7,4,,2,"0.15",21,21,23,18
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\options.py",D:\thesis2\real 106 project\bup\lib\bup\options.py,2,2,3,1,10,0,9,0,,,,,2,16,,16,,,,,275,38,162,63,141,82,0,0,149,61,129,0,0,0,0,12,12,20,3,,4,"0.51",41,41,58,20
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\path.py",D:\thesis2\real 106 project\bup\lib\bup\path.py,1,1,1,1,2,0,2,0,,,,,0,4,,3,,,,,16,4,9,5,5,3,1,0,8,5,4,1,1,1,1,1,1,2,1,,0,"0.33",4,4,5,4
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\shquote.py",D:\thesis2\real 106 project\bup\lib\bup\shquote.py,4,4,5,1,20,1,12,9,,,,,1,7,,6,,,,,164,26,81,24,73,58,1,0,71,24,63,1,1,1,1,11,11,18,3,,3,"0.72",28,28,41,11
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\ssh.py",D:\thesis2\real 106 project\bup\lib\bup\ssh.py,3,3,3,1,21,0,15,5,,,,,0,2,,2,,,,,43,2,28,10,24,13,0,0,22,10,18,0,0,0,0,4,4,4,1,,2,"0.46",6,6,6,2
+File,"D:\thesis2\real 106 project\bup\lib\bup\t\__init__.py",D:\thesis2\real 106 project\bup\lib\bup\t\__init__.py,1,1,1,1,1,0,0,0,,,,,0,1,,0,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,1,1,1,1,,0,"0.00",1,1,1,1
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\t\tbloom.py",D:\thesis2\real 106 project\bup\lib\bup\t\tbloom.py,5,5,5,2,26,2,45,3,,,,,1,2,,1,,,,,59,4,52,21,45,3,1,0,49,19,43,1,1,1,1,9,9,10,3,,3,"0.06",10,10,11,4
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\t\tclient.py",D:\thesis2\real 106 project\bup\lib\bup\t\tclient.py,2,2,2,1,20,1,21,0,,,,,0,7,,6,,,,,164,22,141,59,126,2,1,0,125,49,115,1,1,1,1,3,3,4,1,,1,"0.01",15,15,16,7
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\t\tgit.py",D:\thesis2\real 106 project\bup\lib\bup\t\tgit.py,2,2,2,1,24,1,24,0,,,,,0,13,,12,,,,,340,36,301,110,276,4,1,0,272,94,255,1,1,1,1,6,6,6,1,,2,"0.01",30,30,30,13
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\t\thashsplit.py",D:\thesis2\real 106 project\bup\lib\bup\t\thashsplit.py,1,1,1,1,17,0,15,0,,,,,0,7,,7,,,,,130,17,108,32,94,5,0,0,99,28,89,0,0,0,0,3,3,3,3,,2,"0.05",9,9,9,9
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\t\thelpers.py",D:\thesis2\real 106 project\bup\lib\bup\t\thelpers.py,1,1,1,1,13,0,13,0,,,,,0,11,,10,,,,,181,22,156,46,126,3,1,0,118,33,98,1,1,1,1,4,4,4,1,,2,"0.02",18,18,18,11
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\t\tindex.py",D:\thesis2\real 106 project\bup\lib\bup\t\tindex.py,2,2,2,1,20,1,20,0,,,,,0,8,,7,,,,,187,22,159,67,142,6,1,0,139,63,126,1,1,1,1,3,3,6,3,,2,"0.04",17,17,21,10
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\t\tmetadata.py",D:\thesis2\real 106 project\bup\lib\bup\t\tmetadata.py,2,2,3,1,16,0,17,0,,,,,0,15,,14,,,,,301,30,262,72,231,10,4,1,250,61,228,3,3,3,1,7,7,10,4,,2,"0.04",42,42,47,25
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\t\toptions.py",D:\thesis2\real 106 project\bup\lib\bup\t\toptions.py,1,1,1,1,21,0,18,0,,,,,0,4,,3,,,,,103,14,88,15,80,2,1,0,47,12,42,1,1,1,1,1,1,1,1,,0,"0.02",4,4,4,4
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\t\tshquote.py",D:\thesis2\real 106 project\bup\lib\bup\t\tshquote.py,1,1,1,1,21,2,18,0,,,,,0,2,,2,,,,,47,7,40,7,35,0,0,0,26,5,22,0,0,0,0,1,1,1,1,,0,"0.00",2,2,2,2
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\t\tvint.py",D:\thesis2\real 106 project\bup\lib\bup\t\tvint.py,1,1,1,1,7,0,7,0,,,,,0,8,,8,,,,,85,16,69,29,54,0,0,0,53,25,42,0,0,0,0,3,3,3,1,,1,"0.00",14,14,14,8
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\t\txstat.py",D:\thesis2\real 106 project\bup\lib\bup\t\txstat.py,2,2,3,1,20,0,24,0,,,,,0,5,,4,,,,,118,11,107,35,95,0,1,0,103,31,95,1,1,1,1,3,3,5,1,,1,"0.00",11,11,17,5
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\vfs.py",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,2,2,2,1,7,0,6,0,,,,,17,60,,59,,,,,597,103,415,171,333,81,1,0,373,170,291,1,1,1,1,7,7,9,6,,3,"0.20",123,123,138,78
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\vint.py",D:\thesis2\real 106 project\bup\lib\bup\vint.py,4,4,4,3,12,0,12,0,,,,,0,9,,9,,,,,141,20,112,27,102,9,0,0,95,27,85,0,0,0,0,9,9,9,8,,3,"0.08",36,36,36,28
+Module File,"D:\thesis2\real 106 project\bup\lib\bup\xstat.py",D:\thesis2\real 106 project\bup\lib\bup\xstat.py,2,2,2,1,7,0,6,0,,,,,1,18,,17,,,,,175,32,132,37,110,12,16,1,103,35,82,5,5,5,1,17,17,17,7,,2,"0.09",47,47,48,24
+Module File,"D:\thesis2\real 106 project\bup\main.py",D:\thesis2\real 106 project\bup\main.py,7,7,12,1,33,0,13,0,,,,,0,5,,4,,,,,205,27,166,42,159,15,645120,6,139,40,132,25,25,43,1,25,25,43,1,,3,"0.09",38,38,63,5
+Module File,"D:\thesis2\real 106 project\bup\wvtest.py",D:\thesis2\real 106 project\bup\wvtest.py,1,1,1,1,7,0,5,1,,,,,0,22,,21,,,,,224,37,140,53,109,49,8,1,136,51,105,4,4,4,1,5,5,5,3,,2,"0.35",41,41,41,26
+Unknown Class,"Fuse",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"PackWriter",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"RequestHandler",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"Stat",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Function,"bloom-cmd.check_bloom(path,bloomfilename,idx)",D:\thesis2\real 106 project\bup\cmd\bloom-cmd.py,,,,,,,,,,,,,,,,,,,,,22,0,22,6,21,0,9,1,21,6,20,7,7,7,4,,,,,,2,"0.00",,,,
+Function,"bloom-cmd.do_bloom(path,outfilename)",D:\thesis2\real 106 project\bup\cmd\bloom-cmd.py,,,,,,,,,,,,,,,,,,,,,76,7,67,15,65,3,1161,3,57,15,55,14,14,25,1,,,,,,2,"0.04",,,,
+Function,"bloom-cmd.ruin_bloom(bloomfilename)",D:\thesis2\real 106 project\bup\cmd\bloom-cmd.py,,,,,,,,,,,,,,,,,,,,,8,0,8,3,7,0,2,0,8,3,7,2,2,2,1,,,,,,1,"0.00",,,,
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"bup",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Function,"damage-cmd.randblock(n)",D:\thesis2\real 106 project\bup\cmd\damage-cmd.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,2,0,5,3,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"drecurse-cmd.do_it()",D:\thesis2\real 106 project\bup\cmd\drecurse-cmd.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"fsck-cmd.debug(s)",D:\thesis2\real 106 project\bup\cmd\fsck-cmd.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,2,0,3,1,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"fsck-cmd.do_pack(base,last,par2_exists)",D:\thesis2\real 106 project\bup\cmd\fsck-cmd.py,,,,,,,,,,,,,,,,,,,,,44,0,44,7,43,0,18,1,36,7,35,11,11,19,1,,,,,,4,"0.00",,,,
+Function,"fsck-cmd.git_verify(base)",D:\thesis2\real 106 project\bup\cmd\fsck-cmd.py,,,,,,,,,,,,,,,,,,,,,10,0,10,2,9,0,3,0,9,1,8,3,3,3,3,,,,,,2,"0.00",,,,
+Function,"fsck-cmd.par2_generate(base)",D:\thesis2\real 106 project\bup\cmd\fsck-cmd.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"fsck-cmd.par2_repair(base)",D:\thesis2\real 106 project\bup\cmd\fsck-cmd.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"fsck-cmd.par2_setup()",D:\thesis2\real 106 project\bup\cmd\fsck-cmd.py,,,,,,,,,,,,,,,,,,,,,11,0,11,4,9,0,2,0,10,4,8,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"fsck-cmd.par2_verify(base)",D:\thesis2\real 106 project\bup\cmd\fsck-cmd.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"fsck-cmd.parv(lvl)",D:\thesis2\real 106 project\bup\cmd\fsck-cmd.py,,,,,,,,,,,,,,,,,,,,,8,0,8,1,7,0,3,0,6,1,5,3,3,3,3,,,,,,2,"0.00",,,,
+Function,"fsck-cmd.quick_verify(base)",D:\thesis2\real 106 project\bup\cmd\fsck-cmd.py,,,,,,,,,,,,,,,,,,,,,12,0,12,4,11,0,4,1,11,4,10,3,3,3,1,,,,,,1,"0.00",,,,
+Function,"fsck-cmd.run(argv)",D:\thesis2\real 106 project\bup\cmd\fsck-cmd.py,,,,,,,,,,,,,,,,,,,,,11,0,7,3,6,5,1,0,6,3,5,1,1,1,1,,,,,,1,"0.71",,,,
+Class,"ftp-cmd.OptionError",D:\thesis2\real 106 project\bup\cmd\ftp-cmd.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,12,2,0,2,1,1,0,,,2,1,1,,,,,0,0,0,0,3,0,"0.00",0,0,0,0
+Function,"ftp-cmd._completer_get_subs(line)",D:\thesis2\real 106 project\bup\cmd\ftp-cmd.py,,,,,,,,,,,,,,,,,,,,,11,0,10,6,9,1,2,0,9,5,8,2,2,2,1,,,,,,1,"0.10",,,,
+Function,"ftp-cmd.completer(text,state)",D:\thesis2\real 106 project\bup\cmd\ftp-cmd.py,,,,,,,,,,,,,,,,,,,,,31,0,31,13,26,1,16,1,28,11,23,7,7,7,3,,,,,,3,"0.03",,,,
+Function,"ftp-cmd.do_ls(cmd_args)",D:\thesis2\real 106 project\bup\cmd\ftp-cmd.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,2,0,5,1,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"ftp-cmd.find_readline_lib()",D:\thesis2\real 106 project\bup\cmd\ftp-cmd.py,,,,,,,,,,,,,,,,,,,,,15,0,12,6,9,3,2,0,11,6,8,2,2,2,1,,,,,,1,"0.25",,,,
+Function,"ftp-cmd.init_readline_vars()",D:\thesis2\real 106 project\bup\cmd\ftp-cmd.py,,,,,,,,,,,,,,,,,,,,,16,0,11,5,8,5,3,0,10,5,7,3,3,3,1,,,,,,1,"0.45",,,,
+Function,"ftp-cmd.inputiter()",D:\thesis2\real 106 project\bup\cmd\ftp-cmd.py,,,,,,,,,,,,,,,,,,,,,11,0,11,2,10,1,5,1,10,2,9,5,5,5,4,,,,,,3,"0.09",,,,
+Function,"ftp-cmd.write_to_file(inf,outf)",D:\thesis2\real 106 project\bup\cmd\ftp-cmd.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"fuse-cmd.BupFs",D:\thesis2\real 106 project\bup\cmd\fuse-cmd.py,1,1,1,1,7,0,7,0,1,1,1,0,,,,,7,2,7,7,57,6,51,20,43,1,,,51,20,43,,,,,4,4,4,1,1,3,"0.02",12,12,12,7
+Function,"fuse-cmd.BupFs.__init__(self,top,meta)",D:\thesis2\real 106 project\bup\cmd\fuse-cmd.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"fuse-cmd.BupFs.getattr(self,path)",D:\thesis2\real 106 project\bup\cmd\fuse-cmd.py,,,,,,,,,,,,,,,,,,,,,20,0,20,4,19,1,4,1,20,4,19,4,4,4,1,,,,,,3,"0.05",,,,
+Function,"fuse-cmd.BupFs.open(self,path,flags)",D:\thesis2\real 106 project\bup\cmd\fuse-cmd.py,,,,,,,,,,,,,,,,,,,,,7,0,7,3,6,0,2,0,7,3,6,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"fuse-cmd.BupFs.read(self,path,size,offset)",D:\thesis2\real 106 project\bup\cmd\fuse-cmd.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,1,0,6,3,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"fuse-cmd.BupFs.readdir(self,path,offset)",D:\thesis2\real 106 project\bup\cmd\fuse-cmd.py,,,,,,,,,,,,,,,,,,,,,7,0,7,3,6,0,2,0,7,3,6,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"fuse-cmd.BupFs.readlink(self,path)",D:\thesis2\real 106 project\bup\cmd\fuse-cmd.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"fuse-cmd.BupFs.release(self,path,flags)",D:\thesis2\real 106 project\bup\cmd\fuse-cmd.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"fuse-cmd.Stat",D:\thesis2\real 106 project\bup\cmd\fuse-cmd.py,1,1,1,1,14,0,14,0,1,0,0,0,,,,,1,13,1,1,15,0,15,15,13,0,,,15,15,13,,,,,1,1,1,1,1,0,"0.00",1,1,1,1
+Function,"fuse-cmd.Stat.__init__(self)",D:\thesis2\real 106 project\bup\cmd\fuse-cmd.py,,,,,,,,,,,,,,,,,,,,,14,0,14,14,13,0,1,0,14,14,13,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"fuse-cmd.cache_get(top,path)",D:\thesis2\real 106 project\bup\cmd\fuse-cmd.py,,,,,,,,,,,,,,,,,,,,,21,0,17,8,16,4,4,1,17,8,16,4,4,4,3,,,,,,3,"0.24",,,,
+Function,"import-duplicity-cmd.exc(cmd,shell)",D:\thesis2\real 106 project\bup\cmd\import-duplicity-cmd.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,3,0,2,0,5,2,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"import-duplicity-cmd.exo(cmd,shell)",D:\thesis2\real 106 project\bup\cmd\import-duplicity-cmd.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,3,0,2,0,5,2,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"import-duplicity-cmd.logcmd(cmd)",D:\thesis2\real 106 project\bup\cmd\import-duplicity-cmd.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"index-cmd.IterHelper",D:\thesis2\real 106 project\bup\cmd\index-cmd.py,1,1,1,1,5,0,5,0,0,1,0,0,,,,,2,2,2,2,12,1,11,5,8,0,,,11,5,8,,,,,2,2,2,1,0,1,"0.00",3,3,3,2
+Function,"index-cmd.IterHelper.__init__(self,l)",D:\thesis2\real 106 project\bup\cmd\index-cmd.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"index-cmd.IterHelper.next(self)",D:\thesis2\real 106 project\bup\cmd\index-cmd.py,,,,,,,,,,,,,,,,,,,,,6,0,6,1,5,0,2,0,6,1,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"index-cmd.check_index(reader)",D:\thesis2\real 106 project\bup\cmd\index-cmd.py,,,,,,,,,,,,,,,,,,,,,28,0,28,4,27,1,22,1,27,4,26,8,8,9,1,,,,,,4,"0.04",,,,
+Function,"index-cmd.clear_index(indexfile)",D:\thesis2\real 106 project\bup\cmd\index-cmd.py,,,,,,,,,,,,,,,,,,,,,11,0,11,4,10,0,5,1,11,3,10,5,5,5,4,,,,,,3,"0.00",,,,
+Function,"index-cmd.update_index(top,excluded_paths,exclude_rxs)",D:\thesis2\real 106 project\bup\cmd\index-cmd.py,,,,,,,,,,,,,,,,,,,,,120,9,96,20,94,18,7500,4,89,19,87,24,24,32,5,,,,,,4,"0.19",,,,
+Function,"index-cmd.update_index.hashgen(name)",D:\thesis2\real 106 project\bup\cmd\index-cmd.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Package,"lib",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,1,1,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"lib",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,1,1,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"lib.bup",,1,1,1,1,7,0,0,0,,,,,0,,1,0,,,,,10,2,8,2,7,0,,,3,2,2,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"lib.bup",,2,2,2,2,10,0,9,0,,,,,2,,1,10,,,,,116,11,98,33,85,8,,,91,31,78,,,,,6,6,6,5,,3,,28,28,29,20
+Package,"lib.bup",,1,1,1,1,7,0,7,0,,,,,1,,1,11,,,,,120,17,93,45,77,14,,,88,45,72,,,,,5,5,7,4,,2,,21,21,23,18
+Package,"lib.bup",,2,2,3,1,10,0,9,0,,,,,2,,1,16,,,,,275,38,162,63,141,82,,,149,61,129,,,,,12,12,20,3,,4,,41,41,58,20
+Package,"lib.bup",,4,4,4,3,12,0,12,0,,,,,0,,1,9,,,,,141,20,112,27,102,9,,,95,27,85,,,,,9,9,9,8,,3,,36,36,36,28
+Package,"lib.bup",,2,2,3,1,9,0,8,0,,,,,1,,1,21,,,,,249,38,195,76,167,19,,,179,74,153,,,,,8,8,9,4,,3,,63,63,69,29
+Package,"lib.bup",,6,6,8,1,33,2,33,3,,,,,0,,1,3,,,,,130,13,105,29,94,12,,,69,23,63,,,,,16,16,20,1,,5,,25,25,32,4
+Package,"lib.bup",,2,2,2,1,7,0,6,0,,,,,1,,1,17,,,,,175,32,132,37,110,12,,,103,35,82,,,,,17,17,17,7,,2,,47,47,48,24
+Package,"lib.bup",,1,1,1,1,1,0,0,0,,,,,0,,1,0,,,,,2,0,2,1,1,0,,,2,1,1,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"lib.bup",,4,4,5,1,20,1,12,9,,,,,1,,1,6,,,,,164,26,81,24,73,58,,,71,24,63,,,,,11,11,18,3,,3,,28,28,41,11
+Package,"lib.bup",,4,4,5,2,16,0,14,1,,,,,3,,1,57,,,,,1130,128,863,209,785,157,,,697,190,626,,,,,24,24,30,16,,4,,277,277,325,144
+Package,"lib.bup",,1,1,2,1,7,0,7,0,,,,,10,,1,60,,,,,559,82,452,191,376,30,,,398,180,325,,,,,7,7,14,3,,4,,115,115,147,67
+Package,"lib.bup",,4,4,4,2,13,0,14,0,,,,,1,,1,7,,,,,126,12,111,34,97,4,,,99,28,88,,,,,11,11,13,8,,5,,33,33,35,22
+Package,"lib.bup",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,1,1,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"lib.bup",,3,3,3,1,21,0,15,5,,,,,0,,1,2,,,,,43,2,28,10,24,13,,,22,10,18,,,,,4,4,4,1,,2,,6,6,6,2
+Package,"lib.bup",,2,2,2,1,11,0,9,1,,,,,8,,1,91,,,,,1177,174,888,324,774,132,,,799,316,686,,,,,22,22,30,9,,6,,239,239,262,141
+Package,"lib.bup",,1,1,1,1,2,0,2,0,,,,,0,,1,3,,,,,16,4,9,5,5,3,,,8,5,4,,,,,1,1,2,1,,0,,4,4,5,4
+Package,"lib.bup",,2,2,3,1,12,0,10,2,,,,,1,,1,10,,,,,242,33,112,38,97,101,,,106,38,91,,,,,7,7,9,4,,2,,26,26,35,14
+Package,"lib.bup",,3,3,3,1,12,0,12,0,,,,,3,,1,24,,,,,344,33,298,87,265,19,,,269,79,239,,,,,9,9,11,4,,3,,77,77,85,44
+Package,"lib.bup",,2,2,2,1,7,0,6,0,,,,,17,,1,59,,,,,597,103,415,171,333,81,,,373,170,291,,,,,7,7,9,6,,3,,123,123,138,78
+Package,"lib.bup",,2,2,2,1,9,0,7,1,,,,,4,,1,89,,,,,1065,182,704,269,588,190,,,668,261,553,,,,,9,9,9,7,,5,,235,235,252,161
+Class,"lib.bup.bloom.ShaBloom",D:\thesis2\real 106 project\bup\lib\bup\bloom.py,2,2,2,1,12,0,9,2,0,4,0,0,,,,,9,8,9,9,119,11,85,25,74,24,,,79,25,68,,,,,7,7,9,4,0,2,"0.28",22,22,26,12
+Function,"lib.bup.bloom.ShaBloom.__del__(self)",D:\thesis2\real 106 project\bup\lib\bup\bloom.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.bloom.ShaBloom.__init__(self,filename,f,readwrite,expected)",D:\thesis2\real 106 project\bup\lib\bup\bloom.py,,,,,,,,,,,,,,,,,,,,,57,2,39,11,38,17,15,1,34,11,33,7,7,9,4,,,,,,2,"0.44",,,,
+Function,"lib.bup.bloom.ShaBloom.__len__(self)",D:\thesis2\real 106 project\bup\lib\bup\bloom.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.bloom.ShaBloom._init_failed(self)",D:\thesis2\real 106 project\bup\lib\bup\bloom.py,,,,,,,,,,,,,,,,,,,,,8,0,8,1,7,0,4,1,8,1,7,3,3,3,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.bloom.ShaBloom.add_idx(self,ix)",D:\thesis2\real 106 project\bup\lib\bup\bloom.py,,,,,,,,,,,,,,,,,,,,,6,0,5,1,4,1,2,0,5,1,4,2,2,2,1,,,,,,1,"0.20",,,,
+Function,"lib.bup.bloom.ShaBloom.close(self)",D:\thesis2\real 106 project\bup\lib\bup\bloom.py,,,,,,,,,,,,,,,,,,,,,13,0,13,1,12,0,5,1,12,1,11,4,4,5,1,,,,,,2,"0.00",,,,
+Function,"lib.bup.bloom.ShaBloom.exists(self,sha)",D:\thesis2\real 106 project\bup\lib\bup\bloom.py,,,,,,,,,,,,,,,,,,,,,14,1,8,3,6,5,2,0,8,3,6,2,2,2,1,,,,,,1,"0.62",,,,
+Function,"lib.bup.bloom.ShaBloom.pfalse_positive(self,additional)",D:\thesis2\real 106 project\bup\lib\bup\bloom.py,,,,,,,,,,,,,,,,,,,,,5,0,5,4,4,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.bloom.ShaBloom.valid(self)",D:\thesis2\real 106 project\bup\lib\bup\bloom.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,2,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.bloom.create(name,expected,delaywrite,f,k)",D:\thesis2\real 106 project\bup\lib\bup\bloom.py,,,,,,,,,,,,,,,,,,,,,20,0,16,2,15,4,4,1,16,2,15,3,3,8,1,,,,,,1,"0.25",,,,
+Class,"lib.bup.client.Client",D:\thesis2\real 106 project\bup\lib\bup\client.py,3,3,4,2,13,0,12,0,0,10,4,0,,,,,15,12,15,15,226,15,205,47,188,9,,,187,43,170,,,,,9,9,11,4,0,3,"0.04",58,58,64,32
+Function,"lib.bup.client.Client.__del__(self)",D:\thesis2\real 106 project\bup\lib\bup\client.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,0,3,0,7,1,6,3,3,3,3,,,,,,2,"0.00",,,,
+Function,"lib.bup.client.Client.__init__(self,remote,create)",D:\thesis2\real 106 project\bup\lib\bup\client.py,,,,,,,,,,,,,,,,,,,,,38,0,37,8,36,1,30,1,32,7,31,8,8,9,4,,,,,,3,"0.03",,,,
+Function,"lib.bup.client.Client._make_objcache(self)",D:\thesis2\real 106 project\bup\lib\bup\client.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.client.Client._not_busy(self)",D:\thesis2\real 106 project\bup\lib\bup\client.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.client.Client._suggest_packs(self)",D:\thesis2\real 106 project\bup\lib\bup\client.py,,,,,,,,,,,,,,,,,,,,,31,0,31,5,30,1,80,2,28,5,27,8,8,8,3,,,,,,2,"0.03",,,,
+Function,"lib.bup.client.Client.cat(self,id)",D:\thesis2\real 106 project\bup\lib\bup\client.py,,,,,,,,,,,,,,,,,,,,,12,0,12,3,11,0,6,1,13,3,12,4,4,4,3,,,,,,2,"0.00",,,,
+Function,"lib.bup.client.Client.check_busy(self)",D:\thesis2\real 106 project\bup\lib\bup\client.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,2,0,3,1,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.client.Client.check_ok(self)",D:\thesis2\real 106 project\bup\lib\bup\client.py,,,,,,,,,,,,,,,,,,,,,10,0,10,3,9,0,6,1,9,2,8,4,4,4,4,,,,,,2,"0.00",,,,
+Function,"lib.bup.client.Client.close(self)",D:\thesis2\real 106 project\bup\lib\bup\client.py,,,,,,,,,,,,,,,,,,,,,21,0,21,2,20,0,192,2,21,2,20,9,9,11,3,,,,,,2,"0.00",,,,
+Function,"lib.bup.client.Client.ensure_busy(self)",D:\thesis2\real 106 project\bup\lib\bup\client.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,2,0,3,1,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.client.Client.new_packwriter(self,compression_level)",D:\thesis2\real 106 project\bup\lib\bup\client.py,,,,,,,,,,,,,,,,,,,,,12,0,12,2,10,0,1,0,6,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.client.Client.new_packwriter._set_busy()",D:\thesis2\real 106 project\bup\lib\bup\client.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.client.Client.read_ref(self,refname)",D:\thesis2\real 106 project\bup\lib\bup\client.py,,,,,,,,,,,,,,,,,,,,,10,0,10,2,9,2,2,0,9,2,8,2,2,2,1,,,,,,1,"0.20",,,,
+Function,"lib.bup.client.Client.sync_index(self,name)",D:\thesis2\real 106 project\bup\lib\bup\client.py,,,,,,,,,,,,,,,,,,,,,20,0,19,6,18,1,4,1,19,5,18,3,3,3,1,,,,,,2,"0.05",,,,
+Function,"lib.bup.client.Client.sync_indexes(self)",D:\thesis2\real 106 project\bup\lib\bup\client.py,,,,,,,,,,,,,,,,,,,,,33,1,28,8,27,4,60,2,28,8,27,8,8,10,3,,,,,,2,"0.14",,,,
+Function,"lib.bup.client.Client.update_ref(self,refname,newval,oldval)",D:\thesis2\real 106 project\bup\lib\bup\client.py,,,,,,,,,,,,,,,,,,,,,6,0,6,1,5,0,1,0,4,1,3,1,1,2,1,,,,,,0,"0.00",,,,
+Class,"lib.bup.client.ClientError",D:\thesis2\real 106 project\bup\lib\bup\client.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,12,2,0,2,1,1,0,,,2,1,1,,,,,0,0,0,0,3,0,"0.00",0,0,0,0
+Class,"lib.bup.client.PackWriter_Remote",D:\thesis2\real 106 project\bup\lib\bup\client.py,1,1,2,1,9,0,9,0,1,2,1,0,,,,,6,10,6,6,63,7,56,24,46,2,,,49,20,42,,,,,4,4,4,1,1,1,"0.04",11,11,12,6
+Function,"lib.bup.client.PackWriter_Remote.__init__(self,conn,objcache_maker,suggest_packs,onopen,onclose,ensure_busy,compression_level)",D:\thesis2\real 106 project\bup\lib\bup\client.py,,,,,,,,,,,,,,,,,,,,,14,0,14,13,10,0,1,0,11,10,10,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.client.PackWriter_Remote._end(self)",D:\thesis2\real 106 project\bup\lib\bup\client.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,2,2,0,7,2,6,2,2,3,1,,,,,,1,"0.29",,,,
+Function,"lib.bup.client.PackWriter_Remote._open(self)",D:\thesis2\real 106 project\bup\lib\bup\client.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.client.PackWriter_Remote._raw_write(self,datalist,sha)",D:\thesis2\real 106 project\bup\lib\bup\client.py,,,,,,,,,,,,,,,,,,,,,26,2,24,5,23,0,8,1,20,4,19,4,4,4,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.client.PackWriter_Remote.abort(self)",D:\thesis2\real 106 project\bup\lib\bup\client.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.client.PackWriter_Remote.close(self)",D:\thesis2\real 106 project\bup\lib\bup\client.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,4,1,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.client._raw_write_bwlimit(f,buf,bwcount,bwtime)",D:\thesis2\real 106 project\bup\lib\bup\client.py,,,,,,,,,,,,,,,,,,,,,21,0,14,4,13,8,3,0,13,4,12,3,3,3,1,,,,,,2,"0.57",,,,
+Function,"lib.bup.client.parse_remote(remote)",D:\thesis2\real 106 project\bup\lib\bup\client.py,,,,,,,,,,,,,,,,,,,,,17,0,17,7,16,0,4,1,14,7,13,4,4,5,4,,,,,,2,"0.00",,,,
+Class,"lib.bup.drecurse.OsFile",D:\thesis2\real 106 project\bup\lib\bup\drecurse.py,1,1,1,1,3,0,3,0,0,0,0,0,,,,,4,1,4,4,16,3,13,7,8,0,,,13,7,8,,,,,2,2,2,1,0,1,"0.00",5,5,5,4
+Function,"lib.bup.drecurse.OsFile.__del__(self)",D:\thesis2\real 106 project\bup\lib\bup\drecurse.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,2,0,5,2,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.drecurse.OsFile.__init__(self,path)",D:\thesis2\real 106 project\bup\lib\bup\drecurse.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.drecurse.OsFile.fchdir(self)",D:\thesis2\real 106 project\bup\lib\bup\drecurse.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.drecurse.OsFile.stat(self)",D:\thesis2\real 106 project\bup\lib\bup\drecurse.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.drecurse._dirlist()",D:\thesis2\real 106 project\bup\lib\bup\drecurse.py,,,,,,,,,,,,,,,,,,,,,13,0,13,5,12,0,5,1,13,4,12,4,4,4,3,,,,,,2,"0.00",,,,
+Function,"lib.bup.drecurse._recursive_dirlist(prepend,xdev,bup_dir,excluded_paths,exclude_rxs)",D:\thesis2\real 106 project\bup\lib\bup\drecurse.py,,,,,,,,,,,,,,,,,,,,,31,0,31,7,28,0,79,2,25,4,24,11,11,13,8,,,,,,5,"0.00",,,,
+Function,"lib.bup.drecurse.recursive_dirlist(paths,xdev,bup_dir,excluded_paths,exclude_rxs)",D:\thesis2\real 106 project\bup\lib\bup\drecurse.py,,,,,,,,,,,,,,,,,,,,,42,0,42,9,40,0,39,2,36,7,35,10,10,10,6,,,,,,4,"0.00",,,,
+Class,"lib.bup.git.CatPipe",D:\thesis2\real 106 project\bup\lib\bup\git.py,3,3,4,1,15,0,14,0,0,6,2,0,,,,,7,4,7,7,114,8,100,28,91,6,,,85,27,76,,,,,8,8,9,4,0,3,"0.06",26,26,28,13
+Function,"lib.bup.git.CatPipe.__init__(self,repo_dir)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,13,0,13,6,11,0,3,0,11,6,9,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"lib.bup.git.CatPipe._abort(self)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,6,0,6,1,5,0,2,0,6,1,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.git.CatPipe._fast_get(self,id)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,37,1,36,9,35,0,48,2,34,8,33,7,7,9,4,,,,,,2,"0.00",,,,
+Function,"lib.bup.git.CatPipe._join(self,it)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,18,0,18,5,17,0,8,1,14,5,13,8,8,8,4,,,,,,3,"0.00",,,,
+Function,"lib.bup.git.CatPipe._restart(self)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,8,0,8,1,7,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.git.CatPipe._slow_get(self,id)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,13,1,12,3,11,0,2,0,10,3,9,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.git.CatPipe.join(self,id)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,11,0,6,2,5,5,3,0,6,2,5,3,3,3,1,,,,,,2,"0.83",,,,
+Class,"lib.bup.git.GitError",D:\thesis2\real 106 project\bup\lib\bup\git.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,12,2,0,2,1,1,0,,,2,1,1,,,,,0,0,0,0,3,0,"0.00",0,0,0,0
+Class,"lib.bup.git.PackIdx",D:\thesis2\real 106 project\bup\lib\bup\git.py,2,2,2,1,7,0,6,1,0,2,0,2,,,,,5,0,5,5,40,4,34,14,27,6,,,32,14,25,,,,,4,4,5,4,0,2,"0.18",10,10,13,8
+Function,"lib.bup.git.PackIdx.__init__(self)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.git.PackIdx.__len__(self)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.git.PackIdx._idx_from_hash(self,hash)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,20,0,20,8,18,4,4,1,18,8,16,4,4,4,4,,,,,,2,"0.20",,,,
+Function,"lib.bup.git.PackIdx.exists(self,hash,want_source)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,5,0,4,1,3,1,2,0,4,1,3,2,2,5,1,,,,,,1,"0.25",,,,
+Function,"lib.bup.git.PackIdx.find_offset(self,hash)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,6,0,5,2,4,1,2,0,5,2,4,2,2,2,1,,,,,,1,"0.20",,,,
+Class,"lib.bup.git.PackIdxList",D:\thesis2\real 106 project\bup\lib\bup\git.py,4,4,6,2,17,0,15,2,0,6,2,0,,,,,7,5,7,7,128,8,107,33,96,17,,,98,32,87,,,,,22,22,30,9,0,6,"0.16",33,33,42,20
+Function,"lib.bup.git.PackIdxList.__del__(self)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,2,0,1,0,4,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.git.PackIdxList.__init__(self,dir)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,10,0,10,7,8,1,1,0,10,7,8,1,1,1,1,,,,,,0,"0.10",,,,
+Function,"lib.bup.git.PackIdxList.__iter__(self)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.git.PackIdxList.__len__(self)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.git.PackIdxList.add(self,hash)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"lib.bup.git.PackIdxList.exists(self,hash,want_source)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,22,0,20,5,18,4,8,1,19,5,17,6,6,7,6,,,,,,2,"0.20",,,,
+Function,"lib.bup.git.PackIdxList.refresh(self,skip_midx)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,78,2,66,15,65,11,6673,4,58,14,57,22,22,30,9,,,,,,6,"0.17",,,,
+Class,"lib.bup.git.PackIdxV1",D:\thesis2\real 106 project\bup\lib\bup\git.py,1,1,1,1,4,0,4,0,1,4,0,0,,,,,4,6,4,9,22,3,18,13,13,2,,,17,13,12,,,,,2,2,2,1,1,1,"0.11",5,5,5,4
+Function,"lib.bup.git.PackIdxV1.__init__(self,filename,f)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,10,0,10,8,9,1,1,0,9,8,8,1,1,1,1,,,,,,0,"0.10",,,,
+Function,"lib.bup.git.PackIdxV1.__iter__(self)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.git.PackIdxV1._idx_to_hash(self,idx)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.git.PackIdxV1._ofs_from_idx(self,idx)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"lib.bup.git.PackIdxV2",D:\thesis2\real 106 project\bup\lib\bup\git.py,1,1,1,1,7,0,7,0,1,4,0,0,,,,,4,8,4,9,33,3,29,17,24,2,,,24,17,19,,,,,2,2,2,1,1,1,"0.07",6,6,6,4
+Function,"lib.bup.git.PackIdxV2.__init__(self,filename,f)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,16,0,16,10,15,1,1,0,12,10,11,1,1,1,1,,,,,,0,"0.06",,,,
+Function,"lib.bup.git.PackIdxV2.__iter__(self)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.git.PackIdxV2._idx_to_hash(self,idx)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.git.PackIdxV2._ofs_from_idx(self,idx)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,7,0,7,3,6,0,2,0,6,3,5,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"lib.bup.git.PackWriter",D:\thesis2\real 106 project\bup\lib\bup\git.py,2,2,2,1,10,0,8,0,0,4,1,0,,,,,18,8,18,18,203,26,160,58,141,17,,,159,56,140,,,,,7,7,7,1,0,3,"0.11",42,42,44,18
+Function,"lib.bup.git.PackWriter.__del__(self)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.git.PackWriter.__init__(self,objcache_maker,compression_level)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,9,0,9,9,8,0,1,0,9,9,8,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.git.PackWriter._end(self,run_midx)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,34,5,27,8,26,2,9,1,28,8,27,5,5,5,1,,,,,,1,"0.07",,,,
+Function,"lib.bup.git.PackWriter._new_commit(self,tree,parent,author,adate,committer,cdate,msg)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,9,0,9,2,8,0,16,1,13,2,12,5,5,5,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.git.PackWriter._open(self)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,8,0,8,3,7,0,2,0,8,2,7,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.git.PackWriter._raw_write(self,datalist,sha)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,19,0,14,6,13,5,2,0,14,5,13,2,2,2,1,,,,,,1,"0.36",,,,
+Function,"lib.bup.git.PackWriter._require_objcache(self)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,6,0,6,1,5,0,4,1,5,1,4,3,3,4,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.git.PackWriter._update_idx(self,sha,crc,size)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.git.PackWriter._write(self,sha,type,content)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,11,0,11,2,10,0,8,1,9,2,8,4,4,5,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.git.PackWriter._write_pack_idx_v2(self,filename,idx,packbin)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,40,4,35,11,34,1,32,2,34,11,33,7,7,7,1,,,,,,3,"0.03",,,,
+Function,"lib.bup.git.PackWriter.abort(self)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,8,0,7,2,6,1,2,0,7,2,6,2,2,2,1,,,,,,1,"0.14",,,,
+Function,"lib.bup.git.PackWriter.breakpoint(self)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,5,0,4,1,3,1,1,0,4,1,3,1,1,1,1,,,,,,0,"0.25",,,,
+Function,"lib.bup.git.PackWriter.close(self,run_midx)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"lib.bup.git.PackWriter.exists(self,id,want_source)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"lib.bup.git.PackWriter.maybe_write(self,type,content)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,8,0,7,2,6,1,2,0,7,2,6,2,2,2,1,,,,,,1,"0.14",,,,
+Function,"lib.bup.git.PackWriter.new_blob(self,blob)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"lib.bup.git.PackWriter.new_commit(self,parent,tree,date,msg)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,7,0,6,3,5,1,1,0,4,3,3,1,1,1,1,,,,,,0,"0.17",,,,
+Function,"lib.bup.git.PackWriter.new_tree(self,shalist)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,4,0,3,2,2,1,1,0,3,2,2,1,1,1,1,,,,,,0,"0.33",,,,
+Class,"lib.bup.git._AbortableIter",D:\thesis2\real 106 project\bup\lib\bup\git.py,1,1,1,1,4,0,4,0,0,1,0,0,,,,,5,3,5,5,28,4,23,10,17,1,,,23,9,17,,,,,3,3,3,1,0,2,"0.04",9,9,9,5
+Function,"lib.bup.git._AbortableIter.__del__(self)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.git._AbortableIter.__init__(self,it,onabort)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,4,0,4,4,3,0,1,0,4,4,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.git._AbortableIter.__iter__(self)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.git._AbortableIter.abort(self)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,6,0,5,1,4,1,3,0,5,1,4,3,3,3,1,,,,,,2,"0.20",,,,
+Function,"lib.bup.git._AbortableIter.next(self)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,9,0,9,2,8,0,3,0,9,1,8,3,3,3,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.git._decode_looseobj(buf)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,12,0,12,6,11,0,1,0,12,6,11,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.git._decode_packobj(buf)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,15,0,15,5,14,0,3,0,15,5,14,3,3,3,3,,,,,,2,"0.00",,,,
+Function,"lib.bup.git._encode_looseobj(type,content,compression_level)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.git._encode_packobj(type,content,compression_level)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,20,0,20,5,19,0,15,1,20,5,19,6,6,6,3,,,,,,2,"0.00",,,,
+Function,"lib.bup.git._git_capture(argv)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,1,0,5,3,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.git._git_date(date)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.git._git_wait(cmd,p)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,2,0,4,2,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.git._gitenv(repo_dir)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,4,0,2,0,6,2,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.git._gitenv.env()",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.git._make_objcache()",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.git.all_packdirs()",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.git.auto_midx(objdir)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,20,1,17,4,16,2,16,1,17,3,16,5,5,5,3,,,,,,1,"0.12",,,,
+Function,"lib.bup.git.calc_hash(type,content)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,6,0,5,2,4,1,1,0,5,2,4,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"lib.bup.git.check_repo_or_die(path)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,16,0,12,2,11,4,3,0,10,1,9,3,3,3,3,,,,,,2,"0.33",,,,
+Function,"lib.bup.git.cp(repo_dir)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,11,0,10,3,8,1,4,1,10,3,8,3,3,3,1,,,,,,1,"0.10",,,,
+Function,"lib.bup.git.delete_ref(refname)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,6,0,5,2,4,1,1,0,4,2,3,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"lib.bup.git.demangle_name(name,mode)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,20,3,10,1,9,7,4,1,6,1,5,5,5,5,4,,,,,,1,"0.70",,,,
+Function,"lib.bup.git.get_commit_dates(refs,repo_dir)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,9,0,6,4,5,3,2,0,6,4,5,2,2,2,1,,,,,,1,"0.50",,,,
+Function,"lib.bup.git.get_commit_items(id,cp)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,1,0,5,3,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.git.guess_repo(path)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,14,0,8,2,6,6,6,1,8,2,6,4,4,4,1,,,,,,2,"0.75",,,,
+Function,"lib.bup.git.idxmerge(idxlist,final_progress)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,10,0,9,3,6,1,1,0,7,3,4,1,1,1,1,,,,,,0,"0.11",,,,
+Function,"lib.bup.git.idxmerge.pfinal(count,total)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,3,1,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.git.idxmerge.pfunc(count,total)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.git.init_repo(path)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,21,0,17,4,16,5,4,1,14,4,13,3,3,5,3,,,,,,1,"0.29",,,,
+Function,"lib.bup.git.list_refs(refname,repo_dir,limit_to_heads,limit_to_tags)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,28,1,21,8,19,7,48,2,18,7,17,7,7,7,1,,,,,,2,"0.33",,,,
+Function,"lib.bup.git.mangle_name(name,mode,gitmode)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,13,0,8,1,7,5,3,0,6,1,5,3,3,5,3,,,,,,1,"0.62",,,,
+Function,"lib.bup.git.open_idx(filename)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,19,0,19,4,18,0,6,1,13,4,12,6,6,7,6,,,,,,3,"0.00",,,,
+Function,"lib.bup.git.parse_commit(content)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,16,0,16,3,15,0,2,0,6,3,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.git.parse_tz_offset(s)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,6,0,5,2,4,1,2,0,5,2,4,2,2,2,1,,,,,,1,"0.20",,,,
+Function,"lib.bup.git.read_ref(refname,repo_dir)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,9,0,8,3,7,1,2,0,7,3,6,2,2,2,1,,,,,,1,"0.12",,,,
+Function,"lib.bup.git.repo(sub,repo_dir)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,13,2,9,3,7,2,4,1,9,3,7,3,3,4,1,,,,,,1,"0.22",,,,
+Function,"lib.bup.git.repo_rel(path)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,10,0,10,3,9,0,8,1,10,3,9,4,4,4,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.git.rev_list(ref,count,repo_dir)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,29,2,20,9,19,8,12,1,17,9,16,5,5,5,1,,,,,,2,"0.40",,,,
+Function,"lib.bup.git.rev_parse(committish,repo_dir)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,25,6,14,3,13,5,5,1,14,3,13,5,5,5,5,,,,,,2,"0.36",,,,
+Function,"lib.bup.git.shalist_item_sort_key(ent)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,2,0,6,2,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.git.shorten_hash(s)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.git.tags(repo_dir)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,10,0,9,4,8,2,3,0,9,4,8,3,3,3,1,,,,,,2,"0.22",,,,
+Function,"lib.bup.git.tree_decode(buf)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,12,0,11,6,10,1,2,0,11,6,10,2,2,2,1,,,,,,1,"0.09",,,,
+Function,"lib.bup.git.tree_encode(shalist)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,13,0,12,4,11,2,2,0,12,4,11,2,2,2,1,,,,,,1,"0.17",,,,
+Function,"lib.bup.git.update_ref(refname,newval,oldval,repo_dir)",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,10,0,9,2,8,1,2,0,6,2,5,2,2,3,1,,,,,,1,"0.11",,,,
+Function,"lib.bup.git.ver()",D:\thesis2\real 106 project\bup\lib\bup\git.py,,,,,,,,,,,,,,,,,,,,,24,2,16,6,14,6,6,1,14,6,12,4,4,4,4,,,,,,2,"0.38",,,,
+Class,"lib.bup.hashsplit.Buf",D:\thesis2\real 106 project\bup\lib\bup\hashsplit.py,1,1,1,1,2,0,2,0,0,1,0,0,,,,,6,2,6,6,23,5,18,10,11,0,,,18,10,11,,,,,2,2,2,1,0,1,"0.00",7,7,7,6
+Function,"lib.bup.hashsplit.Buf.__init__(self)",D:\thesis2\real 106 project\bup\lib\bup\hashsplit.py,,,,,,,,,,,,,,,,,,,,,3,0,3,3,2,0,1,0,3,3,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.hashsplit.Buf.eat(self,count)",D:\thesis2\real 106 project\bup\lib\bup\hashsplit.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.hashsplit.Buf.get(self,count)",D:\thesis2\real 106 project\bup\lib\bup\hashsplit.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.hashsplit.Buf.peek(self,count)",D:\thesis2\real 106 project\bup\lib\bup\hashsplit.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.hashsplit.Buf.put(self,s)",D:\thesis2\real 106 project\bup\lib\bup\hashsplit.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.hashsplit.Buf.used(self)",D:\thesis2\real 106 project\bup\lib\bup\hashsplit.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.hashsplit._fadvise_pages_done(fd,first_page,count)",D:\thesis2\real 106 project\bup\lib\bup\hashsplit.py,,,,,,,,,,,,,,,,,,,,,7,0,7,1,6,0,2,0,5,1,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.hashsplit._hashsplit_iter(files,progress)",D:\thesis2\real 106 project\bup\lib\bup\hashsplit.py,,,,,,,,,,,,,,,,,,,,,11,0,11,6,10,0,6,1,11,6,10,4,4,5,1,,,,,,2,"0.00",,,,
+Function,"lib.bup.hashsplit._hashsplit_iter_keep_boundaries(files,progress)",D:\thesis2\real 106 project\bup\lib\bup\hashsplit.py,,,,,,,,,,,,,,,,,,,,,11,0,9,4,7,2,5,1,8,4,6,4,4,4,1,,,,,,2,"0.22",,,,
+Function,"lib.bup.hashsplit._hashsplit_iter_keep_boundaries.prog(filenum,nbytes)",D:\thesis2\real 106 project\bup\lib\bup\hashsplit.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"lib.bup.hashsplit._make_shalist(l)",D:\thesis2\real 106 project\bup\lib\bup\hashsplit.py,,,,,,,,,,,,,,,,,,,,,11,0,11,5,10,0,2,0,11,5,10,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.hashsplit._nonresident_page_regions(status_bytes,incore_mask,max_region_len)",D:\thesis2\real 106 project\bup\lib\bup\hashsplit.py,,,,,,,,,,,,,,,,,,,,,22,0,18,5,17,4,12,1,16,5,15,7,7,9,1,,,,,,3,"0.22",,,,
+Function,"lib.bup.hashsplit._splitbuf(buf,basebits,fanbits)",D:\thesis2\real 106 project\bup\lib\bup\hashsplit.py,,,,,,,,,,,,,,,,,,,,,17,0,16,4,15,2,8,1,14,4,13,5,5,5,3,,,,,,3,"0.12",,,,
+Function,"lib.bup.hashsplit._squish(maketree,stacks,n)",D:\thesis2\real 106 project\bup\lib\bup\hashsplit.py,,,,,,,,,,,,,,,,,,,,,13,0,13,4,12,0,7,1,12,4,11,5,5,6,1,,,,,,2,"0.00",,,,
+Function,"lib.bup.hashsplit._uncache_ours_upto(fd,offset,first_region,remaining_regions)",D:\thesis2\real 106 project\bup\lib\bup\hashsplit.py,,,,,,,,,,,,,,,,,,,,,10,0,6,2,5,4,2,0,6,2,5,2,2,3,1,,,,,,1,"0.67",,,,
+Function,"lib.bup.hashsplit.hashsplit_iter(files,keep_boundaries,progress)",D:\thesis2\real 106 project\bup\lib\bup\hashsplit.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.hashsplit.open_noatime(name)",D:\thesis2\real 106 project\bup\lib\bup\hashsplit.py,,,,,,,,,,,,,,,,,,,,,10,0,10,2,9,0,3,0,10,2,9,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"lib.bup.hashsplit.readfile_iter(files,progress)",D:\thesis2\real 106 project\bup\lib\bup\hashsplit.py,,,,,,,,,,,,,,,,,,,,,23,0,23,6,22,0,37,2,22,6,21,8,8,9,4,,,,,,3,"0.00",,,,
+Function,"lib.bup.hashsplit.split_to_blob_or_tree(makeblob,maketree,files,keep_boundaries,progress)",D:\thesis2\real 106 project\bup\lib\bup\hashsplit.py,,,,,,,,,,,,,,,,,,,,,10,0,10,3,8,0,3,0,6,2,5,3,3,3,3,,,,,,1,"0.00",,,,
+Function,"lib.bup.hashsplit.split_to_blobs(makeblob,files,keep_boundaries,progress)",D:\thesis2\real 106 project\bup\lib\bup\hashsplit.py,,,,,,,,,,,,,,,,,,,,,8,0,8,4,6,0,3,0,8,4,6,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"lib.bup.hashsplit.split_to_shalist(makeblob,maketree,files,keep_boundaries,progress)",D:\thesis2\real 106 project\bup\lib\bup\hashsplit.py,,,,,,,,,,,,,,,,,,,,,18,0,16,6,14,2,4,1,14,5,13,4,4,4,1,,,,,,2,"0.12",,,,
+Class,"lib.bup.helpers.BaseConn",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,1,1,1,1,4,0,3,0,0,3,1,2,,,,,11,1,11,11,62,10,41,16,27,12,,,39,16,25,,,,,5,5,5,5,0,2,"0.29",18,18,18,17
+Function,"lib.bup.helpers.BaseConn.__init__(self,outp)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.helpers.BaseConn._check_ok(self,onempty)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,15,0,13,2,12,3,5,1,10,2,9,5,5,5,5,,,,,,2,"0.23",,,,
+Function,"lib.bup.helpers.BaseConn.check_ok(self)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,5,0,4,2,2,1,1,0,4,2,2,1,1,1,1,,,,,,0,"0.25",,,,
+Function,"lib.bup.helpers.BaseConn.check_ok.onempty(rl)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.helpers.BaseConn.close(self)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,2,0,3,1,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.helpers.BaseConn.drain_and_check_ok(self)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,5,0,4,2,2,1,1,0,4,2,2,1,1,1,1,,,,,,0,"0.25",,,,
+Function,"lib.bup.helpers.BaseConn.drain_and_check_ok.onempty(rl)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.helpers.BaseConn.error(self,s)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"lib.bup.helpers.BaseConn.has_input(self)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"lib.bup.helpers.BaseConn.ok(self)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"lib.bup.helpers.BaseConn.read(self,size)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"lib.bup.helpers.BaseConn.readline(self)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"lib.bup.helpers.BaseConn.write(self,data)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Class,"lib.bup.helpers.Conn",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,1,1,1,1,3,0,3,0,1,0,0,0,,,,,4,1,4,15,18,3,15,6,10,0,,,14,6,9,,,,,2,2,2,1,1,1,"0.00",5,5,5,4
+Function,"lib.bup.helpers.Conn.__init__(self,inp,outp)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.helpers.Conn._read(self,size)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.helpers.Conn._readline(self)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.helpers.Conn.has_input(self)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,7,0,7,1,6,0,2,0,6,1,5,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"lib.bup.helpers.DemuxConn",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,2,2,3,2,9,0,8,0,1,3,0,0,,,,,8,4,8,19,89,7,79,24,68,5,,,77,24,66,,,,,7,7,7,6,1,3,"0.06",28,28,31,21
+Function,"lib.bup.helpers.DemuxConn.__init__(self,infd,outp)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,16,0,14,7,13,3,3,0,14,7,13,3,3,5,3,,,,,,2,"0.21",,,,
+Function,"lib.bup.helpers.DemuxConn._load_buf(self,timeout)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,13,0,13,1,12,0,7,1,13,1,12,6,6,6,6,,,,,,3,"0.00",,,,
+Function,"lib.bup.helpers.DemuxConn._next_packet(self,timeout)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,17,0,17,5,16,0,7,1,17,5,16,7,7,7,3,,,,,,2,"0.00",,,,
+Function,"lib.bup.helpers.DemuxConn._read(self,size)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,9,0,9,3,7,1,1,0,8,3,6,1,1,1,1,,,,,,0,"0.11",,,,
+Function,"lib.bup.helpers.DemuxConn._read.until_size(buf)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,6,0,6,1,5,1,2,0,5,1,4,2,2,2,1,,,,,,1,"0.17",,,,
+Function,"lib.bup.helpers.DemuxConn._read_parts(self,ix_fn)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,13,0,13,3,12,0,5,1,12,3,11,4,4,5,3,,,,,,2,"0.00",,,,
+Function,"lib.bup.helpers.DemuxConn._readline(self)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,5,0,1,0,7,2,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.helpers.DemuxConn._readline.find_eol(buf)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,5,1,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.helpers.DemuxConn.has_input(self)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.helpers.DemuxConn.write(self,data)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"lib.bup.helpers.NotOk",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,12,2,0,2,1,1,0,,,2,1,1,,,,,0,0,0,0,3,0,"0.00",0,0,0,0
+Function,"lib.bup.helpers._argmax_args_size(args)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.helpers._argmax_base(command)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,7,0,7,4,6,0,4,1,7,4,6,3,3,3,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.helpers._cache_key_value(get_value,key,cache)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,17,0,12,2,11,6,3,0,12,2,11,3,3,3,1,,,,,,1,"0.50",,,,
+Function,"lib.bup.helpers._fallback_next(it,default)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,12,1,8,1,7,3,3,0,7,1,6,3,3,3,3,,,,,,2,"0.38",,,,
+Function,"lib.bup.helpers._hard_write(fd,buf)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,12,0,12,4,11,0,7,1,12,3,11,5,5,5,5,,,,,,3,"0.00",,,,
+Function,"lib.bup.helpers._mmap_do(f,sz,flags,prot,close)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,13,0,10,2,9,4,6,1,10,2,9,4,4,4,1,,,,,,1,"0.40",,,,
+Function,"lib.bup.helpers._set_fmincore_chunk_size()",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,7,0,7,4,5,0,2,0,7,4,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.helpers.add_error(e)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,8,1,3,1,2,4,1,0,3,1,2,1,1,1,1,,,,,,0,"1.33",,,,
+Function,"lib.bup.helpers.atof(s)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,6,0,5,1,4,1,2,0,5,1,4,2,2,3,1,,,,,,1,"0.20",,,,
+Function,"lib.bup.helpers.atoi(s)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,6,0,5,1,4,1,2,0,5,1,4,2,2,3,1,,,,,,1,"0.20",,,,
+Function,"lib.bup.helpers.atomically_replaced_file(name,mode,buffering)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,33,6,16,3,15,12,2,0,13,3,12,2,2,2,1,,,,,,2,"0.75",,,,
+Function,"lib.bup.helpers.batchpipe(command,args,preexec_fn,arg_max)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,20,0,15,6,14,5,4,1,15,6,14,4,4,4,4,,,,,,3,"0.33",,,,
+Function,"lib.bup.helpers.checked_reader(fd,n)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,8,0,8,3,7,0,3,0,9,3,8,3,3,3,3,,,,,,2,"0.00",,,,
+Function,"lib.bup.helpers.chunkyreader(f,count)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,20,2,13,2,12,5,6,1,13,2,12,6,6,6,6,,,,,,3,"0.38",,,,
+Function,"lib.bup.helpers.clear_errors()",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,1,0,1,0,3,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.helpers.columnate(l,prefix)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,24,1,19,7,18,4,17,1,19,7,18,6,6,6,1,,,,,,1,"0.21",,,,
+Function,"lib.bup.helpers.count(l)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"lib.bup.helpers.debug1(s)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,2,0,3,1,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.helpers.debug2(s)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,2,0,3,1,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.helpers.detect_fakeroot()",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"lib.bup.helpers.fmincore(fd)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,20,0,18,10,17,2,9,1,18,10,17,5,5,5,1,,,,,,1,"0.11",,,,
+Function,"lib.bup.helpers.format_filesize(size)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,8,0,8,4,7,0,2,0,8,4,7,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.helpers.grafted_path_components(graft_points,path)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,41,2,23,11,22,17,4,1,21,11,20,5,5,5,4,,,,,,3,"0.74",,,,
+Function,"lib.bup.helpers.grp_from_gid(gid)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,9,0,6,3,4,3,2,0,6,3,4,2,2,3,1,,,,,,1,"0.50",,,,
+Function,"lib.bup.helpers.grp_from_name(name)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,9,0,6,3,4,3,2,0,6,3,4,2,2,3,1,,,,,,1,"0.50",,,,
+Function,"lib.bup.helpers.handle_ctrl_c()",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,13,1,8,3,6,4,1,0,7,3,5,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"lib.bup.helpers.handle_ctrl_c.newhook(exctype,value,traceback)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.helpers.hostname()",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,6,0,5,2,3,1,2,0,5,2,3,2,2,2,1,,,,,,1,"0.20",,,,
+Function,"lib.bup.helpers.is_superuser()",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,4,0,2,0,5,2,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.helpers.linereader(f)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,7,0,6,2,5,1,3,0,6,2,5,3,3,3,3,,,,,,2,"0.17",,,,
+Function,"lib.bup.helpers.localtime(time)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.helpers.log(s)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,6,0,5,2,3,1,1,0,5,2,3,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"lib.bup.helpers.merge_iter(iters,pfreq,pfunc,pfinal,key)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,28,1,27,6,26,3,18,1,26,6,25,6,6,6,1,,,,,,2,"0.11",,,,
+Function,"lib.bup.helpers.mkdirp(d,mode)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,16,1,11,2,10,4,4,1,9,1,8,4,4,4,3,,,,,,2,"0.36",,,,
+Function,"lib.bup.helpers.mmap_read(f,sz,close)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"lib.bup.helpers.mmap_readwrite(f,sz,close)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,6,0,3,1,2,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"lib.bup.helpers.mmap_readwrite_private(f,sz,close)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,8,0,3,1,2,5,1,0,2,1,1,1,1,1,1,,,,,,0,"1.67",,,,
+Function,"lib.bup.helpers.mux(p,outfd,outr,errr)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,16,0,16,5,15,0,7,1,16,5,15,7,7,7,7,,,,,,5,"0.00",,,,
+Function,"lib.bup.helpers.parse_date_or_fatal(str,fatal)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,9,0,7,3,6,2,2,0,7,2,6,2,2,2,1,,,,,,1,"0.29",,,,
+Function,"lib.bup.helpers.parse_excludes(options,fatal)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,19,1,16,7,15,2,9,1,15,6,14,7,7,7,5,,,,,,4,"0.12",,,,
+Function,"lib.bup.helpers.parse_num(s)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,27,1,20,5,19,6,12,1,15,5,14,7,7,7,7,,,,,,1,"0.30",,,,
+Function,"lib.bup.helpers.parse_rx_excludes(options,fatal)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,26,1,23,9,22,2,14,1,22,7,21,9,9,9,7,,,,,,4,"0.09",,,,
+Function,"lib.bup.helpers.parse_timestamp(epoch_str)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,18,0,15,4,14,3,6,1,12,4,11,4,4,4,3,,,,,,2,"0.20",,,,
+Function,"lib.bup.helpers.path_components(path)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,17,0,12,5,11,5,6,1,12,5,11,4,4,4,3,,,,,,1,"0.42",,,,
+Function,"lib.bup.helpers.progress(s)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,6,0,5,2,3,1,2,0,5,2,3,2,2,2,1,,,,,,1,"0.20",,,,
+Function,"lib.bup.helpers.pwd_from_name(name)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,9,0,6,3,4,3,2,0,6,3,4,2,2,3,1,,,,,,1,"0.50",,,,
+Function,"lib.bup.helpers.pwd_from_uid(uid)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,9,0,6,3,4,3,2,0,6,3,4,2,2,3,1,,,,,,1,"0.50",,,,
+Function,"lib.bup.helpers.qprogress(s)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,10,1,6,3,4,3,2,0,6,3,4,2,2,2,1,,,,,,1,"0.50",,,,
+Function,"lib.bup.helpers.readpipe(argv,preexec_fn)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,8,0,7,3,6,1,2,0,6,3,5,2,2,2,1,,,,,,1,"0.14",,,,
+Function,"lib.bup.helpers.realpath(p)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,19,1,12,4,11,6,4,1,11,4,10,3,3,4,1,,,,,,1,"0.50",,,,
+Function,"lib.bup.helpers.reprogress()",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,8,1,3,1,2,4,2,0,3,1,2,2,2,3,1,,,,,,1,"1.33",,,,
+Function,"lib.bup.helpers.resource_path(subdir)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,3,0,2,0,5,2,3,2,2,3,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.helpers.should_rx_exclude_path(path,exclude_rxs)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,8,0,7,2,6,1,3,0,6,2,5,3,3,3,3,,,,,,2,"0.14",,,,
+Function,"lib.bup.helpers.slashappend(s)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,6,0,5,1,4,1,2,0,4,1,3,2,2,3,1,,,,,,1,"0.20",,,,
+Function,"lib.bup.helpers.stripped_path_components(path,strip_prefixes)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,22,0,17,8,16,6,9,1,17,8,16,6,6,6,4,,,,,,4,"0.35",,,,
+Function,"lib.bup.helpers.to_py_time(x)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.helpers.to_py_time(x)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.helpers.unlink(f)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,11,1,6,2,5,4,3,0,6,1,5,3,3,3,3,,,,,,2,"0.67",,,,
+Function,"lib.bup.helpers.userfullname()",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,11,0,10,4,8,1,5,1,10,4,8,4,4,5,1,,,,,,2,"0.10",,,,
+Function,"lib.bup.helpers.username()",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,7,0,6,3,4,1,2,0,6,3,4,2,2,3,1,,,,,,1,"0.17",,,,
+Function,"lib.bup.helpers.utc_offset_str(t)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,5,0,4,3,3,1,1,0,4,3,3,1,1,1,1,,,,,,0,"0.25",,,,
+Function,"lib.bup.helpers.utc_offset_str(t)",D:\thesis2\real 106 project\bup\lib\bup\helpers.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"lib.bup.hlinkdb.Error",D:\thesis2\real 106 project\bup\lib\bup\hlinkdb.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,12,2,0,2,1,1,0,,,2,1,1,,,,,0,0,0,0,3,0,"0.00",0,0,0,0
+Class,"lib.bup.hlinkdb.HLinkDB",D:\thesis2\real 106 project\bup\lib\bup\hlinkdb.py,2,2,2,2,10,0,9,0,0,3,1,0,,,,,10,5,10,10,111,9,95,31,84,8,,,88,29,77,,,,,6,6,6,5,0,3,"0.08",28,28,29,20
+Function,"lib.bup.hlinkdb.HLinkDB.__del__(self)",D:\thesis2\real 106 project\bup\lib\bup\hlinkdb.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.hlinkdb.HLinkDB.__init__(self,filename)",D:\thesis2\real 106 project\bup\lib\bup\hlinkdb.py,,,,,,,,,,,,,,,,,,,,,26,0,23,10,22,3,18,1,21,9,20,6,6,6,3,,,,,,2,"0.13",,,,
+Function,"lib.bup.hlinkdb.HLinkDB._del_node_path(self,node,path)",D:\thesis2\real 106 project\bup\lib\bup\hlinkdb.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,2,0,5,2,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.hlinkdb.HLinkDB.abort_save(self)",D:\thesis2\real 106 project\bup\lib\bup\hlinkdb.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.hlinkdb.HLinkDB.add_path(self,path,dev,ino)",D:\thesis2\real 106 project\bup\lib\bup\hlinkdb.py,,,,,,,,,,,,,,,,,,,,,9,0,8,3,7,1,2,0,7,3,6,2,2,3,1,,,,,,1,"0.12",,,,
+Function,"lib.bup.hlinkdb.HLinkDB.change_path(self,path,new_dev,new_ino)",D:\thesis2\real 106 project\bup\lib\bup\hlinkdb.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,2,0,5,2,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.hlinkdb.HLinkDB.commit_save(self)",D:\thesis2\real 106 project\bup\lib\bup\hlinkdb.py,,,,,,,,,,,,,,,,,,,,,16,0,16,2,15,1,8,1,13,1,12,5,5,5,5,,,,,,3,"0.06",,,,
+Function,"lib.bup.hlinkdb.HLinkDB.del_path(self,path)",D:\thesis2\real 106 project\bup\lib\bup\hlinkdb.py,,,,,,,,,,,,,,,,,,,,,6,0,5,2,4,1,2,0,5,2,4,2,2,2,1,,,,,,1,"0.20",,,,
+Function,"lib.bup.hlinkdb.HLinkDB.node_paths(self,dev,ino)",D:\thesis2\real 106 project\bup\lib\bup\hlinkdb.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.hlinkdb.HLinkDB.prepare_save(self)",D:\thesis2\real 106 project\bup\lib\bup\hlinkdb.py,,,,,,,,,,,,,,,,,,,,,25,0,23,5,22,2,8,1,22,5,21,5,5,5,5,,,,,,3,"0.09",,,,
+Class,"lib.bup.index.BlankNewEntry",D:\thesis2\real 106 project\bup\lib\bup\index.py,1,1,1,1,4,0,4,0,1,0,0,0,,,,,1,0,1,19,5,0,5,2,3,0,,,3,2,1,,,,,1,1,1,1,2,0,"0.00",1,1,1,1
+Function,"lib.bup.index.BlankNewEntry.__init__(self,basename,meta_ofs,tmax)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"lib.bup.index.Entry",D:\thesis2\real 106 project\bup\lib\bup\index.py,1,1,1,1,5,0,5,0,0,2,0,2,,,,,17,16,17,17,110,16,93,42,75,1,,,72,41,54,,,,,4,4,7,1,0,1,"0.01",23,23,30,17
+Function,"lib.bup.index.Entry.__cmp__(a,b)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,2,1,1,1,1,3,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index.Entry.__init__(self,basename,name,meta_ofs,tmax)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,7,0,7,7,6,0,1,0,7,7,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index.Entry.__repr__(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,7,0,7,1,6,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index.Entry._fixup(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index.Entry._fixup_time(self,t)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,4,1,3,2,2,3,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.index.Entry.exists(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index.Entry.from_stat(self,st,meta_ofs,tstart,check_device)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,23,0,22,12,21,1,2,0,17,12,16,4,4,7,1,,,,,,1,"0.05",,,,
+Function,"lib.bup.index.Entry.invalidate(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index.Entry.is_deleted(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index.Entry.is_fake(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index.Entry.is_real(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index.Entry.is_valid(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index.Entry.packed(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,17,0,17,5,16,0,2,0,9,4,8,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.index.Entry.set_deleted(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,2,0,3,1,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.index.Entry.sha_missing(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,2,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index.Entry.validate(self,gitmode,sha)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,7,0,7,3,6,0,1,0,7,3,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index.Entry.write(self,f)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"lib.bup.index.Error",D:\thesis2\real 106 project\bup\lib\bup\index.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,12,2,0,2,1,1,0,,,2,1,1,,,,,0,0,0,0,3,0,"0.00",0,0,0,0
+Class,"lib.bup.index.ExistingEntry",D:\thesis2\real 106 project\bup\lib\bup\index.py,2,2,4,1,9,0,9,0,1,3,0,0,,,,,6,17,6,23,66,5,57,24,50,4,,,50,21,43,,,,,7,7,14,1,1,4,"0.07",15,15,29,6
+Function,"lib.bup.index.ExistingEntry.__init__(self,parent,basename,name,m,ofs)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,13,0,13,8,12,0,1,0,9,5,8,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index.ExistingEntry.__iter__(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index.ExistingEntry.iter(self,name,wantrecurse)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,24,0,24,8,23,0,18,1,21,8,20,7,7,14,1,,,,,,4,"0.00",,,,
+Function,"lib.bup.index.ExistingEntry.repack(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,5,1,4,2,2,3,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.index.ExistingEntry.set_sha_missing(self,val)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,8,0,8,4,7,0,2,0,8,4,7,2,2,8,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.index.ExistingEntry.unset_sha_missing(self,flag)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"lib.bup.index.Level",D:\thesis2\real 106 project\bup\lib\bup\index.py,2,2,2,1,8,0,7,1,0,0,0,0,,,,,2,4,2,2,18,1,15,9,12,2,,,15,9,12,,,,,4,4,4,1,0,2,"0.13",5,5,5,2
+Function,"lib.bup.index.Level.__init__(self,ename,parent)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,5,0,5,5,4,0,1,0,5,5,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index.Level.write(self,f)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,11,0,9,3,8,2,5,1,9,3,8,4,4,4,1,,,,,,2,"0.22",,,,
+Class,"lib.bup.index.MetaStoreReader",D:\thesis2\real 106 project\bup\lib\bup\index.py,1,1,1,1,3,0,3,0,0,1,1,0,,,,,4,1,4,4,16,3,13,6,8,0,,,13,6,8,,,,,2,2,2,1,0,1,"0.00",5,5,5,4
+Function,"lib.bup.index.MetaStoreReader.__del__(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index.MetaStoreReader.__init__(self,filename)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index.MetaStoreReader.close(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.index.MetaStoreReader.metadata_at(self,ofs)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"lib.bup.index.MetaStoreWriter",D:\thesis2\real 106 project\bup\lib\bup\index.py,2,2,2,1,10,0,9,0,0,2,1,0,,,,,4,3,4,4,48,4,39,14,34,5,,,38,14,33,,,,,4,4,4,3,0,3,"0.13",9,9,9,6
+Function,"lib.bup.index.MetaStoreWriter.__del__(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"lib.bup.index.MetaStoreWriter.__init__(self,filename)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,25,0,23,8,22,2,4,1,22,8,21,4,4,4,3,,,,,,3,"0.09",,,,
+Function,"lib.bup.index.MetaStoreWriter.close(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.index.MetaStoreWriter.store(self,metadata)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,9,0,9,3,8,0,2,0,9,3,8,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"lib.bup.index.NewEntry",D:\thesis2\real 106 project\bup\lib\bup\index.py,1,1,1,1,11,0,11,0,1,0,0,1,,,,,1,13,1,18,12,0,12,8,7,0,,,5,3,3,,,,,1,1,1,1,1,0,"0.00",1,1,1,1
+Function,"lib.bup.index.NewEntry.__init__(self,basename,name,tmax,dev,ino,nlink,ctime,mtime,atime,size,mode,gitmode,sha,flags,meta_ofs,children_ofs,children_n)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,11,0,11,7,7,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"lib.bup.index.Reader",D:\thesis2\real 106 project\bup\lib\bup\index.py,2,2,2,1,6,0,6,0,0,5,1,0,,,,,10,4,10,10,79,9,70,28,59,0,,,65,27,54,,,,,6,6,7,3,0,3,"0.00",24,24,28,12
+Function,"lib.bup.index.Reader.__del__(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index.Reader.__init__(self,filename)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,25,0,25,9,24,0,12,1,21,8,20,6,6,6,3,,,,,,3,"0.00",,,,
+Function,"lib.bup.index.Reader.__iter__(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index.Reader.__len__(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index.Reader.close(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,6,0,6,1,5,0,2,0,6,1,5,2,2,3,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.index.Reader.exists(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index.Reader.filter(self,prefixes,wantrecurse)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,6,0,6,4,5,0,3,0,6,4,5,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"lib.bup.index.Reader.forward_iter(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,10,0,10,4,9,0,2,0,10,4,9,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.index.Reader.iter(self,name,wantrecurse)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,11,0,11,4,10,0,9,1,10,4,9,5,5,7,1,,,,,,2,"0.00",,,,
+Function,"lib.bup.index.Reader.save(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,2,0,3,1,2,2,2,3,1,,,,,,1,"0.00",,,,
+Class,"lib.bup.index.Writer",D:\thesis2\real 106 project\bup\lib\bup\index.py,1,1,1,1,8,0,8,0,0,6,6,0,,,,,9,9,9,9,88,8,79,29,69,1,,,70,29,60,,,,,3,3,3,1,0,2,"0.01",16,16,17,9
+Function,"lib.bup.index.Writer.__del__(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index.Writer.__init__(self,filename,metastore,tmax)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,13,0,13,10,12,0,1,0,13,10,12,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index.Writer._add(self,ename,entry)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,7,0,7,1,6,0,2,0,5,1,4,2,2,3,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.index.Writer.abort(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,2,0,6,2,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.index.Writer.add(self,name,st,meta_ofs,hashgen)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,28,0,27,9,26,1,4,1,21,9,20,3,3,3,1,,,,,,1,"0.04",,,,
+Function,"lib.bup.index.Writer.add_ixentry(self,e)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index.Writer.close(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,2,0,7,2,6,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.index.Writer.flush(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,10,0,10,1,9,0,3,0,9,1,8,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"lib.bup.index.Writer.new_reader(self)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index._golevel(level,f,ename,newentry,metastore,tmax)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,25,3,19,3,18,3,8,1,18,3,17,4,4,7,1,,,,,,1,"0.16",,,,
+Function,"lib.bup.index.merge(iters)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,3,0,1,0,6,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index.merge.pfinal(count,total)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index.merge.pfunc(count,total)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.index.pathsplit(p)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,7,0,6,2,5,2,2,0,6,2,5,2,2,2,1,,,,,,1,"0.33",,,,
+Function,"lib.bup.index.reduce_paths(paths)",D:\thesis2\real 106 project\bup\lib\bup\index.py,,,,,,,,,,,,,,,,,,,,,24,1,23,7,22,1,12,1,22,6,21,6,6,9,3,,,,,,3,"0.04",,,,
+Function,"lib.bup.ls.do_ls(args,pwd,default,onabort,spec_prefix)",D:\thesis2\real 106 project\bup\lib\bup\ls.py,,,,,,,,,,,,,,,,,,,,,73,8,57,16,55,8,528,3,43,15,41,16,16,20,1,,,,,,5,"0.14",,,,
+Function,"lib.bup.ls.do_ls.output_node_info(node,name)",D:\thesis2\real 106 project\bup\lib\bup\ls.py,,,,,,,,,,,,,,,,,,,,,11,0,11,2,10,0,2,0,5,2,4,2,2,3,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.ls.node_info(n,name,show_hash,long_fmt,classification,numeric_ids,human_readable)",D:\thesis2\real 106 project\bup\lib\bup\ls.py,,,,,,,,,,,,,,,,,,,,,35,0,32,9,26,3,10,1,22,4,21,6,6,8,1,,,,,,3,"0.09",,,,
+Class,"lib.bup.metadata.ApplyError",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,12,3,0,2,1,1,1,,,2,1,1,,,,,0,0,0,0,3,0,"0.50",0,0,0,0
+Class,"lib.bup.metadata.Metadata",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,4,4,4,2,13,0,12,1,0,10,1,0,,,,,39,16,40,40,630,63,508,120,465,67,,,401,107,359,,,,,24,24,30,16,0,4,"0.13",166,166,196,110
+Function,"lib.bup.metadata.Metadata.__init__(self)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,11,0,10,2,9,1,1,0,10,2,9,1,1,1,1,,,,,,0,"0.10",,,,
+Function,"lib.bup.metadata.Metadata.__repr__(self)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,26,0,26,3,25,0,256,2,20,3,19,9,9,9,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.metadata.Metadata._add_common(self,path,st)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,24,0,20,10,19,4,8,1,19,10,18,4,4,5,1,,,,,,1,"0.20",,,,
+Function,"lib.bup.metadata.Metadata._add_hardlink_target(self,target)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.metadata.Metadata._add_linux_attr(self,path,st)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,16,0,15,4,14,1,7,1,14,3,13,7,7,8,6,,,,,,3,"0.07",,,,
+Function,"lib.bup.metadata.Metadata._add_linux_xattr(self,path,st)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,7,0,7,3,6,0,4,1,8,2,7,4,4,4,4,,,,,,2,"0.00",,,,
+Function,"lib.bup.metadata.Metadata._add_posix1e_acl(self,path,st)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,24,0,24,10,23,1,17,1,24,9,23,9,9,9,5,,,,,,4,"0.04",,,,
+Function,"lib.bup.metadata.Metadata._add_symlink_target(self,path,st)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,3,0,6,2,5,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"lib.bup.metadata.Metadata._apply_common_rec(self,path,restore_numeric_ids)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,68,4,61,7,60,6,4320,4,52,6,51,24,24,30,11,,,,,,4,"0.10",,,,
+Function,"lib.bup.metadata.Metadata._apply_linux_attr_rec(self,path,restore_numeric_ids)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,16,0,16,2,15,0,5,1,12,1,11,5,5,5,5,,,,,,3,"0.00",,,,
+Function,"lib.bup.metadata.Metadata._apply_linux_xattr_rec(self,path,restore_numeric_ids)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,35,0,35,4,34,0,63,2,29,3,28,13,13,15,12,,,,,,4,"0.00",,,,
+Function,"lib.bup.metadata.Metadata._apply_posix1e_acl_rec(self,path,restore_numeric_ids)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,37,1,33,5,31,3,9,1,27,4,25,7,7,7,1,,,,,,3,"0.09",,,,
+Function,"lib.bup.metadata.Metadata._apply_posix1e_acl_rec.apply_acl(acl_rep,kind)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,19,0,16,3,15,3,9,1,13,2,12,5,5,6,5,,,,,,2,"0.19",,,,
+Function,"lib.bup.metadata.Metadata._create_via_common_rec(self,path,create_symlinks)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,65,2,57,7,56,6,330,3,46,6,45,18,18,19,16,,,,,,4,"0.11",,,,
+Function,"lib.bup.metadata.Metadata._encode_common(self)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,20,0,20,5,19,0,2,0,8,5,7,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.metadata.Metadata._encode_hardlink_target(self)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.metadata.Metadata._encode_linux_attr(self)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.metadata.Metadata._encode_linux_xattr(self)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,8,0,8,3,7,0,3,0,7,3,6,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"lib.bup.metadata.Metadata._encode_path(self)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.metadata.Metadata._encode_posix1e_acl(self)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,9,0,8,2,7,1,3,0,7,2,6,3,3,3,1,,,,,,2,"0.12",,,,
+Function,"lib.bup.metadata.Metadata._encode_symlink_target(self)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.metadata.Metadata._load_common_rec(self,port,legacy_format)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,20,0,20,6,19,0,2,0,9,4,8,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.metadata.Metadata._load_hardlink_target_rec(self,port)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.metadata.Metadata._load_linux_attr_rec(self,port)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.metadata.Metadata._load_linux_xattr_rec(self,file)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,9,0,9,7,8,0,2,0,9,7,8,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.metadata.Metadata._load_path_rec(self,port)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.metadata.Metadata._load_posix1e_acl_rec(self,port)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,2,0,5,2,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.metadata.Metadata._load_symlink_target_rec(self,port)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.metadata.Metadata._recognized_file_type(self)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,8,0,8,1,7,0,1,0,2,1,1,1,1,7,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.metadata.Metadata._same_common(self,other)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,9,0,8,1,7,1,1,0,2,1,1,1,1,7,1,,,,,,0,"0.12",,,,
+Function,"lib.bup.metadata.Metadata._same_hardlink_target(self,other)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"lib.bup.metadata.Metadata._same_linux_attr(self,other)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"lib.bup.metadata.Metadata._same_linux_xattr(self,other)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"lib.bup.metadata.Metadata._same_posix1e_acl(self,other)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"lib.bup.metadata.Metadata.apply_to_path(self,path,restore_numeric_ids)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,19,0,18,4,17,1,16,1,14,3,13,6,6,6,3,,,,,,2,"0.06",,,,
+Function,"lib.bup.metadata.Metadata.create_path(self,path,create_symlinks)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.metadata.Metadata.encode(self,include_path)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.metadata.Metadata.isdir(self)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.metadata.Metadata.read(port)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,35,0,30,3,29,9,13,1,21,3,20,13,13,13,12,,,,,,3,"0.30",,,,
+Function,"lib.bup.metadata.Metadata.same_file(self,other)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,10,0,6,1,5,4,1,0,2,1,1,1,1,5,1,,,,,,0,"0.67",,,,
+Function,"lib.bup.metadata.Metadata.write(self,port,include_path)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,15,0,15,3,14,0,3,0,8,3,7,3,3,5,1,,,,,,2,"0.00",,,,
+Class,"lib.bup.metadata._ArchiveIterator",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,1,1,1,1,3,0,3,0,0,3,1,0,,,,,3,1,3,3,12,2,10,5,6,0,,,10,5,6,,,,,2,2,2,1,0,1,"0.00",4,4,4,3
+Function,"lib.bup.metadata._ArchiveIterator.__init__(self,file)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.metadata._ArchiveIterator.__iter__(self)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.metadata._ArchiveIterator.next(self)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,5,1,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.metadata._clean_up_extract_path(p)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,0,3,0,6,2,5,3,3,3,3,,,,,,1,"0.00",,,,
+Function,"lib.bup.metadata._clean_up_path_for_archive(p)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,40,9,23,3,22,8,128,2,23,3,22,8,8,9,1,,,,,,1,"0.35",,,,
+Function,"lib.bup.metadata._risky_path(p)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,10,0,10,1,9,0,5,1,10,1,9,5,5,5,5,,,,,,1,"0.00",,,,
+Function,"lib.bup.metadata._set_up_path(meta,create_symlinks)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,10,0,8,2,7,2,3,0,7,2,6,3,3,3,1,,,,,,2,"0.25",,,,
+Function,"lib.bup.metadata.check_linux_file_attr_api()",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,5,0,3,0,7,2,5,3,3,4,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.metadata.detailed_str(meta,fields)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,60,1,52,6,51,7,497664,6,47,6,46,22,22,30,1,,,,,,2,"0.13",,,,
+Function,"lib.bup.metadata.display_archive(file)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,19,0,19,3,18,0,9,1,15,3,14,9,9,9,6,,,,,,3,"0.00",,,,
+Function,"lib.bup.metadata.extract(file,restore_numeric_ids,create_symlinks)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,30,0,26,5,25,5,45,2,23,5,22,9,9,9,3,,,,,,4,"0.19",,,,
+Function,"lib.bup.metadata.finish_extract(file,restore_numeric_ids)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,23,0,22,5,21,2,27,1,19,5,18,8,8,8,3,,,,,,4,"0.09",,,,
+Function,"lib.bup.metadata.from_path(path,statinfo,archive_path,save_symlinks,hardlink_target)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,14,0,14,4,12,0,2,0,13,3,12,2,2,3,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.metadata.save_tree(output_file,paths,recurse,write_paths,save_symlinks,xdev)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,38,2,35,12,30,1,24,1,27,8,26,9,9,9,1,,,,,,4,"0.03",,,,
+Function,"lib.bup.metadata.start_extract(file,create_symlinks)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,12,0,12,3,11,1,9,1,11,3,10,5,5,5,3,,,,,,2,"0.08",,,,
+Function,"lib.bup.metadata.summary_str(meta,numeric_ids,classification,human_readable)",D:\thesis2\real 106 project\bup\lib\bup\metadata.py,,,,,,,,,,,,,,,,,,,,,51,3,46,9,44,2,364,3,33,8,32,13,13,17,1,,,,,,3,"0.04",,,,
+Class,"lib.bup.midx.PackMidx",D:\thesis2\real 106 project\bup\lib\bup\midx.py,1,1,2,1,8,0,7,0,0,4,0,0,,,,,11,12,11,11,107,11,86,38,73,14,,,81,38,68,,,,,5,5,7,4,0,2,"0.16",20,20,22,17
+Function,"lib.bup.midx.PackMidx.__del__(self)",D:\thesis2\real 106 project\bup\lib\bup\midx.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.midx.PackMidx.__init__(self,filename)",D:\thesis2\real 106 project\bup\lib\bup\midx.py,,,,,,,,,,,,,,,,,,,,,31,1,30,14,29,2,4,1,28,14,27,4,4,4,4,,,,,,1,"0.07",,,,
+Function,"lib.bup.midx.PackMidx.__iter__(self)",D:\thesis2\real 106 project\bup\lib\bup\midx.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.midx.PackMidx.__len__(self)",D:\thesis2\real 106 project\bup\lib\bup\midx.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.midx.PackMidx._fanget(self,i)",D:\thesis2\real 106 project\bup\lib\bup\midx.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.midx.PackMidx._get(self,i)",D:\thesis2\real 106 project\bup\lib\bup\midx.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.midx.PackMidx._get_idx_i(self,i)",D:\thesis2\real 106 project\bup\lib\bup\midx.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.midx.PackMidx._get_idxname(self,i)",D:\thesis2\real 106 project\bup\lib\bup\midx.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.midx.PackMidx._init_failed(self)",D:\thesis2\real 106 project\bup\lib\bup\midx.py,,,,,,,,,,,,,,,,,,,,,6,0,6,1,5,0,1,0,6,1,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.midx.PackMidx.close(self)",D:\thesis2\real 106 project\bup\lib\bup\midx.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.midx.PackMidx.exists(self,hash,want_source)",D:\thesis2\real 106 project\bup\lib\bup\midx.py,,,,,,,,,,,,,,,,,,,,,33,0,28,11,26,7,8,1,25,11,23,5,5,7,4,,,,,,2,"0.25",,,,
+Class,"lib.bup.options.OptDict",D:\thesis2\real 106 project\bup\lib\bup\options.py,1,1,1,1,3,0,3,0,1,0,0,0,,,,,5,2,5,5,25,5,16,12,10,4,,,16,12,10,,,,,1,1,1,1,1,0,"0.25",5,5,5,5
+Function,"lib.bup.options.OptDict.__getattr__(self,k)",D:\thesis2\real 106 project\bup\lib\bup\options.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.options.OptDict.__getitem__(self,k)",D:\thesis2\real 106 project\bup\lib\bup\options.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.options.OptDict.__init__(self,aliases)",D:\thesis2\real 106 project\bup\lib\bup\options.py,,,,,,,,,,,,,,,,,,,,,3,0,3,3,2,0,1,0,3,3,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.options.OptDict.__setitem__(self,k,v)",D:\thesis2\real 106 project\bup\lib\bup\options.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.options.OptDict._unalias(self,k)",D:\thesis2\real 106 project\bup\lib\bup\options.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"lib.bup.options.Options",D:\thesis2\real 106 project\bup\lib\bup\options.py,4,4,7,1,24,0,22,2,0,2,1,0,,,,,5,9,5,5,139,10,113,40,106,23,,,100,38,94,,,,,12,12,20,3,0,4,"0.20",24,24,36,7
+Function,"lib.bup.options.Options.__init__(self,optspec,optfunc,onabort)",D:\thesis2\real 106 project\bup\lib\bup\options.py,,,,,,,,,,,,,,,,,,,,,11,0,11,11,9,1,1,0,10,10,9,1,1,1,1,,,,,,0,"0.09",,,,
+Function,"lib.bup.options.Options._gen_usage(self)",D:\thesis2\real 106 project\bup\lib\bup\options.py,,,,,,,,,,,,,,,,,,,,,65,0,65,19,64,2,105,2,56,19,55,12,12,20,3,,,,,,4,"0.03",,,,
+Function,"lib.bup.options.Options.fatal(self,msg)",D:\thesis2\real 106 project\bup\lib\bup\options.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"lib.bup.options.Options.parse(self,args)",D:\thesis2\real 106 project\bup\lib\bup\options.py,,,,,,,,,,,,,,,,,,,,,35,4,26,6,25,9,28,1,23,5,22,7,7,9,1,,,,,,3,"0.35",,,,
+Function,"lib.bup.options.Options.usage(self,msg)",D:\thesis2\real 106 project\bup\lib\bup\options.py,,,,,,,,,,,,,,,,,,,,,8,0,7,2,6,1,4,1,7,2,6,3,3,5,1,,,,,,1,"0.14",,,,
+Function,"lib.bup.options._atoi(v)",D:\thesis2\real 106 project\bup\lib\bup\options.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,5,1,4,2,2,3,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.options._default_onabort(msg)",D:\thesis2\real 106 project\bup\lib\bup\options.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.options._intify(v)",D:\thesis2\real 106 project\bup\lib\bup\options.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,0,3,0,8,2,7,3,3,4,3,,,,,,2,"0.00",,,,
+Function,"lib.bup.options._invert(v,invert)",D:\thesis2\real 106 project\bup\lib\bup\options.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.options._remove_negative_kv(k,v)",D:\thesis2\real 106 project\bup\lib\bup\options.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,3,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.options._tty_width()",D:\thesis2\real 106 project\bup\lib\bup\options.py,,,,,,,,,,,,,,,,,,,,,9,0,9,4,7,0,2,0,9,4,7,2,2,4,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.path.exe()",D:\thesis2\real 106 project\bup\lib\bup\path.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,2,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.path.exedir()",D:\thesis2\real 106 project\bup\lib\bup\path.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.path.exefile()",D:\thesis2\real 106 project\bup\lib\bup\path.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"lib.bup.shquote.QuoteError",D:\thesis2\real 106 project\bup\lib\bup\shquote.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,12,2,0,2,1,1,0,,,2,1,1,,,,,0,0,0,0,3,0,"0.00",0,0,0,0
+Function,"lib.bup.shquote._quotesplit(line)",D:\thesis2\real 106 project\bup\lib\bup\shquote.py,,,,,,,,,,,,,,,,,,,,,36,0,33,7,32,4,36,2,28,7,27,11,11,18,1,,,,,,3,"0.12",,,,
+Function,"lib.bup.shquote.quotesplit(line)",D:\thesis2\real 106 project\bup\lib\bup\shquote.py,,,,,,,,,,,,,,,,,,,,,20,2,8,3,7,10,3,0,8,3,7,3,3,3,1,,,,,,2,"1.25",,,,
+Function,"lib.bup.shquote.quotify(qtype,word,terminate)",D:\thesis2\real 106 project\bup\lib\bup\shquote.py,,,,,,,,,,,,,,,,,,,,,20,2,7,1,6,11,3,0,5,1,4,3,3,7,3,,,,,,1,"1.57",,,,
+Function,"lib.bup.shquote.quotify_list(words)",D:\thesis2\real 106 project\bup\lib\bup\shquote.py,,,,,,,,,,,,,,,,,,,,,21,2,10,4,9,9,4,1,9,4,8,4,4,6,1,,,,,,2,"0.90",,,,
+Function,"lib.bup.shquote.unfinished_word(line)",D:\thesis2\real 106 project\bup\lib\bup\shquote.py,,,,,,,,,,,,,,,,,,,,,23,2,12,3,11,9,4,1,11,3,10,4,4,4,3,,,,,,2,"0.75",,,,
+Function,"lib.bup.shquote.what_to_add(qtype,origword,newword,terminate)",D:\thesis2\real 106 project\bup\lib\bup\shquote.py,,,,,,,,,,,,,,,,,,,,,24,3,6,2,5,15,2,0,5,2,4,2,2,2,1,,,,,,1,"2.50",,,,
+Function,"lib.bup.ssh.connect(rhost,port,subcmd,stderr)",D:\thesis2\real 106 project\bup\lib\bup\ssh.py,,,,,,,,,,,,,,,,,,,,,36,0,26,8,24,10,6,1,20,8,18,4,4,4,1,,,,,,2,"0.38",,,,
+Function,"lib.bup.ssh.connect.setup()",D:\thesis2\real 106 project\bup\lib\bup\ssh.py,,,,,,,,,,,,,,,,,,,,,6,0,5,1,4,1,2,0,4,1,3,2,2,2,1,,,,,,1,"0.20",,,,
+Package,"lib.bup.t",,2,2,2,1,24,1,24,0,,,,,0,,1,12,,,,,340,36,301,110,276,4,,,272,94,255,,,,,6,6,6,1,,2,,30,30,30,13
+Package,"lib.bup.t",,2,2,3,1,16,0,17,0,,,,,0,,1,14,,,,,301,30,262,72,231,10,,,250,61,228,,,,,7,7,10,4,,2,,42,42,47,25
+Package,"lib.bup.t",,1,1,1,1,21,2,18,0,,,,,0,,1,2,,,,,47,7,40,7,35,0,,,26,5,22,,,,,1,1,1,1,,0,,2,2,2,2
+Package,"lib.bup.t",,2,2,3,1,20,0,24,0,,,,,0,,1,4,,,,,118,11,107,35,95,0,,,103,31,95,,,,,3,3,5,1,,1,,11,11,17,5
+Package,"lib.bup.t",,1,1,1,1,13,0,13,0,,,,,0,,1,10,,,,,181,22,156,46,126,3,,,118,33,98,,,,,4,4,4,1,,2,,18,18,18,11
+Package,"lib.bup.t",,1,1,1,1,1,0,0,0,,,,,0,,1,0,,,,,2,0,2,1,1,0,,,2,1,1,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"lib.bup.t",,1,1,1,1,21,0,18,0,,,,,0,,1,3,,,,,103,14,88,15,80,2,,,47,12,42,,,,,1,1,1,1,,0,,4,4,4,4
+Package,"lib.bup.t",,2,2,2,1,20,1,20,0,,,,,0,,1,7,,,,,187,22,159,67,142,6,,,139,63,126,,,,,3,3,6,3,,2,,17,17,21,10
+Package,"lib.bup.t",,5,5,5,2,26,2,45,3,,,,,1,,1,1,,,,,59,4,52,21,45,3,,,49,19,43,,,,,9,9,10,3,,3,,10,10,11,4
+Package,"lib.bup.t",,1,1,1,1,17,0,15,0,,,,,0,,1,7,,,,,130,17,108,32,94,5,,,99,28,89,,,,,3,3,3,3,,2,,9,9,9,9
+Package,"lib.bup.t",,1,1,1,1,7,0,7,0,,,,,0,,1,8,,,,,85,16,69,29,54,0,,,53,25,42,,,,,3,3,3,1,,1,,14,14,14,8
+Package,"lib.bup.t",,2,2,2,1,20,1,21,0,,,,,0,,1,6,,,,,164,22,141,59,126,2,,,125,49,115,,,,,3,3,4,1,,1,,15,15,16,7
+Function,"lib.bup.t.tbloom.test_bloom()",D:\thesis2\real 106 project\bup\lib\bup\t\tbloom.py,,,,,,,,,,,,,,,,,,,,,50,2,45,15,43,3,84,2,43,14,41,9,9,10,3,,,,,,3,"0.07",,,,
+Class,"lib.bup.t.tbloom.test_bloom.Idx",D:\thesis2\real 106 project\bup\lib\bup\t\tbloom.py,0,0,0,0,0,0,0,0,0,0,0,0,,,,,0,0,0,0,2,0,2,1,1,0,,,2,1,1,,,,,0,0,0,0,0,0,"0.00",0,0,0,0
+Function,"lib.bup.t.tclient.randbytes(sz)",D:\thesis2\real 106 project\bup\lib\bup\t\tclient.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,2,0,5,3,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.t.tclient.test_dumb_client_server()",D:\thesis2\real 106 project\bup\lib\bup\t\tclient.py,,,,,,,,,,,,,,,,,,,,,22,2,20,7,19,0,2,0,20,6,19,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.t.tclient.test_midx_refreshing()",D:\thesis2\real 106 project\bup\lib\bup\t\tclient.py,,,,,,,,,,,,,,,,,,,,,39,3,36,16,35,1,2,0,35,14,34,2,2,2,1,,,,,,1,"0.03",,,,
+Function,"lib.bup.t.tclient.test_multiple_suggestions()",D:\thesis2\real 106 project\bup\lib\bup\t\tclient.py,,,,,,,,,,,,,,,,,,,,,34,2,31,9,30,1,4,1,30,8,29,3,3,4,1,,,,,,1,"0.03",,,,
+Function,"lib.bup.t.tclient.test_remote_parsing()",D:\thesis2\real 106 project\bup\lib\bup\t\tclient.py,,,,,,,,,,,,,,,,,,,,,18,0,18,3,17,0,4,1,9,3,8,3,3,3,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.t.tclient.test_server_split_with_indexes()",D:\thesis2\real 106 project\bup\lib\bup\t\tclient.py,,,,,,,,,,,,,,,,,,,,,18,2,16,7,15,0,2,0,16,6,15,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.t.tgit.exc(cmd)",D:\thesis2\real 106 project\bup\lib\bup\t\tgit.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.t.tgit.exo(cmd)",D:\thesis2\real 106 project\bup\lib\bup\t\tgit.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.t.tgit.test_check_repo_or_die()",D:\thesis2\real 106 project\bup\lib\bup\t\tgit.py,,,,,,,,,,,,,,,,,,,,,32,2,30,6,29,1,8,1,29,4,28,4,4,4,1,,,,,,2,"0.03",,,,
+Function,"lib.bup.t.tgit.test_commit_parsing()",D:\thesis2\real 106 project\bup\lib\bup\t\tgit.py,,,,,,,,,,,,,,,,,,,,,72,0,72,23,69,0,4,1,67,22,64,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"lib.bup.t.tgit.test_commit_parsing.restore_env_var(name,val)",D:\thesis2\real 106 project\bup\lib\bup\t\tgit.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.t.tgit.test_commit_parsing.showval(commit,val)",D:\thesis2\real 106 project\bup\lib\bup\t\tgit.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.t.tgit.test_list_refs()",D:\thesis2\real 106 project\bup\lib\bup\t\tgit.py,,,,,,,,,,,,,,,,,,,,,50,0,50,11,49,0,2,0,39,9,38,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.t.tgit.test_long_index()",D:\thesis2\real 106 project\bup\lib\bup\t\tgit.py,,,,,,,,,,,,,,,,,,,,,30,0,30,12,29,0,2,0,26,11,25,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.t.tgit.test_pack_name_lookup()",D:\thesis2\real 106 project\bup\lib\bup\t\tgit.py,,,,,,,,,,,,,,,,,,,,,26,3,23,12,22,0,18,1,23,11,22,6,6,6,1,,,,,,2,"0.00",,,,
+Function,"lib.bup.t.tgit.testencode()",D:\thesis2\real 106 project\bup\lib\bup\t\tgit.py,,,,,,,,,,,,,,,,,,,,,14,0,14,8,13,0,1,0,14,8,13,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.t.tgit.testmangle()",D:\thesis2\real 106 project\bup\lib\bup\t\tgit.py,,,,,,,,,,,,,,,,,,,,,27,3,21,6,20,3,1,0,21,6,20,1,1,1,1,,,,,,0,"0.14",,,,
+Function,"lib.bup.t.tgit.testpacks()",D:\thesis2\real 106 project\bup\lib\bup\t\tgit.py,,,,,,,,,,,,,,,,,,,,,44,7,37,12,36,0,16,1,37,11,36,5,5,5,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.t.thashsplit.nr_regions(x,max_count)",D:\thesis2\real 106 project\bup\lib\bup\t\thashsplit.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.t.thashsplit.test_fanout_behaviour()",D:\thesis2\real 106 project\bup\lib\bup\t\thashsplit.py,,,,,,,,,,,,,,,,,,,,,44,5,35,16,33,4,1,0,32,16,30,1,1,1,1,,,,,,0,"0.11",,,,
+Function,"lib.bup.t.thashsplit.test_fanout_behaviour.splitbuf(buf)",D:\thesis2\real 106 project\bup\lib\bup\t\thashsplit.py,,,,,,,,,,,,,,,,,,,,,7,0,7,3,6,0,3,0,7,3,6,3,3,3,3,,,,,,2,"0.00",,,,
+Function,"lib.bup.t.thashsplit.test_nonresident_page_regions()",D:\thesis2\real 106 project\bup\lib\bup\t\thashsplit.py,,,,,,,,,,,,,,,,,,,,,31,0,30,1,29,1,1,0,29,1,28,1,1,1,1,,,,,,0,"0.03",,,,
+Function,"lib.bup.t.thashsplit.test_rolling_sums()",D:\thesis2\real 106 project\bup\lib\bup\t\thashsplit.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.t.thashsplit.test_uncache_ours_upto()",D:\thesis2\real 106 project\bup\lib\bup\t\thashsplit.py,,,,,,,,,,,,,,,,,,,,,33,1,32,6,30,0,1,0,31,6,29,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.t.thashsplit.test_uncache_ours_upto.mock_fadvise_pages_done(f,ofs,len)",D:\thesis2\real 106 project\bup\lib\bup\t\thashsplit.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.t.thelpers.test_atomically_replaced_file()",D:\thesis2\real 106 project\bup\lib\bup\t\thelpers.py,,,,,,,,,,,,,,,,,,,,,26,4,22,5,21,0,4,1,22,4,21,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"lib.bup.t.thelpers.test_batchpipe()",D:\thesis2\real 106 project\bup\lib\bup\t\thelpers.py,,,,,,,,,,,,,,,,,,,,,24,0,22,7,21,2,8,1,21,6,20,4,4,4,1,,,,,,1,"0.09",,,,
+Function,"lib.bup.t.thelpers.test_detect_fakeroot()",D:\thesis2\real 106 project\bup\lib\bup\t\thelpers.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.t.thelpers.test_fallback_next()",D:\thesis2\real 106 project\bup\lib\bup\t\thelpers.py,,,,,,,,,,,,,,,,,,,,,8,0,8,3,6,0,1,0,7,3,5,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.t.thelpers.test_grafted_path_components()",D:\thesis2\real 106 project\bup\lib\bup\t\thelpers.py,,,,,,,,,,,,,,,,,,,,,27,0,27,1,26,0,1,0,8,1,7,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.t.thelpers.test_next()",D:\thesis2\real 106 project\bup\lib\bup\t\thelpers.py,,,,,,,,,,,,,,,,,,,,,13,0,12,2,11,1,1,0,12,2,11,1,1,1,1,,,,,,0,"0.08",,,,
+Function,"lib.bup.t.thelpers.test_parse_num()",D:\thesis2\real 106 project\bup\lib\bup\t\thelpers.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,0,1,0,8,2,7,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.t.thelpers.test_path_components()",D:\thesis2\real 106 project\bup\lib\bup\t\thelpers.py,,,,,,,,,,,,,,,,,,,,,7,0,7,1,6,0,1,0,6,1,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.t.thelpers.test_readpipe()",D:\thesis2\real 106 project\bup\lib\bup\t\thelpers.py,,,,,,,,,,,,,,,,,,,,,7,0,7,3,6,0,2,0,7,2,6,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.t.thelpers.test_stripped_path_components()",D:\thesis2\real 106 project\bup\lib\bup\t\thelpers.py,,,,,,,,,,,,,,,,,,,,,17,0,17,1,16,0,1,0,12,1,11,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.t.tindex.dump(m)",D:\thesis2\real 106 project\bup\lib\bup\t\tindex.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,2,0,3,2,2,2,2,6,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.t.tindex.eget(l,ename)",D:\thesis2\real 106 project\bup\lib\bup\t\tindex.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,3,0,4,2,3,3,3,3,3,,,,,,2,"0.00",,,,
+Function,"lib.bup.t.tindex.fake_validate(l)",D:\thesis2\real 106 project\bup\lib\bup\t\tindex.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,3,0,5,3,4,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"lib.bup.t.tindex.index_basic()",D:\thesis2\real 106 project\bup\lib\bup\t\tindex.py,,,,,,,,,,,,,,,,,,,,,10,0,10,3,9,0,1,0,8,3,7,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.t.tindex.index_dirty()",D:\thesis2\real 106 project\bup\lib\bup\t\tindex.py,,,,,,,,,,,,,,,,,,,,,92,9,80,27,79,3,4,1,69,27,68,3,3,3,1,,,,,,2,"0.04",,,,
+Function,"lib.bup.t.tindex.index_negative_timestamps()",D:\thesis2\real 106 project\bup\lib\bup\t\tindex.py,,,,,,,,,,,,,,,,,,,,,26,2,21,9,20,3,2,0,21,9,20,2,2,2,1,,,,,,1,"0.14",,,,
+Function,"lib.bup.t.tindex.index_writer()",D:\thesis2\real 106 project\bup\lib\bup\t\tindex.py,,,,,,,,,,,,,,,,,,,,,21,0,21,9,20,0,2,0,20,9,19,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.t.tmetadata.POSIX1E_ACL_SUPPORT_IS_MISSING()",D:\thesis2\real 106 project\bup\lib\bup\t\tmetadata.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.t.tmetadata._first_err()",D:\thesis2\real 106 project\bup\lib\bup\t\tmetadata.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.t.tmetadata._linux_attr_supported(path)",D:\thesis2\real 106 project\bup\lib\bup\t\tmetadata.py,,,,,,,,,,,,,,,,,,,,,12,0,11,2,10,1,4,1,10,1,9,4,4,4,4,,,,,,2,"0.09",,,,
+Function,"lib.bup.t.tmetadata.cleanup_testfs()",D:\thesis2\real 106 project\bup\lib\bup\t\tmetadata.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.t.tmetadata.ex(cmd)",D:\thesis2\real 106 project\bup\lib\bup\t\tmetadata.py,,,,,,,,,,,,,,,,,,,,,14,0,14,4,13,0,4,1,13,3,12,4,4,4,4,,,,,,2,"0.00",,,,
+Function,"lib.bup.t.tmetadata.setup_testfs()",D:\thesis2\real 106 project\bup\lib\bup\t\tmetadata.py,,,,,,,,,,,,,,,,,,,,,15,0,13,1,12,2,2,0,13,1,12,2,2,2,1,,,,,,1,"0.15",,,,
+Function,"lib.bup.t.tmetadata.test_apply_to_path_restricted_access()",D:\thesis2\real 106 project\bup\lib\bup\t\tmetadata.py,,,,,,,,,,,,,,,,,,,,,29,0,29,8,28,1,18,1,29,8,28,7,7,10,3,,,,,,1,"0.03",,,,
+Function,"lib.bup.t.tmetadata.test_clean_up_archive_path()",D:\thesis2\real 106 project\bup\lib\bup\t\tmetadata.py,,,,,,,,,,,,,,,,,,,,,19,0,19,2,18,0,1,0,19,2,18,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.t.tmetadata.test_clean_up_extract_path()",D:\thesis2\real 106 project\bup\lib\bup\t\tmetadata.py,,,,,,,,,,,,,,,,,,,,,21,0,21,2,20,0,1,0,21,2,20,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.t.tmetadata.test_from_path_error()",D:\thesis2\real 106 project\bup\lib\bup\t\tmetadata.py,,,,,,,,,,,,,,,,,,,,,20,0,20,6,19,0,5,1,20,6,19,4,4,5,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.t.tmetadata.test_handling_of_incorrect_existing_linux_xattrs()",D:\thesis2\real 106 project\bup\lib\bup\t\tmetadata.py,,,,,,,,,,,,,,,,,,,,,27,0,27,4,26,0,4,1,27,4,26,4,4,5,3,,,,,,1,"0.00",,,,
+Function,"lib.bup.t.tmetadata.test_metadata_method()",D:\thesis2\real 106 project\bup\lib\bup\t\tmetadata.py,,,,,,,,,,,,,,,,,,,,,33,0,33,11,32,0,8,1,32,11,31,5,5,5,1,,,,,,2,"0.00",,,,
+Function,"lib.bup.t.tmetadata.test_restore_over_existing_target()",D:\thesis2\real 106 project\bup\lib\bup\t\tmetadata.py,,,,,,,,,,,,,,,,,,,,,32,0,26,6,25,6,2,0,26,6,25,2,2,2,1,,,,,,1,"0.23",,,,
+Function,"lib.bup.t.tmetadata.test_risky_path()",D:\thesis2\real 106 project\bup\lib\bup\t\tmetadata.py,,,,,,,,,,,,,,,,,,,,,17,0,17,2,16,0,1,0,17,2,16,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.t.toptions.test_invalid_optspec()",D:\thesis2\real 106 project\bup\lib\bup\t\toptions.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,4,1,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.t.toptions.test_optdict()",D:\thesis2\real 106 project\bup\lib\bup\t\toptions.py,,,,,,,,,,,,,,,,,,,,,24,0,24,2,23,0,1,0,13,2,12,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.t.toptions.test_options()",D:\thesis2\real 106 project\bup\lib\bup\t\toptions.py,,,,,,,,,,,,,,,,,,,,,29,1,28,3,27,1,1,0,24,3,23,1,1,1,1,,,,,,0,"0.04",,,,
+Function,"lib.bup.t.tshquote.qst(line)",D:\thesis2\real 106 project\bup\lib\bup\t\tshquote.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.t.tshquote.test_shquote()",D:\thesis2\real 106 project\bup\lib\bup\t\tshquote.py,,,,,,,,,,,,,,,,,,,,,40,5,35,2,34,0,1,0,22,2,21,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.t.tvint.encode_and_decode_bvec(x)",D:\thesis2\real 106 project\bup\lib\bup\t\tvint.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.t.tvint.encode_and_decode_vint(x)",D:\thesis2\real 106 project\bup\lib\bup\t\tvint.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.t.tvint.encode_and_decode_vuint(x)",D:\thesis2\real 106 project\bup\lib\bup\t\tvint.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.t.tvint.pack_and_unpack(types,values)",D:\thesis2\real 106 project\bup\lib\bup\t\tvint.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.t.tvint.test_bvec()",D:\thesis2\real 106 project\bup\lib\bup\t\tvint.py,,,,,,,,,,,,,,,,,,,,,13,0,13,5,12,0,4,1,13,5,12,3,3,3,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.t.tvint.test_pack_and_unpack()",D:\thesis2\real 106 project\bup\lib\bup\t\tvint.py,,,,,,,,,,,,,,,,,,,,,22,0,22,4,21,0,2,0,10,4,9,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.t.tvint.test_vint()",D:\thesis2\real 106 project\bup\lib\bup\t\tvint.py,,,,,,,,,,,,,,,,,,,,,7,0,7,3,6,0,4,1,7,3,6,3,3,3,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.t.tvint.test_vuint()",D:\thesis2\real 106 project\bup\lib\bup\t\tvint.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,2,0,5,2,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.t.txstat.test_bup_lutimes()",D:\thesis2\real 106 project\bup\lib\bup\t\txstat.py,,,,,,,,,,,,,,,,,,,,,18,0,18,8,17,0,3,0,18,8,17,3,3,5,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.t.txstat.test_bup_utimensat()",D:\thesis2\real 106 project\bup\lib\bup\t\txstat.py,,,,,,,,,,,,,,,,,,,,,18,0,18,8,17,0,3,0,18,8,17,3,3,5,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.t.txstat.test_bup_utimes()",D:\thesis2\real 106 project\bup\lib\bup\t\txstat.py,,,,,,,,,,,,,,,,,,,,,18,0,18,8,17,0,3,0,18,8,17,3,3,5,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.t.txstat.test_fstime()",D:\thesis2\real 106 project\bup\lib\bup\t\txstat.py,,,,,,,,,,,,,,,,,,,,,47,3,44,2,43,0,1,0,44,2,43,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"lib.bup.vfs.BranchList",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,1,1,1,1,11,1,10,0,1,2,1,0,,,,,2,1,2,22,30,4,22,12,19,4,,,21,12,18,,,,,2,2,2,1,2,1,"0.18",3,3,3,2
+Function,"lib.bup.vfs.BranchList.__init__(self,parent,name,hash,repo_dir)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.vfs.BranchList._mksubs(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,21,2,19,10,18,0,2,0,18,10,17,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"lib.bup.vfs.CommitDir",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,3,3,3,2,11,1,9,1,1,1,1,0,,,,,2,1,2,22,34,4,19,12,16,11,,,19,12,16,,,,,5,5,5,4,2,3,"0.58",6,6,6,5
+Function,"lib.bup.vfs.CommitDir.__init__(self,parent,name,repo_dir)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.vfs.CommitDir._mksubs(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,21,2,16,10,15,3,6,1,16,10,15,5,5,5,4,,,,,,3,"0.19",,,,
+Class,"lib.bup.vfs.CommitList",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,1,1,1,1,4,0,4,0,1,1,1,0,,,,,2,2,2,22,12,1,10,7,7,1,,,10,7,7,,,,,2,2,2,1,2,1,"0.10",3,3,3,2
+Function,"lib.bup.vfs.CommitList.__init__(self,parent,name,repo_dir)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.vfs.CommitList._mksubs(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,6,0,6,4,5,0,2,0,6,4,5,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"lib.bup.vfs.Dir",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,3,3,3,1,9,0,8,0,1,3,2,0,,,,,6,3,6,26,63,6,53,17,46,4,,,48,17,41,,,,,7,7,9,3,2,2,"0.08",18,18,21,10
+Function,"lib.bup.vfs.Dir.__init__(self,args,kwargs)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.vfs.Dir._mksubs(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,26,0,26,6,25,0,26,1,21,6,20,7,7,9,3,,,,,,2,"0.00",,,,
+Function,"lib.bup.vfs.Dir._populate_metadata(self,force)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,13,0,13,5,12,0,9,1,13,5,12,6,6,7,3,,,,,,2,"0.00",,,,
+Function,"lib.bup.vfs.Dir.metadata(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"lib.bup.vfs.Dir.metadata_file(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,5,0,4,1,3,1,2,0,4,1,3,2,2,2,1,,,,,,1,"0.25",,,,
+Function,"lib.bup.vfs.Dir.release(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Class,"lib.bup.vfs.FakeSymlink",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,1,1,1,1,3,0,3,0,1,0,0,0,,,,,2,1,2,30,10,1,7,4,4,2,,,6,4,3,,,,,1,1,1,1,4,0,"0.29",2,2,2,2
+Function,"lib.bup.vfs.FakeSymlink.__init__(self,parent,name,toname,repo_dir)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.vfs.FakeSymlink.readlink(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"lib.bup.vfs.File",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,2,2,2,1,9,0,7,2,1,1,1,1,,,,,3,4,3,23,33,2,24,8,20,7,,,19,7,15,,,,,3,3,3,1,2,2,"0.29",6,6,6,3
+Function,"lib.bup.vfs.File.__init__(self,parent,name,mode,hash,bupmode,repo_dir)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,5,0,5,4,4,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.vfs.File.open(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,12,0,7,2,6,5,2,0,5,1,4,2,2,2,1,,,,,,1,"0.71",,,,
+Function,"lib.bup.vfs.File.size(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,12,0,11,1,10,1,3,0,8,1,7,3,3,3,1,,,,,,2,"0.09",,,,
+Class,"lib.bup.vfs.NoSuchFile",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,12,3,0,2,1,1,1,,,2,1,1,,,,,0,0,0,0,4,0,"0.50",0,0,0,0
+Class,"lib.bup.vfs.Node",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,1,1,2,1,6,0,5,1,1,3,3,7,,,,,20,10,20,20,150,22,104,34,83,25,,,92,34,71,,,,,6,6,7,6,1,2,"0.24",39,39,48,25
+Function,"lib.bup.vfs.Node.__cmp__(a,b)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,4,1,3,2,2,7,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.vfs.Node.__init__(self,parent,name,mode,hash,repo_dir)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,9,0,9,9,8,0,1,0,9,9,8,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.vfs.Node.__iter__(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.vfs.Node.__repr__(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,1,0,2,1,1,2,2,2,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.vfs.Node._lresolve(self,parts)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,15,0,14,2,13,1,6,1,11,2,10,6,6,6,6,,,,,,2,"0.07",,,,
+Function,"lib.bup.vfs.Node._mksubs(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.vfs.Node._populate_metadata(self,force)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"lib.bup.vfs.Node.fs_top(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,9,1,5,1,4,3,2,0,4,1,3,2,2,3,1,,,,,,1,"0.60",,,,
+Function,"lib.bup.vfs.Node.fullname(self,stop_at)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,8,0,7,1,6,2,2,0,5,1,4,2,2,3,1,,,,,,1,"0.29",,,,
+Function,"lib.bup.vfs.Node.lresolve(self,path,stay_inside_fs)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,20,1,14,3,13,5,7,1,13,3,12,5,5,6,1,,,,,,2,"0.36",,,,
+Function,"lib.bup.vfs.Node.metadata(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,5,0,4,1,3,1,2,0,4,1,3,2,2,3,1,,,,,,1,"0.25",,,,
+Function,"lib.bup.vfs.Node.nlinks(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"lib.bup.vfs.Node.open(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"lib.bup.vfs.Node.release(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"lib.bup.vfs.Node.resolve(self,path)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"lib.bup.vfs.Node.size(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"lib.bup.vfs.Node.sub(self,name)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,8,0,7,2,6,1,4,1,7,2,6,3,3,3,1,,,,,,1,"0.14",,,,
+Function,"lib.bup.vfs.Node.subs(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,5,0,4,1,3,1,2,0,4,1,3,2,2,2,1,,,,,,1,"0.25",,,,
+Function,"lib.bup.vfs.Node.top(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,6,0,5,1,4,1,2,0,4,1,3,2,2,2,1,,,,,,1,"0.20",,,,
+Function,"lib.bup.vfs.Node.try_resolve(self,path)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,11,1,7,2,6,3,2,0,7,2,6,2,2,2,1,,,,,,1,"0.43",,,,
+Class,"lib.bup.vfs.NodeError",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,0,0,0,0,0,0,0,0,1,0,0,4,,,,,0,0,0,12,3,0,2,1,1,1,,,2,1,1,,,,,0,0,0,0,3,0,"0.50",0,0,0,0
+Class,"lib.bup.vfs.NotDir",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,12,3,0,2,1,1,1,,,2,1,1,,,,,0,0,0,0,4,0,"0.50",0,0,0,0
+Class,"lib.bup.vfs.NotFile",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,12,3,0,2,1,1,1,,,2,1,1,,,,,0,0,0,0,4,0,"0.50",0,0,0,0
+Class,"lib.bup.vfs.RefList",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,1,1,1,1,10,1,9,0,1,3,3,0,,,,,2,1,2,22,31,6,19,10,16,6,,,15,10,12,,,,,2,2,2,1,2,1,"0.32",3,3,3,2
+Function,"lib.bup.vfs.RefList.__init__(self,parent,repo_dir)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.vfs.RefList._mksubs(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,19,3,16,8,15,0,2,0,12,8,11,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"lib.bup.vfs.Symlink",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,1,1,1,1,6,0,4,1,1,2,2,1,,,,,5,0,5,28,38,5,25,7,18,8,,,20,7,13,,,,,3,3,3,3,3,2,"0.32",7,7,7,7
+Function,"lib.bup.vfs.Symlink.__init__(self,parent,name,hash,bupmode,repo_dir)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.vfs.Symlink._lresolve(self,parts)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.vfs.Symlink.dereference(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,21,1,15,2,13,5,4,1,11,2,9,3,3,3,3,,,,,,2,"0.33",,,,
+Function,"lib.bup.vfs.Symlink.readlink(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"lib.bup.vfs.Symlink.size(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"lib.bup.vfs.TagDir",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,2,2,2,1,7,0,7,0,1,1,1,0,,,,,2,1,2,22,17,1,15,9,12,1,,,14,9,11,,,,,3,3,3,1,2,2,"0.07",4,4,4,2
+Function,"lib.bup.vfs.TagDir.__init__(self,parent,name,repo_dir)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.vfs.TagDir._mksubs(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,12,0,12,7,11,0,3,0,11,7,10,3,3,3,1,,,,,,2,"0.00",,,,
+Class,"lib.bup.vfs.TooManySymlinks",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,12,3,0,2,1,1,1,,,2,1,1,,,,,0,0,0,0,4,0,"0.50",0,0,0,0
+Class,"lib.bup.vfs._ChunkReader",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,4,4,4,2,12,0,12,0,0,1,0,0,,,,,2,3,2,2,27,1,26,8,23,0,,,25,8,22,,,,,6,6,7,3,0,3,"0.00",8,8,9,4
+Function,"lib.bup.vfs._ChunkReader.__init__(self,hash,isdir,startofs,repo_dir)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,8,0,8,4,7,0,2,0,7,4,6,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.vfs._ChunkReader.next(self,size)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,17,0,17,3,16,0,13,1,17,3,16,6,6,7,3,,,,,,3,"0.00",,,,
+Class,"lib.bup.vfs._FileReader",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,2,2,2,1,6,0,6,0,1,1,1,0,,,,,5,6,5,5,36,4,32,13,26,1,,,29,13,23,,,,,4,4,5,1,1,1,"0.03",10,10,11,5
+Function,"lib.bup.vfs._FileReader.__init__(self,hash,size,isdir,repo_dir)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,7,0,7,7,6,0,1,0,7,7,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.vfs._FileReader.close(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.vfs._FileReader.read(self,count)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,13,0,13,2,12,1,8,1,12,2,11,4,4,5,1,,,,,,1,"0.08",,,,
+Function,"lib.bup.vfs._FileReader.seek(self,ofs)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,7,0,7,1,6,0,3,0,5,1,4,3,3,3,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.vfs._FileReader.tell(self)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.vfs._chunk_len(hash,repo_dir)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.vfs._chunkiter(hash,startofs,repo_dir)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,21,2,17,7,16,2,21,1,16,7,15,7,7,8,3,,,,,,3,"0.12",,,,
+Function,"lib.bup.vfs._last_chunk_info(hash,repo_dir)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,9,0,9,4,8,0,2,0,8,4,7,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.vfs._total_size(hash,repo_dir)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.vfs._tree_decode(hash,repo_dir)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.vfs._treeget(hash,repo_dir)",D:\thesis2\real 106 project\bup\lib\bup\vfs.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.vint.pack(types,args)",D:\thesis2\real 106 project\bup\lib\bup\vint.py,,,,,,,,,,,,,,,,,,,,,14,0,14,3,13,0,10,1,11,3,10,6,6,6,6,,,,,,2,"0.00",,,,
+Function,"lib.bup.vint.read_bvec(port)",D:\thesis2\real 106 project\bup\lib\bup\vint.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.vint.read_vint(port)",D:\thesis2\real 106 project\bup\lib\bup\vint.py,,,,,,,,,,,,,,,,,,,,,33,0,32,6,31,1,44,2,28,6,27,9,9,9,8,,,,,,2,"0.03",,,,
+Function,"lib.bup.vint.read_vuint(port)",D:\thesis2\real 106 project\bup\lib\bup\vint.py,,,,,,,,,,,,,,,,,,,,,16,0,16,5,15,0,6,1,15,5,14,4,4,4,4,,,,,,2,"0.00",,,,
+Function,"lib.bup.vint.skip_bvec(port)",D:\thesis2\real 106 project\bup\lib\bup\vint.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.vint.unpack(types,data)",D:\thesis2\real 106 project\bup\lib\bup\vint.py,,,,,,,,,,,,,,,,,,,,,13,0,13,4,12,0,5,1,10,4,9,5,5,5,5,,,,,,2,"0.00",,,,
+Function,"lib.bup.vint.write_bvec(port,x)",D:\thesis2\real 106 project\bup\lib\bup\vint.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.vint.write_vint(port,x)",D:\thesis2\real 106 project\bup\lib\bup\vint.py,,,,,,,,,,,,,,,,,,,,,17,0,15,2,14,2,5,1,12,2,11,4,4,4,1,,,,,,2,"0.13",,,,
+Function,"lib.bup.vint.write_vuint(port,x)",D:\thesis2\real 106 project\bup\lib\bup\vint.py,,,,,,,,,,,,,,,,,,,,,13,0,13,2,12,0,5,1,10,2,9,5,5,5,1,,,,,,3,"0.00",,,,
+Function,"lib.bup.xstat._fix_cygwin_id(id)",D:\thesis2\real 106 project\bup\lib\bup\xstat.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,5,1,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.xstat.classification_str(mode,include_exec)",D:\thesis2\real 106 project\bup\lib\bup\xstat.py,,,,,,,,,,,,,,,,,,,,,18,0,18,1,17,0,7,1,10,1,9,7,7,8,7,,,,,,2,"0.00",,,,
+Function,"lib.bup.xstat.fstat(path)",D:\thesis2\real 106 project\bup\lib\bup\xstat.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.xstat.fstime_floor_secs(ns)",D:\thesis2\real 106 project\bup\lib\bup\xstat.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"lib.bup.xstat.fstime_to_sec_str(fstime)",D:\thesis2\real 106 project\bup\lib\bup\xstat.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,0,4,1,7,2,6,3,3,3,1,,,,,,1,"0.00",,,,
+Function,"lib.bup.xstat.fstime_to_timespec(ns)",D:\thesis2\real 106 project\bup\lib\bup\xstat.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.xstat.lstat(path)",D:\thesis2\real 106 project\bup\lib\bup\xstat.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.xstat.lutime(path,times)",D:\thesis2\real 106 project\bup\lib\bup\xstat.py,,,,,,,,,,,,,,,,,,,,,6,0,5,3,4,1,1,0,4,3,3,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"lib.bup.xstat.lutime(path,times)",D:\thesis2\real 106 project\bup\lib\bup\xstat.py,,,,,,,,,,,,,,,,,,,,,5,0,4,3,3,1,1,0,4,3,3,1,1,1,1,,,,,,0,"0.25",,,,
+Function,"lib.bup.xstat.mode_str(mode)",D:\thesis2\real 106 project\bup\lib\bup\xstat.py,,,,,,,,,,,,,,,,,,,,,30,1,28,2,27,1,8,1,21,2,20,17,17,17,1,,,,,,1,"0.04",,,,
+Function,"lib.bup.xstat.nsecs_to_timespec(ns)",D:\thesis2\real 106 project\bup\lib\bup\xstat.py,,,,,,,,,,,,,,,,,,,,,5,0,3,1,2,2,1,0,3,1,2,1,1,1,1,,,,,,0,"0.67",,,,
+Function,"lib.bup.xstat.nsecs_to_timeval(ns)",D:\thesis2\real 106 project\bup\lib\bup\xstat.py,,,,,,,,,,,,,,,,,,,,,5,0,3,1,2,2,1,0,3,1,2,1,1,1,1,,,,,,0,"0.67",,,,
+Function,"lib.bup.xstat.stat(path)",D:\thesis2\real 106 project\bup\lib\bup\xstat.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"lib.bup.xstat.stat_result",D:\thesis2\real 106 project\bup\lib\bup\xstat.py,1,1,1,1,19,0,19,0,0,0,0,0,,,,,0,0,1,1,21,0,21,4,18,0,,,10,3,8,,,,,1,1,1,1,0,0,"0.00",1,1,1,1
+Function,"lib.bup.xstat.stat_result.from_xstat_rep(st)",D:\thesis2\real 106 project\bup\lib\bup\xstat.py,,,,,,,,,,,,,,,,,,,,,19,0,19,2,18,0,1,0,9,2,8,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.xstat.timespec_to_nsecs(ts_s,ts_ns)",D:\thesis2\real 106 project\bup\lib\bup\xstat.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"lib.bup.xstat.utime(path,times)",D:\thesis2\real 106 project\bup\lib\bup\xstat.py,,,,,,,,,,,,,,,,,,,,,5,0,4,3,3,1,1,0,4,3,3,1,1,1,1,,,,,,0,"0.25",,,,
+Function,"lib.bup.xstat.utime(path,times)",D:\thesis2\real 106 project\bup\lib\bup\xstat.py,,,,,,,,,,,,,,,,,,,,,5,0,4,3,3,1,1,0,4,3,3,1,1,1,1,,,,,,0,"0.25",,,,
+Function,"main.force_tty()",D:\thesis2\real 106 project\bup\main.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,1,2,0,5,2,4,2,2,7,1,,,,,,1,"0.20",,,,
+Function,"main.handler(signum,frame)",D:\thesis2\real 106 project\bup\main.py,,,,,,,,,,,,,,,,,,,,,13,0,12,2,11,2,3,0,11,2,10,3,3,4,1,,,,,,1,"0.17",,,,
+Function,"main.subpath(s)",D:\thesis2\real 106 project\bup\main.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,2,0,5,2,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"main.usage(msg)",D:\thesis2\real 106 project\bup\main.py,,,,,,,,,,,,,,,,,,,,,36,3,33,6,32,0,16,1,20,6,19,6,6,7,1,,,,,,3,"0.00",,,,
+Function,"margin-cmd.do_predict(ix)",D:\thesis2\real 106 project\bup\cmd\margin-cmd.py,,,,,,,,,,,,,,,,,,,,,11,0,11,7,10,0,2,0,11,7,10,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"memtest-cmd.foreverit(mi)",D:\thesis2\real 106 project\bup\cmd\memtest-cmd.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,3,0,4,2,3,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"memtest-cmd.linux_memstat()",D:\thesis2\real 106 project\bup\cmd\memtest-cmd.py,,,,,,,,,,,,,,,,,,,,,21,0,16,8,14,5,5,1,16,7,14,5,5,5,1,,,,,,2,"0.31",,,,
+Function,"memtest-cmd.report(count)",D:\thesis2\real 106 project\bup\cmd\memtest-cmd.py,,,,,,,,,,,,,,,,,,,,,26,1,24,8,22,1,4,1,19,8,17,3,3,3,1,,,,,,1,"0.04",,,,
+Function,"meta-cmd.open_input(name)",D:\thesis2\real 106 project\bup\cmd\meta-cmd.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,3,1,,,,,,1,"0.00",,,,
+Function,"meta-cmd.open_output(name)",D:\thesis2\real 106 project\bup\cmd\meta-cmd.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,3,1,,,,,,1,"0.00",,,,
+Function,"midx-cmd._do_midx(outdir,outfilename,infilenames,prefixstr)",D:\thesis2\real 106 project\bup\cmd\midx-cmd.py,,,,,,,,,,,,,,,,,,,,,78,10,67,18,65,2,120,2,58,17,56,10,10,22,1,,,,,,3,"0.03",,,,
+Function,"midx-cmd._group(l,count)",D:\thesis2\real 106 project\bup\cmd\midx-cmd.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"midx-cmd.check_midx(name)",D:\thesis2\real 106 project\bup\cmd\midx-cmd.py,,,,,,,,,,,,,,,,,,,,,32,0,32,8,31,0,51,2,24,7,23,10,10,10,1,,,,,,3,"0.00",,,,
+Function,"midx-cmd.do_midx(outdir,outfilename,infilenames,prefixstr)",D:\thesis2\real 106 project\bup\cmd\midx-cmd.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,2,0,4,2,3,2,2,3,1,,,,,,1,"0.00",,,,
+Function,"midx-cmd.do_midx_dir(path,outfilename)",D:\thesis2\real 106 project\bup\cmd\midx-cmd.py,,,,,,,,,,,,,,,,,,,,,58,7,48,14,47,4,720,3,45,14,44,14,14,19,1,,,,,,4,"0.08",,,,
+Function,"midx-cmd.do_midx_group(outdir,outfilename,infiles)",D:\thesis2\real 106 project\bup\cmd\midx-cmd.py,,,,,,,,,,,,,,,,,,,,,9,0,9,5,8,0,5,1,9,5,8,4,4,4,1,,,,,,2,"0.00",,,,
+Function,"midx-cmd.max_files()",D:\thesis2\real 106 project\bup\cmd\midx-cmd.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,2,2,0,6,2,5,2,2,2,1,,,,,,1,"0.29",,,,
+Function,"mux-cmd.close_fds()",D:\thesis2\real 106 project\bup\cmd\mux-cmd.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"on-cmd.SigException",D:\thesis2\real 106 project\bup\cmd\on-cmd.py,1,1,1,1,3,0,3,0,1,0,0,0,,,,,1,1,1,13,4,0,4,3,2,0,,,4,3,2,,,,,1,1,1,1,3,0,"0.00",1,1,1,1
+Function,"on-cmd.SigException.__init__(self,signum)",D:\thesis2\real 106 project\bup\cmd\on-cmd.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"on-cmd.handler(signum,frame)",D:\thesis2\real 106 project\bup\cmd\on-cmd.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"restore-cmd.apply_metadata(meta,name,restore_numeric_ids,owner_map)",D:\thesis2\real 106 project\bup\cmd\restore-cmd.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,1,0,7,2,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"restore-cmd.create_path(n,fullname,meta)",D:\thesis2\real 106 project\bup\cmd\restore-cmd.py,,,,,,,,,,,,,,,,,,,,,13,0,9,1,8,4,4,1,7,1,6,4,4,4,1,,,,,,2,"0.44",,,,
+Function,"restore-cmd.do_node(top,n,sparse,owner_map,meta)",D:\thesis2\real 106 project\bup\cmd\restore-cmd.py,,,,,,,,,,,,,,,,,,,,,51,3,40,10,38,9,722,3,38,10,36,14,14,19,1,,,,,,4,"0.23",,,,
+Function,"restore-cmd.do_root(n,sparse,owner_map,restore_root_meta)",D:\thesis2\real 106 project\bup\cmd\restore-cmd.py,,,,,,,,,,,,,,,,,,,,,29,0,22,7,20,8,24,1,21,7,19,6,6,8,1,,,,,,3,"0.36",,,,
+Function,"restore-cmd.find_dir_item_metadata_by_name(dir,name)",D:\thesis2\real 106 project\bup\cmd\restore-cmd.py,,,,,,,,,,,,,,,,,,,,,22,0,19,5,18,4,11,1,17,5,16,7,7,7,5,,,,,,4,"0.21",,,,
+Function,"restore-cmd.hardlink_compatible(target_path,target_vfs_path,target_meta,src_node,src_meta)",D:\thesis2\real 106 project\bup\cmd\restore-cmd.py,,,,,,,,,,,,,,,,,,,,,14,0,14,4,11,0,4,1,10,3,8,4,4,7,4,,,,,,1,"0.00",,,,
+Function,"restore-cmd.hardlink_if_possible(fullname,node,meta)",D:\thesis2\real 106 project\bup\cmd\restore-cmd.py,,,,,,,,,,,,,,,,,,,,,25,0,20,7,18,5,6,1,18,6,16,6,6,6,6,,,,,,5,"0.25",,,,
+Function,"restore-cmd.parse_owner_mappings(type,options,fatal)",D:\thesis2\real 106 project\bup\cmd\restore-cmd.py,,,,,,,,,,,,,,,,,,,,,20,0,19,8,18,1,18,1,19,8,18,6,6,6,4,,,,,,2,"0.05",,,,
+Function,"restore-cmd.plog(s)",D:\thesis2\real 106 project\bup\cmd\restore-cmd.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"restore-cmd.print_info(n,fullname)",D:\thesis2\real 106 project\bup\cmd\restore-cmd.py,,,,,,,,,,,,,,,,,,,,,7,0,7,1,6,0,3,0,5,1,4,3,3,3,1,,,,,,1,"0.00",,,,
+Function,"restore-cmd.valid_restore_path(path)",D:\thesis2\real 106 project\bup\cmd\restore-cmd.py,,,,,,,,,,,,,,,,,,,,,6,0,6,1,5,0,4,1,6,1,5,3,3,3,1,,,,,,1,"0.00",,,,
+Function,"restore-cmd.verbose1(s)",D:\thesis2\real 106 project\bup\cmd\restore-cmd.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,2,0,3,1,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"restore-cmd.verbose2(s)",D:\thesis2\real 106 project\bup\cmd\restore-cmd.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,2,0,3,1,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"restore-cmd.write_file_content(fullname,n)",D:\thesis2\real 106 project\bup\cmd\restore-cmd.py,,,,,,,,,,,,,,,,,,,,,7,0,7,3,6,0,2,0,6,3,5,2,2,2,1,,,,,,2,"0.00",,,,
+Function,"restore-cmd.write_file_content_sparsely(fullname,n)",D:\thesis2\real 106 project\bup\cmd\restore-cmd.py,,,,,,,,,,,,,,,,,,,,,10,0,10,5,9,0,2,0,9,5,8,2,2,2,1,,,,,,2,"0.00",,,,
+Function,"save-cmd._pop(force_tree,dir_metadata)",D:\thesis2\real 106 project\bup\cmd\save-cmd.py,,,,,,,,,,,,,,,,,,,,,38,0,36,14,35,3,24,1,28,14,27,7,7,8,1,,,,,,3,"0.08",,,,
+Function,"save-cmd._push(part,metadata)",D:\thesis2\real 106 project\bup\cmd\save-cmd.py,,,,,,,,,,,,,,,,,,,,,5,0,4,1,3,2,1,0,4,1,3,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"save-cmd.already_saved(ent)",D:\thesis2\real 106 project\bup\cmd\save-cmd.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,3,1,,,,,,0,"0.00",,,,
+Function,"save-cmd.eatslash(dir)",D:\thesis2\real 106 project\bup\cmd\save-cmd.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"save-cmd.find_hardlink_target(hlink_db,ent)",D:\thesis2\real 106 project\bup\cmd\save-cmd.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,3,0,5,2,4,3,3,5,3,,,,,,2,"0.00",,,,
+Function,"save-cmd.progress_report(n)",D:\thesis2\real 106 project\bup\cmd\save-cmd.py,,,,,,,,,,,,,,,,,,,,,36,0,36,14,34,0,16,1,28,14,26,6,6,11,1,,,,,,2,"0.00",,,,
+Function,"save-cmd.wantrecurse_during(ent)",D:\thesis2\real 106 project\bup\cmd\save-cmd.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,2,1,,,,,,0,"0.00",,,,
+Function,"save-cmd.wantrecurse_pre(ent)",D:\thesis2\real 106 project\bup\cmd\save-cmd.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"server-cmd._check(w,expected,actual,msg)",D:\thesis2\real 106 project\bup\cmd\server-cmd.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"server-cmd._init_session(reinit_with_new_repopath)",D:\thesis2\real 106 project\bup\cmd\server-cmd.py,,,,,,,,,,,,,,,,,,,,,9,0,7,1,6,2,2,0,7,1,6,2,2,3,1,,,,,,1,"0.29",,,,
+Function,"server-cmd._set_mode()",D:\thesis2\real 106 project\bup\cmd\server-cmd.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,3,0,1,0,4,2,2,1,1,3,1,,,,,,0,"0.00",,,,
+Function,"server-cmd.cat(conn,id)",D:\thesis2\real 106 project\bup\cmd\server-cmd.py,,,,,,,,,,,,,,,,,,,,,16,0,16,4,14,0,6,1,16,3,14,4,4,4,1,,,,,,2,"0.00",,,,
+Function,"server-cmd.do_help(conn,junk)",D:\thesis2\real 106 project\bup\cmd\server-cmd.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"server-cmd.init_dir(conn,arg)",D:\thesis2\real 106 project\bup\cmd\server-cmd.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,1,0,5,1,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"server-cmd.list_indexes(conn,junk)",D:\thesis2\real 106 project\bup\cmd\server-cmd.py,,,,,,,,,,,,,,,,,,,,,9,0,9,3,8,0,6,1,9,3,8,4,4,4,1,,,,,,2,"0.00",,,,
+Function,"server-cmd.read_ref(conn,refname)",D:\thesis2\real 106 project\bup\cmd\server-cmd.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,5,2,4,1,1,2,1,,,,,,0,"0.00",,,,
+Function,"server-cmd.receive_objects_v2(conn,junk)",D:\thesis2\real 106 project\bup\cmd\server-cmd.py,,,,,,,,,,,,,,,,,,,,,56,1,53,13,51,3,45,2,47,13,45,11,11,13,7,,,,,,4,"0.06",,,,
+Function,"server-cmd.send_index(conn,name)",D:\thesis2\real 106 project\bup\cmd\server-cmd.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,0,1,0,8,2,7,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"server-cmd.set_dir(conn,arg)",D:\thesis2\real 106 project\bup\cmd\server-cmd.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"server-cmd.update_ref(conn,refname)",D:\thesis2\real 106 project\bup\cmd\server-cmd.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,1,0,6,3,5,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"split-cmd.IterToFile",D:\thesis2\real 106 project\bup\cmd\split-cmd.py,1,1,1,1,2,0,2,0,0,0,0,0,,,,,2,1,2,2,6,0,6,5,3,0,,,6,5,3,,,,,1,1,2,1,0,0,"0.00",2,2,3,2
+Function,"split-cmd.IterToFile.__init__(self,it)",D:\thesis2\real 106 project\bup\cmd\split-cmd.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"split-cmd.IterToFile.read(self,size)",D:\thesis2\real 106 project\bup\cmd\split-cmd.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,2,1,,,,,,0,"0.00",,,,
+Function,"split-cmd.prog(filenum,nbytes)",D:\thesis2\real 106 project\bup\cmd\split-cmd.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,6,1,2,0,6,2,4,2,2,2,1,,,,,,1,"0.12",,,,
+Function,"split-cmd.read_ids()",D:\thesis2\real 106 project\bup\cmd\split-cmd.py,,,,,,,,,,,,,,,,,,,,,14,0,14,4,13,1,9,1,14,3,13,5,5,5,4,,,,,,2,"0.07",,,,
+Function,"version-cmd.version_commit()",D:\thesis2\real 106 project\bup\cmd\version-cmd.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"version-cmd.version_date()",D:\thesis2\real 106 project\bup\cmd\version-cmd.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"version-cmd.version_tag()",D:\thesis2\real 106 project\bup\cmd\version-cmd.py,,,,,,,,,,,,,,,,,,,,,16,1,10,3,9,5,3,0,10,3,9,3,3,3,3,,,,,,2,"0.50",,,,
+Class,"web-cmd.BupRequestHandler",D:\thesis2\real 106 project\bup\cmd\web-cmd.py,2,2,2,1,12,1,9,2,1,4,0,0,,,,,7,0,7,7,111,16,78,21,68,19,,,62,19,53,,,,,3,3,4,3,1,1,"0.24",16,16,17,10
+Function,"web-cmd.BupRequestHandler._get_file(self,path,n)",D:\thesis2\real 106 project\bup\cmd\web-cmd.py,,,,,,,,,,,,,,,,,,,,,31,3,24,7,22,4,2,0,22,7,20,2,2,2,1,,,,,,1,"0.17",,,,
+Function,"web-cmd.BupRequestHandler._get_file.write_more(me)",D:\thesis2\real 106 project\bup\cmd\web-cmd.py,,,,,,,,,,,,,,,,,,,,,9,0,9,2,8,0,2,0,8,2,7,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"web-cmd.BupRequestHandler._guess_type(self,path)",D:\thesis2\real 106 project\bup\cmd\web-cmd.py,,,,,,,,,,,,,,,,,,,,,21,3,9,2,8,9,3,0,8,2,7,3,3,3,3,,,,,,1,"1.00",,,,
+Function,"web-cmd.BupRequestHandler._list_directory(self,path,n)",D:\thesis2\real 106 project\bup\cmd\web-cmd.py,,,,,,,,,,,,,,,,,,,,,22,3,15,3,14,4,3,0,9,2,8,3,3,4,1,,,,,,1,"0.27",,,,
+Function,"web-cmd.BupRequestHandler._process_request(self,path)",D:\thesis2\real 106 project\bup\cmd\web-cmd.py,,,,,,,,,,,,,,,,,,,,,13,0,13,3,12,0,3,0,12,3,11,3,3,3,1,,,,,,1,"0.00",,,,
+Function,"web-cmd.BupRequestHandler.date_time_string(self,t)",D:\thesis2\real 106 project\bup\cmd\web-cmd.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"web-cmd.BupRequestHandler.get(self,path)",D:\thesis2\real 106 project\bup\cmd\web-cmd.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"web-cmd.BupRequestHandler.head(self,path)",D:\thesis2\real 106 project\bup\cmd\web-cmd.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"web-cmd._compute_breadcrumbs(path,show_hidden)",D:\thesis2\real 106 project\bup\cmd\web-cmd.py,,,,,,,,,,,,,,,,,,,,,13,0,12,6,11,1,3,0,12,6,11,3,3,3,1,,,,,,2,"0.08",,,,
+Function,"web-cmd._compute_dir_contents(n,path,show_hidden)",D:\thesis2\real 106 project\bup\cmd\web-cmd.py,,,,,,,,,,,,,,,,,,,,,30,5,22,6,21,3,52,2,20,6,19,8,8,12,3,,,,,,2,"0.14",,,,
+Function,"web-cmd._contains_hidden_files(n)",D:\thesis2\real 106 project\bup\cmd\web-cmd.py,,,,,,,,,,,,,,,,,,,,,8,1,6,3,5,1,3,0,6,3,5,3,3,4,3,,,,,,2,"0.17",,,,
+Function,"wvtest.WVEXCEPT(etype,func,args,kwargs)",D:\thesis2\real 106 project\bup\wvtest.py,,,,,,,,,,,,,,,,,,,,,15,0,10,2,9,5,3,0,10,1,9,3,3,3,1,,,,,,1,"0.50",,,,
+Function,"wvtest.WVFAIL(cond)",D:\thesis2\real 106 project\bup\wvtest.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"wvtest.WVMSG(message)",D:\thesis2\real 106 project\bup\wvtest.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"wvtest.WVPASS(cond)",D:\thesis2\real 106 project\bup\wvtest.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"wvtest.WVPASSEQ(a,b)",D:\thesis2\real 106 project\bup\wvtest.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"wvtest.WVPASSGE(a,b)",D:\thesis2\real 106 project\bup\wvtest.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"wvtest.WVPASSGT(a,b)",D:\thesis2\real 106 project\bup\wvtest.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"wvtest.WVPASSLE(a,b)",D:\thesis2\real 106 project\bup\wvtest.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"wvtest.WVPASSLT(a,b)",D:\thesis2\real 106 project\bup\wvtest.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"wvtest.WVPASSNE(a,b)",D:\thesis2\real 106 project\bup\wvtest.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"wvtest._check(cond,msg,tb)",D:\thesis2\real 106 project\bup\wvtest.py,,,,,,,,,,,,,,,,,,,,,7,0,7,1,6,0,4,1,7,1,6,3,3,3,1,,,,,,1,"0.00",,,,
+Function,"wvtest._check_unfinished()",D:\thesis2\real 106 project\bup\wvtest.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,6,1,7,2,6,4,4,4,1,,,,,,2,"0.00",,,,
+Function,"wvtest._code()",D:\thesis2\real 106 project\bup\wvtest.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,1,1,0,4,2,3,1,1,1,1,,,,,,0,"0.25",,,,
+Function,"wvtest._relpath(path,start)",D:\thesis2\real 106 project\bup\wvtest.py,,,,,,,,,,,,,,,,,,,,,14,3,10,5,9,1,4,1,10,5,9,3,3,3,3,,,,,,1,"0.10",,,,
+Function,"wvtest._result(msg,tb,code)",D:\thesis2\real 106 project\bup\wvtest.py,,,,,,,,,,,,,,,,,,,,,12,0,12,3,10,0,2,0,11,3,9,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"wvtest._run_in_chdir(path,func,args,kwargs)",D:\thesis2\real 106 project\bup\wvtest.py,,,,,,,,,,,,,,,,,,,,,10,0,10,3,9,0,1,0,9,3,8,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"wvtest._run_registered_tests()",D:\thesis2\real 106 project\bup\wvtest.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,4,0,2,0,6,3,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"wvtest._runtest(fname,f)",D:\thesis2\real 106 project\bup\wvtest.py,,,,,,,,,,,,,,,,,,,,,13,0,13,5,12,0,2,0,13,4,12,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"wvtest.wvfailure_count()",D:\thesis2\real 106 project\bup\wvtest.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"wvtest.wvtest(func)",D:\thesis2\real 106 project\bup\wvtest.py,,,,,,,,,,,,,,,,,,,,,8,0,3,1,2,5,1,0,3,1,2,1,1,1,1,,,,,,0,"1.67",,,,
+Function,"wvtest.wvtest_main(extra_testfiles)",D:\thesis2\real 106 project\bup\wvtest.py,,,,,,,,,,,,,,,,,,,,,19,0,19,5,17,0,9,1,18,5,16,5,5,5,3,,,,,,2,"0.00",,,,
+Function,"xstat-cmd.parse_timestamp_arg(field,value)",D:\thesis2\real 106 project\bup\cmd\xstat-cmd.py,,,,,,,,,,,,,,,,,,,,,14,1,13,3,12,1,6,1,11,2,10,4,4,5,1,,,,,,2,"0.08",,,,

@@ -1,0 +1,558 @@
+Kind,Name,File,AvgCyclomatic,AvgCyclomaticModified,AvgCyclomaticStrict,AvgEssential,AvgLine,AvgLineBlank,AvgLineCode,AvgLineComment,CountClassBase,CountClassCoupled,CountClassCoupledModified,CountClassDerived,CountDeclClass,CountDeclExecutableUnit,CountDeclFile,CountDeclFunction,CountDeclInstanceMethod,CountDeclInstanceVariable,CountDeclMethod,CountDeclMethodAll,CountLine,CountLineBlank,CountLineCode,CountLineCodeDecl,CountLineCodeExe,CountLineComment,CountPath,CountPathLog,CountStmt,CountStmtDecl,CountStmtExe,Cyclomatic,CyclomaticModified,CyclomaticStrict,Essential,MaxCyclomatic,MaxCyclomaticModified,MaxCyclomaticStrict,MaxEssential,MaxInheritanceTree,MaxNesting,RatioCommentToCode,SumCyclomatic,SumCyclomaticModified,SumCyclomaticStrict,SumEssential
+File,"D:\thesis2\real 106 project\pgcli\pgcli\__init__.py",D:\thesis2\real 106 project\pgcli\pgcli\__init__.py,1,1,1,1,1,0,0,0,,,,,0,1,,0,,,,,1,0,1,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,,0,"0.00",1,1,1,1
+Module File,"D:\thesis2\real 106 project\pgcli\pgcli\completion_refresher.py",D:\thesis2\real 106 project\pgcli\pgcli\completion_refresher.py,1,1,1,1,6,0,4,1,,,,,1,13,,12,,,,,108,20,69,32,45,19,2,0,59,26,41,2,2,2,1,6,6,6,4,,3,"0.28",20,20,21,16
+Module File,"D:\thesis2\real 106 project\pgcli\pgcli\config.py",D:\thesis2\real 106 project\pgcli\pgcli\config.py,1,1,1,1,5,0,4,0,,,,,0,4,,4,,,,,30,6,24,11,15,0,0,0,23,11,14,0,0,0,0,2,2,3,1,,1,"0.00",6,6,7,4
+Module File,"D:\thesis2\real 106 project\pgcli\pgcli\encodingutils.py",D:\thesis2\real 106 project\pgcli\pgcli\encodingutils.py,1,1,2,1,6,1,4,4,,,,,0,3,,2,,,,,24,5,11,5,8,8,1,0,11,5,8,1,1,1,1,2,2,3,1,,1,"0.73",5,5,7,3
+Module File,"D:\thesis2\real 106 project\pgcli\pgcli\filters.py",D:\thesis2\real 106 project\pgcli\pgcli\filters.py,1,1,1,1,3,0,3,0,,,,,1,2,,2,,,,,12,3,8,5,4,1,0,0,7,5,3,0,0,0,0,1,1,2,1,,0,"0.12",2,2,3,2
+Module File,"D:\thesis2\real 106 project\pgcli\pgcli\key_bindings.py",D:\thesis2\real 106 project\pgcli\pgcli\key_bindings.py,1,1,1,1,17,2,10,6,,,,,0,8,,7,,,,,89,15,50,25,32,24,1,0,39,19,27,1,1,1,1,2,2,2,1,,1,"0.48",10,10,10,8
+Module File,"D:\thesis2\real 106 project\pgcli\pgcli\magic.py",D:\thesis2\real 106 project\pgcli\pgcli\magic.py,3,3,3,2,16,5,15,4,,,,,0,3,,2,,,,,58,14,36,13,30,8,1,0,36,13,30,1,1,1,1,6,6,6,4,,1,"0.22",9,9,9,6
+Module File,"D:\thesis2\real 106 project\pgcli\pgcli\main.py",D:\thesis2\real 106 project\pgcli\pgcli\main.py,3,3,3,1,19,2,14,2,,,,,1,27,,26,,,,,616,100,450,151,358,73,4,1,353,142,283,3,3,3,1,20,20,23,12,,6,"0.16",86,86,101,51
+File,"D:\thesis2\real 106 project\pgcli\pgcli\packages\__init__.py",D:\thesis2\real 106 project\pgcli\pgcli\packages\__init__.py,0,0,0,0,0,0,0,0,,,,,0,0,,0,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,"0.00",0,0,0,0
+Module File,"D:\thesis2\real 106 project\pgcli\pgcli\packages\counter.py",D:\thesis2\real 106 project\pgcli\pgcli\packages\counter.py,2,2,2,1,11,1,6,3,,,,,1,13,,13,,,,,187,39,85,37,67,64,0,0,81,36,64,0,0,0,0,7,7,7,1,,4,"0.75",37,37,37,13
+Module File,"D:\thesis2\real 106 project\pgcli\pgcli\packages\expanded.py",D:\thesis2\real 106 project\pgcli\pgcli\packages\expanded.py,3,3,3,1,14,3,11,0,,,,,0,2,,2,,,,,32,8,24,14,21,0,0,0,24,14,21,0,0,0,0,5,5,5,1,,2,"0.00",6,6,6,2
+Module File,"D:\thesis2\real 106 project\pgcli\pgcli\packages\function_metadata.py",D:\thesis2\real 106 project\pgcli\pgcli\packages\function_metadata.py,2,2,3,1,10,0,8,2,,,,,2,11,,10,,,,,149,33,88,38,72,28,1,0,70,37,55,1,1,1,1,15,15,20,3,,4,"0.32",29,29,37,15
+Module File,"D:\thesis2\real 106 project\pgcli\pgcli\packages\ordereddict.py",D:\thesis2\real 106 project\pgcli\pgcli\packages\ordereddict.py,2,2,2,1,5,0,5,0,,,,,1,14,,14,,,,,127,17,89,42,72,23,0,0,87,41,71,0,0,0,0,5,5,5,5,,3,"0.26",28,28,28,18
+Module File,"D:\thesis2\real 106 project\pgcli\pgcli\packages\parseutils.py",D:\thesis2\real 106 project\pgcli\pgcli\packages\parseutils.py,4,4,5,3,22,2,12,8,,,,,0,10,,9,,,,,259,42,134,47,119,84,2,0,104,47,89,2,2,2,1,11,11,17,10,,4,"0.63",44,44,57,37
+File,"D:\thesis2\real 106 project\pgcli\pgcli\packages\pgliterals\__init__.py",D:\thesis2\real 106 project\pgcli\pgcli\packages\pgliterals\__init__.py,0,0,0,0,0,0,0,0,,,,,0,0,,0,,,,,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,"0.00",0,0,0,0
+Module File,"D:\thesis2\real 106 project\pgcli\pgcli\packages\pgliterals\main.py",D:\thesis2\real 106 project\pgcli\pgcli\packages\pgliterals\main.py,1,1,1,1,4,1,2,2,,,,,0,2,,1,,,,,15,5,8,7,5,2,1,0,8,6,5,1,1,1,1,1,1,1,1,,1,"0.25",2,2,2,2
+Module File,"D:\thesis2\real 106 project\pgcli\pgcli\packages\sqlcompletion.py",D:\thesis2\real 106 project\pgcli\pgcli\packages\sqlcompletion.py,9,9,14,7,56,8,39,18,,,,,0,6,,5,,,,,344,50,207,44,195,88,2,0,148,44,136,2,2,2,1,31,31,51,26,,3,"0.43",57,57,85,44
+Module File,"D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,3,3,4,2,26,3,10,9,,,,,0,35,,34,,,,,1068,198,511,140,460,373,4,1,328,136,279,3,3,3,1,22,22,32,11,,5,"0.73",123,123,148,80
+Module File,"D:\thesis2\real 106 project\pgcli\pgcli\pgbuffer.py",D:\thesis2\real 106 project\pgcli\pgcli\pgbuffer.py,1,1,3,1,7,0,5,2,,,,,1,4,,4,,,,,35,8,24,12,15,10,0,0,15,10,7,0,0,0,0,1,1,7,1,,0,"0.42",4,4,12,4
+Module File,"D:\thesis2\real 106 project\pgcli\pgcli\pgcompleter.py",D:\thesis2\real 106 project\pgcli\pgcli\pgcompleter.py,3,3,4,2,22,4,14,4,,,,,1,21,,20,,,,,504,107,312,104,277,85,2,0,247,100,213,2,2,2,1,23,23,27,13,,5,"0.27",81,81,91,45
+Module File,"D:\thesis2\real 106 project\pgcli\pgcli\pgexecute.py",D:\thesis2\real 106 project\pgcli\pgcli\pgexecute.py,2,2,2,1,13,1,8,3,,,,,1,20,,19,,,,,389,64,251,80,220,75,1,0,180,70,150,1,1,1,1,9,9,10,7,,5,"0.30",45,45,52,26
+Module File,"D:\thesis2\real 106 project\pgcli\pgcli\pgstyle.py",D:\thesis2\real 106 project\pgcli\pgcli\pgstyle.py,2,2,2,1,15,2,13,0,,,,,1,1,,1,,,,,22,4,18,10,11,0,0,0,17,10,10,0,0,0,0,2,2,2,1,,1,"0.00",2,2,2,1
+Module File,"D:\thesis2\real 106 project\pgcli\pgcli\pgtoolbar.py",D:\thesis2\real 106 project\pgcli\pgcli\pgtoolbar.py,3,3,3,1,31,7,23,1,,,,,0,2,,2,,,,,39,10,26,5,23,3,0,0,22,5,19,0,0,0,0,6,6,6,1,,1,"0.12",7,7,7,2
+Module File,"D:\thesis2\real 106 project\pgcli\release.py",D:\thesis2\real 106 project\pgcli\release.py,1,1,1,1,8,0,4,1,,,,,0,10,,9,,,,,113,30,73,29,56,10,5,1,63,28,46,4,4,4,3,4,4,4,3,,2,"0.14",17,17,17,14
+Module File,"D:\thesis2\real 106 project\pgcli\setup.py",D:\thesis2\real 106 project\pgcli\setup.py,1,1,1,1,48,0,0,0,,,,,0,1,,0,,,,,56,5,51,7,48,1,1,0,8,6,5,1,1,1,1,1,1,1,1,,1,"0.02",1,1,1,1
+Module File,"D:\thesis2\real 106 project\pgcli\tests\conftest.py",D:\thesis2\real 106 project\pgcli\tests\conftest.py,1,1,1,1,4,0,4,0,,,,,0,3,,3,,,,,26,7,19,12,9,0,0,0,14,7,8,0,0,0,0,1,1,1,1,,1,"0.00",3,3,3,3
+Module File,"D:\thesis2\real 106 project\pgcli\tests\features\db_utils.py",D:\thesis2\real 106 project\pgcli\tests\features\db_utils.py,1,1,1,1,17,2,7,7,,,,,0,4,,4,,,,,82,17,33,15,23,32,0,0,29,11,21,0,0,0,0,2,2,2,1,,1,"0.97",6,6,6,4
+Module File,"D:\thesis2\real 106 project\pgcli\tests\features\environment.py",D:\thesis2\real 106 project\pgcli\tests\features\environment.py,3,3,4,1,24,3,16,4,,,,,0,3,,3,,,,,88,17,56,14,46,15,0,0,39,14,29,0,0,0,0,4,4,5,1,,2,"0.27",10,10,12,3
+Module File,"D:\thesis2\real 106 project\pgcli\tests\features\fixture_utils.py",D:\thesis2\real 106 project\pgcli\tests\features\fixture_utils.py,2,2,2,1,12,1,7,4,,,,,0,2,,2,,,,,34,7,18,13,12,9,0,0,18,13,12,0,0,0,0,3,3,3,1,,2,"0.50",5,5,5,2
+Module File,"D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,1,1,1,1,5,0,2,2,,,,,0,34,,34,,,,,302,71,133,77,60,98,0,0,94,44,54,0,0,0,0,2,2,3,1,,1,"0.74",38,38,39,34
+Module File,"D:\thesis2\real 106 project\pgcli\tests\test_completion_refresher.py",D:\thesis2\real 106 project\pgcli\tests\test_completion_refresher.py,1,1,1,1,12,1,8,4,,,,,0,6,,6,,,,,88,18,51,27,40,24,0,0,49,25,39,0,0,0,0,1,1,1,1,,1,"0.47",6,6,6,6
+Module File,"D:\thesis2\real 106 project\pgcli\tests\test_exceptionals.py",D:\thesis2\real 106 project\pgcli\tests\test_exceptionals.py,0,0,0,0,0,0,0,0,,,,,0,0,,0,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,"0.00",0,0,0,0
+Module File,"D:\thesis2\real 106 project\pgcli\tests\test_expanded.py",D:\thesis2\real 106 project\pgcli\tests\test_expanded.py,1,1,1,1,11,1,10,0,,,,,0,1,,1,,,,,14,2,12,4,9,0,0,0,6,4,3,0,0,0,0,1,1,1,1,,0,"0.00",1,1,1,1
+Module File,"D:\thesis2\real 106 project\pgcli\tests\test_function_metadata.py",D:\thesis2\real 106 project\pgcli\tests\test_function_metadata.py,1,1,1,1,6,0,6,0,,,,,0,6,,6,,,,,56,13,43,25,34,0,0,0,36,24,28,0,0,0,0,1,1,1,1,,0,"0.00",6,6,6,6
+Module File,"D:\thesis2\real 106 project\pgcli\tests\test_fuzzy_completion.py",D:\thesis2\real 106 project\pgcli\tests\test_fuzzy_completion.py,1,1,1,1,14,4,4,6,,,,,0,3,,3,,,,,54,18,18,15,9,18,0,0,17,14,9,0,0,0,0,1,1,1,1,,0,"1.00",3,3,3,3
+Module File,"D:\thesis2\real 106 project\pgcli\tests\test_main.py",D:\thesis2\real 106 project\pgcli\tests\test_main.py,1,1,1,1,15,2,13,0,,,,,0,2,,2,,,,,40,8,32,12,23,0,0,0,28,8,23,0,0,0,0,1,1,1,1,,0,"0.00",2,2,2,2
+Module File,"D:\thesis2\real 106 project\pgcli\tests\test_naive_completion.py",D:\thesis2\real 106 project\pgcli\tests\test_naive_completion.py,1,1,1,1,6,0,6,0,,,,,0,6,,6,,,,,48,6,42,26,28,0,0,0,30,24,18,0,0,0,0,1,1,1,1,,0,"0.00",6,6,6,6
+Module File,"D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,1,1,1,1,3,0,3,0,,,,,0,33,,33,,,,,195,43,149,103,79,3,0,0,102,69,66,0,0,0,0,1,1,2,1,,0,"0.02",33,33,35,33
+Module File,"D:\thesis2\real 106 project\pgcli\tests\test_pgexecute.py",D:\thesis2\real 106 project\pgcli\tests\test_pgexecute.py,1,1,1,1,6,0,5,0,,,,,0,24,,24,,,,,243,55,178,71,115,12,0,0,109,47,78,0,0,0,0,1,1,1,1,,1,"0.07",24,24,24,24
+Module File,"D:\thesis2\real 106 project\pgcli\tests\test_pgspecial.py",D:\thesis2\real 106 project\pgcli\tests\test_pgspecial.py,1,1,1,1,6,0,5,0,,,,,0,10,,10,,,,,77,16,61,28,47,0,0,0,45,27,32,0,0,0,0,1,1,1,1,,0,"0.00",10,10,10,10
+Module File,"D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_multiple_schemata.py",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_multiple_schemata.py,1,1,1,1,15,0,11,2,,,,,0,18,,17,,,,,307,28,240,84,208,39,1,0,101,75,77,1,1,1,1,3,3,3,1,,2,"0.16",20,20,20,18
+Module File,"D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,1,1,1,1,13,0,11,1,,,,,0,32,,31,,,,,477,58,369,143,322,50,1,0,177,134,139,1,1,1,1,3,3,3,1,,1,"0.14",34,34,34,32
+Module File,"D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,1,1,1,1,6,0,6,0,,,,,0,59,,59,,,,,637,124,508,262,306,5,0,0,189,122,128,0,0,0,0,1,1,1,1,,0,"0.01",59,59,59,59
+Module File,"D:\thesis2\real 106 project\pgcli\tests\utils.py",D:\thesis2\real 106 project\pgcli\tests\utils.py,1,1,1,1,9,0,6,0,,,,,0,5,,4,,,,,69,17,50,24,41,2,2,0,39,22,30,2,2,2,1,3,3,3,1,,2,"0.04",9,9,9,5
+Function,"conftest.connection()",D:\thesis2\real 106 project\pgcli\tests\conftest.py,,,,,,,,,,,,,,,,,,,,,7,1,6,2,5,0,1,0,6,2,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"conftest.cursor(connection)",D:\thesis2\real 106 project\pgcli\tests\conftest.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,1,2,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"conftest.executor(connection)",D:\thesis2\real 106 project\pgcli\tests\conftest.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"db_utils.close_cn(cn)",D:\thesis2\real 106 project\pgcli\tests\features\db_utils.py,,,,,,,,,,,,,,,,,,,,,8,0,4,1,3,4,2,0,4,1,3,2,2,2,1,,,,,,1,"1.00",,,,
+Function,"db_utils.create_cn(hostname,password,username,dbname)",D:\thesis2\real 106 project\pgcli\tests\features\db_utils.py,,,,,,,,,,,,,,,,,,,,,17,1,8,2,7,8,2,0,6,2,5,2,2,2,1,,,,,,1,"1.00",,,,
+Function,"db_utils.create_db(hostname,username,password,dbname)",D:\thesis2\real 106 project\pgcli\tests\features\db_utils.py,,,,,,,,,,,,,,,,,,,,,24,4,10,4,8,10,1,0,9,2,8,1,1,1,1,,,,,,1,"1.00",,,,
+Function,"db_utils.drop_db(hostname,username,password,dbname)",D:\thesis2\real 106 project\pgcli\tests\features\db_utils.py,,,,,,,,,,,,,,,,,,,,,19,3,7,4,5,9,1,0,6,2,5,1,1,1,1,,,,,,1,"1.29",,,,
+Function,"environment.after_all(context)",D:\thesis2\real 106 project\pgcli\tests\features\environment.py,,,,,,,,,,,,,,,,,,,,,14,1,9,2,8,4,4,1,7,2,6,4,4,5,1,,,,,,2,"0.44",,,,
+Function,"environment.after_scenario(context,_)",D:\thesis2\real 106 project\pgcli\tests\features\environment.py,,,,,,,,,,,,,,,,,,,,,8,1,3,1,2,4,2,0,3,1,2,2,2,3,1,,,,,,1,"1.33",,,,
+Function,"environment.before_all(context)",D:\thesis2\real 106 project\pgcli\tests\features\environment.py,,,,,,,,,,,,,,,,,,,,,51,8,37,4,36,6,5,1,22,4,21,4,4,4,1,,,,,,2,"0.16",,,,
+Function,"fixture_utils.read_fixture_files()",D:\thesis2\real 106 project\pgcli\tests\features\fixture_utils.py,,,,,,,,,,,,,,,,,,,,,14,2,9,6,8,3,3,0,9,6,8,3,3,3,1,,,,,,2,"0.33",,,,
+Function,"fixture_utils.read_fixture_lines(filename)",D:\thesis2\real 106 project\pgcli\tests\features\fixture_utils.py,,,,,,,,,,,,,,,,,,,,,10,0,5,3,4,5,2,0,5,3,4,2,2,2,1,,,,,,1,"1.00",,,,
+Package,"packages",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"packages",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"packages",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"packages",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"packages",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"packages.pgliterals",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli",,1,1,1,1,6,0,4,1,,,,,1,,1,12,,,,,108,20,69,32,45,19,,,59,26,41,,,,,6,6,6,4,,3,,20,20,21,16
+Package,"pgcli",,3,3,3,2,16,5,15,4,,,,,0,,1,2,,,,,58,14,36,13,30,8,,,36,13,30,,,,,6,6,6,4,,1,,9,9,9,6
+Package,"pgcli",,1,1,1,1,5,0,4,0,,,,,0,,1,4,,,,,30,6,24,11,15,0,,,23,11,14,,,,,2,2,3,1,,1,,6,6,7,4
+Package,"pgcli",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,1,1,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli",,1,1,1,1,17,2,10,6,,,,,0,,1,7,,,,,89,15,50,25,32,24,,,39,19,27,,,,,2,2,2,1,,1,,10,10,10,8
+Package,"pgcli",,2,2,2,1,15,2,13,0,,,,,1,,1,1,,,,,22,4,18,10,11,0,,,17,10,10,,,,,2,2,2,1,,1,,2,2,2,1
+Package,"pgcli",,1,1,3,1,7,0,5,2,,,,,1,,1,4,,,,,35,8,24,12,15,10,,,15,10,7,,,,,1,1,7,1,,0,,4,4,12,4
+Package,"pgcli",,3,3,4,2,22,4,14,4,,,,,1,,1,20,,,,,504,107,312,104,277,85,,,247,100,213,,,,,23,23,27,13,,5,,81,81,91,45
+Package,"pgcli",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli",,3,3,3,1,19,2,14,2,,,,,1,,1,26,,,,,616,100,450,151,358,73,,,353,142,283,,,,,20,20,23,12,,6,,86,86,101,51
+Package,"pgcli",,1,1,1,1,3,0,3,0,,,,,1,,1,2,,,,,12,3,8,5,4,1,,,7,5,3,,,,,1,1,2,1,,0,,2,2,3,2
+Package,"pgcli",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli",,3,3,3,1,31,7,23,1,,,,,0,,1,2,,,,,39,10,26,5,23,3,,,22,5,19,,,,,6,6,6,1,,1,,7,7,7,2
+Package,"pgcli",,2,2,2,1,13,1,8,3,,,,,1,,1,19,,,,,389,64,251,80,220,75,,,180,70,150,,,,,9,9,10,7,,5,,45,45,52,26
+Package,"pgcli",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli",,1,1,2,1,6,1,4,4,,,,,0,,1,2,,,,,24,5,11,5,8,8,,,11,5,8,,,,,2,2,3,1,,1,,5,5,7,3
+Package,"pgcli",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli",,1,1,1,1,1,0,0,0,,,,,0,,1,0,,,,,1,0,1,1,1,0,,,1,1,1,,,,,1,1,1,1,,0,,1,1,1,1
+Class,"pgcli.completion_refresher.CompletionRefresher",D:\thesis2\real 106 project\pgcli\pgcli\completion_refresher.py,2,2,2,1,14,1,8,4,1,2,2,0,,,,,4,2,4,4,63,11,36,13,31,16,,,32,13,27,,,,,6,6,6,4,1,3,"0.44",10,10,11,7
+Function,"pgcli.completion_refresher.CompletionRefresher.__init__(self)",D:\thesis2\real 106 project\pgcli\pgcli\completion_refresher.py,,,,,,,,,,,,,,,,,,,,,3,0,3,3,2,0,1,0,3,3,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.completion_refresher.CompletionRefresher._bg_refresh(self,pgexecute,special,callbacks)",D:\thesis2\real 106 project\pgcli\pgcli\completion_refresher.py,,,,,,,,,,,,,,,,,,,,,28,5,17,6,16,6,16,1,17,6,16,6,6,6,4,,,,,,3,"0.35",,,,
+Function,"pgcli.completion_refresher.CompletionRefresher.is_refreshing(self)",D:\thesis2\real 106 project\pgcli\pgcli\completion_refresher.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,2,1,,,,,,0,"0.00",,,,
+Function,"pgcli.completion_refresher.CompletionRefresher.refresh(self,executor,special,callbacks)",D:\thesis2\real 106 project\pgcli\pgcli\completion_refresher.py,,,,,,,,,,,,,,,,,,,,,23,1,12,1,11,10,2,0,8,1,7,2,2,2,1,,,,,,1,"0.83",,,,
+Function,"pgcli.completion_refresher.refresh_databases(completer,executor)",D:\thesis2\real 106 project\pgcli\pgcli\completion_refresher.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.completion_refresher.refresh_functions(completer,executor)",D:\thesis2\real 106 project\pgcli\pgcli\completion_refresher.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.completion_refresher.refresh_schemata(completer,executor)",D:\thesis2\real 106 project\pgcli\pgcli\completion_refresher.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.completion_refresher.refresh_tables(completer,executor)",D:\thesis2\real 106 project\pgcli\pgcli\completion_refresher.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.completion_refresher.refresh_types(completer,executor)",D:\thesis2\real 106 project\pgcli\pgcli\completion_refresher.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.completion_refresher.refresh_views(completer,executor)",D:\thesis2\real 106 project\pgcli\pgcli\completion_refresher.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.completion_refresher.refresher(name,refreshers)",D:\thesis2\real 106 project\pgcli\pgcli\completion_refresher.py,,,,,,,,,,,,,,,,,,,,,8,0,5,2,3,3,1,0,5,2,3,1,1,1,1,,,,,,0,"0.60",,,,
+Function,"pgcli.completion_refresher.refresher.wrapper(wrapped)",D:\thesis2\real 106 project\pgcli\pgcli\completion_refresher.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.config.config_location()",D:\thesis2\real 106 project\pgcli\pgcli\config.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"pgcli.config.load_config(usr_cfg,def_cfg)",D:\thesis2\real 106 project\pgcli\pgcli\config.py,,,,,,,,,,,,,,,,,,,,,7,1,6,2,5,0,1,0,6,2,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.config.upgrade_config(config,def_config)",D:\thesis2\real 106 project\pgcli\pgcli\config.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.config.write_default_config(source,destination,overwrite)",D:\thesis2\real 106 project\pgcli\pgcli\config.py,,,,,,,,,,,,,,,,,,,,,6,1,5,1,4,0,2,0,5,1,4,2,2,3,1,,,,,,1,"0.00",,,,
+Function,"pgcli.encodingutils.unicode2utf8(arg)",D:\thesis2\real 106 project\pgcli\pgcli\encodingutils.py,,,,,,,,,,,,,,,,,,,,,9,1,4,1,3,4,2,0,4,1,3,2,2,3,1,,,,,,1,"1.00",,,,
+Function,"pgcli.encodingutils.utf8tounicode(arg)",D:\thesis2\real 106 project\pgcli\pgcli\encodingutils.py,,,,,,,,,,,,,,,,,,,,,9,1,4,1,3,4,2,0,4,1,3,2,2,3,1,,,,,,1,"1.00",,,,
+Class,"pgcli.filters.HasSelectedCompletion",D:\thesis2\real 106 project\pgcli\pgcli\filters.py,1,1,1,1,3,0,3,0,1,0,0,0,,,,,2,0,2,2,10,2,7,4,4,1,,,6,4,3,,,,,1,1,2,1,1,0,"0.14",2,2,3,2
+Function,"pgcli.filters.HasSelectedCompletion.__call__(self,cli)",D:\thesis2\real 106 project\pgcli\pgcli\filters.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,2,1,,,,,,0,"0.00",,,,
+Function,"pgcli.filters.HasSelectedCompletion.__repr__(self)",D:\thesis2\real 106 project\pgcli\pgcli\filters.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.key_bindings.pgcli_bindings(get_vi_mode_enabled,set_vi_mode_enabled)",D:\thesis2\real 106 project\pgcli\pgcli\key_bindings.py,,,,,,,,,,,,,,,,,,,,,80,12,44,19,31,24,1,0,33,13,26,1,1,1,1,,,,,,0,"0.55",,,,
+Function,"pgcli.key_bindings.pgcli_bindings._(event)",D:\thesis2\real 106 project\pgcli\pgcli\key_bindings.py,,,,,,,,,,,,,,,,,,,,,7,0,4,2,3,3,1,0,4,2,3,1,1,1,1,,,,,,0,"0.75",,,,
+Function,"pgcli.key_bindings.pgcli_bindings._(event)",D:\thesis2\real 106 project\pgcli\pgcli\key_bindings.py,,,,,,,,,,,,,,,,,,,,,7,0,4,2,3,3,1,0,4,2,3,1,1,1,1,,,,,,0,"0.75",,,,
+Function,"pgcli.key_bindings.pgcli_bindings._(event)",D:\thesis2\real 106 project\pgcli\pgcli\key_bindings.py,,,,,,,,,,,,,,,,,,,,,6,0,3,1,2,3,1,0,3,1,2,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"pgcli.key_bindings.pgcli_bindings._(event)",D:\thesis2\real 106 project\pgcli\pgcli\key_bindings.py,,,,,,,,,,,,,,,,,,,,,10,0,7,2,6,3,2,0,6,2,5,2,2,2,1,,,,,,1,"0.43",,,,
+Function,"pgcli.key_bindings.pgcli_bindings._(event)",D:\thesis2\real 106 project\pgcli\pgcli\key_bindings.py,,,,,,,,,,,,,,,,,,,,,16,3,7,2,6,6,2,0,6,2,5,2,2,2,1,,,,,,1,"0.86",,,,
+Function,"pgcli.key_bindings.pgcli_bindings._(event)",D:\thesis2\real 106 project\pgcli\pgcli\key_bindings.py,,,,,,,,,,,,,,,,,,,,,9,1,5,2,4,3,1,0,5,2,4,1,1,1,1,,,,,,0,"0.60",,,,
+Function,"pgcli.magic.load_ipython_extension(ipython)",D:\thesis2\real 106 project\pgcli\pgcli\magic.py,,,,,,,,,,,,,,,,,,,,,10,3,4,1,3,3,2,0,4,1,3,2,2,2,1,,,,,,1,"0.75",,,,
+Function,"pgcli.magic.pgcli_line_magic(line)",D:\thesis2\real 106 project\pgcli\pgcli\magic.py,,,,,,,,,,,,,,,,,,,,,39,7,27,7,26,5,16,1,27,7,26,6,6,6,4,,,,,,1,"0.19",,,,
+Class,"pgcli.main.PGCli",D:\thesis2\real 106 project\pgcli\pgcli\main.py,3,3,3,2,23,3,17,3,1,12,4,0,,,,,15,18,15,15,404,66,287,86,266,56,,,230,80,211,,,,,20,20,23,12,1,6,"0.20",52,52,59,35
+Function,"pgcli.main.PGCli.__init__(self,force_passwd_prompt,never_passwd_prompt,pgexecute,pgclirc_file)",D:\thesis2\real 106 project\pgcli\pgcli\main.py,,,,,,,,,,,,,,,,,,,,,43,11,30,26,27,2,1,0,29,25,27,1,1,1,1,,,,,,0,"0.07",,,,
+Function,"pgcli.main.PGCli._on_completions_refreshed(self,new_completer)",D:\thesis2\real 106 project\pgcli\pgcli\main.py,,,,,,,,,,,,,,,,,,,,,7,1,4,1,3,2,2,0,4,1,3,2,2,2,1,,,,,,1,"0.50",,,,
+Function,"pgcli.main.PGCli._swap_completer_objects(self,new_completer)",D:\thesis2\real 106 project\pgcli\pgcli\main.py,,,,,,,,,,,,,,,,,,,,,10,0,5,1,4,5,2,0,5,1,4,2,2,2,1,,,,,,2,"1.00",,,,
+Function,"pgcli.main.PGCli.adjust_less_opts(self)",D:\thesis2\real 106 project\pgcli\pgcli\main.py,,,,,,,,,,,,,,,,,,,,,6,1,5,2,4,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.main.PGCli.change_db(self,pattern,_)",D:\thesis2\real 106 project\pgcli\pgcli\main.py,,,,,,,,,,,,,,,,,,,,,9,1,8,2,7,0,2,0,6,2,5,3,3,3,1,,,,,,1,"0.00",,,,
+Function,"pgcli.main.PGCli.connect(self,database,host,user,port,passwd,dsn)",D:\thesis2\real 106 project\pgcli\pgcli\main.py,,,,,,,,,,,,,,,,,,,,,52,8,30,5,28,15,64,2,24,3,23,8,8,12,4,,,,,,3,"0.50",,,,
+Function,"pgcli.main.PGCli.connect_dsn(self,dsn)",D:\thesis2\real 106 project\pgcli\pgcli\main.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.main.PGCli.connect_uri(self,uri)",D:\thesis2\real 106 project\pgcli\pgcli\main.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,1,1,0,4,2,3,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"pgcli.main.PGCli.execute_from_file(self,pattern,_)",D:\thesis2\real 106 project\pgcli\pgcli\main.py,,,,,,,,,,,,,,,,,,,,,11,1,10,5,9,0,3,0,10,3,9,3,3,3,3,,,,,,2,"0.00",,,,
+Function,"pgcli.main.PGCli.get_completions(self,text,cursor_positition)",D:\thesis2\real 106 project\pgcli\pgcli\main.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,3,1,2,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"pgcli.main.PGCli.handle_editor_command(self,cli,document)",D:\thesis2\real 106 project\pgcli\pgcli\main.py,,,,,,,,,,,,,,,,,,,,,24,0,11,3,10,13,3,0,10,3,9,3,3,3,3,,,,,,2,"1.18",,,,
+Function,"pgcli.main.PGCli.initialize_logging(self)",D:\thesis2\real 106 project\pgcli\pgcli\main.py,,,,,,,,,,,,,,,,,,,,,26,7,19,7,18,0,1,0,12,7,11,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.main.PGCli.refresh_completions(self,reset)",D:\thesis2\real 106 project\pgcli\pgcli\main.py,,,,,,,,,,,,,,,,,,,,,8,0,8,1,7,0,2,0,6,1,5,2,2,2,1,,,,,,2,"0.00",,,,
+Function,"pgcli.main.PGCli.register_special_commands(self)",D:\thesis2\real 106 project\pgcli\pgcli\main.py,,,,,,,,,,,,,,,,,,,,,12,1,11,1,10,1,1,0,5,1,4,1,1,1,1,,,,,,0,"0.09",,,,
+Function,"pgcli.main.PGCli.run_cli(self)",D:\thesis2\real 106 project\pgcli\pgcli\main.py,,,,,,,,,,,,,,,,,,,,,169,20,134,27,131,17,478,3,104,26,101,20,20,23,12,,,,,,6,"0.13",,,,
+Function,"pgcli.main.PGCli.run_cli.prompt_tokens(cli)",D:\thesis2\real 106 project\pgcli\pgcli\main.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.main.PGCli.run_cli.set_vi_mode(value)",D:\thesis2\real 106 project\pgcli\pgcli\main.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.main.cli(database,user,host,port,prompt_passwd,never_prompt,dbname,username,version,pgclirc)",D:\thesis2\real 106 project\pgcli\pgcli\main.py,,,,,,,,,,,,,,,,,,,,,45,8,35,4,33,2,25,1,24,3,23,8,8,10,1,,,,,,2,"0.06",,,,
+Function,"pgcli.main.format_output(title,cur,headers,status,table_format,expanded,max_width)",D:\thesis2\real 106 project\pgcli\pgcli\main.py,,,,,,,,,,,,,,,,,,,,,20,0,20,3,19,2,16,1,15,3,14,6,6,9,1,,,,,,3,"0.10",,,,
+Function,"pgcli.main.is_mutating(status)",D:\thesis2\real 106 project\pgcli\pgcli\main.py,,,,,,,,,,,,,,,,,,,,,7,1,5,2,4,1,2,0,5,2,4,2,2,2,1,,,,,,1,"0.20",,,,
+Function,"pgcli.main.is_select(status)",D:\thesis2\real 106 project\pgcli\pgcli\main.py,,,,,,,,,,,,,,,,,,,,,5,0,4,1,3,1,2,0,4,1,3,2,2,2,1,,,,,,1,"0.25",,,,
+Function,"pgcli.main.need_completion_refresh(queries)",D:\thesis2\real 106 project\pgcli\pgcli\main.py,,,,,,,,,,,,,,,,,,,,,13,1,10,3,9,2,4,1,9,3,8,4,4,4,4,,,,,,3,"0.20",,,,
+Function,"pgcli.main.need_completion_reset(queries)",D:\thesis2\real 106 project\pgcli\pgcli\main.py,,,,,,,,,,,,,,,,,,,,,12,0,8,3,7,4,4,1,8,3,7,4,4,4,4,,,,,,3,"0.50",,,,
+Function,"pgcli.main.need_search_path_refresh(sql)",D:\thesis2\real 106 project\pgcli\pgcli\main.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"pgcli.main.obfuscate_process_password()",D:\thesis2\real 106 project\pgcli\pgcli\main.py,,,,,,,,,,,,,,,,,,,,,8,1,7,2,6,0,3,0,6,2,5,3,3,3,1,,,,,,1,"0.00",,,,
+Function,"pgcli.main.quit_command(sql)",D:\thesis2\real 106 project\pgcli\pgcli\main.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,1,0,2,1,1,1,1,4,1,,,,,,0,"0.00",,,,
+Package,"pgcli.packages",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli.packages",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,1,1,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli.packages",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli.packages",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli.packages",,2,2,3,1,10,0,8,2,,,,,2,,1,10,,,,,149,33,88,38,72,28,,,70,37,55,,,,,15,15,20,3,,4,,29,29,37,15
+Package,"pgcli.packages",,3,3,4,2,26,3,10,9,,,,,0,,1,34,,,,,1068,198,511,140,460,373,,,328,136,279,,,,,22,22,32,11,,5,,123,123,148,80
+Package,"pgcli.packages",,4,4,5,3,22,2,12,8,,,,,0,,1,9,,,,,259,42,134,47,119,84,,,104,47,89,,,,,11,11,17,10,,4,,44,44,57,37
+Package,"pgcli.packages",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli.packages",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,2,2,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli.packages",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli.packages",,2,2,2,1,11,1,6,3,,,,,1,,1,13,,,,,187,39,85,37,67,64,,,81,36,64,,,,,7,7,7,1,,4,,37,37,37,13
+Package,"pgcli.packages",,2,2,2,1,5,0,5,0,,,,,1,,1,14,,,,,127,17,89,42,72,23,,,87,41,71,,,,,5,5,5,5,,3,,28,28,28,18
+Package,"pgcli.packages",,9,9,14,7,56,8,39,18,,,,,0,,1,5,,,,,344,50,207,44,195,88,,,148,44,136,,,,,31,31,51,26,,3,,57,57,85,44
+Package,"pgcli.packages",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli.packages",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli.packages",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli.packages",,3,3,3,1,14,3,11,0,,,,,0,,1,2,,,,,32,8,24,14,21,0,,,24,14,21,,,,,5,5,5,1,,2,,6,6,6,2
+Abstract Class,"pgcli.packages.counter.Counter",D:\thesis2\real 106 project\pgcli\pgcli\packages\counter.py,2,2,2,1,11,1,6,3,1,5,0,0,,,,,12,0,13,47,180,36,82,34,67,63,,,78,33,64,,,,,7,7,7,1,2,4,"0.77",37,37,37,13
+Function,"pgcli.packages.counter.Counter.__add__(self,other)",D:\thesis2\real 106 project\pgcli\pgcli\packages\counter.py,,,,,,,,,,,,,,,,,,,,,16,3,9,4,8,4,4,1,9,4,8,4,4,4,1,,,,,,2,"0.44",,,,
+Function,"pgcli.packages.counter.Counter.__and__(self,other)",D:\thesis2\real 106 project\pgcli\pgcli\packages\counter.py,,,,,,,,,,,,,,,,,,,,,18,2,12,5,11,4,7,1,12,5,11,5,5,5,1,,,,,,2,"0.33",,,,
+Function,"pgcli.packages.counter.Counter.__delitem__(self,elem)",D:\thesis2\real 106 project\pgcli\pgcli\packages\counter.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,1,2,0,3,1,2,2,2,2,1,,,,,,1,"0.33",,,,
+Function,"pgcli.packages.counter.Counter.__init__(self,iterable,kwds)",D:\thesis2\real 106 project\pgcli\pgcli\packages\counter.py,,,,,,,,,,,,,,,,,,,,,12,2,2,1,1,8,1,0,2,1,1,1,1,1,1,,,,,,0,"4.00",,,,
+Function,"pgcli.packages.counter.Counter.__missing__(self,key)",D:\thesis2\real 106 project\pgcli\pgcli\packages\counter.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.packages.counter.Counter.__or__(self,other)",D:\thesis2\real 106 project\pgcli\pgcli\packages\counter.py,,,,,,,,,,,,,,,,,,,,,16,2,10,5,9,4,4,1,10,5,9,4,4,4,1,,,,,,2,"0.40",,,,
+Function,"pgcli.packages.counter.Counter.__repr__(self)",D:\thesis2\real 106 project\pgcli\pgcli\packages\counter.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,2,0,5,2,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"pgcli.packages.counter.Counter.__sub__(self,other)",D:\thesis2\real 106 project\pgcli\pgcli\packages\counter.py,,,,,,,,,,,,,,,,,,,,,15,2,9,4,8,4,4,1,9,4,8,4,4,4,1,,,,,,2,"0.44",,,,
+Function,"pgcli.packages.counter.Counter.copy(self)",D:\thesis2\real 106 project\pgcli\pgcli\packages\counter.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"pgcli.packages.counter.Counter.elements(self)",D:\thesis2\real 106 project\pgcli\pgcli\packages\counter.py,,,,,,,,,,,,,,,,,,,,,14,3,4,3,3,7,3,0,4,3,3,3,3,3,1,,,,,,2,"1.75",,,,
+Function,"pgcli.packages.counter.Counter.fromkeys(cls,iterable,v)",D:\thesis2\real 106 project\pgcli\pgcli\packages\counter.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.packages.counter.Counter.most_common(self,n)",D:\thesis2\real 106 project\pgcli\pgcli\packages\counter.py,,,,,,,,,,,,,,,,,,,,,11,2,4,1,3,5,2,0,4,1,3,2,2,2,1,,,,,,1,"1.25",,,,
+Function,"pgcli.packages.counter.Counter.update(self,iterable,kwds)",D:\thesis2\real 106 project\pgcli\pgcli\packages\counter.py,,,,,,,,,,,,,,,,,,,,,27,3,15,3,14,10,12,1,13,3,12,7,7,7,1,,,,,,4,"0.67",,,,
+Function,"pgcli.packages.expanded.expanded_table(rows,headers)",D:\thesis2\real 106 project\pgcli\pgcli\packages\expanded.py,,,,,,,,,,,,,,,,,,,,,27,6,21,12,20,0,10,1,21,12,20,5,5,5,1,,,,,,2,"0.00",,,,
+Function,"pgcli.packages.expanded.pad(field,total,char)",D:\thesis2\real 106 project\pgcli\pgcli\packages\expanded.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"pgcli.packages.function_metadata.FunctionMetadata",D:\thesis2\real 106 project\pgcli\pgcli\packages\function_metadata.py,1,1,1,1,6,0,5,0,1,1,0,0,,,,,6,7,6,6,47,10,32,16,24,5,,,24,15,17,,,,,3,3,3,3,1,1,"0.16",8,8,9,8
+Function,"pgcli.packages.function_metadata.FunctionMetadata.__eq__(self,other)",D:\thesis2\real 106 project\pgcli\pgcli\packages\function_metadata.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,2,1,,,,,,0,"0.00",,,,
+Function,"pgcli.packages.function_metadata.FunctionMetadata.__hash__(self)",D:\thesis2\real 106 project\pgcli\pgcli\packages\function_metadata.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.packages.function_metadata.FunctionMetadata.__init__(self,schema_name,func_name,arg_list,return_type,is_aggregate,is_window,is_set_returning)",D:\thesis2\real 106 project\pgcli\pgcli\packages\function_metadata.py,,,,,,,,,,,,,,,,,,,,,11,1,9,9,7,1,1,0,8,8,7,1,1,1,1,,,,,,0,"0.11",,,,
+Function,"pgcli.packages.function_metadata.FunctionMetadata.__ne__(self,other)",D:\thesis2\real 106 project\pgcli\pgcli\packages\function_metadata.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.packages.function_metadata.FunctionMetadata.__repr__(self)",D:\thesis2\real 106 project\pgcli\pgcli\packages\function_metadata.py,,,,,,,,,,,,,,,,,,,,,6,0,6,1,5,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.packages.function_metadata.FunctionMetadata.fieldnames(self)",D:\thesis2\real 106 project\pgcli\pgcli\packages\function_metadata.py,,,,,,,,,,,,,,,,,,,,,14,3,7,2,6,4,3,0,7,2,6,3,3,3,3,,,,,,1,"0.57",,,,
+Class,"pgcli.packages.function_metadata.TypedFieldMetadata",D:\thesis2\real 106 project\pgcli\pgcli\packages\function_metadata.py,1,1,1,1,4,0,4,0,1,0,0,0,,,,,2,5,2,2,22,4,10,9,7,8,,,10,9,7,,,,,1,1,1,1,1,0,"0.80",2,2,2,2
+Function,"pgcli.packages.function_metadata.TypedFieldMetadata.__getitem__(self,attr)",D:\thesis2\real 106 project\pgcli\pgcli\packages\function_metadata.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.packages.function_metadata.TypedFieldMetadata.__init__(self)",D:\thesis2\real 106 project\pgcli\pgcli\packages\function_metadata.py,,,,,,,,,,,,,,,,,,,,,6,0,6,6,5,0,1,0,6,6,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.packages.function_metadata.field_names(sql,mode_filter)",D:\thesis2\real 106 project\pgcli\pgcli\packages\function_metadata.py,,,,,,,,,,,,,,,,,,,,,7,0,5,3,4,2,3,0,5,3,4,3,3,5,1,,,,,,2,"0.40",,,,
+Function,"pgcli.packages.function_metadata.parse_typed_field_list(tokens)",D:\thesis2\real 106 project\pgcli\pgcli\packages\function_metadata.py,,,,,,,,,,,,,,,,,,,,,55,5,37,6,36,13,28,1,27,6,26,15,15,20,3,,,,,,4,"0.35",,,,
+Class,"pgcli.packages.ordereddict.OrderedDict",D:\thesis2\real 106 project\pgcli\pgcli\packages\ordereddict.py,2,2,2,1,5,0,5,0,2,5,0,0,,,,,13,2,14,48,103,15,88,41,72,2,,,86,40,71,,,,,5,5,5,5,2,3,"0.02",28,28,28,18
+Function,"pgcli.packages.ordereddict.OrderedDict.__delitem__(self,key)",D:\thesis2\real 106 project\pgcli\pgcli\packages\ordereddict.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.packages.ordereddict.OrderedDict.__eq__(self,other)",D:\thesis2\real 106 project\pgcli\pgcli\packages\ordereddict.py,,,,,,,,,,,,,,,,,,,,,9,0,9,2,8,0,5,1,9,2,8,5,5,5,5,,,,,,3,"0.00",,,,
+Function,"pgcli.packages.ordereddict.OrderedDict.__init__(self,args,kwds)",D:\thesis2\real 106 project\pgcli\pgcli\packages\ordereddict.py,,,,,,,,,,,,,,,,,,,,,8,0,8,1,7,0,4,1,8,1,7,3,3,3,1,,,,,,1,"0.00",,,,
+Function,"pgcli.packages.ordereddict.OrderedDict.__iter__(self)",D:\thesis2\real 106 project\pgcli\pgcli\packages\ordereddict.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,2,0,6,3,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"pgcli.packages.ordereddict.OrderedDict.__ne__(self,other)",D:\thesis2\real 106 project\pgcli\pgcli\packages\ordereddict.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.packages.ordereddict.OrderedDict.__reduce__(self)",D:\thesis2\real 106 project\pgcli\pgcli\packages\ordereddict.py,,,,,,,,,,,,,,,,,,,,,9,0,9,4,8,0,2,0,9,4,8,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"pgcli.packages.ordereddict.OrderedDict.__repr__(self)",D:\thesis2\real 106 project\pgcli\pgcli\packages\ordereddict.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"pgcli.packages.ordereddict.OrderedDict.__reversed__(self)",D:\thesis2\real 106 project\pgcli\pgcli\packages\ordereddict.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,2,0,6,3,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"pgcli.packages.ordereddict.OrderedDict.__setitem__(self,key,value)",D:\thesis2\real 106 project\pgcli\pgcli\packages\ordereddict.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,2,0,6,3,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"pgcli.packages.ordereddict.OrderedDict.clear(self)",D:\thesis2\real 106 project\pgcli\pgcli\packages\ordereddict.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,2,1,0,5,3,4,1,1,1,1,,,,,,0,"0.40",,,,
+Function,"pgcli.packages.ordereddict.OrderedDict.copy(self)",D:\thesis2\real 106 project\pgcli\pgcli\packages\ordereddict.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.packages.ordereddict.OrderedDict.fromkeys(cls,iterable,value)",D:\thesis2\real 106 project\pgcli\pgcli\packages\ordereddict.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,2,0,5,3,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"pgcli.packages.ordereddict.OrderedDict.keys(self)",D:\thesis2\real 106 project\pgcli\pgcli\packages\ordereddict.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.packages.ordereddict.OrderedDict.popitem(self,last)",D:\thesis2\real 106 project\pgcli\pgcli\packages\ordereddict.py,,,,,,,,,,,,,,,,,,,,,9,0,9,3,8,0,4,1,8,3,7,3,3,3,1,,,,,,1,"0.00",,,,
+Function,"pgcli.packages.parseutils._identifier_is_function(identifier)",D:\thesis2\real 106 project\pgcli\pgcli\packages\parseutils.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.packages.parseutils._parsed_is_open_quote(parsed)",D:\thesis2\real 106 project\pgcli\pgcli\packages\parseutils.py,,,,,,,,,,,,,,,,,,,,,25,3,17,5,16,5,6,1,15,5,14,6,6,7,6,,,,,,4,"0.29",,,,
+Function,"pgcli.packages.parseutils.extract_from_part(parsed,stop_at_punctuation)",D:\thesis2\real 106 project\pgcli\pgcli\packages\parseutils.py,,,,,,,,,,,,,,,,,,,,,34,0,24,5,23,10,11,1,15,5,14,11,11,17,10,,,,,,4,"0.42",,,,
+Function,"pgcli.packages.parseutils.extract_table_identifiers(token_stream,allow_functions)",D:\thesis2\real 106 project\pgcli\pgcli\packages\parseutils.py,,,,,,,,,,,,,,,,,,,,,33,2,28,7,27,3,10,1,20,7,19,9,9,12,5,,,,,,4,"0.11",,,,
+Function,"pgcli.packages.parseutils.extract_tables(sql)",D:\thesis2\real 106 project\pgcli\pgcli\packages\parseutils.py,,,,,,,,,,,,,,,,,,,,,25,4,9,5,8,12,2,0,8,5,7,2,2,2,1,,,,,,1,"1.33",,,,
+Function,"pgcli.packages.parseutils.find_prev_keyword(sql)",D:\thesis2\real 106 project\pgcli\pgcli\packages\parseutils.py,,,,,,,,,,,,,,,,,,,,,33,6,13,7,12,14,4,1,12,7,11,4,4,6,4,,,,,,2,"1.08",,,,
+Function,"pgcli.packages.parseutils.is_open_quote(sql)",D:\thesis2\real 106 project\pgcli\pgcli\packages\parseutils.py,,,,,,,,,,,,,,,,,,,,,6,1,3,2,2,2,1,0,3,2,2,1,1,1,1,,,,,,0,"0.67",,,,
+Function,"pgcli.packages.parseutils.is_subselect(parsed)",D:\thesis2\real 106 project\pgcli\pgcli\packages\parseutils.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,0,4,1,7,2,6,4,4,5,4,,,,,,2,"0.00",,,,
+Function,"pgcli.packages.parseutils.last_word(text,include)",D:\thesis2\real 106 project\pgcli\pgcli\packages\parseutils.py,,,,,,,,,,,,,,,,,,,,,44,3,12,3,11,30,4,1,10,3,9,4,4,4,4,,,,,,2,"2.50",,,,
+Package,"pgcli.packages.pgliterals",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,2,2,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"pgcli.packages.pgliterals",,1,1,1,1,4,1,2,2,,,,,0,,1,1,,,,,15,5,8,7,5,2,,,8,6,5,,,,,1,1,1,1,,1,,2,2,2,2
+Function,"pgcli.packages.pgliterals.main.get_literals(literal_type)",D:\thesis2\real 106 project\pgcli\pgcli\packages\pgliterals\main.py,,,,,,,,,,,,,,,,,,,,,5,1,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"pgcli.packages.sqlcompletion.identifies(id,ref)",D:\thesis2\real 106 project\pgcli\pgcli\packages\sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,5,1,3,1,2,1,1,0,2,1,1,1,1,4,1,,,,,,0,"0.33",,,,
+Function,"pgcli.packages.sqlcompletion.suggest_based_on_last_token(token,text_before_cursor,full_text,identifier)",D:\thesis2\real 106 project\pgcli\pgcli\packages\sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,182,18,109,15,108,56,96,2,71,15,70,31,31,51,26,,,,,,3,"0.51",,,,
+Function,"pgcli.packages.sqlcompletion.suggest_special(text)",D:\thesis2\real 106 project\pgcli\pgcli\packages\sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,51,7,39,5,38,5,21,1,27,5,26,11,11,11,9,,,,,,2,"0.13",,,,
+Function,"pgcli.packages.sqlcompletion.suggest_type(full_text,text_before_cursor)",D:\thesis2\real 106 project\pgcli\pgcli\packages\sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,83,14,43,13,41,26,60,2,36,13,34,10,10,15,6,,,,,,3,"0.60",,,,
+Function,"pgcli.packages.sqlcompletion.suggest_type.strip_named_query(txt)",D:\thesis2\real 106 project\pgcli\pgcli\packages\sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,10,0,5,2,4,5,2,0,5,2,4,2,2,2,1,,,,,,1,"1.00",,,,
+Function,"pgcli.packages.tabulate._afterpoint(string)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,25,2,13,2,12,12,4,1,10,2,9,5,5,5,4,,,,,,3,"0.92",,,,
+Function,"pgcli.packages.tabulate._align_column(strings,alignment,minwidth,has_invisible)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,36,5,25,7,24,6,9,1,19,7,18,6,6,6,5,,,,,,1,"0.24",,,,
+Function,"pgcli.packages.tabulate._align_header(header,alignment,width)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,9,0,9,1,8,0,4,1,6,1,5,4,4,4,4,,,,,,1,"0.00",,,,
+Function,"pgcli.packages.tabulate._build_line(colwidths,colaligns,linefmt)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,10,0,9,3,8,1,3,0,8,3,7,3,3,3,3,,,,,,1,"0.11",,,,
+Function,"pgcli.packages.tabulate._build_row(padded_cells,colwidths,colaligns,rowfmt)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,8,0,7,1,6,1,3,0,6,1,5,3,3,3,3,,,,,,1,"0.14",,,,
+Function,"pgcli.packages.tabulate._build_simple_row(padded_cells,rowfmt)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,4,0,3,2,2,1,1,0,3,2,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"pgcli.packages.tabulate._column_type(strings,has_invisible)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,22,2,3,2,2,17,1,0,3,2,2,1,1,1,1,,,,,,0,"5.67",,,,
+Function,"pgcli.packages.tabulate._format(val,valtype,floatfmt,missingval)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,26,4,14,1,13,8,6,1,11,1,10,6,6,6,6,,,,,,2,"0.57",,,,
+Function,"pgcli.packages.tabulate._format_table(fmt,headers,rows,colwidths,colaligns)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,34,6,25,8,24,3,48,2,24,8,23,9,9,15,1,,,,,,2,"0.12",,,,
+Function,"pgcli.packages.tabulate._html_row_with_attrs(celltag,cell_values,colwidths,colaligns)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,8,0,8,3,7,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.packages.tabulate._is_file(f)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.packages.tabulate._is_file(f)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.packages.tabulate._isconvertible(conv,string)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,2,0,6,2,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"pgcli.packages.tabulate._isint(string)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,10,0,4,1,3,6,1,0,2,1,1,1,1,5,1,,,,,,0,"1.50",,,,
+Function,"pgcli.packages.tabulate._isnumber(string)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,10,0,2,1,1,8,1,0,2,1,1,1,1,1,1,,,,,,0,"4.00",,,,
+Function,"pgcli.packages.tabulate._latex_line_begin_tabular(colwidths,colaligns,booktabs)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,1,0,4,3,3,2,2,2,1,,,,,,0,"0.00",,,,
+Function,"pgcli.packages.tabulate._latex_row(cell_values,colwidths,colaligns)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,6,0,6,4,4,0,1,0,6,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.packages.tabulate._latex_row.escape_char(c)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.packages.tabulate._main()",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,57,4,39,14,35,14,28,1,33,12,29,12,12,12,8,,,,,,3,"0.36",,,,
+Function,"pgcli.packages.tabulate._mediawiki_row_with_attrs(separator,cell_values,colwidths,colaligns)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,11,0,9,4,8,2,1,0,5,4,4,1,1,1,1,,,,,,0,"0.22",,,,
+Function,"pgcli.packages.tabulate._more_generic(type1,type2)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,5,0,5,4,4,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.packages.tabulate._normalize_tabular_data(tabular_data,headers)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,109,19,66,10,65,31,348,3,50,10,49,22,22,32,11,,,,,,5,"0.47",,,,
+Function,"pgcli.packages.tabulate._pad_row(cells,padding)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,7,0,7,3,6,0,2,0,6,3,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"pgcli.packages.tabulate._padboth(width,s,has_invisible)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,11,2,5,4,4,4,1,0,5,4,4,3,3,3,1,,,,,,0,"0.80",,,,
+Function,"pgcli.packages.tabulate._padleft(width,s,has_invisible)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,9,2,3,2,2,4,1,0,3,2,2,2,2,2,1,,,,,,0,"1.33",,,,
+Function,"pgcli.packages.tabulate._padright(width,s,has_invisible)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,9,2,3,2,2,4,1,0,3,2,2,2,2,2,1,,,,,,0,"1.33",,,,
+Function,"pgcli.packages.tabulate._pipe_line_with_colons(colwidths,colaligns)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,5,0,3,2,2,2,1,0,3,2,2,1,1,1,1,,,,,,0,"0.67",,,,
+Function,"pgcli.packages.tabulate._pipe_segment_with_colons(align,colwidth)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,12,0,10,2,9,2,4,1,7,2,6,4,4,4,4,,,,,,1,"0.20",,,,
+Function,"pgcli.packages.tabulate._pprint_file(fobject,headers,tablefmt,sep)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.packages.tabulate._strip_invisible(s)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,6,0,5,1,4,2,2,0,4,1,3,2,2,2,1,,,,,,1,"0.40",,,,
+Function,"pgcli.packages.tabulate._type(string,has_invisible)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,34,4,18,1,17,13,14,1,12,1,11,8,8,10,7,,,,,,1,"0.72",,,,
+Function,"pgcli.packages.tabulate._visible_width(s)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,11,2,5,1,4,4,2,0,4,1,3,2,2,3,1,,,,,,1,"0.80",,,,
+Function,"pgcli.packages.tabulate.simple_separated_format(separator)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,12,2,5,1,4,5,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"pgcli.packages.tabulate.tabulate(tabular_data,headers,tablefmt,floatfmt,numalign,stralign,missingval)",D:\thesis2\real 106 project\pgcli\pgcli\packages\tabulate.py,,,,,,,,,,,,,,,,,,,,,275,54,34,14,31,187,16,1,26,12,25,7,7,9,1,,,,,,1,"5.50",,,,
+Class,"pgcli.pgbuffer.PGBuffer",D:\thesis2\real 106 project\pgcli\pgcli\pgbuffer.py,1,1,1,1,6,1,5,0,1,1,0,0,,,,,1,2,1,1,11,2,9,7,5,0,,,7,5,4,,,,,1,1,2,1,1,0,"0.00",2,2,3,2
+Function,"pgcli.pgbuffer.PGBuffer.__init__(self,always_multiline,args,kwargs)",D:\thesis2\real 106 project\pgcli\pgcli\pgbuffer.py,,,,,,,,,,,,,,,,,,,,,10,2,8,6,5,0,1,0,6,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.pgbuffer.PGBuffer.__init__.is_multiline()",D:\thesis2\real 106 project\pgcli\pgcli\pgbuffer.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,2,1,,,,,,0,"0.00",,,,
+Function,"pgcli.pgbuffer._is_complete(sql)",D:\thesis2\real 106 project\pgcli\pgcli\pgbuffer.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,2,1,,,,,,0,"1.50",,,,
+Function,"pgcli.pgbuffer._multiline_exception(text)",D:\thesis2\real 106 project\pgcli\pgcli\pgbuffer.py,,,,,,,,,,,,,,,,,,,,,10,0,10,1,9,7,1,0,3,1,2,1,1,7,1,,,,,,0,"0.70",,,,
+Class,"pgcli.pgcompleter.PGCompleter",D:\thesis2\real 106 project\pgcli\pgcli\pgcompleter.py,3,3,4,2,23,4,14,4,1,5,0,0,,,,,18,9,18,18,478,99,295,90,273,84,,,230,86,209,,,,,23,23,27,13,1,5,"0.28",79,79,89,44
+Function,"pgcli.pgcompleter.PGCompleter.__init__(self,smart_completion,pgspecial)",D:\thesis2\real 106 project\pgcli\pgcli\pgcompleter.py,,,,,,,,,,,,,,,,,,,,,16,3,13,10,12,0,2,0,12,10,11,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"pgcli.pgcompleter.PGCompleter.escape_name(self,name)",D:\thesis2\real 106 project\pgcli\pgcli\pgcompleter.py,,,,,,,,,,,,,,,,,,,,,7,1,6,1,5,0,2,0,4,1,3,2,2,5,1,,,,,,1,"0.00",,,,
+Function,"pgcli.pgcompleter.PGCompleter.escaped_names(self,names)",D:\thesis2\real 106 project\pgcli\pgcli\pgcompleter.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.pgcompleter.PGCompleter.extend_columns(self,column_data,kind)",D:\thesis2\real 106 project\pgcli\pgcli\pgcompleter.py,,,,,,,,,,,,,,,,,,,,,13,2,6,3,5,5,2,0,6,3,5,2,2,2,1,,,,,,1,"0.83",,,,
+Function,"pgcli.pgcompleter.PGCompleter.extend_database_names(self,databases)",D:\thesis2\real 106 project\pgcli\pgcli\pgcompleter.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.pgcompleter.PGCompleter.extend_datatypes(self,type_data)",D:\thesis2\real 106 project\pgcli\pgcli\pgcompleter.py,,,,,,,,,,,,,,,,,,,,,11,2,6,4,5,3,2,0,6,4,5,2,2,2,1,,,,,,1,"0.50",,,,
+Function,"pgcli.pgcompleter.PGCompleter.extend_functions(self,func_data)",D:\thesis2\real 106 project\pgcli\pgcli\pgcompleter.py,,,,,,,,,,,,,,,,,,,,,19,5,9,4,8,5,3,0,8,4,7,3,3,3,1,,,,,,2,"0.56",,,,
+Function,"pgcli.pgcompleter.PGCompleter.extend_keywords(self,additional_keywords)",D:\thesis2\real 106 project\pgcli\pgcli\pgcompleter.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.pgcompleter.PGCompleter.extend_relations(self,data,kind)",D:\thesis2\real 106 project\pgcli\pgcli\pgcompleter.py,,,,,,,,,,,,,,,,,,,,,20,3,10,3,9,7,3,0,9,3,8,3,3,3,1,,,,,,2,"0.70",,,,
+Function,"pgcli.pgcompleter.PGCompleter.extend_schemata(self,schemata)",D:\thesis2\real 106 project\pgcli\pgcli\pgcompleter.py,,,,,,,,,,,,,,,,,,,,,14,3,9,3,8,2,6,1,9,3,8,4,4,4,1,,,,,,2,"0.22",,,,
+Function,"pgcli.pgcompleter.PGCompleter.find_matches(self,text,collection,start_only,fuzzy,meta,meta_collection)",D:\thesis2\real 106 project\pgcli\pgcli\pgcompleter.py,,,,,,,,,,,,,,,,,,,,,58,12,29,12,25,17,16,1,25,11,22,7,7,8,1,,,,,,3,"0.59",,,,
+Function,"pgcli.pgcompleter.PGCompleter.find_matches._match(item)",D:\thesis2\real 106 project\pgcli\pgcli\pgcompleter.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,2,0,4,2,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"pgcli.pgcompleter.PGCompleter.find_matches._match(item)",D:\thesis2\real 106 project\pgcli\pgcli\pgcompleter.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,2,0,4,2,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"pgcli.pgcompleter.PGCompleter.get_completions(self,document,complete_event,smart_completion)",D:\thesis2\real 106 project\pgcli\pgcli\pgcompleter.py,,,,,,,,,,,,,,,,,,,,,157,31,110,23,109,16,46,2,66,22,65,23,23,27,13,,,,,,3,"0.15",,,,
+Function,"pgcli.pgcompleter.PGCompleter.populate_functions(self,schema,filter_func)",D:\thesis2\real 106 project\pgcli\pgcli\pgcompleter.py,,,,,,,,,,,,,,,,,,,,,25,3,14,4,13,8,3,0,8,2,7,3,3,3,3,,,,,,2,"0.57",,,,
+Function,"pgcli.pgcompleter.PGCompleter.populate_schema_objects(self,schema,obj_type)",D:\thesis2\real 106 project\pgcli\pgcli\pgcompleter.py,,,,,,,,,,,,,,,,,,,,,17,3,12,4,11,2,3,0,10,4,9,3,3,3,1,,,,,,2,"0.17",,,,
+Function,"pgcli.pgcompleter.PGCompleter.populate_scoped_cols(self,scoped_tbls)",D:\thesis2\real 106 project\pgcli\pgcli\pgcompleter.py,,,,,,,,,,,,,,,,,,,,,75,11,46,8,45,18,18,1,43,8,42,14,14,14,11,,,,,,5,"0.39",,,,
+Function,"pgcli.pgcompleter.PGCompleter.reset_completions(self)",D:\thesis2\real 106 project\pgcli\pgcli\pgcompleter.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,1,0,6,2,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.pgcompleter.PGCompleter.set_search_path(self,search_path)",D:\thesis2\real 106 project\pgcli\pgcli\pgcompleter.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.pgcompleter.PGCompleter.unescape_name(self,name)",D:\thesis2\real 106 project\pgcli\pgcli\pgcompleter.py,,,,,,,,,,,,,,,,,,,,,6,1,4,1,3,1,2,0,4,1,3,2,2,4,1,,,,,,1,"0.25",,,,
+Class,"pgcli.pgexecute.PGExecute",D:\thesis2\real 106 project\pgcli\pgcli\pgexecute.py,2,2,2,1,12,1,8,2,1,3,1,0,,,,,17,7,17,17,314,48,215,60,196,52,,,144,51,126,,,,,9,9,10,7,1,5,"0.24",39,39,46,23
+Function,"pgcli.pgexecute.PGExecute.__init__(self,database,user,password,host,port,dsn)",D:\thesis2\real 106 project\pgcli\pgcli\pgexecute.py,,,,,,,,,,,,,,,,,,,,,8,0,8,7,7,0,1,0,8,7,7,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"pgcli.pgexecute.PGExecute._columns(self,kinds)",D:\thesis2\real 106 project\pgcli\pgcli\pgexecute.py,,,,,,,,,,,,,,,,,,,,,16,2,7,4,6,7,2,0,7,3,6,2,2,2,1,,,,,,2,"1.00",,,,
+Function,"pgcli.pgexecute.PGExecute._json_typecaster(self,json_data)",D:\thesis2\real 106 project\pgcli\pgcli\pgexecute.py,,,,,,,,,,,,,,,,,,,,,13,3,5,1,4,5,2,0,4,1,3,2,2,2,1,,,,,,1,"1.00",,,,
+Function,"pgcli.pgexecute.PGExecute._relations(self,kinds)",D:\thesis2\real 106 project\pgcli\pgcli\pgexecute.py,,,,,,,,,,,,,,,,,,,,,16,2,7,4,6,7,2,0,7,3,6,2,2,2,1,,,,,,2,"1.00",,,,
+Function,"pgcli.pgexecute.PGExecute._select_one(self,cur,sql)",D:\thesis2\real 106 project\pgcli\pgcli\pgexecute.py,,,,,,,,,,,,,,,,,,,,,9,0,3,1,2,6,1,0,3,1,2,1,1,1,1,,,,,,0,"2.00",,,,
+Function,"pgcli.pgexecute.PGExecute.connect(self,database,user,password,host,port,dsn)",D:\thesis2\real 106 project\pgcli\pgcli\pgexecute.py,,,,,,,,,,,,,,,,,,,,,39,1,36,6,34,2,6,1,29,5,28,4,4,10,1,,,,,,2,"0.06",,,,
+Function,"pgcli.pgexecute.PGExecute.databases(self)",D:\thesis2\real 106 project\pgcli\pgcli\pgexecute.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,5,1,4,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"pgcli.pgexecute.PGExecute.datatypes(self)",D:\thesis2\real 106 project\pgcli\pgcli\pgexecute.py,,,,,,,,,,,,,,,,,,,,,8,1,6,3,5,1,2,0,6,2,5,2,2,2,1,,,,,,2,"0.17",,,,
+Function,"pgcli.pgexecute.PGExecute.execute_normal_sql(self,split_sql)",D:\thesis2\real 106 project\pgcli\pgcli\pgexecute.py,,,,,,,,,,,,,,,,,,,,,18,2,14,4,13,2,4,1,13,4,12,3,3,3,1,,,,,,1,"0.14",,,,
+Function,"pgcli.pgexecute.PGExecute.functions(self)",D:\thesis2\real 106 project\pgcli\pgcli\pgexecute.py,,,,,,,,,,,,,,,,,,,,,8,1,6,3,5,1,2,0,6,2,5,2,2,2,1,,,,,,2,"0.17",,,,
+Function,"pgcli.pgexecute.PGExecute.run(self,statement,pgspecial,on_error)",D:\thesis2\real 106 project\pgcli\pgcli\pgexecute.py,,,,,,,,,,,,,,,,,,,,,47,8,27,5,26,13,18,1,26,4,25,9,9,10,7,,,,,,5,"0.48",,,,
+Function,"pgcli.pgexecute.PGExecute.schemata(self)",D:\thesis2\real 106 project\pgcli\pgcli\pgexecute.py,,,,,,,,,,,,,,,,,,,,,7,1,5,2,4,1,1,0,5,1,4,1,1,1,1,,,,,,1,"0.20",,,,
+Function,"pgcli.pgexecute.PGExecute.search_path(self)",D:\thesis2\real 106 project\pgcli\pgcli\pgexecute.py,,,,,,,,,,,,,,,,,,,,,7,1,5,2,4,1,1,0,5,1,4,1,1,1,1,,,,,,1,"0.20",,,,
+Function,"pgcli.pgexecute.PGExecute.table_columns(self)",D:\thesis2\real 106 project\pgcli\pgcli\pgexecute.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"pgcli.pgexecute.PGExecute.tables(self)",D:\thesis2\real 106 project\pgcli\pgcli\pgexecute.py,,,,,,,,,,,,,,,,,,,,,4,0,3,2,2,1,2,0,3,2,2,2,2,2,1,,,,,,1,"0.33",,,,
+Function,"pgcli.pgexecute.PGExecute.view_columns(self)",D:\thesis2\real 106 project\pgcli\pgcli\pgexecute.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"pgcli.pgexecute.PGExecute.views(self)",D:\thesis2\real 106 project\pgcli\pgcli\pgexecute.py,,,,,,,,,,,,,,,,,,,,,7,1,3,2,2,3,2,0,3,2,2,2,2,2,1,,,,,,1,"1.00",,,,
+Function,"pgcli.pgexecute.register_hstore_typecaster(conn)",D:\thesis2\real 106 project\pgcli\pgcli\pgexecute.py,,,,,,,,,,,,,,,,,,,,,14,0,8,3,7,6,2,0,8,2,7,2,2,2,1,,,,,,2,"0.75",,,,
+Function,"pgcli.pgexecute.register_json_typecasters(conn,loads_fn)",D:\thesis2\real 106 project\pgcli\pgcli\pgexecute.py,,,,,,,,,,,,,,,,,,,,,25,5,9,3,8,11,3,0,9,3,8,3,3,3,1,,,,,,2,"1.22",,,,
+Function,"pgcli.pgstyle.style_factory(name,cli_style)",D:\thesis2\real 106 project\pgcli\pgcli\pgstyle.py,,,,,,,,,,,,,,,,,,,,,15,2,13,5,11,0,2,0,12,5,10,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"pgcli.pgstyle.style_factory.PGStyle",D:\thesis2\real 106 project\pgcli\pgcli\pgstyle.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,0,8,1,7,3,6,0,,,6,3,5,,,,,0,0,0,0,1,0,"0.00",0,0,0,0
+Function,"pgcli.pgtoolbar.create_toolbar_tokens_func(get_vi_mode_enabled,get_is_refreshing)",D:\thesis2\real 106 project\pgcli\pgcli\pgtoolbar.py,,,,,,,,,,,,,,,,,,,,,36,8,25,4,23,3,1,0,21,4,19,1,1,1,1,,,,,,0,"0.12",,,,
+Function,"pgcli.pgtoolbar.create_toolbar_tokens_func.get_toolbar_tokens(cli)",D:\thesis2\real 106 project\pgcli\pgcli\pgtoolbar.py,,,,,,,,,,,,,,,,,,,,,27,6,21,2,20,0,32,2,17,2,16,6,6,6,1,,,,,,1,"0.00",,,,
+Function,"release.commit_for_release(version_file,ver)",D:\thesis2\real 106 project\pgcli\release.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,4,1,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"release.create_git_tag(tag_name)",D:\thesis2\real 106 project\pgcli\release.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"release.create_source_tarball()",D:\thesis2\real 106 project\pgcli\release.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"release.push_tags_to_github()",D:\thesis2\real 106 project\pgcli\release.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"release.push_to_github()",D:\thesis2\real 106 project\pgcli\release.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"release.register_with_pypi()",D:\thesis2\real 106 project\pgcli\release.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"release.run_step(args)",D:\thesis2\real 106 project\pgcli\release.py,,,,,,,,,,,,,,,,,,,,,16,1,10,3,8,5,3,0,8,3,6,3,3,3,1,,,,,,1,"0.50",,,,
+Function,"release.skip_step()",D:\thesis2\real 106 project\pgcli\release.py,,,,,,,,,,,,,,,,,,,,,12,1,7,3,5,4,3,0,7,3,5,3,3,3,3,,,,,,2,"0.57",,,,
+Function,"release.version(version_file)",D:\thesis2\real 106 project\pgcli\release.py,,,,,,,,,,,,,,,,,,,,,8,2,6,4,5,0,1,0,5,3,4,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"step_definitions._expect_exact(context,expected,timeout)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,9,0,8,2,7,1,2,0,6,2,5,2,2,2,1,,,,,,1,"0.12",,,,
+Function,"step_definitions.step_create_table(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"step_definitions.step_ctrl_d(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,6,0,3,1,2,3,1,0,3,1,2,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"step_definitions.step_db_connect_postgres(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"step_definitions.step_db_connect_test(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,6,0,3,2,2,3,1,0,3,2,2,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"step_definitions.step_db_create(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,10,1,6,1,5,3,1,0,3,1,2,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"step_definitions.step_db_drop(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,6,0,3,1,2,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"step_definitions.step_delete_from_table(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"step_definitions.step_drop_table(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"step_definitions.step_edit_done_sql(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,7,0,5,1,4,2,2,0,5,1,4,2,2,3,1,,,,,,1,"0.40",,,,
+Function,"step_definitions.step_edit_file(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,9,0,6,1,5,3,2,0,6,1,5,2,2,2,1,,,,,,1,"0.50",,,,
+Function,"step_definitions.step_edit_quit(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"step_definitions.step_edit_type_sql(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,6,0,4,1,3,2,1,0,4,1,3,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"step_definitions.step_insert_into_table(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"step_definitions.step_install_cli(_)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,6,0,3,2,2,3,1,0,3,2,2,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"step_definitions.step_refresh_completions(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"step_definitions.step_run_cli(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,6,0,3,1,2,3,1,0,3,1,2,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"step_definitions.step_see_data_deleted(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"step_definitions.step_see_data_selected(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,6,0,3,1,2,3,1,0,3,1,2,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"step_definitions.step_see_db_connected(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"step_definitions.step_see_db_created(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"step_definitions.step_see_db_dropped(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"step_definitions.step_see_help(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"step_definitions.step_see_prompt(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"step_definitions.step_see_record_inserted(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"step_definitions.step_see_record_updated(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"step_definitions.step_see_refresh_started(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"step_definitions.step_see_table_created(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"step_definitions.step_see_table_dropped(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"step_definitions.step_select_from_table(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"step_definitions.step_send_help(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"step_definitions.step_update_table(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"step_definitions.step_wait_exit(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"step_definitions.step_wait_prompt(context)",D:\thesis2\real 106 project\pgcli\tests\features\steps\step_definitions.py,,,,,,,,,,,,,,,,,,,,,5,0,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Function,"test_completion_refresher.refresher()",D:\thesis2\real 106 project\pgcli\tests\test_completion_refresher.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,1,0,1,0,3,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_completion_refresher.test_ctor(refresher)",D:\thesis2\real 106 project\pgcli\tests\test_completion_refresher.py,,,,,,,,,,,,,,,,,,,,,11,0,6,3,5,5,1,0,5,3,4,1,1,1,1,,,,,,0,"0.83",,,,
+Function,"test_completion_refresher.test_refresh_called_once(refresher)",D:\thesis2\real 106 project\pgcli\tests\test_completion_refresher.py,,,,,,,,,,,,,,,,,,,,,17,2,11,6,10,5,1,0,11,5,10,1,1,1,1,,,,,,1,"0.45",,,,
+Function,"test_completion_refresher.test_refresh_called_twice(refresher)",D:\thesis2\real 106 project\pgcli\tests\test_completion_refresher.py,,,,,,,,,,,,,,,,,,,,,27,5,17,7,15,8,1,0,17,7,15,1,1,1,1,,,,,,0,"0.47",,,,
+Function,"test_completion_refresher.test_refresh_called_twice.dummy_bg_refresh(args)",D:\thesis2\real 106 project\pgcli\tests\test_completion_refresher.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"test_completion_refresher.test_refresh_with_callbacks(refresher)",D:\thesis2\real 106 project\pgcli\tests\test_completion_refresher.py,,,,,,,,,,,,,,,,,,,,,16,1,10,5,9,6,1,0,10,5,9,1,1,1,1,,,,,,1,"0.60",,,,
+Function,"test_expanded.test_expanded_table_renders()",D:\thesis2\real 106 project\pgcli\tests\test_expanded.py,,,,,,,,,,,,,,,,,,,,,11,1,10,2,9,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_function_metadata.test_argument_names()",D:\thesis2\real 106 project\pgcli\tests\test_function_metadata.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_function_metadata.test_function_metadata_eq()",D:\thesis2\real 106 project\pgcli\tests\test_function_metadata.py,,,,,,,,,,,,,,,,,,,,,10,0,10,4,9,0,1,0,10,4,9,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_function_metadata.test_parse_typed_field_list_more_complex()",D:\thesis2\real 106 project\pgcli\tests\test_function_metadata.py,,,,,,,,,,,,,,,,,,,,,9,0,9,4,8,0,1,0,6,4,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_function_metadata.test_parse_typed_field_list_no_arg_names()",D:\thesis2\real 106 project\pgcli\tests\test_function_metadata.py,,,,,,,,,,,,,,,,,,,,,5,0,5,4,4,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_function_metadata.test_parse_typed_field_list_simple()",D:\thesis2\real 106 project\pgcli\tests\test_function_metadata.py,,,,,,,,,,,,,,,,,,,,,5,0,5,4,4,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_function_metadata.test_table_column_names()",D:\thesis2\real 106 project\pgcli\tests\test_function_metadata.py,,,,,,,,,,,,,,,,,,,,,7,0,7,3,6,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_fuzzy_completion.completer()",D:\thesis2\real 106 project\pgcli\tests\test_fuzzy_completion.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,1,0,1,0,3,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_fuzzy_completion.test_ranking_based_on_shortest_match(completer)",D:\thesis2\real 106 project\pgcli\tests\test_fuzzy_completion.py,,,,,,,,,,,,,,,,,,,,,20,6,5,4,4,9,1,0,5,4,4,1,1,1,1,,,,,,0,"1.80",,,,
+Function,"test_fuzzy_completion.test_ranking_ignores_identifier_quotes(completer)",D:\thesis2\real 106 project\pgcli\tests\test_fuzzy_completion.py,,,,,,,,,,,,,,,,,,,,,20,6,5,4,4,9,1,0,5,4,4,1,1,1,1,,,,,,0,"1.80",,,,
+Function,"test_main.test_need_completion_refresh(sql)",D:\thesis2\real 106 project\pgcli\tests\test_main.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_main.test_obfuscate_process_password()",D:\thesis2\real 106 project\pgcli\tests\test_main.py,,,,,,,,,,,,,,,,,,,,,29,5,24,5,22,0,1,0,24,5,22,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_naive_completion.complete_event()",D:\thesis2\real 106 project\pgcli\tests\test_naive_completion.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,1,0,1,0,3,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_naive_completion.completer()",D:\thesis2\real 106 project\pgcli\tests\test_naive_completion.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,1,0,1,0,3,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_naive_completion.test_column_name_completion(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_naive_completion.py,,,,,,,,,,,,,,,,,,,,,7,0,7,4,6,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_naive_completion.test_empty_string_completion(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_naive_completion.py,,,,,,,,,,,,,,,,,,,,,7,0,7,4,6,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_naive_completion.test_function_name_completion(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_naive_completion.py,,,,,,,,,,,,,,,,,,,,,9,0,9,4,8,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_naive_completion.test_select_keyword_completion(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_naive_completion.py,,,,,,,,,,,,,,,,,,,,,7,0,7,4,6,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_complex_table_and_function()",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_empty_string()",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_find_prev_keyword_open_parens(sql)",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_find_prev_keyword_using()",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,2,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_find_prev_keyword_where(sql)",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,2,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_is_open_quote__closed(sql)",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_is_open_quote__open(sql)",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_join_as_table()",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_join_table(join_type)",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_join_table_schema_qualified()",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_select_with_hanging_comma_multiple_tables()",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_select_with_hanging_comma_single_table()",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_select_with_hanging_period_multiple_tables()",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_simple_aliased_function_as_table(arg_list)",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_simple_function_as_table(arg_list)",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_simple_insert_single_table()",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,8,2,3,2,2,3,1,0,3,2,2,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"test_parseutils.test_simple_insert_single_table_schema_qualified()",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_simple_schema_qualified_function_as_table(arg_list)",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_simple_select_multiple_tables()",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_simple_select_multiple_tables_deouble_quoted_aliased()",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_simple_select_multiple_tables_double_quoted()",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_simple_select_multiple_tables_schema_qualified()",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_simple_select_single_table()",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_simple_select_single_table_deouble_quoted_aliased()",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_simple_select_single_table_double_quoted()",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_simple_select_single_table_schema_qualified()",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_simple_select_with_cols_multiple_tables()",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_simple_select_with_cols_multiple_tables()",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_simple_select_with_cols_single_table()",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_simple_select_with_cols_single_table_schema_qualified()",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_simple_table_and_function()",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_simple_update_table()",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_parseutils.test_simple_update_table()",D:\thesis2\real 106 project\pgcli\tests\test_parseutils.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgexecute.expanded(request)",D:\thesis2\real 106 project\pgcli\tests\test_pgexecute.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgexecute.pgspecial()",D:\thesis2\real 106 project\pgcli\tests\test_pgexecute.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgexecute.test_bools_are_treated_as_strings(executor)",D:\thesis2\real 106 project\pgcli\tests\test_pgexecute.py,,,,,,,,,,,,,,,,,,,,,10,0,10,1,9,0,1,0,4,1,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgexecute.test_bytea_field_support_in_output(executor)",D:\thesis2\real 106 project\pgcli\tests\test_pgexecute.py,,,,,,,,,,,,,,,,,,,,,6,1,5,1,4,0,1,0,4,1,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgexecute.test_conn(executor)",D:\thesis2\real 106 project\pgcli\tests\test_pgexecute.py,,,,,,,,,,,,,,,,,,,,,10,0,10,1,9,0,1,0,4,1,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgexecute.test_database_list(executor)",D:\thesis2\real 106 project\pgcli\tests\test_pgexecute.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgexecute.test_datatypes_query(executor)",D:\thesis2\real 106 project\pgcli\tests\test_pgexecute.py,,,,,,,,,,,,,,,,,,,,,5,1,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgexecute.test_describe_special(executor,command,verbose,pattern)",D:\thesis2\real 106 project\pgcli\tests\test_pgexecute.py,,,,,,,,,,,,,,,,,,,,,5,0,3,2,2,2,1,0,3,2,2,1,1,1,1,,,,,,0,"0.67",,,,
+Function,"test_pgexecute.test_functions_query(executor)",D:\thesis2\real 106 project\pgcli\tests\test_pgexecute.py,,,,,,,,,,,,,,,,,,,,,25,3,22,2,21,0,1,0,8,2,7,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgexecute.test_invalid_column_name(executor)",D:\thesis2\real 106 project\pgcli\tests\test_pgexecute.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgexecute.test_invalid_syntax(executor)",D:\thesis2\real 106 project\pgcli\tests\test_pgexecute.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgexecute.test_json_renders_without_u_prefix(executor,expanded)",D:\thesis2\real 106 project\pgcli\tests\test_pgexecute.py,,,,,,,,,,,,,,,,,,,,,7,1,6,2,5,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgexecute.test_jsonb_renders_without_u_prefix(executor,expanded)",D:\thesis2\real 106 project\pgcli\tests\test_pgexecute.py,,,,,,,,,,,,,,,,,,,,,7,1,6,2,5,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgexecute.test_large_numbers_render_directly(executor,value)",D:\thesis2\real 106 project\pgcli\tests\test_pgexecute.py,,,,,,,,,,,,,,,,,,,,,6,1,5,1,4,0,1,0,4,1,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgexecute.test_multiple_queries_same_line(executor)",D:\thesis2\real 106 project\pgcli\tests\test_pgexecute.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,1,1,0,5,2,4,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"test_pgexecute.test_multiple_queries_same_line_syntaxerror(executor)",D:\thesis2\real 106 project\pgcli\tests\test_pgexecute.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgexecute.test_multiple_queries_with_special_command_same_line(executor,pgspecial)",D:\thesis2\real 106 project\pgcli\tests\test_pgexecute.py,,,,,,,,,,,,,,,,,,,,,6,0,5,2,4,2,1,0,5,2,4,1,1,1,1,,,,,,0,"0.40",,,,
+Function,"test_pgexecute.test_on_error_raises(executor,sql)",D:\thesis2\real 106 project\pgcli\tests\test_pgexecute.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"test_pgexecute.test_on_error_resume(executor)",D:\thesis2\real 106 project\pgcli\tests\test_pgexecute.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgexecute.test_on_error_stop(executor)",D:\thesis2\real 106 project\pgcli\tests\test_pgexecute.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgexecute.test_schemata_table_views_and_columns_query(executor)",D:\thesis2\real 106 project\pgcli\tests\test_pgexecute.py,,,,,,,,,,,,,,,,,,,,,29,5,19,1,18,5,1,0,13,1,12,1,1,1,1,,,,,,0,"0.26",,,,
+Function,"test_pgexecute.test_special_command_help(executor,pgspecial)",D:\thesis2\real 106 project\pgcli\tests\test_pgexecute.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgexecute.test_unicode_support_in_output(executor,expanded)",D:\thesis2\real 106 project\pgcli\tests\test_pgexecute.py,,,,,,,,,,,,,,,,,,,,,7,1,5,1,4,1,1,0,4,1,3,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"test_pgexecute.test_unicode_support_in_unknown_type(executor)",D:\thesis2\real 106 project\pgcli\tests\test_pgexecute.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgspecial.test_c_suggests_databases(command)",D:\thesis2\real 106 project\pgcli\tests\test_pgspecial.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgspecial.test_dT_suggests_schema_or_datatypes()",D:\thesis2\real 106 project\pgcli\tests\test_pgspecial.py,,,,,,,,,,,,,,,,,,,,,7,0,7,3,6,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgspecial.test_d_dot_suggests_schema_qualified_tables_or_views()",D:\thesis2\real 106 project\pgcli\tests\test_pgspecial.py,,,,,,,,,,,,,,,,,,,,,8,1,7,2,6,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgspecial.test_d_suggests_tables_views_and_schemas()",D:\thesis2\real 106 project\pgcli\tests\test_pgspecial.py,,,,,,,,,,,,,,,,,,,,,12,1,11,2,10,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgspecial.test_df_suggests_schema_or_function()",D:\thesis2\real 106 project\pgcli\tests\test_pgspecial.py,,,,,,,,,,,,,,,,,,,,,7,1,6,2,5,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgspecial.test_dn_suggests_schemata()",D:\thesis2\real 106 project\pgcli\tests\test_pgspecial.py,,,,,,,,,,,,,,,,,,,,,6,1,5,2,4,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgspecial.test_leading_whitespace_ok()",D:\thesis2\real 106 project\pgcli\tests\test_pgspecial.py,,,,,,,,,,,,,,,,,,,,,5,0,5,4,4,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgspecial.test_schema_qualified_dT_suggests_datatypes()",D:\thesis2\real 106 project\pgcli\tests\test_pgspecial.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgspecial.test_slash_d_suggests_special()",D:\thesis2\real 106 project\pgcli\tests\test_pgspecial.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_pgspecial.test_slash_suggests_special()",D:\thesis2\real 106 project\pgcli\tests\test_pgspecial.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_multiple_schemata.complete_event()",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_multiple_schemata.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,1,0,1,0,3,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_multiple_schemata.completer()",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_multiple_schemata.py,,,,,,,,,,,,,,,,,,,,,30,8,22,9,20,0,3,0,18,8,16,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"test_smart_completion_multiple_schemata.test_schema_or_visible_table_completion(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_multiple_schemata.py,,,,,,,,,,,,,,,,,,,,,11,0,11,4,10,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_multiple_schemata.test_schema_qualified_function_name(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_multiple_schemata.py,,,,,,,,,,,,,,,,,,,,,8,0,8,4,7,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_multiple_schemata.test_schema_qualified_type_name(text,completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_multiple_schemata.py,,,,,,,,,,,,,,,,,,,,,11,0,11,3,10,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_multiple_schemata.test_suggest_columns_from_aliased_set_returning_function(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_multiple_schemata.py,,,,,,,,,,,,,,,,,,,,,7,0,7,4,6,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_multiple_schemata.test_suggested_aliases_after_on(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_multiple_schemata.py,,,,,,,,,,,,,,,,,,,,,9,0,9,4,8,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_multiple_schemata.test_suggested_aliases_after_on_right_side(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_multiple_schemata.py,,,,,,,,,,,,,,,,,,,,,9,0,9,4,8,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_multiple_schemata.test_suggested_column_names_from_qualified_shadowed_table(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_multiple_schemata.py,,,,,,,,,,,,,,,,,,,,,15,0,15,4,14,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_multiple_schemata.test_suggested_column_names_from_schema_qualifed_table(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_multiple_schemata.py,,,,,,,,,,,,,,,,,,,,,21,0,15,4,14,6,1,0,5,4,4,1,1,1,1,,,,,,0,"0.40",,,,
+Function,"test_smart_completion_multiple_schemata.test_suggested_column_names_from_shadowed_visible_table(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_multiple_schemata.py,,,,,,,,,,,,,,,,,,,,,24,1,17,4,16,6,1,0,5,4,4,1,1,1,1,,,,,,0,"0.35",,,,
+Function,"test_smart_completion_multiple_schemata.test_suggested_column_names_in_function(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_multiple_schemata.py,,,,,,,,,,,,,,,,,,,,,18,0,11,4,10,7,1,0,5,4,4,1,1,1,1,,,,,,0,"0.64",,,,
+Function,"test_smart_completion_multiple_schemata.test_suggested_column_names_with_qualified_alias(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_multiple_schemata.py,,,,,,,,,,,,,,,,,,,,,17,0,11,4,10,6,1,0,5,4,4,1,1,1,1,,,,,,0,"0.55",,,,
+Function,"test_smart_completion_multiple_schemata.test_suggested_multiple_column_names(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_multiple_schemata.py,,,,,,,,,,,,,,,,,,,,,23,0,16,4,15,7,1,0,5,4,4,1,1,1,1,,,,,,0,"0.44",,,,
+Function,"test_smart_completion_multiple_schemata.test_suggested_multiple_column_names_with_alias(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_multiple_schemata.py,,,,,,,,,,,,,,,,,,,,,18,0,11,4,10,7,1,0,5,4,4,1,1,1,1,,,,,,0,"0.64",,,,
+Function,"test_smart_completion_multiple_schemata.test_suggested_table_names_with_schema_dot(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_multiple_schemata.py,,,,,,,,,,,,,,,,,,,,,11,0,11,4,10,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_multiple_schemata.test_table_names_after_from(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_multiple_schemata.py,,,,,,,,,,,,,,,,,,,,,13,0,13,4,12,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_public_schema_only.complete_event()",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,1,0,1,0,3,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_public_schema_only.completer()",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,38,10,24,10,22,4,4,1,23,10,21,3,3,3,1,,,,,,1,"0.17",,,,
+Function,"test_smart_completion_public_schema_only.test_auto_escaped_col_names(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,17,0,17,4,16,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_public_schema_only.test_builtin_function_matches_only_at_start(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,9,2,7,5,6,0,1,0,6,5,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_public_schema_only.test_builtin_function_name_completion(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,8,0,8,4,7,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_public_schema_only.test_empty_string_completion(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,9,0,9,4,8,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_public_schema_only.test_join_functions_on_suggests_columns(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,9,0,9,4,8,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_public_schema_only.test_join_functions_using_suggests_common_columns(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,9,0,9,4,8,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_public_schema_only.test_join_functions_using_suggests_common_columns(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,9,0,9,4,8,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_public_schema_only.test_join_using_suggests_columns_after_first_column(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,9,0,9,4,8,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_public_schema_only.test_join_using_suggests_common_columns(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,9,0,9,4,8,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_public_schema_only.test_schema_or_visible_table_completion(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,12,0,12,4,11,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_public_schema_only.test_select_keyword_completion(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,8,0,8,4,7,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_public_schema_only.test_suggest_columns_from_aliased_set_returning_function(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,8,0,8,4,7,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_public_schema_only.test_suggest_columns_from_escaped_table_alias(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,11,0,11,4,10,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_public_schema_only.test_suggest_columns_from_set_returning_function(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,13,0,13,4,12,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_public_schema_only.test_suggest_datatype(text,completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,12,0,12,3,11,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_public_schema_only.test_suggested_aliases_after_on(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,9,0,9,4,8,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_public_schema_only.test_suggested_aliases_after_on_right_side(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,9,0,9,4,8,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_public_schema_only.test_suggested_column_names_from_visible_table(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,24,0,18,4,17,6,1,0,5,4,4,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"test_smart_completion_public_schema_only.test_suggested_column_names_in_function(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,19,0,12,4,11,7,1,0,5,4,4,1,1,1,1,,,,,,0,"0.58",,,,
+Function,"test_smart_completion_public_schema_only.test_suggested_column_names_with_alias(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,18,0,12,4,11,6,1,0,5,4,4,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"test_smart_completion_public_schema_only.test_suggested_column_names_with_table_dot(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,18,0,12,4,11,6,1,0,5,4,4,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"test_smart_completion_public_schema_only.test_suggested_multiple_column_names(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,25,0,18,4,17,7,1,0,5,4,4,1,1,1,1,,,,,,0,"0.39",,,,
+Function,"test_smart_completion_public_schema_only.test_suggested_multiple_column_names_with_alias(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,19,0,12,4,11,7,1,0,5,4,4,1,1,1,1,,,,,,0,"0.58",,,,
+Function,"test_smart_completion_public_schema_only.test_suggested_multiple_column_names_with_dot(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,19,0,12,4,11,7,1,0,5,4,4,1,1,1,1,,,,,,0,"0.58",,,,
+Function,"test_smart_completion_public_schema_only.test_suggested_tables_after_on(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,9,0,9,4,8,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_public_schema_only.test_suggested_tables_after_on_right_side(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,9,0,9,4,8,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_public_schema_only.test_table_names_after_from(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,14,0,14,4,13,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_public_schema_only.test_user_function_name_completion(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,10,0,10,4,9,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_smart_completion_public_schema_only.test_user_function_name_completion_matches_anywhere(completer,complete_event)",D:\thesis2\real 106 project\pgcli\tests\test_smart_completion_public_schema_only.py,,,,,,,,,,,,,,,,,,,,,9,0,9,5,7,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.sorted_dicts(dicts)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"test_sqlcompletion.test_2_statements_1st_current()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,16,1,15,2,14,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_2_statements_2nd_current()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,25,2,22,2,21,1,1,0,7,2,6,1,1,1,1,,,,,,0,"0.05",,,,
+Function,"test_sqlcompletion.test_3_statements_2nd_current()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,16,1,15,2,14,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_alias_suggests_keywords(text)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_alter_column_type_suggests_types()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_cast_operator_suggests_schema_qualified_types(text)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_cast_operator_suggests_types(text)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_col_comma_suggests_cols()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_create_db_with_template()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,5,1,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_distinct_suggests_cols()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_dot_col_comma_suggests_cols_or_schema_qualified_table()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_dot_suggests_cols_of_a_table_or_schema_qualified_table()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_dot_suggests_cols_of_an_alias(sql)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_dot_suggests_cols_of_an_alias_where(sql)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_drop_schema_qualified_table_suggests_only_tables()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_drop_schema_suggests_schemas()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_handle_pre_completion_comma_gracefully(text)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,4,1,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_identifier_suggests_types_in_parentheses(text)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_insert_into_lparen_comma_suggests_cols()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_insert_into_lparen_partial_text_suggests_cols()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_insert_into_lparen_suggests_cols()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_into_suggests_tables_and_schemas()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_invalid_sql()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,5,0,4,3,3,1,1,0,4,3,3,1,1,1,1,,,,,,0,"0.25",,,,
+Function,"test_sqlcompletion.test_join_alias_dot_suggests_cols1(sql)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_join_alias_dot_suggests_cols2(sql)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_join_suggests_tables_and_schemas(tbl_alias,join_type)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,8,0,8,3,7,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_join_using_suggests_common_columns(col_list)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_left_join_with_comma()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,8,0,8,3,7,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_lparen_suggests_cols()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_named_query_completion(text,before,expected)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_on_suggests_aliases(sql)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_on_suggests_aliases_right_side(sql)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_on_suggests_tables(sql)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_on_suggests_tables_right_side(sql)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_outer_table_reference_in_exists_subquery_suggests_columns()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,8,0,8,3,7,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_partially_typed_col_name_suggests_col_names()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_select_suggests_cols_and_funcs()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_select_suggests_cols_with_qualified_table_scope()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_select_suggests_cols_with_visible_table_scope()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_select_suggests_fields_from_function()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_specials_included_for_initial_completion(initial_text)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,5,1,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_sub_select_col_name_completion()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_sub_select_dot_col_name_completion()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_sub_select_multiple_col_name_completion()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_sub_select_partial_text_suggests_keyword(expression)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_sub_select_suggests_keyword(expression)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_sub_select_table_name_completion(expression)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_suggest_qualified_tables_and_views(expression)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_suggest_qualified_tables_views_and_set_returning_functions(expression)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_suggest_tables_views_schemas_and_set_returning_functions(expression)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_suggest_where_keyword(text)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,8,0,7,2,6,1,1,0,3,2,2,1,1,1,1,,,,,,0,"0.14",,,,
+Function,"test_sqlcompletion.test_suggests_tables_views_and_schemas(expression)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_table_comma_suggests_tables_and_schemas()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_truncate_suggests_qualified_tables()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_truncate_suggests_tables_and_schemas()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_where_equals_any_suggests_columns_or_keywords()",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,7,0,7,3,6,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_where_in_suggests_columns(expression)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sqlcompletion.test_where_suggests_columns_functions(expression)",D:\thesis2\real 106 project\pgcli\tests\test_sqlcompletion.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"utils.create_db(dbname)",D:\thesis2\real 106 project\pgcli\tests\utils.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,2,0,6,1,5,2,2,2,1,,,,,,2,"0.00",,,,
+Function,"utils.db_connection(dbname)",D:\thesis2\real 106 project\pgcli\tests\utils.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"utils.drop_tables(conn)",D:\thesis2\real 106 project\pgcli\tests\utils.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,1,0,3,1,2,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"utils.run(executor,sql,join,expanded,pgspecial)",D:\thesis2\real 106 project\pgcli\tests\utils.py,,,,,,,,,,,,,,,,,,,,,9,0,8,3,7,1,4,1,7,3,6,3,3,3,1,,,,,,1,"0.12",,,,

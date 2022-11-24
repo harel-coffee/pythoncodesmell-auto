@@ -1,0 +1,33 @@
+Kind,Name,File,AvgCyclomatic,AvgCyclomaticModified,AvgCyclomaticStrict,AvgEssential,AvgLine,AvgLineBlank,AvgLineCode,AvgLineComment,CountClassBase,CountClassCoupled,CountClassCoupledModified,CountClassDerived,CountDeclClass,CountDeclExecutableUnit,CountDeclFile,CountDeclFunction,CountDeclInstanceMethod,CountDeclInstanceVariable,CountDeclMethod,CountDeclMethodAll,CountLine,CountLineBlank,CountLineCode,CountLineCodeDecl,CountLineCodeExe,CountLineComment,CountPath,CountPathLog,CountStmt,CountStmtDecl,CountStmtExe,Cyclomatic,CyclomaticModified,CyclomaticStrict,Essential,MaxCyclomatic,MaxCyclomaticModified,MaxCyclomaticStrict,MaxEssential,MaxInheritanceTree,MaxNesting,RatioCommentToCode,SumCyclomatic,SumCyclomaticModified,SumCyclomaticStrict,SumEssential
+Module File,"D:\thesis2\real 106 project\speedtest-cli\setup.py",D:\thesis2\real 106 project\speedtest-cli\setup.py,2,2,2,2,30,1,12,4,,,,,0,2,,1,,,,,93,10,59,11,54,24,2,0,23,11,18,2,2,2,1,3,3,3,3,,1,"0.41",5,5,5,4
+Module File,"D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,5,5,5,3,27,2,23,1,,,,,3,26,,25,,,,,798,117,614,189,554,70,3456,4,520,189,460,14,14,14,3,39,39,45,18,,5,"0.11",143,143,155,80
+Unknown Class,"Thread",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Function,"setup.find_version(file_paths)",D:\thesis2\real 106 project\speedtest-cli\setup.py,,,,,,,,,,,,,,,,,,,,,17,1,12,4,11,4,4,1,11,4,10,3,3,3,3,,,,,,1,"0.33",,,,
+Class,"speedtest_cli.FileGetter",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,3,3,3,3,9,0,9,0,1,1,0,0,,,,,2,3,2,2,22,2,19,8,16,1,,,19,8,16,,,,,5,5,6,5,1,4,"0.05",6,6,7,6
+Function,"speedtest_cli.FileGetter.__init__(self,url,start)",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,,,,,,,,,,,,,,,,,,,,,5,0,5,4,4,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"speedtest_cli.FileGetter.run(self)",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,,,,,,,,,,,,,,,,,,,,,13,0,13,3,12,0,5,1,13,3,12,5,5,6,5,,,,,,4,"0.00",,,,
+Class,"speedtest_cli.FilePutter",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,2,2,2,1,11,0,11,0,1,2,0,0,,,,,2,4,2,2,26,2,23,11,20,1,,,21,11,18,,,,,3,3,4,1,1,2,"0.04",4,4,5,2
+Function,"speedtest_cli.FilePutter.__init__(self,url,start,size)",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,,,,,,,,,,,,,,,,,,,,,9,0,9,7,8,0,1,0,9,7,8,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"speedtest_cli.FilePutter.run(self)",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,,,,,,,,,,,,,,,,,,,,,13,0,13,3,12,0,3,0,11,3,10,3,3,4,1,,,,,,2,"0.00",,,,
+Class,"speedtest_cli.SpeedtestCliServerListError",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,12,5,1,1,1,0,3,,,1,1,0,,,,,0,0,0,0,3,0,"3.00",0,0,0,0
+Function,"speedtest_cli.bound_socket(args,kwargs)",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,,,,,,,,,,,,,,,,,,,,,7,1,5,3,3,1,1,0,5,3,3,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"speedtest_cli.build_request(url,data,headers)",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,,,,,,,,,,,,,,,,,,,,,14,4,7,2,6,3,2,0,6,2,5,2,2,2,1,,,,,,1,"0.43",,,,
+Function,"speedtest_cli.build_user_agent()",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,,,,,,,,,,,,,,,,,,,,,16,2,13,3,11,1,2,0,7,3,5,2,2,2,1,,,,,,1,"0.08",,,,
+Function,"speedtest_cli.catch_request(request)",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,,,,,,,,,,,,,,,,,,,,,12,2,7,3,6,3,2,0,7,3,6,2,2,2,1,,,,,,1,"0.43",,,,
+Function,"speedtest_cli.closestServers(client,all)",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,,,,,,,,,,,,,,,,,,,,,79,5,70,15,69,5,1815,3,60,15,59,17,17,18,13,,,,,,4,"0.07",,,,
+Function,"speedtest_cli.ctrl_c(signum,frame)",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,,,,,,,,,,,,,,,,,,,,,8,1,4,2,2,3,1,0,4,2,2,1,1,1,1,,,,,,0,"0.75",,,,
+Function,"speedtest_cli.distance(origin,destination)",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,,,,,,,,,,,,,,,,,,,,,17,3,13,9,12,2,1,0,10,9,9,1,1,1,1,,,,,,0,"0.15",,,,
+Function,"speedtest_cli.downloadSpeed(files,quiet)",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,,,,,,,,,,,,,,,,,,,,,35,5,29,11,26,1,4,1,29,11,26,3,3,3,1,,,,,,1,"0.03",,,,
+Function,"speedtest_cli.downloadSpeed.consumer(q,total_files)",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,3,0,7,2,6,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"speedtest_cli.downloadSpeed.producer(q,files)",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,,,,,,,,,,,,,,,,,,,,,8,0,8,3,7,0,3,0,8,3,7,3,3,4,1,,,,,,2,"0.00",,,,
+Function,"speedtest_cli.getAttributesByTagName(dom,tagName)",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,,,,,,,,,,,,,,,,,,,,,9,1,3,2,2,5,1,0,3,2,2,1,1,1,1,,,,,,0,"1.67",,,,
+Function,"speedtest_cli.getBestServer(servers)",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,,,,,,,,,,,,,,,,,,,,,37,2,32,16,31,3,8,1,30,16,29,6,6,7,4,,,,,,4,"0.09",,,,
+Function,"speedtest_cli.getConfig()",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,,,,,,,,,,,,,,,,,,,,,39,1,35,6,34,4,13,1,27,6,26,7,7,7,6,,,,,,2,"0.11",,,,
+Function,"speedtest_cli.main()",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,5,1,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"speedtest_cli.print_(args,kwargs)",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,,,,,,,,,,,,,,,,,,,,,49,3,43,10,41,3,3073,3,40,10,38,17,17,17,12,,,,,,3,"0.07",,,,
+Function,"speedtest_cli.print_.write(data)",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"speedtest_cli.speedtest()",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,,,,,,,,,,,,,,,,,,,,,236,23,204,37,202,9,20355904,7,148,37,146,39,39,45,18,,,,,,5,"0.04",,,,
+Function,"speedtest_cli.uploadSpeed(url,sizes,quiet)",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,,,,,,,,,,,,,,,,,,,,,35,5,29,11,26,1,4,1,29,11,26,3,3,3,1,,,,,,1,"0.03",,,,
+Function,"speedtest_cli.uploadSpeed.consumer(q,total_sizes)",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,3,0,7,2,6,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"speedtest_cli.uploadSpeed.producer(q,sizes)",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,,,,,,,,,,,,,,,,,,,,,8,0,8,3,7,0,3,0,8,3,7,3,3,4,1,,,,,,2,"0.00",,,,
+Function,"speedtest_cli.version()",D:\thesis2\real 106 project\speedtest-cli\speedtest_cli.py,,,,,,,,,,,,,,,,,,,,,4,1,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,

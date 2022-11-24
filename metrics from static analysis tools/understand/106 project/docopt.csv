@@ -1,0 +1,148 @@
+Kind,Name,File,AvgCyclomatic,AvgCyclomaticModified,AvgCyclomaticStrict,AvgEssential,AvgLine,AvgLineBlank,AvgLineCode,AvgLineComment,CountClassBase,CountClassCoupled,CountClassCoupledModified,CountClassDerived,CountDeclClass,CountDeclExecutableUnit,CountDeclFile,CountDeclFunction,CountDeclInstanceMethod,CountDeclInstanceVariable,CountDeclMethod,CountDeclMethodAll,CountLine,CountLineBlank,CountLineCode,CountLineCodeDecl,CountLineCodeExe,CountLineComment,CountPath,CountPathLog,CountStmt,CountStmtDecl,CountStmtExe,Cyclomatic,CyclomaticModified,CyclomaticStrict,Essential,MaxCyclomatic,MaxCyclomaticModified,MaxCyclomaticStrict,MaxEssential,MaxInheritanceTree,MaxNesting,RatioCommentToCode,SumCyclomatic,SumCyclomaticModified,SumCyclomaticStrict,SumEssential
+Unknown Class,"Cmd",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Module File,"D:\thesis2\real 106 project\docopt\conftest.py",D:\thesis2\real 106 project\docopt\conftest.py,2,2,2,1,6,0,6,0,,,,,3,8,,7,,,,,80,21,58,29,43,2,2,0,52,29,37,2,2,2,1,4,4,4,1,,2,"0.03",18,18,19,8
+Module File,"D:\thesis2\real 106 project\docopt\docopt.py",D:\thesis2\real 106 project\docopt\docopt.py,3,3,3,1,10,0,8,2,,,,,15,45,,44,,,,,581,108,377,144,312,102,1,0,341,140,280,1,1,1,1,14,14,16,7,,5,"0.27",149,149,169,87
+Module File,"D:\thesis2\real 106 project\docopt\examples\arguments_example.py",D:\thesis2\real 106 project\docopt\examples\arguments_example.py,2,2,2,1,3,0,0,0,,,,,0,1,,0,,,,,25,6,4,2,3,15,2,0,4,2,3,2,2,2,1,2,2,2,1,,1,"3.75",2,2,2,1
+Module File,"D:\thesis2\real 106 project\docopt\examples\calculator_example.py",D:\thesis2\real 106 project\docopt\examples\calculator_example.py,2,2,2,1,3,0,0,0,,,,,0,1,,0,,,,,22,6,4,2,3,12,2,0,4,2,3,2,2,2,1,2,2,2,1,,1,"3.00",2,2,2,1
+Module File,"D:\thesis2\real 106 project\docopt\examples\config_file_example.py",D:\thesis2\real 106 project\docopt\examples\config_file_example.py,1,1,2,1,14,2,9,5,,,,,0,4,,3,,,,,78,17,42,18,32,21,2,0,31,18,21,2,2,2,1,3,3,3,1,,1,"0.50",7,7,8,4
+Module File,"D:\thesis2\real 106 project\docopt\examples\counted_example.py",D:\thesis2\real 106 project\docopt\examples\counted_example.py,1,1,1,1,1,0,0,0,,,,,0,1,,0,,,,,16,4,2,1,1,10,1,0,2,1,1,1,1,1,1,1,1,1,1,,0,"5.00",1,1,1,1
+Module File,"D:\thesis2\real 106 project\docopt\examples\git\git.py",D:\thesis2\real 106 project\docopt\examples\git\git.py,6,6,6,6,18,0,0,0,,,,,0,1,,0,,,,,54,9,21,5,18,24,6,1,15,5,12,6,6,6,6,6,6,6,6,,2,"1.14",6,6,6,6
+Module File,"D:\thesis2\real 106 project\docopt\examples\git\git_add.py",D:\thesis2\real 106 project\docopt\examples\git\git_add.py,2,2,2,1,2,0,0,0,,,,,0,1,,0,,,,,23,5,3,1,2,15,2,0,3,1,2,2,2,2,1,2,2,2,1,,1,"5.00",2,2,2,1
+Module File,"D:\thesis2\real 106 project\docopt\examples\git\git_branch.py",D:\thesis2\real 106 project\docopt\examples\git\git_branch.py,2,2,2,1,2,0,0,0,,,,,0,1,,0,,,,,33,5,3,1,2,25,2,0,3,1,2,2,2,2,1,2,2,2,1,,1,"8.33",2,2,2,1
+Module File,"D:\thesis2\real 106 project\docopt\examples\git\git_checkout.py",D:\thesis2\real 106 project\docopt\examples\git\git_checkout.py,2,2,2,1,2,0,0,0,,,,,0,1,,0,,,,,23,4,3,1,2,16,2,0,3,1,2,2,2,2,1,2,2,2,1,,1,"5.33",2,2,2,1
+Module File,"D:\thesis2\real 106 project\docopt\examples\git\git_clone.py",D:\thesis2\real 106 project\docopt\examples\git\git_clone.py,2,2,2,1,2,0,0,0,,,,,0,1,,0,,,,,30,4,3,1,2,23,2,0,3,1,2,2,2,2,1,2,2,2,1,,1,"7.67",2,2,2,1
+Module File,"D:\thesis2\real 106 project\docopt\examples\git\git_commit.py",D:\thesis2\real 106 project\docopt\examples\git\git_commit.py,2,2,2,1,2,0,0,0,,,,,0,1,,0,,,,,50,6,3,1,2,41,2,0,3,1,2,2,2,2,1,2,2,2,1,,1,"13.67",2,2,2,1
+Module File,"D:\thesis2\real 106 project\docopt\examples\git\git_push.py",D:\thesis2\real 106 project\docopt\examples\git\git_push.py,2,2,2,1,2,0,0,0,,,,,0,1,,0,,,,,27,4,3,1,2,20,2,0,3,1,2,2,2,2,1,2,2,2,1,,1,"6.67",2,2,2,1
+Module File,"D:\thesis2\real 106 project\docopt\examples\git\git_remote.py",D:\thesis2\real 106 project\docopt\examples\git\git_remote.py,2,2,2,1,3,0,0,0,,,,,0,1,,0,,,,,23,4,4,2,3,15,2,0,4,2,3,2,2,2,1,2,2,2,1,,1,"3.75",2,2,2,1
+Module File,"D:\thesis2\real 106 project\docopt\examples\interactive_example.py",D:\thesis2\real 106 project\docopt\examples\interactive_example.py,1,1,1,1,11,3,6,3,,,,,1,6,,5,,,,,87,23,36,17,25,28,2,0,33,14,24,2,2,2,1,3,3,3,1,,1,"0.78",9,9,9,6
+Module File,"D:\thesis2\real 106 project\docopt\examples\naval_fate.py",D:\thesis2\real 106 project\docopt\examples\naval_fate.py,2,2,2,1,3,0,0,0,,,,,0,1,,0,,,,,24,5,4,2,3,15,2,0,4,2,3,2,2,2,1,2,2,2,1,,1,"3.75",2,2,2,1
+Module File,"D:\thesis2\real 106 project\docopt\examples\odd_even_example.py",D:\thesis2\real 106 project\docopt\examples\odd_even_example.py,2,2,2,1,3,0,0,0,,,,,0,1,,0,,,,,15,5,4,2,3,6,2,0,4,2,3,2,2,2,1,2,2,2,1,,1,"1.50",2,2,2,1
+Module File,"D:\thesis2\real 106 project\docopt\examples\options_example.py",D:\thesis2\real 106 project\docopt\examples\options_example.py,2,2,2,1,3,0,0,0,,,,,0,1,,0,,,,,39,6,4,2,3,29,2,0,4,2,3,2,2,2,1,2,2,2,1,,1,"7.25",2,2,2,1
+Module File,"D:\thesis2\real 106 project\docopt\examples\options_shortcut_example.py",D:\thesis2\real 106 project\docopt\examples\options_shortcut_example.py,2,2,2,1,3,0,0,0,,,,,0,1,,0,,,,,20,5,4,2,3,11,2,0,4,2,3,2,2,2,1,2,2,2,1,,1,"2.75",2,2,2,1
+Module File,"D:\thesis2\real 106 project\docopt\examples\quick_example.py",D:\thesis2\real 106 project\docopt\examples\quick_example.py,2,2,2,1,3,0,0,0,,,,,0,1,,0,,,,,12,3,4,2,3,5,2,0,4,2,3,2,2,2,1,2,2,2,1,,1,"1.25",2,2,2,1
+Module File,"D:\thesis2\real 106 project\docopt\examples\validation_example.py",D:\thesis2\real 106 project\docopt\examples\validation_example.py,4,4,4,4,17,0,0,0,,,,,0,1,,0,,,,,35,8,20,5,17,7,4,1,14,4,11,4,4,4,4,4,4,4,4,,2,"0.35",4,4,4,4
+Module File,"D:\thesis2\real 106 project\docopt\setup.py",D:\thesis2\real 106 project\docopt\setup.py,1,1,1,1,12,0,4,0,,,,,1,3,,2,,,,,49,6,41,11,33,2,1,0,14,11,6,1,1,1,1,1,1,1,1,,0,"0.05",3,3,3,3
+Module File,"D:\thesis2\real 106 project\docopt\test_docopt.py",D:\thesis2\real 106 project\docopt\test_docopt.py,1,1,1,1,12,0,11,0,,,,,0,40,,39,,,,,616,103,464,63,416,53,1,0,274,58,231,1,1,1,1,2,2,2,1,,1,"0.11",41,41,41,40
+Unknown Class,"File",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"Item",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"TestCommand",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Function,"config_file_example.load_ini_config()",D:\thesis2\real 106 project\docopt\examples\config_file_example.py,,,,,,,,,,,,,,,,,,,,,30,4,18,8,13,10,2,0,12,8,7,3,3,3,1,,,,,,1,"0.56",,,,
+Function,"config_file_example.load_json_config()",D:\thesis2\real 106 project\docopt\examples\config_file_example.py,,,,,,,,,,,,,,,,,,,,,9,0,8,3,6,1,1,0,4,3,2,1,1,1,1,,,,,,0,"0.12",,,,
+Function,"config_file_example.merge(dict_1,dict_2)",D:\thesis2\real 106 project\docopt\examples\config_file_example.py,,,,,,,,,,,,,,,,,,,,,9,2,3,1,2,4,1,0,2,1,1,1,1,2,1,,,,,,0,"1.33",,,,
+Class,"conftest.DocoptTestException",D:\thesis2\real 106 project\docopt\conftest.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,12,2,0,2,1,1,0,,,2,1,1,,,,,0,0,0,0,3,0,"0.00",0,0,0,0
+Class,"conftest.DocoptTestFile",D:\thesis2\real 106 project\docopt\conftest.py,3,3,3,1,9,1,8,0,1,1,1,0,,,,,1,0,1,1,11,2,9,6,7,0,,,9,6,7,,,,,3,3,3,1,1,2,"0.00",3,3,3,1
+Function,"conftest.DocoptTestFile.collect(self)",D:\thesis2\real 106 project\docopt\conftest.py,,,,,,,,,,,,,,,,,,,,,9,1,8,5,7,0,3,0,8,5,7,3,3,3,1,,,,,,2,"0.00",,,,
+Class,"conftest.DocoptTestItem",D:\thesis2\real 106 project\docopt\conftest.py,1,1,1,1,6,0,5,0,1,3,2,0,,,,,4,4,4,4,29,5,23,8,18,1,,,17,8,12,,,,,3,3,3,1,1,1,"0.04",7,7,7,4
+Function,"conftest.DocoptTestItem.__init__(self,name,parent,doc,case)",D:\thesis2\real 106 project\docopt\conftest.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"conftest.DocoptTestItem.reportinfo(self)",D:\thesis2\real 106 project\docopt\conftest.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"conftest.DocoptTestItem.repr_failure(self,excinfo)",D:\thesis2\real 106 project\docopt\conftest.py,,,,,,,,,,,,,,,,,,,,,10,0,9,1,8,1,2,0,3,1,2,2,2,2,1,,,,,,1,"0.11",,,,
+Function,"conftest.DocoptTestItem.runtest(self)",D:\thesis2\real 106 project\docopt\conftest.py,,,,,,,,,,,,,,,,,,,,,8,1,7,2,6,0,4,1,7,2,6,3,3,3,1,,,,,,1,"0.00",,,,
+Function,"conftest.parse_test(raw)",D:\thesis2\real 106 project\docopt\conftest.py,,,,,,,,,,,,,,,,,,,,,16,2,14,8,13,1,6,1,14,8,13,4,4,4,1,,,,,,2,"0.07",,,,
+Function,"conftest.pytest_collect_file(path,parent)",D:\thesis2\real 106 project\docopt\conftest.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,2,0,3,1,2,2,2,3,1,,,,,,1,"0.00",,,,
+Class,"docopt.Argument",D:\thesis2\real 106 project\docopt\docopt.py,2,2,2,2,4,0,4,0,1,1,0,1,,,,,1,0,2,11,13,2,11,7,7,0,,,10,6,7,,,,,3,3,3,3,3,2,"0.00",5,5,5,4
+Function,"docopt.Argument.parse(class_,source)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,2,2,2,1,,,,,,0,"0.00",,,,
+Function,"docopt.Argument.single_match(self,left)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,3,0,5,2,4,3,3,3,3,,,,,,2,"0.00",,,,
+Class,"docopt.BranchPattern",D:\thesis2\real 106 project\docopt\docopt.py,1,1,1,1,3,0,3,0,1,1,0,4,,,,,3,1,3,8,15,4,10,5,6,1,,,9,5,5,,,,,2,2,2,1,2,1,"0.10",4,4,4,3
+Function,"docopt.BranchPattern.__init__(self,children)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"docopt.BranchPattern.__repr__(self)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"docopt.BranchPattern.flat(self,types)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"docopt.Command",D:\thesis2\real 106 project\docopt\docopt.py,2,2,2,2,5,0,5,0,1,1,0,0,,,,,2,2,2,13,13,2,11,5,8,0,,,10,5,7,,,,,4,4,4,4,4,3,"0.00",5,5,5,5
+Function,"docopt.Command.__init__(self,name,value)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"docopt.Command.single_match(self,left)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,0,4,1,7,2,6,4,4,4,4,,,,,,3,"0.00",,,,
+Class,"docopt.Dict",D:\thesis2\real 106 project\docopt\docopt.py,1,1,1,1,2,0,2,0,1,0,0,0,,,,,1,0,1,35,3,0,3,2,1,0,,,3,2,1,,,,,1,1,1,1,2,0,"0.00",1,1,1,1
+Function,"docopt.Dict.__repr__(self)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"docopt.DocoptExit",D:\thesis2\real 106 project\docopt\docopt.py,1,1,1,1,2,0,2,0,1,0,0,0,,,,,1,0,1,13,8,3,4,3,2,1,,,4,3,2,,,,,1,1,1,1,3,0,"0.25",1,1,1,1
+Function,"docopt.DocoptExit.__init__(self,message)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"docopt.DocoptLanguageError",D:\thesis2\real 106 project\docopt\docopt.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,12,3,1,1,1,0,1,,,1,1,0,,,,,0,0,0,0,3,0,"1.00",0,0,0,0
+Class,"docopt.Either",D:\thesis2\real 106 project\docopt\docopt.py,5,5,5,1,10,0,10,0,1,0,0,0,,,,,1,0,1,9,12,1,11,5,9,0,,,11,5,9,,,,,5,5,5,1,3,2,"0.00",5,5,5,1
+Function,"docopt.Either.match(self,left,collected)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,10,0,10,4,9,0,6,1,10,4,9,5,5,5,1,,,,,,2,"0.00",,,,
+Class,"docopt.LeafPattern",D:\thesis2\real 106 project\docopt\docopt.py,2,2,3,1,6,0,6,0,1,3,0,2,,,,,4,2,4,9,32,5,26,10,21,1,,,24,10,19,,,,,7,7,7,4,2,2,"0.04",11,11,12,7
+Function,"docopt.LeafPattern.__init__(self,name,value)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"docopt.LeafPattern.__repr__(self)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"docopt.LeafPattern.flat(self,types)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,2,2,3,1,,,,,,0,"0.00",,,,
+Function,"docopt.LeafPattern.match(self,left,collected)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,19,0,19,5,18,0,6,1,17,5,16,7,7,7,4,,,,,,2,"0.00",,,,
+Class,"docopt.OneOrMore",D:\thesis2\real 106 project\docopt\docopt.py,6,6,6,3,18,0,17,1,1,0,0,0,,,,,1,0,1,9,20,1,18,7,16,1,,,18,7,16,,,,,6,6,6,3,3,2,"0.06",6,6,6,3
+Function,"docopt.OneOrMore.match(self,left,collected)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,18,0,17,6,16,1,6,1,17,6,16,6,6,6,3,,,,,,2,"0.06",,,,
+Class,"docopt.Option",D:\thesis2\real 106 project\docopt\docopt.py,2,2,3,1,5,0,5,0,1,1,0,0,,,,,4,4,5,14,37,5,32,15,24,0,,,27,13,21,,,,,6,6,6,3,3,2,"0.00",13,13,15,7
+Function,"docopt.Option.__init__(self,short,long,argcount,value)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,2,2,3,1,,,,,,0,"0.00",,,,
+Function,"docopt.Option.__repr__(self)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"docopt.Option.name-getter(self)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,2,1,,,,,,0,"0.00",,,,
+Function,"docopt.Option.parse(class_,option_description)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,15,0,15,5,14,0,8,1,13,5,12,6,6,6,1,,,,,,2,"0.00",,,,
+Function,"docopt.Option.single_match(self,left)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,3,0,5,2,4,3,3,3,3,,,,,,2,"0.00",,,,
+Class,"docopt.Optional",D:\thesis2\real 106 project\docopt\docopt.py,3,3,3,1,5,0,5,0,1,0,0,1,,,,,1,0,1,9,7,1,6,4,4,0,,,6,4,4,,,,,3,3,3,1,3,1,"0.00",3,3,3,1
+Function,"docopt.Optional.match(self,left,collected)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,2,0,5,3,4,3,3,3,1,,,,,,1,"0.00",,,,
+Class,"docopt.OptionsShortcut",D:\thesis2\real 106 project\docopt\docopt.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,9,3,1,1,1,0,1,,,1,1,0,,,,,0,0,0,0,4,0,"1.00",0,0,0,0
+Class,"docopt.Pattern",D:\thesis2\real 106 project\docopt\docopt.py,3,3,3,1,6,0,6,0,1,6,3,2,,,,,5,0,5,5,38,5,31,10,25,2,,,29,10,23,,,,,7,7,11,1,1,4,"0.06",15,15,19,5
+Function,"docopt.Pattern.__eq__(self,other)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"docopt.Pattern.__hash__(self)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"docopt.Pattern.fix(self)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,4,1,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"docopt.Pattern.fix_identities(self,uniq)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,11,0,10,2,9,1,4,1,9,2,8,5,5,5,1,,,,,,2,"0.10",,,,
+Function,"docopt.Pattern.fix_repeating_arguments(self)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,13,0,12,4,11,1,10,1,11,4,10,7,7,11,1,,,,,,4,"0.08",,,,
+Class,"docopt.Required",D:\thesis2\real 106 project\docopt\docopt.py,4,4,4,3,9,0,9,0,1,0,0,0,,,,,1,0,1,9,11,1,10,6,8,0,,,10,6,8,,,,,4,4,4,3,3,2,"0.00",4,4,4,3
+Function,"docopt.Required.match(self,left,collected)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,9,0,9,5,8,0,3,0,9,5,8,4,4,4,3,,,,,,2,"0.00",,,,
+Class,"docopt.Tokens",D:\thesis2\real 106 project\docopt\docopt.py,1,1,1,1,2,0,2,0,1,2,2,0,,,,,3,1,4,38,17,4,13,7,7,0,,,12,6,7,,,,,2,2,2,1,2,0,"0.00",7,7,7,4
+Function,"docopt.Tokens.__init__(self,source,error)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,2,2,2,1,,,,,,0,"0.00",,,,
+Function,"docopt.Tokens.current(self)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,2,2,2,1,,,,,,0,"0.00",,,,
+Function,"docopt.Tokens.from_pattern(source)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,4,1,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"docopt.Tokens.move(self)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,2,2,2,1,,,,,,0,"0.00",,,,
+Function,"docopt.docopt(doc,argv,help,version,options_first)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,92,8,20,8,19,65,16,1,20,8,19,6,6,7,4,,,,,,1,"3.25",,,,
+Function,"docopt.extras(help,version,options,doc)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,7,0,7,1,6,0,3,0,7,1,6,3,3,7,3,,,,,,1,"0.00",,,,
+Function,"docopt.formal_usage(section)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,1,1,0,4,3,3,2,2,2,1,,,,,,0,"0.25",,,,
+Function,"docopt.parse_argv(tokens,options,options_first)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,22,2,14,2,13,6,6,1,10,2,9,6,6,7,6,,,,,,2,"0.43",,,,
+Function,"docopt.parse_atom(tokens,options)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,24,0,21,4,20,3,7,1,16,4,15,7,7,11,7,,,,,,2,"0.14",,,,
+Function,"docopt.parse_defaults(doc)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,10,0,9,6,8,2,2,0,9,6,8,2,2,2,1,,,,,,1,"0.22",,,,
+Function,"docopt.parse_expr(tokens,options)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,11,0,10,3,9,1,3,0,10,3,9,6,6,6,1,,,,,,1,"0.10",,,,
+Function,"docopt.parse_long(tokens,options)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,31,0,30,4,29,3,26,1,25,4,24,14,14,16,7,,,,,,4,"0.10",,,,
+Function,"docopt.parse_pattern(source,options)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,2,0,6,3,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"docopt.parse_section(name,source)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"docopt.parse_seq(tokens,options)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,10,0,9,3,8,1,3,0,9,3,8,3,3,3,1,,,,,,2,"0.11",,,,
+Function,"docopt.parse_shorts(tokens,options)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,33,0,32,7,31,2,12,1,27,7,26,10,10,11,7,,,,,,5,"0.06",,,,
+Function,"docopt.transform(pattern)",D:\thesis2\real 106 project\docopt\docopt.py,,,,,,,,,,,,,,,,,,,,,25,2,19,6,18,4,6,1,16,6,15,6,6,6,1,,,,,,4,"0.21",,,,
+Class,"interactive_example.MyInteractive",D:\thesis2\real 106 project\docopt\examples\interactive_example.py,1,1,1,1,5,1,2,2,1,0,0,0,,,,,3,0,3,3,27,7,14,9,8,6,,,11,7,7,,,,,1,1,1,1,1,0,"0.43",3,3,3,3
+Function,"interactive_example.MyInteractive.do_quit(self,arg)",D:\thesis2\real 106 project\docopt\examples\interactive_example.py,,,,,,,,,,,,,,,,,,,,,5,1,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"interactive_example.MyInteractive.do_serial(self,arg)",D:\thesis2\real 106 project\docopt\examples\interactive_example.py,,,,,,,,,,,,,,,,,,,,,8,2,2,1,1,4,1,0,2,1,1,1,1,1,1,,,,,,0,"2.00",,,,
+Function,"interactive_example.MyInteractive.do_tcp(self,arg)",D:\thesis2\real 106 project\docopt\examples\interactive_example.py,,,,,,,,,,,,,,,,,,,,,4,1,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"interactive_example.docopt_cmd(func)",D:\thesis2\real 106 project\docopt\examples\interactive_example.py,,,,,,,,,,,,,,,,,,,,,29,6,15,4,13,8,1,0,15,3,13,1,1,1,1,,,,,,0,"0.53",,,,
+Function,"interactive_example.docopt_cmd.fn(self,arg)",D:\thesis2\real 106 project\docopt\examples\interactive_example.py,,,,,,,,,,,,,,,,,,,,,19,5,10,3,9,4,3,0,10,2,9,3,3,3,1,,,,,,1,"0.40",,,,
+Class,"setup.PyTestCommand",D:\thesis2\real 106 project\docopt\setup.py,1,1,1,1,4,0,4,0,1,0,0,0,,,,,2,2,2,2,12,1,9,7,5,2,,,9,7,5,,,,,1,1,1,1,1,0,"0.22",2,2,2,2
+Function,"setup.PyTestCommand.finalize_options(self)",D:\thesis2\real 106 project\docopt\setup.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"setup.PyTestCommand.run(self)",D:\thesis2\real 106 project\docopt\setup.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,2,0,1,0,4,3,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_docopt.test_allow_double_dash()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,7,0,7,1,6,1,1,0,5,1,4,1,1,1,1,,,,,,1,"0.14",,,,
+Function,"test_docopt.test_any_options_parameter()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,16,0,9,1,8,7,1,0,9,1,8,1,1,1,1,,,,,,1,"0.78",,,,
+Function,"test_docopt.test_argument_match()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,10,0,10,1,9,0,1,0,5,1,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_docopt.test_basic_pattern_matching()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,17,0,13,2,12,4,1,0,5,2,4,1,1,1,1,,,,,,0,"0.31",,,,
+Function,"test_docopt.test_command_match()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,10,0,10,1,9,0,1,0,5,1,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_docopt.test_commands()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,9,0,9,1,8,0,1,0,9,1,8,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"test_docopt.test_count_multiple_flags()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,10,0,10,1,9,0,1,0,10,1,9,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"test_docopt.test_default_value_for_positional_arguments()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,16,0,16,3,15,0,1,0,10,3,9,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_docopt.test_docopt()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,34,8,26,3,25,1,1,0,15,3,14,1,1,1,1,,,,,,1,"0.04",,,,
+Function,"test_docopt.test_either_match()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,15,0,15,1,14,0,1,0,6,1,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_docopt.test_formal_usage()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,9,1,8,3,7,0,1,0,5,3,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_docopt.test_issue34_unicode_strings()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,6,0,6,1,5,1,2,0,5,1,4,2,2,2,1,,,,,,1,"0.17",,,,
+Function,"test_docopt.test_issue_126_defaults_not_parsed_correctly_when_tabs()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_docopt.test_issue_40()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,1,1,0,4,1,3,1,1,1,1,,,,,,1,"0.20",,,,
+Function,"test_docopt.test_issue_59()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_docopt.test_issue_65_evaluate_argv_when_called_not_when_imported()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,4,0,1,0,6,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_docopt.test_issue_68_options_shortcut_does_not_include_options_in_usage_pattern()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,9,0,7,2,6,2,1,0,6,2,5,1,1,1,1,,,,,,0,"0.29",,,,
+Function,"test_docopt.test_issue_71_double_dash_is_not_a_valid_option_argument()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,6,0,6,1,5,0,1,0,5,1,4,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"test_docopt.test_language_errors()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,1,0,5,1,4,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"test_docopt.test_list_argument_match()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,13,0,13,1,12,0,1,0,5,1,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_docopt.test_long_options_error_handling()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,18,0,14,1,13,4,1,0,13,1,12,1,1,1,1,,,,,,1,"0.29",,,,
+Function,"test_docopt.test_matching_paren()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,1,0,5,1,4,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"test_docopt.test_one_or_more_match()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,25,0,25,1,24,0,1,0,10,1,9,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_docopt.test_option()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,28,4,24,1,23,0,1,0,19,1,18,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_docopt.test_option_match()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,9,0,9,1,8,0,1,0,6,1,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_docopt.test_option_name()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,4,1,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_docopt.test_optional_match()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,17,0,17,1,16,0,1,0,9,1,8,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_docopt.test_options_first()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,11,0,11,1,10,0,1,0,4,1,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_docopt.test_parse_argv()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,23,0,23,3,22,0,1,0,10,3,9,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_docopt.test_parse_pattern()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,40,0,40,2,39,0,1,0,15,2,14,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_docopt.test_parse_section()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,15,0,15,1,14,0,1,0,5,1,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_docopt.test_pattern_either()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,19,0,19,1,18,0,1,0,7,1,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_docopt.test_pattern_fix_identities_1()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,1,0,6,2,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_docopt.test_pattern_fix_identities_2()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,1,0,6,2,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_docopt.test_pattern_fix_repeating_arguments()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,9,0,9,1,8,0,1,0,5,1,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_docopt.test_pattern_flat()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,7,0,7,1,6,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_docopt.test_required_match()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,8,0,8,1,7,0,1,0,5,1,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_docopt.test_set()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_docopt.test_short_options_error_handling()",D:\thesis2\real 106 project\docopt\test_docopt.py,,,,,,,,,,,,,,,,,,,,,13,2,9,1,8,2,1,0,9,1,8,1,1,1,1,,,,,,1,"0.22",,,,

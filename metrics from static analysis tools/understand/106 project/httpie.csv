@@ -1,0 +1,574 @@
+Kind,Name,File,AvgCyclomatic,AvgCyclomaticModified,AvgCyclomaticStrict,AvgEssential,AvgLine,AvgLineBlank,AvgLineCode,AvgLineComment,CountClassBase,CountClassCoupled,CountClassCoupledModified,CountClassDerived,CountDeclClass,CountDeclExecutableUnit,CountDeclFile,CountDeclFunction,CountDeclInstanceMethod,CountDeclInstanceVariable,CountDeclMethod,CountDeclMethodAll,CountLine,CountLineBlank,CountLineCode,CountLineCodeDecl,CountLineCodeExe,CountLineComment,CountPath,CountPathLog,CountStmt,CountStmtDecl,CountStmtExe,Cyclomatic,CyclomaticModified,CyclomaticStrict,Essential,MaxCyclomatic,MaxCyclomaticModified,MaxCyclomaticStrict,MaxEssential,MaxInheritanceTree,MaxNesting,RatioCommentToCode,SumCyclomatic,SumCyclomaticModified,SumCyclomaticStrict,SumEssential
+File,"D:\thesis2\real 106 project\httpie\httpie\__init__.py",D:\thesis2\real 106 project\httpie\httpie\__init__.py,1,1,1,1,3,0,0,0,,,,,1,1,,0,,,,,19,4,10,10,9,5,1,0,10,10,9,1,1,1,1,1,1,1,1,,0,"0.50",1,1,1,1
+Module File,"D:\thesis2\real 106 project\httpie\httpie\__main__.py",D:\thesis2\real 106 project\httpie\httpie\__main__.py,2,2,2,1,2,0,0,0,,,,,0,1,,0,,,,,10,3,4,2,2,3,2,0,4,2,2,2,2,2,1,2,2,2,1,,1,"0.75",2,2,2,1
+Module File,"D:\thesis2\real 106 project\httpie\httpie\cli.py",D:\thesis2\real 106 project\httpie\httpie\cli.py,1,1,1,1,135,0,3,0,,,,,1,3,,2,,,,,570,115,420,29,402,39,1,0,57,22,46,3,3,3,1,3,3,3,1,,0,"0.09",5,5,5,3
+Module File,"D:\thesis2\real 106 project\httpie\httpie\client.py",D:\thesis2\real 106 project\httpie\httpie\client.py,2,2,4,1,16,1,14,2,,,,,0,7,,6,,,,,140,29,97,33,82,14,1,0,64,33,49,1,1,1,1,7,7,10,1,,2,"0.14",20,20,30,7
+Module File,"D:\thesis2\real 106 project\httpie\httpie\compat.py",D:\thesis2\real 106 project\httpie\httpie\compat.py,2,2,2,1,6,0,5,0,,,,,1,15,,14,,,,,173,24,114,55,91,43,24,1,110,54,88,6,6,6,1,6,6,6,5,,3,"0.38",34,34,34,19
+Module File,"D:\thesis2\real 106 project\httpie\httpie\config.py",D:\thesis2\real 106 project\httpie\httpie\config.py,2,2,2,1,6,0,5,0,,,,,2,10,,9,,,,,97,21,74,33,57,3,1,0,61,27,45,2,2,2,1,4,4,4,4,,3,"0.04",20,20,20,17
+Module File,"D:\thesis2\real 106 project\httpie\httpie\context.py",D:\thesis2\real 106 project\httpie\httpie\context.py,4,4,5,1,15,1,11,3,,,,,1,2,,2,,,,,84,9,60,23,50,15,0,0,49,22,40,0,0,0,0,5,5,7,1,,3,"0.25",8,8,10,2
+Module File,"D:\thesis2\real 106 project\httpie\httpie\core.py",D:\thesis2\real 106 project\httpie\httpie\core.py,6,6,8,4,33,5,25,3,,,,,0,5,,5,,,,,202,39,138,32,117,26,0,0,96,28,78,0,0,0,0,24,24,33,13,,4,"0.19",32,32,42,20
+Module File,"D:\thesis2\real 106 project\httpie\httpie\downloads.py",D:\thesis2\real 106 project\httpie\httpie\downloads.py,2,2,2,1,16,2,11,3,,,,,4,22,,21,,,,,434,87,277,93,237,72,1,0,193,90,156,1,1,1,1,8,8,10,5,,3,"0.26",56,56,65,32
+Module File,"D:\thesis2\real 106 project\httpie\httpie\input.py",D:\thesis2\real 106 project\httpie\httpie\input.py,3,3,4,1,18,2,11,2,,,,,11,31,,30,,,,,679,138,427,144,369,114,1,0,328,134,274,1,1,1,1,12,12,12,12,,5,"0.27",109,109,124,59
+Module File,"D:\thesis2\real 106 project\httpie\httpie\models.py",D:\thesis2\real 106 project\httpie\httpie\models.py,1,1,1,1,5,0,4,0,,,,,3,17,,17,,,,,141,31,92,41,61,18,0,0,62,31,41,0,0,0,0,5,5,6,1,,1,"0.20",24,24,27,17
+File,"D:\thesis2\real 106 project\httpie\httpie\output\__init__.py",D:\thesis2\real 106 project\httpie\httpie\output\__init__.py,0,0,0,0,0,0,0,0,,,,,0,0,,0,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,"0.00",0,0,0,0
+File,"D:\thesis2\real 106 project\httpie\httpie\output\formatters\__init__.py",D:\thesis2\real 106 project\httpie\httpie\output\formatters\__init__.py,0,0,0,0,0,0,0,0,,,,,0,0,,0,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,"0.00",0,0,0,0
+Module File,"D:\thesis2\real 106 project\httpie\httpie\output\formatters\colors.py",D:\thesis2\real 106 project\httpie\httpie\output\formatters\colors.py,2,2,2,1,10,0,11,0,,,,,3,6,,5,,,,,217,26,163,54,146,52,1,0,88,54,71,1,1,1,1,7,7,7,3,,3,"0.32",17,17,17,8
+Module File,"D:\thesis2\real 106 project\httpie\httpie\output\formatters\headers.py",D:\thesis2\real 106 project\httpie\httpie\output\formatters\headers.py,1,1,1,1,9,1,4,4,,,,,1,1,,1,,,,,14,4,6,4,3,4,0,0,6,4,3,0,0,0,0,1,1,1,1,,0,"0.67",1,1,1,1
+Module File,"D:\thesis2\real 106 project\httpie\httpie\output\formatters\json.py",D:\thesis2\real 106 project\httpie\httpie\output\formatters\json.py,2,2,2,1,8,0,12,3,,,,,1,2,,1,,,,,26,6,17,7,12,3,1,0,14,7,9,1,1,1,1,3,3,3,1,,2,"0.18",4,4,4,2
+Module File,"D:\thesis2\real 106 project\httpie\httpie\output\formatters\xml.py",D:\thesis2\real 106 project\httpie\httpie\output\formatters\xml.py,3,3,4,1,14,0,15,2,,,,,1,4,,3,,,,,61,12,41,15,33,8,1,0,39,15,31,1,1,1,1,7,7,12,1,,3,"0.20",14,14,19,4
+Module File,"D:\thesis2\real 106 project\httpie\httpie\output\processing.py",D:\thesis2\real 106 project\httpie\httpie\output\processing.py,2,2,2,1,5,0,4,1,,,,,2,6,,5,,,,,50,14,30,19,20,6,1,0,30,19,20,1,1,1,1,4,4,4,4,,3,"0.20",15,15,16,9
+Module File,"D:\thesis2\real 106 project\httpie\httpie\output\streams.py",D:\thesis2\real 106 project\httpie\httpie\output\streams.py,2,2,3,1,11,1,8,1,,,,,6,18,,17,,,,,293,68,175,75,143,50,1,0,145,72,115,1,1,1,1,7,7,9,5,,5,"0.29",51,51,59,27
+File,"D:\thesis2\real 106 project\httpie\httpie\plugins\__init__.py",D:\thesis2\real 106 project\httpie\httpie\plugins\__init__.py,1,1,1,1,7,0,0,0,,,,,0,1,,0,,,,,24,3,17,11,7,4,1,0,10,8,3,1,1,1,1,1,1,1,1,,0,"0.24",1,1,1,1
+Module File,"D:\thesis2\real 106 project\httpie\httpie\plugins\base.py",D:\thesis2\real 106 project\httpie\httpie\plugins\base.py,1,1,1,1,5,0,2,2,,,,,5,8,,8,,,,,92,31,28,22,14,33,0,0,27,21,14,0,0,0,0,1,1,1,1,,0,"1.18",8,8,8,8
+Module File,"D:\thesis2\real 106 project\httpie\httpie\plugins\builtin.py",D:\thesis2\real 106 project\httpie\httpie\plugins\builtin.py,1,1,1,1,4,0,3,1,,,,,4,4,,4,,,,,48,19,25,19,13,4,0,0,23,18,12,0,0,0,0,1,1,1,1,,0,"0.16",4,4,4,4
+Module File,"D:\thesis2\real 106 project\httpie\httpie\plugins\manager.py",D:\thesis2\real 106 project\httpie\httpie\plugins\manager.py,1,1,1,1,3,0,3,0,,,,,1,12,,11,,,,,65,15,47,24,31,3,1,0,36,24,20,1,1,1,1,3,3,3,1,,2,"0.06",16,16,16,12
+Module File,"D:\thesis2\real 106 project\httpie\httpie\sessions.py",D:\thesis2\real 106 project\httpie\httpie\sessions.py,2,2,2,1,11,1,9,1,,,,,1,10,,9,,,,,152,27,105,43,82,21,1,0,81,37,64,1,1,1,1,8,8,10,5,,3,"0.20",24,24,28,14
+Module File,"D:\thesis2\real 106 project\httpie\httpie\utils.py",D:\thesis2\real 106 project\httpie\httpie\utils.py,3,3,3,2,24,3,9,11,,,,,0,2,,2,,,,,57,12,22,7,17,23,0,0,15,7,10,0,0,0,0,4,4,4,4,,2,"1.05",6,6,6,5
+Module File,"D:\thesis2\real 106 project\httpie\setup.py",D:\thesis2\real 106 project\httpie\setup.py,1,1,1,1,19,0,4,0,,,,,1,4,,3,,,,,114,18,85,17,74,11,5,1,28,16,17,4,4,4,1,4,4,4,1,,2,"0.13",7,7,7,4
+Module File,"D:\thesis2\real 106 project\httpie\tests\fixtures.py",D:\thesis2\real 106 project\httpie\tests\fixtures.py,1,1,1,1,10,1,2,4,,,,,0,2,,1,,,,,41,15,18,15,15,8,1,0,18,14,15,1,1,1,1,1,1,1,1,,1,"0.44",2,2,2,2
+Module File,"D:\thesis2\real 106 project\httpie\tests\test_auth.py",D:\thesis2\real 106 project\httpie\tests\test_auth.py,1,1,1,1,6,0,5,0,,,,,1,6,,6,,,,,62,10,46,27,27,6,0,0,34,20,22,0,0,0,0,1,1,1,1,,0,"0.13",6,6,6,6
+Module File,"D:\thesis2\real 106 project\httpie\tests\test_binary.py",D:\thesis2\real 106 project\httpie\tests\test_binary.py,1,1,1,1,5,0,5,0,,,,,2,7,,7,,,,,54,10,43,28,29,1,0,0,35,26,22,0,0,0,0,2,2,2,1,,1,"0.02",8,8,8,7
+Module File,"D:\thesis2\real 106 project\httpie\tests\test_cli.py",D:\thesis2\real 106 project\httpie\tests\test_cli.py,1,1,1,1,8,0,7,0,,,,,7,30,,30,,,,,332,64,255,95,198,13,0,0,178,84,131,0,0,0,0,2,2,2,1,,1,"0.05",31,31,31,30
+Module File,"D:\thesis2\real 106 project\httpie\tests\test_defaults.py",D:\thesis2\real 106 project\httpie\tests\test_defaults.py,1,1,1,1,4,0,4,0,,,,,2,15,,15,,,,,106,20,73,38,54,13,0,0,70,37,51,0,0,0,0,1,1,1,1,,1,"0.18",15,15,15,15
+Module File,"D:\thesis2\real 106 project\httpie\tests\test_docs.py",D:\thesis2\real 106 project\httpie\tests\test_docs.py,2,2,2,1,5,0,6,0,,,,,0,4,,3,,,,,39,10,28,15,17,1,1,0,22,14,13,1,1,1,1,4,4,4,1,,3,"0.04",8,8,8,4
+Module File,"D:\thesis2\real 106 project\httpie\tests\test_downloads.py",D:\thesis2\real 106 project\httpie\tests\test_downloads.py,1,1,1,1,10,0,8,0,,,,,3,11,,11,,,,,139,24,106,46,74,9,0,0,77,35,56,0,0,0,0,2,2,2,1,,1,"0.08",12,12,12,11
+Module File,"D:\thesis2\real 106 project\httpie\tests\test_errors.py",D:\thesis2\real 106 project\httpie\tests\test_errors.py,1,1,1,1,6,0,7,0,,,,,0,6,,5,,,,,48,10,38,22,23,0,1,0,32,19,20,1,1,1,1,1,1,1,1,,1,"0.00",6,6,6,6
+Module File,"D:\thesis2\real 106 project\httpie\tests\test_exit_status.py",D:\thesis2\real 106 project\httpie\tests\test_exit_status.py,1,1,1,1,6,0,5,0,,,,,1,7,,7,,,,,63,10,51,28,31,3,0,0,36,20,24,0,0,0,0,1,1,1,1,,0,"0.06",7,7,7,7
+Module File,"D:\thesis2\real 106 project\httpie\tests\test_httpie.py",D:\thesis2\real 106 project\httpie\tests\test_httpie.py,1,1,1,1,4,0,4,0,,,,,1,12,,12,,,,,79,15,62,36,40,2,0,0,56,31,38,0,0,0,0,1,1,1,1,,1,"0.03",12,12,12,12
+Module File,"D:\thesis2\real 106 project\httpie\tests\test_output.py",D:\thesis2\real 106 project\httpie\tests\test_output.py,1,1,1,1,4,0,4,0,,,,,4,18,,18,,,,,140,27,102,63,64,11,0,0,82,51,56,0,0,0,0,3,3,3,3,,2,"0.11",20,20,20,20
+Module File,"D:\thesis2\real 106 project\httpie\tests\test_regressions.py",D:\thesis2\real 106 project\httpie\tests\test_regressions.py,1,1,1,1,8,1,4,3,,,,,0,2,,2,,,,,27,7,13,9,7,7,0,0,12,8,7,0,0,0,0,1,1,1,1,,0,"0.54",2,2,2,2
+Module File,"D:\thesis2\real 106 project\httpie\tests\test_sessions.py",D:\thesis2\real 106 project\httpie\tests\test_sessions.py,1,1,1,1,11,1,8,2,,,,,3,11,,11,,,,,171,35,106,44,80,30,0,0,80,39,59,0,0,0,0,1,1,1,1,,0,"0.28",11,11,11,11
+Module File,"D:\thesis2\real 106 project\httpie\tests\test_ssl.py",D:\thesis2\real 106 project\httpie\tests\test_ssl.py,1,1,1,1,4,0,4,0,,,,,2,11,,10,,,,,79,19,57,29,37,3,1,0,43,27,25,1,1,1,1,1,1,1,1,,1,"0.05",11,11,11,11
+Module File,"D:\thesis2\real 106 project\httpie\tests\test_stream.py",D:\thesis2\real 106 project\httpie\tests\test_stream.py,1,1,1,1,9,0,7,1,,,,,1,3,,3,,,,,42,6,30,20,19,6,0,0,21,15,12,0,0,0,0,1,1,1,1,,1,"0.20",3,3,3,3
+Module File,"D:\thesis2\real 106 project\httpie\tests\test_unicode.py",D:\thesis2\real 106 project\httpie\tests\test_unicode.py,1,1,1,1,4,0,4,0,,,,,1,13,,13,,,,,87,17,57,27,41,13,0,0,50,27,34,0,0,0,0,1,1,1,1,,0,"0.23",13,13,13,13
+Module File,"D:\thesis2\real 106 project\httpie\tests\test_uploads.py",D:\thesis2\real 106 project\httpie\tests\test_uploads.py,1,1,1,1,7,0,6,0,,,,,2,7,,7,,,,,73,14,54,25,37,5,0,0,40,22,26,0,0,0,0,1,1,1,1,,1,"0.09",7,7,7,7
+Module File,"D:\thesis2\real 106 project\httpie\tests\test_windows.py",D:\thesis2\real 106 project\httpie\tests\test_windows.py,1,1,1,1,5,0,5,0,,,,,2,2,,2,,,,,29,7,21,16,8,1,0,0,15,13,5,0,0,0,0,1,1,1,1,,0,"0.05",2,2,2,2
+Module File,"D:\thesis2\real 106 project\httpie\tests\utils.py",D:\thesis2\real 106 project\httpie\tests\utils.py,3,3,3,1,18,3,11,5,,,,,4,9,,8,,,,,241,57,123,47,100,62,1,0,110,46,88,1,1,1,1,10,10,12,5,,4,"0.50",28,28,32,13
+Unknown Class,"HTTPBasicAuth",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"RawDescriptionHelpFormatter",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"RegexLexer",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"Style",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"TestCommand",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"Thread",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Function,"fixtures.patharg(path)",D:\thesis2\real 106 project\httpie\tests\fixtures.py,,,,,,,,,,,,,,,,,,,,,7,1,2,1,1,4,1,0,2,1,1,1,1,1,1,,,,,,0,"2.00",,,,
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,2,2,2,1,6,0,5,0,,,,,2,,1,9,,,,,97,21,74,33,57,3,,,61,27,45,,,,,4,4,4,4,,3,,20,20,20,17
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,2,2,2,1,11,1,9,1,,,,,1,,1,9,,,,,152,27,105,43,82,21,,,81,37,64,,,,,8,8,10,5,,3,,24,24,28,14
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,6,6,8,4,33,5,25,3,,,,,0,,1,5,,,,,202,39,138,32,117,26,,,96,28,78,,,,,24,24,33,13,,4,,32,32,42,20
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,1,1,1,1,135,0,3,0,,,,,1,,1,2,,,,,570,115,420,29,402,39,,,57,22,46,,,,,3,3,3,1,,0,,5,5,5,3
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,1,1,1,1,7,0,0,0,,,,,0,,1,0,,,,,24,3,17,11,7,4,,,10,8,3,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,1,1,1,1,5,0,4,0,,,,,3,,1,17,,,,,141,31,92,41,61,18,,,62,31,41,,,,,5,5,6,1,,1,,24,24,27,17
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,2,2,4,1,16,1,14,2,,,,,0,,1,6,,,,,140,29,97,33,82,14,,,64,33,49,,,,,7,7,10,1,,2,,20,20,30,7
+Package,"httpie",,1,1,1,1,3,0,0,0,,,,,1,,1,0,,,,,19,4,10,10,9,5,,,10,10,9,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,3,3,4,1,18,2,11,2,,,,,11,,1,30,,,,,679,138,427,144,369,114,,,328,134,274,,,,,12,12,12,12,,5,,109,109,124,59
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,3,3,3,2,24,3,9,11,,,,,0,,1,2,,,,,57,12,22,7,17,23,,,15,7,10,,,,,4,4,4,4,,2,,6,6,6,5
+Package,"httpie",,2,2,2,1,6,0,5,0,,,,,1,,1,14,,,,,173,24,114,55,91,43,,,110,54,88,,,,,6,6,6,5,,3,,34,34,34,19
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,2,2,2,1,16,2,11,3,,,,,4,,1,21,,,,,434,87,277,93,237,72,,,193,90,156,,,,,8,8,10,5,,3,,56,56,65,32
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,1,1,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,2,2,2,1,2,0,0,0,,,,,0,,1,0,,,,,10,3,4,2,2,3,,,4,2,2,,,,,2,2,2,1,,1,,2,2,2,1
+Package,"httpie",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie",,4,4,5,1,15,1,11,3,,,,,1,,1,2,,,,,84,9,60,23,50,15,,,49,22,40,,,,,5,5,7,1,,3,,8,8,10,2
+Class,"httpie.ExitStatus",D:\thesis2\real 106 project\httpie\httpie\__init__.py,0,0,0,0,0,0,0,0,0,0,0,0,,,,,0,0,0,0,10,1,7,7,6,2,,,7,7,6,,,,,0,0,0,0,0,0,"0.29",0,0,0,0
+Class,"httpie.cli.HTTPieHelpFormatter",D:\thesis2\real 106 project\httpie\httpie\cli.py,1,1,1,1,3,0,3,0,1,1,0,0,,,,,2,0,2,2,17,4,7,3,4,6,,,7,3,4,,,,,1,1,1,1,1,0,"0.86",2,2,2,2
+Function,"httpie.cli.HTTPieHelpFormatter.__init__(self,max_help_position,args,kwargs)",D:\thesis2\real 106 project\httpie\httpie\cli.py,,,,,,,,,,,,,,,,,,,,,4,0,3,1,2,1,1,0,3,1,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"httpie.cli.HTTPieHelpFormatter._split_lines(self,text,width)",D:\thesis2\real 106 project\httpie\httpie\cli.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.client.dump_request(kwargs)",D:\thesis2\real 106 project\httpie\httpie\client.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.client.encode_headers(headers)",D:\thesis2\real 106 project\httpie\httpie\client.py,,,,,,,,,,,,,,,,,,,,,7,0,5,1,4,2,1,0,2,1,1,2,2,2,1,,,,,,0,"0.40",,,,
+Function,"httpie.client.get_default_headers(args)",D:\thesis2\real 106 project\httpie\httpie\client.py,,,,,,,,,,,,,,,,,,,,,17,2,12,3,11,3,4,1,9,3,8,4,4,9,1,,,,,,2,"0.25",,,,
+Function,"httpie.client.get_requests_kwargs(args,base_headers)",D:\thesis2\real 106 project\httpie\httpie\client.py,,,,,,,,,,,,,,,,,,,,,54,6,41,8,40,7,36,2,23,8,22,7,7,10,1,,,,,,2,"0.17",,,,
+Function,"httpie.client.get_requests_session()",D:\thesis2\real 106 project\httpie\httpie\client.py,,,,,,,,,,,,,,,,,,,,,7,0,7,4,6,0,2,0,6,4,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"httpie.client.get_response(args,config_dir)",D:\thesis2\real 106 project\httpie\httpie\client.py,,,,,,,,,,,,,,,,,,,,,20,3,16,4,15,1,3,0,9,4,8,3,3,5,1,,,,,,2,"0.06",,,,
+Class,"httpie.compat.OrderedDict",D:\thesis2\real 106 project\httpie\httpie\compat.py,2,2,2,1,5,0,5,0,2,5,0,1,,,,,13,2,14,48,127,14,89,41,73,26,,,86,40,71,,,,,5,5,5,5,2,3,"0.29",28,28,28,18
+Function,"httpie.compat.OrderedDict.__delitem__(self,key)",D:\thesis2\real 106 project\httpie\httpie\compat.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.compat.OrderedDict.__eq__(self,other)",D:\thesis2\real 106 project\httpie\httpie\compat.py,,,,,,,,,,,,,,,,,,,,,9,0,9,2,8,0,5,1,9,2,8,5,5,5,5,,,,,,3,"0.00",,,,
+Function,"httpie.compat.OrderedDict.__init__(self,args,kwds)",D:\thesis2\real 106 project\httpie\httpie\compat.py,,,,,,,,,,,,,,,,,,,,,9,0,9,1,8,0,4,1,8,1,7,3,3,3,1,,,,,,1,"0.00",,,,
+Function,"httpie.compat.OrderedDict.__iter__(self)",D:\thesis2\real 106 project\httpie\httpie\compat.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,2,0,6,3,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"httpie.compat.OrderedDict.__ne__(self,other)",D:\thesis2\real 106 project\httpie\httpie\compat.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.compat.OrderedDict.__reduce__(self)",D:\thesis2\real 106 project\httpie\httpie\compat.py,,,,,,,,,,,,,,,,,,,,,9,0,9,4,8,0,2,0,9,4,8,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"httpie.compat.OrderedDict.__repr__(self)",D:\thesis2\real 106 project\httpie\httpie\compat.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"httpie.compat.OrderedDict.__reversed__(self)",D:\thesis2\real 106 project\httpie\httpie\compat.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,2,0,6,3,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"httpie.compat.OrderedDict.__setitem__(self,key,value)",D:\thesis2\real 106 project\httpie\httpie\compat.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,2,0,6,3,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"httpie.compat.OrderedDict.clear(self)",D:\thesis2\real 106 project\httpie\httpie\compat.py,,,,,,,,,,,,,,,,,,,,,6,0,5,3,4,3,1,0,5,3,4,1,1,1,1,,,,,,0,"0.60",,,,
+Function,"httpie.compat.OrderedDict.copy(self)",D:\thesis2\real 106 project\httpie\httpie\compat.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.compat.OrderedDict.fromkeys(cls,iterable,value)",D:\thesis2\real 106 project\httpie\httpie\compat.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,2,0,5,3,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"httpie.compat.OrderedDict.keys(self)",D:\thesis2\real 106 project\httpie\httpie\compat.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.compat.OrderedDict.popitem(self,last)",D:\thesis2\real 106 project\httpie\httpie\compat.py,,,,,,,,,,,,,,,,,,,,,9,0,9,3,8,0,4,1,8,3,7,3,3,3,1,,,,,,1,"0.00",,,,
+Abstract Class,"httpie.config.BaseConfigDict",D:\thesis2\real 106 project\httpie\httpie\config.py,2,2,2,2,7,0,6,0,1,5,0,2,,,,,7,0,7,41,62,10,50,19,41,2,,,44,13,36,,,,,4,4,4,4,2,3,"0.04",16,16,16,14
+Function,"httpie.config.BaseConfigDict.__getattr__(self,item)",D:\thesis2\real 106 project\httpie\httpie\config.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.config.BaseConfigDict._get_path(self)",D:\thesis2\real 106 project\httpie\httpie\config.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"httpie.config.BaseConfigDict.delete(self)",D:\thesis2\real 106 project\httpie\httpie\config.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,3,0,6,1,5,3,3,3,3,,,,,,2,"0.00",,,,
+Function,"httpie.config.BaseConfigDict.is_new(self)",D:\thesis2\real 106 project\httpie\httpie\config.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.config.BaseConfigDict.load(self)",D:\thesis2\real 106 project\httpie\httpie\config.py,,,,,,,,,,,,,,,,,,,,,14,0,14,4,13,0,4,1,11,2,10,4,4,4,4,,,,,,3,"0.00",,,,
+Function,"httpie.config.BaseConfigDict.path-getter(self)",D:\thesis2\real 106 project\httpie\httpie\config.py,,,,,,,,,,,,,,,,,,,,,9,0,8,3,7,1,3,0,8,2,7,3,3,3,3,,,,,,2,"0.12",,,,
+Function,"httpie.config.BaseConfigDict.save(self)",D:\thesis2\real 106 project\httpie\httpie\config.py,,,,,,,,,,,,,,,,,,,,,13,2,11,2,10,0,4,1,9,1,8,3,3,3,1,,,,,,1,"0.00",,,,
+Class,"httpie.config.Config",D:\thesis2\real 106 project\httpie\httpie\config.py,1,1,1,1,3,0,3,0,1,1,0,0,,,,,2,1,2,43,18,4,14,8,11,1,,,11,8,8,,,,,1,1,1,1,3,0,"0.07",2,2,2,2
+Function,"httpie.config.Config.__init__(self,directory)",D:\thesis2\real 106 project\httpie\httpie\config.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.config.Config._get_path(self)",D:\thesis2\real 106 project\httpie\httpie\config.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"httpie.context.Environment",D:\thesis2\real 106 project\httpie\httpie\context.py,4,4,5,1,15,1,11,3,1,1,1,1,,,,,2,1,2,2,78,6,57,20,50,15,,,46,19,40,,,,,5,5,7,1,1,3,"0.26",8,8,10,2
+Function,"httpie.context.Environment.__init__(self,kwargs)",D:\thesis2\real 106 project\httpie\httpie\context.py,,,,,,,,,,,,,,,,,,,,,22,2,14,3,12,6,8,1,12,3,10,5,5,7,1,,,,,,3,"0.43",,,,
+Function,"httpie.context.Environment.config-getter(self)",D:\thesis2\real 106 project\httpie\httpie\context.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,0,3,0,7,2,6,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"httpie.core.decode_args(args,stdin_encoding)",D:\thesis2\real 106 project\httpie\httpie\core.py,,,,,,,,,,,,,,,,,,,,,11,1,6,1,5,4,1,0,2,1,1,2,2,2,1,,,,,,0,"0.67",,,,
+Function,"httpie.core.get_exit_status(http_status,follow)",D:\thesis2\real 106 project\httpie\httpie\core.py,,,,,,,,,,,,,,,,,,,,,13,0,9,1,8,4,4,1,6,1,5,4,4,5,4,,,,,,1,"0.44",,,,
+Function,"httpie.core.main(args,env,error)",D:\thesis2\real 106 project\httpie\httpie\core.py,,,,,,,,,,,,,,,,,,,,,133,25,100,14,97,9,964,3,74,13,71,24,24,33,13,,,,,,4,"0.09",,,,
+Function,"httpie.core.main._error(msg,args,kwargs)",D:\thesis2\real 106 project\httpie\httpie\core.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.core.print_debug_info(env)",D:\thesis2\real 106 project\httpie\httpie\core.py,,,,,,,,,,,,,,,,,,,,,8,0,8,1,7,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"httpie.downloads.ContentRangeError",D:\thesis2\real 106 project\httpie\httpie\downloads.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,14,2,0,2,1,1,0,,,2,1,1,,,,,0,0,0,0,5,0,"0.00",0,0,0,0
+Class,"httpie.downloads.Download",D:\thesis2\real 106 project\httpie\httpie\downloads.py,2,2,2,1,18,2,11,4,1,9,4,0,,,,,7,6,7,7,141,26,85,20,75,31,,,51,18,43,,,,,8,8,9,1,1,3,"0.36",16,16,19,7
+Function,"httpie.downloads.Download.__init__(self,output_file,resume,progress_file)",D:\thesis2\real 106 project\httpie\httpie\downloads.py,,,,,,,,,,,,,,,,,,,,,23,4,11,8,9,8,1,0,7,7,6,1,1,1,1,,,,,,0,"0.73",,,,
+Function,"httpie.downloads.Download.chunk_downloaded(self,chunk)",D:\thesis2\real 106 project\httpie\httpie\downloads.py,,,,,,,,,,,,,,,,,,,,,10,2,2,1,1,6,1,0,2,1,1,1,1,1,1,,,,,,0,"3.00",,,,
+Function,"httpie.downloads.Download.failed(self)",D:\thesis2\real 106 project\httpie\httpie\downloads.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.downloads.Download.finish(self)",D:\thesis2\real 106 project\httpie\httpie\downloads.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,4,1,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.downloads.Download.interrupted-getter(self)",D:\thesis2\real 106 project\httpie\httpie\downloads.py,,,,,,,,,,,,,,,,,,,,,6,0,6,1,5,0,1,0,2,1,1,1,1,3,1,,,,,,0,"0.00",,,,
+Function,"httpie.downloads.Download.pre_request(self,request_headers)",D:\thesis2\real 106 project\httpie\httpie\downloads.py,,,,,,,,,,,,,,,,,,,,,17,3,7,2,6,7,3,0,7,2,6,3,3,3,1,,,,,,2,"1.00",,,,
+Function,"httpie.downloads.Download.start(self,response)",D:\thesis2\real 106 project\httpie\httpie\downloads.py,,,,,,,,,,,,,,,,,,,,,70,10,51,4,50,10,14,1,26,4,25,8,8,9,1,,,,,,3,"0.20",,,,
+Class,"httpie.downloads.ProgressReporterThread",D:\thesis2\real 106 project\httpie\httpie\downloads.py,2,2,3,1,20,2,16,1,1,3,0,0,,,,,5,9,5,5,114,19,83,26,77,12,,,57,26,51,,,,,7,7,7,3,1,3,"0.14",14,14,15,7
+Function,"httpie.downloads.ProgressReporterThread.__init__(self,status,output,tick,update_interval)",D:\thesis2\real 106 project\httpie\httpie\downloads.py,,,,,,,,,,,,,,,,,,,,,16,1,11,10,10,4,1,0,11,10,10,1,1,1,1,,,,,,0,"0.36",,,,
+Function,"httpie.downloads.ProgressReporterThread.report_speed(self)",D:\thesis2\real 106 project\httpie\httpie\downloads.py,,,,,,,,,,,,,,,,,,,,,53,8,45,9,44,0,11,1,26,9,25,7,7,7,1,,,,,,3,"0.00",,,,
+Function,"httpie.downloads.ProgressReporterThread.run(self)",D:\thesis2\real 106 project\httpie\httpie\downloads.py,,,,,,,,,,,,,,,,,,,,,8,1,7,1,6,0,3,0,7,1,6,3,3,3,3,,,,,,2,"0.00",,,,
+Function,"httpie.downloads.ProgressReporterThread.stop(self)",D:\thesis2\real 106 project\httpie\httpie\downloads.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"httpie.downloads.ProgressReporterThread.sum_up(self)",D:\thesis2\real 106 project\httpie\httpie\downloads.py,,,,,,,,,,,,,,,,,,,,,23,3,17,4,16,3,2,0,10,4,9,2,2,3,1,,,,,,1,"0.18",,,,
+Class,"httpie.downloads.Status",D:\thesis2\real 106 project\httpie\httpie\downloads.py,1,1,1,1,4,0,4,0,1,0,0,0,,,,,5,5,5,5,29,5,23,12,16,1,,,22,11,16,,,,,2,2,2,1,1,1,"0.04",6,6,6,5
+Function,"httpie.downloads.Status.__init__(self)",D:\thesis2\real 106 project\httpie\httpie\downloads.py,,,,,,,,,,,,,,,,,,,,,6,0,6,6,5,0,1,0,6,6,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.downloads.Status.chunk_downloaded(self,size)",D:\thesis2\real 106 project\httpie\httpie\downloads.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.downloads.Status.finished(self)",D:\thesis2\real 106 project\httpie\httpie\downloads.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,4,1,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.downloads.Status.has_finished-getter(self)",D:\thesis2\real 106 project\httpie\httpie\downloads.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.downloads.Status.started(self,resumed_from,total_size)",D:\thesis2\real 106 project\httpie\httpie\downloads.py,,,,,,,,,,,,,,,,,,,,,6,0,6,1,5,0,2,0,6,1,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"httpie.downloads.filename_from_content_disposition(content_disposition)",D:\thesis2\real 106 project\httpie\httpie\downloads.py,,,,,,,,,,,,,,,,,,,,,17,3,7,3,6,7,3,0,7,3,6,3,3,3,3,,,,,,2,"1.00",,,,
+Function,"httpie.downloads.filename_from_url(url,content_type)",D:\thesis2\real 106 project\httpie\httpie\downloads.py,,,,,,,,,,,,,,,,,,,,,18,3,14,3,13,2,9,1,13,3,12,6,6,7,1,,,,,,2,"0.14",,,,
+Function,"httpie.downloads.get_unique_filename(filename,exists)",D:\thesis2\real 106 project\httpie\httpie\downloads.py,,,,,,,,,,,,,,,,,,,,,7,0,7,3,6,0,3,0,7,3,6,4,4,4,3,,,,,,2,"0.00",,,,
+Function,"httpie.downloads.parse_content_range(content_range,resumed_from)",D:\thesis2\real 106 project\httpie\httpie\downloads.py,,,,,,,,,,,,,,,,,,,,,57,9,33,7,32,15,16,1,16,7,15,6,6,10,5,,,,,,1,"0.45",,,,
+Class,"httpie.input.AuthCredentials",D:\thesis2\real 106 project\httpie\httpie\input.py,1,1,1,1,4,0,3,0,1,3,0,0,,,,,3,1,3,6,17,3,12,5,8,2,,,11,5,7,,,,,2,2,2,1,2,1,"0.17",4,4,4,3
+Function,"httpie.input.AuthCredentials._getpass(self,prompt)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"httpie.input.AuthCredentials.has_password(self)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.input.AuthCredentials.prompt_password(self,host)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,2,0,6,2,5,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"httpie.input.AuthCredentialsArgType",D:\thesis2\real 106 project\httpie\httpie\input.py,2,2,2,1,16,2,10,4,1,1,0,0,,,,,1,0,1,3,21,4,12,3,10,5,,,7,3,5,,,,,2,2,2,1,2,1,"0.42",2,2,2,1
+Function,"httpie.input.AuthCredentialsArgType.__call__(self,string)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,16,2,10,1,9,4,2,0,5,1,4,2,2,2,1,,,,,,1,"0.40",,,,
+Class,"httpie.input.DataDict",D:\thesis2\real 106 project\httpie\httpie\input.py,4,4,4,1,6,0,6,0,1,2,0,0,,,,,1,0,1,51,8,1,7,4,5,0,,,7,4,5,,,,,4,4,4,1,4,2,"0.00",4,4,4,1
+Function,"httpie.input.DataDict.items(self)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,5,1,6,3,5,4,4,4,1,,,,,,2,"0.00",,,,
+Class,"httpie.input.KeyValue",D:\thesis2\real 106 project\httpie\httpie\input.py,1,1,1,1,3,0,3,0,1,0,0,1,,,,,3,4,3,3,14,3,10,8,6,1,,,10,8,6,,,,,1,1,1,1,1,0,"0.10",3,3,3,3
+Function,"httpie.input.KeyValue.__eq__(self,other)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.input.KeyValue.__init__(self,key,value,sep,orig)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,5,0,5,5,4,0,1,0,5,5,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.input.KeyValue.__repr__(self)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"httpie.input.KeyValueArgType",D:\thesis2\real 106 project\httpie\httpie\input.py,4,4,4,2,32,6,18,7,1,3,1,1,,,,,2,2,2,2,88,23,43,19,38,22,,,39,19,34,,,,,6,6,6,4,1,3,"0.51",12,12,12,6
+Function,"httpie.input.KeyValueArgType.__call__(self,string)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,72,18,36,13,33,18,13,1,32,13,29,6,6,6,4,,,,,,3,"0.50",,,,
+Class,"httpie.input.KeyValueArgType.__call__.Escaped",D:\thesis2\real 106 project\httpie\httpie\input.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,0,2,0,1,1,0,1,,,1,1,0,,,,,0,0,0,0,1,0,"1.00",0,0,0,0
+Function,"httpie.input.KeyValueArgType.__call__.tokenize(string)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,20,2,13,4,12,5,4,1,11,4,10,4,4,4,1,,,,,,3,"0.38",,,,
+Function,"httpie.input.KeyValueArgType.__init__(self,separators)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,5,0,5,4,4,0,2,0,5,4,4,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"httpie.input.ParamsDict",D:\thesis2\real 106 project\httpie\httpie\input.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,50,2,0,2,1,1,0,,,2,1,1,,,,,0,0,0,0,4,0,"0.00",0,0,0,0
+Class,"httpie.input.ParseError",D:\thesis2\real 106 project\httpie\httpie\input.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,12,2,0,2,1,1,0,,,2,1,1,,,,,0,0,0,0,3,0,"0.00",0,0,0,0
+Class,"httpie.input.Parser",D:\thesis2\real 106 project\httpie\httpie\input.py,4,4,5,2,20,2,14,3,1,9,4,0,,,,,13,2,13,13,288,44,188,38,174,56,,,148,35,134,,,,,9,9,10,5,1,4,"0.30",60,60,73,27
+Function,"httpie.input.Parser.__init__(self,args,kwargs)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.input.Parser._apply_config(self)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,3,1,2,2,2,3,1,,,,,,1,"0.00",,,,
+Function,"httpie.input.Parser._apply_no_options(self,no_options)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,25,4,16,6,15,5,14,1,16,6,15,6,6,6,5,,,,,,3,"0.31",,,,
+Function,"httpie.input.Parser._body_from_file(self,fd)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,10,2,5,1,4,3,2,0,4,1,3,2,2,2,1,,,,,,1,"0.60",,,,
+Function,"httpie.input.Parser._guess_method(self)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,37,4,23,3,22,10,6,1,16,2,15,7,7,10,5,,,,,,3,"0.43",,,,
+Function,"httpie.input.Parser._parse_items(self)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,40,5,31,7,30,4,27,1,26,6,25,9,9,10,3,,,,,,4,"0.13",,,,
+Function,"httpie.input.Parser._print_message(self,message,file)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,10,0,9,1,8,1,2,0,5,1,4,2,2,3,1,,,,,,1,"0.11",,,,
+Function,"httpie.input.Parser._process_auth(self)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,26,3,17,4,16,6,5,1,10,4,9,5,5,6,1,,,,,,3,"0.35",,,,
+Function,"httpie.input.Parser._process_output_options(self)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,24,4,15,2,14,5,8,1,8,2,7,5,5,6,1,,,,,,1,"0.33",,,,
+Function,"httpie.input.Parser._process_pretty_options(self)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,9,0,8,1,7,1,3,0,5,1,4,4,4,5,1,,,,,,1,"0.12",,,,
+Function,"httpie.input.Parser._setup_standard_streams(self)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,34,2,19,2,18,13,12,1,17,1,16,7,7,8,5,,,,,,3,"0.68",,,,
+Function,"httpie.input.Parser._validate_download_options(self)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,7,0,7,1,6,0,6,1,6,1,5,4,4,6,1,,,,,,2,"0.00",,,,
+Function,"httpie.input.Parser.parse_args(self,env,args,namespace)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,37,5,30,7,29,2,16,1,28,7,27,6,6,7,1,,,,,,3,"0.07",,,,
+Class,"httpie.input.RequestItemsDict",D:\thesis2\real 106 project\httpie\httpie\input.py,3,3,3,1,11,1,7,2,1,2,0,2,,,,,2,0,2,50,30,4,17,4,14,9,,,15,4,12,,,,,3,3,4,1,3,2,"0.53",6,6,7,2
+Function,"httpie.input.RequestItemsDict.__init__(self,args,kwargs)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,3,0,6,2,5,3,3,4,1,,,,,,2,"0.00",,,,
+Function,"httpie.input.RequestItemsDict.__setitem__(self,key,value)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,15,2,8,1,7,5,3,0,7,1,6,3,3,3,1,,,,,,2,"0.62",,,,
+Class,"httpie.input.SessionNameValidator",D:\thesis2\real 106 project\httpie\httpie\input.py,1,1,2,1,4,0,3,0,1,0,0,0,,,,,2,1,2,2,11,2,8,4,5,1,,,7,4,4,,,,,2,2,3,1,1,1,"0.12",3,3,4,2
+Function,"httpie.input.SessionNameValidator.__call__(self,value)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,6,0,5,1,4,1,2,0,4,1,3,2,2,3,1,,,,,,1,"0.20",,,,
+Function,"httpie.input.SessionNameValidator.__init__(self,error_message)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.input.parse_items(items,headers_class,data_class,files_class,params_class)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,61,10,48,14,43,3,18,1,33,8,32,12,12,12,12,,,,,,5,"0.06",,,,
+Function,"httpie.input.readable_file_arg(filename)",D:\thesis2\real 106 project\httpie\httpie\input.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,2,0,6,1,5,2,2,2,1,,,,,,1,"0.00",,,,
+Abstract Class,"httpie.models.HTTPMessage",D:\thesis2\real 106 project\httpie\httpie\models.py,1,1,1,1,3,0,2,0,1,2,0,2,,,,,7,1,7,7,36,7,22,14,10,7,,,18,10,10,,,,,2,2,2,1,1,1,"0.32",8,8,8,7
+Function,"httpie.models.HTTPMessage.__init__(self,orig)",D:\thesis2\real 106 project\httpie\httpie\models.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.models.HTTPMessage.body-getter(self)",D:\thesis2\real 106 project\httpie\httpie\models.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"httpie.models.HTTPMessage.content_type-getter(self)",D:\thesis2\real 106 project\httpie\httpie\models.py,,,,,,,,,,,,,,,,,,,,,6,0,5,2,4,1,2,0,5,2,4,2,2,2,1,,,,,,1,"0.20",,,,
+Function,"httpie.models.HTTPMessage.encoding-getter(self)",D:\thesis2\real 106 project\httpie\httpie\models.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"httpie.models.HTTPMessage.headers-getter(self)",D:\thesis2\real 106 project\httpie\httpie\models.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"httpie.models.HTTPMessage.iter_body(self,chunk_size)",D:\thesis2\real 106 project\httpie\httpie\models.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"httpie.models.HTTPMessage.iter_lines(self,chunk_size)",D:\thesis2\real 106 project\httpie\httpie\models.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"httpie.models.HTTPRequest",D:\thesis2\real 106 project\httpie\httpie\models.py,2,2,2,1,8,1,6,0,1,2,0,0,,,,,5,0,5,12,50,10,37,13,28,3,,,24,10,18,,,,,5,5,6,1,2,1,"0.08",10,10,12,5
+Function,"httpie.models.HTTPRequest.body-getter(self)",D:\thesis2\real 106 project\httpie\httpie\models.py,,,,,,,,,,,,,,,,,,,,,6,0,5,2,4,1,2,0,5,2,4,2,2,3,1,,,,,,1,"0.20",,,,
+Function,"httpie.models.HTTPRequest.encoding-getter(self)",D:\thesis2\real 106 project\httpie\httpie\models.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.models.HTTPRequest.headers-getter(self)",D:\thesis2\real 106 project\httpie\httpie\models.py,,,,,,,,,,,,,,,,,,,,,28,5,22,4,21,1,4,1,12,4,11,5,5,6,1,,,,,,1,"0.05",,,,
+Function,"httpie.models.HTTPRequest.iter_body(self,chunk_size)",D:\thesis2\real 106 project\httpie\httpie\models.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.models.HTTPRequest.iter_lines(self,chunk_size)",D:\thesis2\real 106 project\httpie\httpie\models.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"httpie.models.HTTPResponse",D:\thesis2\real 106 project\httpie\httpie\models.py,1,1,1,1,7,0,5,1,1,1,0,0,,,,,5,0,5,12,48,8,32,13,23,8,,,19,10,13,,,,,2,2,2,1,2,1,"0.25",6,6,7,5
+Function,"httpie.models.HTTPResponse.body-getter(self)",D:\thesis2\real 106 project\httpie\httpie\models.py,,,,,,,,,,,,,,,,,,,,,4,0,2,1,1,2,1,0,2,1,1,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"httpie.models.HTTPResponse.encoding-getter(self)",D:\thesis2\real 106 project\httpie\httpie\models.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,2,1,,,,,,0,"0.00",,,,
+Function,"httpie.models.HTTPResponse.headers-getter(self)",D:\thesis2\real 106 project\httpie\httpie\models.py,,,,,,,,,,,,,,,,,,,,,27,3,20,5,19,4,2,0,10,5,9,2,2,2,1,,,,,,1,"0.20",,,,
+Function,"httpie.models.HTTPResponse.iter_body(self,chunk_size)",D:\thesis2\real 106 project\httpie\httpie\models.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.models.HTTPResponse.iter_lines(self,chunk_size)",D:\thesis2\real 106 project\httpie\httpie\models.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Package,"httpie.output",,2,2,2,1,5,0,4,1,,,,,2,,1,5,,,,,50,14,30,19,20,6,,,30,19,20,,,,,4,4,4,4,,3,,15,15,16,9
+Package,"httpie.output",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.output",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.output",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.output",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.output",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.output",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,1,1,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.output",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.output",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.output",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.output",,2,2,3,1,11,1,8,1,,,,,6,,1,17,,,,,293,68,175,75,143,50,,,145,72,115,,,,,7,7,9,5,,5,,51,51,59,27
+Package,"httpie.output",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,1,1,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.output.formatters",,3,3,4,1,14,0,15,2,,,,,1,,1,3,,,,,61,12,41,15,33,8,,,39,15,31,,,,,7,7,12,1,,3,,14,14,19,4
+Package,"httpie.output.formatters",,2,2,2,1,10,0,11,0,,,,,3,,1,5,,,,,217,26,163,54,146,52,,,88,54,71,,,,,7,7,7,3,,3,,17,17,17,8
+Package,"httpie.output.formatters",,1,1,1,1,9,1,4,4,,,,,1,,1,1,,,,,14,4,6,4,3,4,,,6,4,3,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"httpie.output.formatters",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.output.formatters",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.output.formatters",,2,2,2,1,8,0,12,3,,,,,1,,1,1,,,,,26,6,17,7,12,3,,,14,7,9,,,,,3,3,3,1,,2,,4,4,4,2
+Package,"httpie.output.formatters",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,1,1,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.output.formatters",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Class,"httpie.output.formatters.colors.ColorFormatter",D:\thesis2\real 106 project\httpie\httpie\output\formatters\colors.py,2,2,2,1,7,0,6,0,1,3,2,0,,,,,4,3,4,7,44,9,29,12,24,6,,,28,12,23,,,,,4,4,4,1,2,1,"0.21",9,9,9,4
+Function,"httpie.output.formatters.colors.ColorFormatter.__init__(self,env,color_scheme,kwargs)",D:\thesis2\real 106 project\httpie\httpie\output\formatters\colors.py,,,,,,,,,,,,,,,,,,,,,19,3,15,6,14,1,5,1,14,6,13,4,4,4,1,,,,,,1,"0.07",,,,
+Function,"httpie.output.formatters.colors.ColorFormatter.format_body(self,body,mime)",D:\thesis2\real 106 project\httpie\httpie\output\formatters\colors.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,2,0,5,2,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"httpie.output.formatters.colors.ColorFormatter.format_headers(self,headers)",D:\thesis2\real 106 project\httpie\httpie\output\formatters\colors.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.output.formatters.colors.ColorFormatter.get_lexer(self,mime)",D:\thesis2\real 106 project\httpie\httpie\output\formatters\colors.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,5,1,4,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"httpie.output.formatters.colors.HTTPLexer",D:\thesis2\real 106 project\httpie\httpie\output\formatters\colors.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,0,46,2,35,5,34,17,,,5,5,4,,,,,0,0,0,0,1,0,"0.49",0,0,0,0
+Class,"httpie.output.formatters.colors.Solarized256Style",D:\thesis2\real 106 project\httpie\httpie\output\formatters\colors.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,0,70,4,59,19,58,23,,,19,19,18,,,,,0,0,0,0,1,0,"0.39",0,0,0,0
+Function,"httpie.output.formatters.colors.get_lexer(mime)",D:\thesis2\real 106 project\httpie\httpie\output\formatters\colors.py,,,,,,,,,,,,,,,,,,,,,30,0,28,7,27,2,20,1,24,7,23,7,7,7,3,,,,,,3,"0.07",,,,
+Class,"httpie.output.formatters.headers.HeadersFormatter",D:\thesis2\real 106 project\httpie\httpie\output\formatters\headers.py,1,1,1,1,9,1,4,4,1,0,0,0,,,,,1,0,1,4,11,2,5,3,3,4,,,5,3,3,,,,,1,1,1,1,2,0,"0.80",1,1,1,1
+Function,"httpie.output.formatters.headers.HeadersFormatter.format_headers(self,headers)",D:\thesis2\real 106 project\httpie\httpie\output\formatters\headers.py,,,,,,,,,,,,,,,,,,,,,9,1,4,2,3,4,1,0,4,2,3,1,1,1,1,,,,,,0,"1.00",,,,
+Class,"httpie.output.formatters.json.JSONFormatter",D:\thesis2\real 106 project\httpie\httpie\output\formatters\json.py,3,3,3,1,15,0,12,3,1,1,0,0,,,,,1,0,1,4,17,1,13,3,11,3,,,10,3,8,,,,,3,3,3,1,2,2,"0.23",3,3,3,1
+Function,"httpie.output.formatters.json.JSONFormatter.format_body(self,body,mime)",D:\thesis2\real 106 project\httpie\httpie\output\formatters\json.py,,,,,,,,,,,,,,,,,,,,,15,0,12,2,11,3,3,0,9,2,8,3,3,3,1,,,,,,2,"0.25",,,,
+Class,"httpie.output.formatters.xml.XMLFormatter",D:\thesis2\real 106 project\httpie\httpie\output\formatters\xml.py,5,5,5,1,20,0,17,3,1,0,0,0,,,,,1,0,1,4,23,1,18,5,16,4,,,17,5,15,,,,,5,5,5,1,2,3,"0.22",5,5,5,1
+Function,"httpie.output.formatters.xml.XMLFormatter.format_body(self,body,mime)",D:\thesis2\real 106 project\httpie\httpie\output\formatters\xml.py,,,,,,,,,,,,,,,,,,,,,20,0,17,4,16,3,6,1,16,4,15,5,5,5,1,,,,,,3,"0.18",,,,
+Function,"httpie.output.formatters.xml.indent(elem,indent_text)",D:\thesis2\real 106 project\httpie\httpie\output\formatters\xml.py,,,,,,,,,,,,,,,,,,,,,22,2,16,3,14,4,1,0,15,3,13,1,1,1,1,,,,,,0,"0.25",,,,
+Function,"httpie.output.formatters.xml.indent._indent(elem,level)",D:\thesis2\real 106 project\httpie\httpie\output\formatters\xml.py,,,,,,,,,,,,,,,,,,,,,14,0,14,2,13,0,18,1,13,2,12,7,7,12,1,,,,,,2,"0.00",,,,
+Class,"httpie.output.processing.Conversion",D:\thesis2\real 106 project\httpie\httpie\output\processing.py,4,4,4,4,5,0,5,0,1,0,0,0,,,,,1,0,1,1,7,1,6,3,4,0,,,6,3,4,,,,,4,4,4,4,1,3,"0.00",4,4,4,4
+Function,"httpie.output.processing.Conversion.get_converter(self,mime)",D:\thesis2\real 106 project\httpie\httpie\output\processing.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,4,1,5,2,4,4,4,4,4,,,,,,3,"0.00",,,,
+Class,"httpie.output.processing.Formatting",D:\thesis2\real 106 project\httpie\httpie\output\processing.py,3,3,3,1,7,0,5,1,1,1,1,0,,,,,3,1,3,3,28,4,18,11,14,6,,,18,11,14,,,,,4,4,4,1,1,3,"0.33",9,9,9,3
+Function,"httpie.output.processing.Formatting.__init__(self,groups,env,kwargs)",D:\thesis2\real 106 project\httpie\httpie\output\processing.py,,,,,,,,,,,,,,,,,,,,,14,1,8,6,7,5,4,1,8,6,7,4,4,4,1,,,,,,3,"0.62",,,,
+Function,"httpie.output.processing.Formatting.format_body(self,content,mime)",D:\thesis2\real 106 project\httpie\httpie\output\processing.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,3,0,5,2,4,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"httpie.output.processing.Formatting.format_headers(self,headers)",D:\thesis2\real 106 project\httpie\httpie\output\processing.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,2,0,4,2,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"httpie.output.processing.is_valid_mime(mime)",D:\thesis2\real 106 project\httpie\httpie\output\processing.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,2,1,,,,,,0,"0.00",,,,
+Abstract Class,"httpie.output.streams.BaseStream",D:\thesis2\real 106 project\httpie\httpie\output\streams.py,2,2,2,1,8,0,6,2,1,2,1,2,,,,,4,4,4,4,41,6,26,12,20,9,,,25,10,20,,,,,7,7,7,1,1,4,"0.35",10,10,11,4
+Function,"httpie.output.streams.BaseStream.__init__(self,msg,with_headers,with_body,on_body_chunk_downloaded)",D:\thesis2\real 106 project\httpie\httpie\output\streams.py,,,,,,,,,,,,,,,,,,,,,13,1,7,6,5,5,1,0,6,5,5,1,1,2,1,,,,,,0,"0.71",,,,
+Function,"httpie.output.streams.BaseStream.__iter__(self)",D:\thesis2\real 106 project\httpie\httpie\output\streams.py,,,,,,,,,,,,,,,,,,,,,16,1,14,3,13,1,12,1,14,2,13,7,7,7,1,,,,,,4,"0.07",,,,
+Function,"httpie.output.streams.BaseStream.get_headers(self)",D:\thesis2\real 106 project\httpie\httpie\output\streams.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"httpie.output.streams.BaseStream.iter_body(self)",D:\thesis2\real 106 project\httpie\httpie\output\streams.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"httpie.output.streams.BinarySuppressedError",D:\thesis2\real 106 project\httpie\httpie\output\streams.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,12,5,1,2,2,1,2,,,2,2,1,,,,,0,0,0,0,3,0,"1.00",0,0,0,0
+Class,"httpie.output.streams.BufferedPrettyStream",D:\thesis2\real 106 project\httpie\httpie\output\streams.py,5,5,6,4,17,3,12,2,1,2,1,0,,,,,1,1,1,11,27,7,14,7,12,6,,,14,7,12,,,,,5,5,6,4,4,3,"0.43",5,5,6,4
+Function,"httpie.output.streams.BufferedPrettyStream.iter_body(self)",D:\thesis2\real 106 project\httpie\httpie\output\streams.py,,,,,,,,,,,,,,,,,,,,,17,3,12,5,11,2,8,1,12,5,11,5,5,6,4,,,,,,3,"0.17",,,,
+Class,"httpie.output.streams.EncodedStream",D:\thesis2\real 106 project\httpie\httpie\output\streams.py,2,2,3,2,11,3,6,1,1,3,2,1,,,,,2,1,2,6,33,10,15,7,12,8,,,13,7,10,,,,,3,3,3,3,2,2,"0.53",5,5,6,4
+Function,"httpie.output.streams.EncodedStream.__init__(self,env,kwargs)",D:\thesis2\real 106 project\httpie\httpie\output\streams.py,,,,,,,,,,,,,,,,,,,,,13,3,7,3,6,3,2,0,6,3,5,2,2,3,1,,,,,,1,"0.43",,,,
+Function,"httpie.output.streams.EncodedStream.iter_body(self)",D:\thesis2\real 106 project\httpie\httpie\output\streams.py,,,,,,,,,,,,,,,,,,,,,9,3,6,2,5,0,3,0,5,2,4,3,3,3,3,,,,,,2,"0.00",,,,
+Class,"httpie.output.streams.PrettyStream",D:\thesis2\real 106 project\httpie\httpie\output\streams.py,2,2,2,2,8,0,8,0,1,5,1,1,,,,,4,3,4,10,49,7,34,14,29,8,,,33,14,28,,,,,6,6,6,5,3,5,"0.24",10,10,10,8
+Function,"httpie.output.streams.PrettyStream.__init__(self,conversion,formatting,kwargs)",D:\thesis2\real 106 project\httpie\httpie\output\streams.py,,,,,,,,,,,,,,,,,,,,,5,0,5,4,4,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.output.streams.PrettyStream.get_headers(self)",D:\thesis2\real 106 project\httpie\httpie\output\streams.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.output.streams.PrettyStream.iter_body(self)",D:\thesis2\real 106 project\httpie\httpie\output\streams.py,,,,,,,,,,,,,,,,,,,,,20,0,19,6,18,1,6,1,19,6,18,6,6,6,5,,,,,,5,"0.05",,,,
+Function,"httpie.output.streams.PrettyStream.process_body(self,chunk)",D:\thesis2\real 106 project\httpie\httpie\output\streams.py,,,,,,,,,,,,,,,,,,,,,7,0,5,1,4,2,2,0,5,1,4,2,2,2,1,,,,,,1,"0.40",,,,
+Class,"httpie.output.streams.RawStream",D:\thesis2\real 106 project\httpie\httpie\output\streams.py,1,1,1,1,2,0,2,0,1,1,0,0,,,,,2,1,2,6,12,3,8,6,5,1,,,8,6,5,,,,,1,1,1,1,2,0,"0.12",2,2,2,2
+Function,"httpie.output.streams.RawStream.__init__(self,chunk_size,kwargs)",D:\thesis2\real 106 project\httpie\httpie\output\streams.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.output.streams.RawStream.iter_body(self)",D:\thesis2\real 106 project\httpie\httpie\output\streams.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.output.streams.build_output_stream(args,env,request,response)",D:\thesis2\real 106 project\httpie\httpie\output\streams.py,,,,,,,,,,,,,,,,,,,,,37,7,24,9,23,6,16,1,18,9,17,5,5,9,1,,,,,,1,"0.25",,,,
+Function,"httpie.output.streams.get_stream_type(env,args)",D:\thesis2\real 106 project\httpie\httpie\output\streams.py,,,,,,,,,,,,,,,,,,,,,25,2,19,2,18,4,3,0,6,2,5,5,5,6,1,,,,,,1,"0.21",,,,
+Function,"httpie.output.streams.write(stream,outfile,flush)",D:\thesis2\real 106 project\httpie\httpie\output\streams.py,,,,,,,,,,,,,,,,,,,,,12,1,9,3,8,2,6,1,9,3,8,4,4,4,1,,,,,,2,"0.22",,,,
+Function,"httpie.output.streams.write_with_colors_win_py3(stream,outfile,flush)",D:\thesis2\real 106 project\httpie\httpie\output\streams.py,,,,,,,,,,,,,,,,,,,,,15,1,10,4,9,4,5,1,9,4,8,4,4,4,1,,,,,,2,"0.40",,,,
+Package,"httpie.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.plugins",,1,1,1,1,4,0,3,1,,,,,4,,1,4,,,,,48,19,25,19,13,4,,,23,18,12,,,,,1,1,1,1,,0,,4,4,4,4
+Package,"httpie.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.plugins",,1,1,1,1,3,0,3,0,,,,,1,,1,11,,,,,65,15,47,24,31,3,,,36,24,20,,,,,3,3,3,1,,2,,16,16,16,12
+Package,"httpie.plugins",,1,1,1,1,7,0,0,0,,,,,0,,1,0,,,,,24,3,17,11,7,4,,,10,8,3,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"httpie.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.plugins",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"httpie.plugins",,1,1,1,1,5,0,2,2,,,,,5,,1,8,,,,,92,31,28,22,14,33,,,27,21,14,,,,,1,1,1,1,,0,,8,8,8,8
+Abstract Class,"httpie.plugins.base.AuthPlugin",D:\thesis2\real 106 project\httpie\httpie\plugins\base.py,1,1,1,1,6,1,2,3,1,1,0,1,,,,,1,0,1,1,17,4,4,3,2,9,,,4,3,2,,,,,1,1,1,1,2,0,"2.25",1,1,1,1
+Function,"httpie.plugins.base.AuthPlugin.get_auth(self,username,password)",D:\thesis2\real 106 project\httpie\httpie\plugins\base.py,,,,,,,,,,,,,,,,,,,,,6,1,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Class,"httpie.plugins.base.BasePlugin",D:\thesis2\real 106 project\httpie\httpie\plugins\base.py,0,0,0,0,0,0,0,0,1,0,0,2,,,,,0,0,0,0,11,3,4,4,3,4,,,4,4,3,,,,,0,0,0,0,1,0,"1.00",0,0,0,0
+Abstract Class,"httpie.plugins.base.ConverterPlugin",D:\thesis2\real 106 project\httpie\httpie\plugins\base.py,1,1,1,1,2,0,2,0,1,1,0,0,,,,,2,1,3,3,11,3,8,6,3,0,,,7,5,3,,,,,1,1,1,1,1,0,"0.00",3,3,3,3
+Function,"httpie.plugins.base.ConverterPlugin.__init__(self,mime)",D:\thesis2\real 106 project\httpie\httpie\plugins\base.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.plugins.base.ConverterPlugin.convert(self,content_bytes)",D:\thesis2\real 106 project\httpie\httpie\plugins\base.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.plugins.base.ConverterPlugin.supports(cls,mime)",D:\thesis2\real 106 project\httpie\httpie\plugins\base.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"httpie.plugins.base.FormatterPlugin",D:\thesis2\real 106 project\httpie\httpie\plugins\base.py,1,1,1,1,8,1,2,4,1,0,0,4,,,,,3,2,3,3,28,8,8,6,4,12,,,8,6,4,,,,,1,1,1,1,1,0,"1.50",3,3,3,3
+Function,"httpie.plugins.base.FormatterPlugin.__init__(self,kwargs)",D:\thesis2\real 106 project\httpie\httpie\plugins\base.py,,,,,,,,,,,,,,,,,,,,,9,1,3,3,2,5,1,0,3,3,2,1,1,1,1,,,,,,0,"1.67",,,,
+Function,"httpie.plugins.base.FormatterPlugin.format_body(self,content,mime)",D:\thesis2\real 106 project\httpie\httpie\plugins\base.py,,,,,,,,,,,,,,,,,,,,,8,2,2,1,1,4,1,0,2,1,1,1,1,1,1,,,,,,0,"2.00",,,,
+Function,"httpie.plugins.base.FormatterPlugin.format_headers(self,headers)",D:\thesis2\real 106 project\httpie\httpie\plugins\base.py,,,,,,,,,,,,,,,,,,,,,7,2,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Abstract Class,"httpie.plugins.base.TransportPlugin",D:\thesis2\real 106 project\httpie\httpie\plugins\base.py,1,1,1,1,7,1,2,4,1,1,0,0,,,,,1,0,1,1,17,5,4,3,2,8,,,4,3,2,,,,,1,1,1,1,2,0,"2.00",1,1,1,1
+Function,"httpie.plugins.base.TransportPlugin.get_adapter(self)",D:\thesis2\real 106 project\httpie\httpie\plugins\base.py,,,,,,,,,,,,,,,,,,,,,7,1,2,1,1,4,1,0,2,1,1,1,1,1,1,,,,,,0,"2.00",,,,
+Class,"httpie.plugins.builtin.BasicAuthPlugin",D:\thesis2\real 106 project\httpie\httpie\plugins\builtin.py,1,1,1,1,2,0,2,0,1,1,1,0,,,,,1,0,1,2,7,2,5,4,3,0,,,5,4,3,,,,,1,1,1,1,4,0,"0.00",1,1,1,1
+Function,"httpie.plugins.builtin.BasicAuthPlugin.get_auth(self,username,password)",D:\thesis2\real 106 project\httpie\httpie\plugins\builtin.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"httpie.plugins.builtin.BuiltinAuthPlugin",D:\thesis2\real 106 project\httpie\httpie\plugins\builtin.py,0,0,0,0,0,0,0,0,1,0,0,2,,,,,0,0,0,1,3,1,2,2,1,0,,,2,2,1,,,,,0,0,0,0,3,0,"0.00",0,0,0,0
+Class,"httpie.plugins.builtin.DigestAuthPlugin",D:\thesis2\real 106 project\httpie\httpie\plugins\builtin.py,1,1,1,1,2,0,2,0,1,0,0,0,,,,,1,0,1,2,7,2,5,4,3,0,,,5,4,3,,,,,1,1,1,1,4,0,"0.00",1,1,1,1
+Function,"httpie.plugins.builtin.DigestAuthPlugin.get_auth(self,username,password)",D:\thesis2\real 106 project\httpie\httpie\plugins\builtin.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"httpie.plugins.builtin.HTTPBasicAuth",D:\thesis2\real 106 project\httpie\httpie\plugins\builtin.py,1,1,1,1,7,1,4,2,1,0,0,0,,,,,1,0,2,2,18,4,10,6,6,4,,,8,5,5,,,,,1,1,1,1,1,0,"0.40",2,2,2,2
+Function,"httpie.plugins.builtin.HTTPBasicAuth.__call__(self,r)",D:\thesis2\real 106 project\httpie\httpie\plugins\builtin.py,,,,,,,,,,,,,,,,,,,,,10,2,4,1,3,4,1,0,3,1,2,1,1,1,1,,,,,,0,"1.00",,,,
+Function,"httpie.plugins.builtin.HTTPBasicAuth.make_header(username,password)",D:\thesis2\real 106 project\httpie\httpie\plugins\builtin.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"httpie.plugins.manager.PluginManager",D:\thesis2\real 106 project\httpie\httpie\plugins\manager.py,1,1,1,1,3,0,3,0,1,7,4,0,,,,,11,1,11,11,51,11,37,19,25,3,,,31,19,19,,,,,3,3,3,1,1,2,"0.08",15,15,15,11
+Function,"httpie.plugins.manager.PluginManager.__init__(self)",D:\thesis2\real 106 project\httpie\httpie\plugins\manager.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.plugins.manager.PluginManager.__iter__(self)",D:\thesis2\real 106 project\httpie\httpie\plugins\manager.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.plugins.manager.PluginManager.get_auth_plugin(self,auth_type)",D:\thesis2\real 106 project\httpie\httpie\plugins\manager.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.plugins.manager.PluginManager.get_auth_plugin_mapping(self)",D:\thesis2\real 106 project\httpie\httpie\plugins\manager.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.plugins.manager.PluginManager.get_auth_plugins(self)",D:\thesis2\real 106 project\httpie\httpie\plugins\manager.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.plugins.manager.PluginManager.get_converters(self)",D:\thesis2\real 106 project\httpie\httpie\plugins\manager.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.plugins.manager.PluginManager.get_formatters(self)",D:\thesis2\real 106 project\httpie\httpie\plugins\manager.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.plugins.manager.PluginManager.get_formatters_grouped(self)",D:\thesis2\real 106 project\httpie\httpie\plugins\manager.py,,,,,,,,,,,,,,,,,,,,,7,0,7,3,6,0,2,0,5,3,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"httpie.plugins.manager.PluginManager.get_transport_plugins(self)",D:\thesis2\real 106 project\httpie\httpie\plugins\manager.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.plugins.manager.PluginManager.load_installed_plugins(self)",D:\thesis2\real 106 project\httpie\httpie\plugins\manager.py,,,,,,,,,,,,,,,,,,,,,6,0,6,4,5,0,3,0,6,4,5,3,3,3,1,,,,,,2,"0.00",,,,
+Function,"httpie.plugins.manager.PluginManager.register(self,plugins)",D:\thesis2\real 106 project\httpie\httpie\plugins\manager.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"httpie.sessions.Session",D:\thesis2\real 106 project\httpie\httpie\sessions.py,1,1,2,1,7,0,6,1,1,2,0,0,,,,,8,1,8,49,76,11,56,25,42,10,,,43,20,34,,,,,5,5,6,5,3,3,"0.18",15,15,17,12
+Function,"httpie.sessions.Session.__init__(self,path,args,kwargs)",D:\thesis2\real 106 project\httpie\httpie\sessions.py,,,,,,,,,,,,,,,,,,,,,10,0,10,2,9,0,1,0,6,2,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.sessions.Session._get_path(self)",D:\thesis2\real 106 project\httpie\httpie\sessions.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.sessions.Session.auth-getter(self)",D:\thesis2\real 106 project\httpie\httpie\sessions.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,2,0,6,3,5,2,2,3,1,,,,,,1,"0.00",,,,
+Function,"httpie.sessions.Session.auth-setter(self,auth)",D:\thesis2\real 106 project\httpie\httpie\sessions.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.sessions.Session.cookies-getter(self)",D:\thesis2\real 106 project\httpie\httpie\sessions.py,,,,,,,,,,,,,,,,,,,,,7,0,7,3,6,0,2,0,6,3,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"httpie.sessions.Session.cookies-setter(self,jar)",D:\thesis2\real 106 project\httpie\httpie\sessions.py,,,,,,,,,,,,,,,,,,,,,12,0,8,3,7,4,2,0,5,3,4,2,2,2,1,,,,,,1,"0.50",,,,
+Function,"httpie.sessions.Session.headers-getter(self)",D:\thesis2\real 106 project\httpie\httpie\sessions.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"httpie.sessions.Session.update_headers(self,request_headers)",D:\thesis2\real 106 project\httpie\httpie\sessions.py,,,,,,,,,,,,,,,,,,,,,18,3,10,3,9,5,7,1,10,3,9,5,5,6,5,,,,,,3,"0.50",,,,
+Function,"httpie.sessions.get_response(requests_session,session_name,config_dir,args,read_only)",D:\thesis2\real 106 project\httpie\httpie\sessions.py,,,,,,,,,,,,,,,,,,,,,52,7,39,8,36,6,54,2,28,7,26,8,8,10,1,,,,,,2,"0.15",,,,
+Function,"httpie.utils.humanize_bytes(n,precision)",D:\thesis2\real 106 project\httpie\httpie\utils.py,,,,,,,,,,,,,,,,,,,,,44,6,15,3,14,23,4,1,8,3,7,4,4,4,4,,,,,,2,"1.53",,,,
+Function,"httpie.utils.load_json_preserve_order(s)",D:\thesis2\real 106 project\httpie\httpie\utils.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"setup.PyTest",D:\thesis2\real 106 project\httpie\setup.py,1,1,1,1,5,0,5,0,1,0,0,0,,,,,2,2,2,2,15,1,12,6,8,2,,,9,6,5,,,,,1,1,1,1,1,0,"0.17",2,2,2,2
+Function,"setup.PyTest.finalize_options(self)",D:\thesis2\real 106 project\httpie\setup.py,,,,,,,,,,,,,,,,,,,,,8,0,8,3,7,0,1,0,5,3,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"setup.PyTest.run_tests(self)",D:\thesis2\real 106 project\httpie\setup.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,1,0,1,0,3,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"setup.long_description()",D:\thesis2\real 106 project\httpie\setup.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,1,2,1,1,1,1,,,,,,1,"0.00",,,,
+Class,"test_auth.TestAuth",D:\thesis2\real 106 project\httpie\tests\test_auth.py,1,1,1,1,6,0,5,0,0,2,2,0,,,,,6,0,6,6,52,6,41,22,27,5,,,29,15,22,,,,,1,1,1,1,0,0,"0.12",6,6,6,6
+Function,"test_auth.TestAuth.test_basic_auth(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_auth.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_auth.TestAuth.test_credentials_in_url(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_auth.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,1,0,5,3,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_auth.TestAuth.test_credentials_in_url_auth_flag_has_priority(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_auth.py,,,,,,,,,,,,,,,,,,,,,8,0,6,3,5,2,1,0,5,3,4,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"test_auth.TestAuth.test_digest_auth(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_auth.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_auth.TestAuth.test_only_username_in_url(self,url)",D:\thesis2\real 106 project\httpie\tests\test_auth.py,,,,,,,,,,,,,,,,,,,,,9,1,5,2,4,3,1,0,5,2,4,1,1,1,1,,,,,,0,"0.60",,,,
+Function,"test_auth.TestAuth.test_password_prompt(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_auth.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"test_binary.TestBinaryRequestData",D:\thesis2\real 106 project\httpie\tests\test_binary.py,1,1,1,1,6,0,6,0,0,1,1,0,,,,,3,0,3,3,22,2,20,11,16,0,,,14,10,10,,,,,1,1,1,1,0,1,"0.00",3,3,3,3
+Function,"test_binary.TestBinaryRequestData.test_binary_file_form(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_binary.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_binary.TestBinaryRequestData.test_binary_file_path(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_binary.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_binary.TestBinaryRequestData.test_binary_stdin(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_binary.py,,,,,,,,,,,,,,,,,,,,,9,0,9,4,8,0,1,0,5,3,4,1,1,1,1,,,,,,1,"0.00",,,,
+Class,"test_binary.TestBinaryResponseData",D:\thesis2\real 106 project\httpie\tests\test_binary.py,1,1,1,1,4,0,4,0,0,1,1,0,,,,,4,1,4,4,23,4,19,13,13,0,,,17,12,12,,,,,2,2,2,1,0,1,"0.00",5,5,5,4
+Function,"test_binary.TestBinaryResponseData.bindata-getter(self)",D:\thesis2\real 106 project\httpie\tests\test_binary.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,2,0,4,2,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"test_binary.TestBinaryResponseData.test_binary_included_and_correct_when_suitable(self)",D:\thesis2\real 106 project\httpie\tests\test_binary.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_binary.TestBinaryResponseData.test_binary_suppresses_when_not_terminal_but_pretty(self)",D:\thesis2\real 106 project\httpie\tests\test_binary.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_binary.TestBinaryResponseData.test_binary_suppresses_when_terminal(self)",D:\thesis2\real 106 project\httpie\tests\test_binary.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"test_cli.TestArgumentParser",D:\thesis2\real 106 project\httpie\tests\test_cli.py,1,1,1,1,14,2,12,0,0,2,2,0,,,,,6,1,6,6,91,18,73,8,66,0,,,56,8,49,,,,,1,1,1,1,0,0,"0.00",6,6,6,6
+Function,"test_cli.TestArgumentParser.setup_method(self,method)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_cli.TestArgumentParser.test_guess_when_method_not_set(self)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,13,2,11,1,10,0,1,0,11,1,10,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_cli.TestArgumentParser.test_guess_when_method_set_and_valid(self)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,14,3,11,1,10,0,1,0,11,1,10,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_cli.TestArgumentParser.test_guess_when_method_set_but_invalid_and_data_field(self)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,17,1,16,1,15,0,1,0,11,1,10,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_cli.TestArgumentParser.test_guess_when_method_set_but_invalid_and_header_field(self)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,19,3,16,1,15,0,1,0,11,1,10,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_cli.TestArgumentParser.test_guess_when_method_set_but_invalid_and_item_exists(self)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,19,3,16,1,15,0,1,0,9,1,8,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"test_cli.TestIgnoreStdin",D:\thesis2\real 106 project\httpie\tests\test_cli.py,1,1,1,1,6,0,6,0,0,1,1,0,,,,,2,0,2,2,16,2,14,7,11,0,,,12,6,9,,,,,1,1,1,1,0,1,"0.00",2,2,2,2
+Function,"test_cli.TestIgnoreStdin.test_ignore_stdin(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,8,0,8,4,7,0,1,0,7,3,6,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"test_cli.TestIgnoreStdin.test_ignore_stdin_cannot_prompt_password(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"test_cli.TestItemParsing",D:\thesis2\real 106 project\httpie\tests\test_cli.py,1,1,1,1,13,1,10,1,0,4,2,0,,,,,7,0,7,7,107,15,83,27,69,9,,,37,21,29,,,,,2,2,2,1,0,1,"0.11",8,8,8,7
+Function,"test_cli.TestItemParsing.test_backslash_before_non_special_character_does_not_escape(self,string,key,sep,value)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,5,0,5,4,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_cli.TestItemParsing.test_escape_longsep(self)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_cli.TestItemParsing.test_escape_separator(self)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,21,3,14,3,13,4,1,0,6,3,5,1,1,1,1,,,,,,0,"0.29",,,,
+Function,"test_cli.TestItemParsing.test_invalid_items(self)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,2,0,4,3,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"test_cli.TestItemParsing.test_multiple_file_fields_with_same_field_name(self)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_cli.TestItemParsing.test_multiple_text_fields_with_same_field_name(self)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,11,0,11,2,10,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_cli.TestItemParsing.test_valid_items(self)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,40,4,31,4,30,5,1,0,11,4,10,1,1,1,1,,,,,,0,"0.16",,,,
+Class,"test_cli.TestNoOptions",D:\thesis2\real 106 project\httpie\tests\test_cli.py,1,1,1,1,4,0,4,0,0,0,0,0,,,,,2,0,2,2,12,2,10,5,7,0,,,9,5,6,,,,,1,1,1,1,0,0,"0.00",2,2,2,2
+Function,"test_cli.TestNoOptions.test_invalid_no_options(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_cli.TestNoOptions.test_valid_no_options(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"test_cli.TestQuerystring",D:\thesis2\real 106 project\httpie\tests\test_cli.py,1,1,1,1,7,0,7,0,0,0,0,0,,,,,3,0,3,3,26,2,24,14,19,0,,,22,13,18,,,,,1,1,1,1,0,0,"0.00",3,3,3,3
+Function,"test_cli.TestQuerystring.test_query_string_params_in_url(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,7,0,7,4,6,0,1,0,7,4,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_cli.TestQuerystring.test_query_string_params_in_url_and_items_with_duplicates(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,9,0,9,5,7,0,1,0,7,4,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_cli.TestQuerystring.test_query_string_params_items(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,7,0,7,4,6,0,1,0,7,4,6,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"test_cli.TestSchemes",D:\thesis2\real 106 project\httpie\tests\test_cli.py,1,1,1,1,5,0,3,2,0,0,0,0,,,,,1,0,1,1,7,1,4,2,2,2,,,4,2,2,,,,,1,1,1,1,0,1,"0.50",1,1,1,1
+Function,"test_cli.TestSchemes.test_custom_scheme(self)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,5,0,3,1,2,2,1,0,3,1,2,1,1,1,1,,,,,,1,"0.67",,,,
+Class,"test_cli.TestURLshorthand",D:\thesis2\real 106 project\httpie\tests\test_cli.py,1,1,1,1,3,0,3,0,0,1,1,0,,,,,9,0,9,9,42,8,34,19,24,0,,,28,19,18,,,,,1,1,1,1,0,0,"0.00",9,9,9,9
+Function,"test_cli.TestURLshorthand.test_dont_expand_full_ipv6_as_shorthand(self)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_cli.TestURLshorthand.test_dont_expand_longer_ipv6_as_shorthand(self)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_cli.TestURLshorthand.test_dont_expand_shorthand_ipv6_as_shorthand(self)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_cli.TestURLshorthand.test_expand_localhost_shorthand(self)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_cli.TestURLshorthand.test_expand_localhost_shorthand_with_path(self)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_cli.TestURLshorthand.test_expand_localhost_shorthand_with_port(self)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_cli.TestURLshorthand.test_expand_localhost_shorthand_with_port_and_path(self)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_cli.TestURLshorthand.test_expand_localhost_shorthand_with_port_and_slash(self)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_cli.TestURLshorthand.test_expand_localhost_shorthand_with_slash(self)",D:\thesis2\real 106 project\httpie\tests\test_cli.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"test_defaults.TestAutoContentTypeAndAcceptHeaders",D:\thesis2\real 106 project\httpie\tests\test_defaults.py,1,1,1,1,5,0,4,0,0,1,1,0,,,,,10,0,10,10,71,11,50,23,39,10,,,47,23,36,,,,,1,1,1,1,0,0,"0.20",10,10,10,10
+Function,"test_defaults.TestAutoContentTypeAndAcceptHeaders.test_GET_explicit_JSON_explicit_headers(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_defaults.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_defaults.TestAutoContentTypeAndAcceptHeaders.test_GET_no_data_no_auto_headers(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_defaults.py,,,,,,,,,,,,,,,,,,,,,6,0,5,2,4,1,1,0,5,2,4,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"test_defaults.TestAutoContentTypeAndAcceptHeaders.test_GET_with_data_auto_JSON_headers(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_defaults.py,,,,,,,,,,,,,,,,,,,,,6,0,5,2,4,1,1,0,5,2,4,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"test_defaults.TestAutoContentTypeAndAcceptHeaders.test_POST_explicit_JSON_auto_JSON_accept(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_defaults.py,,,,,,,,,,,,,,,,,,,,,7,0,5,2,4,2,1,0,5,2,4,1,1,1,1,,,,,,0,"0.40",,,,
+Function,"test_defaults.TestAutoContentTypeAndAcceptHeaders.test_POST_form_Content_Type_override(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_defaults.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_defaults.TestAutoContentTypeAndAcceptHeaders.test_POST_form_auto_Content_Type(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_defaults.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_defaults.TestAutoContentTypeAndAcceptHeaders.test_POST_no_data_no_auto_headers(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_defaults.py,,,,,,,,,,,,,,,,,,,,,6,0,5,2,4,1,1,0,5,2,4,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"test_defaults.TestAutoContentTypeAndAcceptHeaders.test_POST_with_data_auto_JSON_headers(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_defaults.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_defaults.TestAutoContentTypeAndAcceptHeaders.test_print_only_body_when_stdout_redirected_by_default(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_defaults.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_defaults.TestAutoContentTypeAndAcceptHeaders.test_print_overridable_when_stdout_redirected(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_defaults.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"test_defaults.TestImplicitHTTPMethod",D:\thesis2\real 106 project\httpie\tests\test_defaults.py,1,1,1,1,4,0,4,0,0,1,1,0,,,,,5,0,5,5,25,4,21,13,15,0,,,21,12,15,,,,,1,1,1,1,0,1,"0.00",5,5,5,5
+Function,"test_defaults.TestImplicitHTTPMethod.test_implicit_GET(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_defaults.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_defaults.TestImplicitHTTPMethod.test_implicit_GET_with_headers(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_defaults.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_defaults.TestImplicitHTTPMethod.test_implicit_POST_form(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_defaults.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_defaults.TestImplicitHTTPMethod.test_implicit_POST_json(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_defaults.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_defaults.TestImplicitHTTPMethod.test_implicit_POST_stdin(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_defaults.py,,,,,,,,,,,,,,,,,,,,,5,0,5,4,4,0,1,0,5,3,4,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"test_docs.has_docutils()",D:\thesis2\real 106 project\httpie\tests\test_docs.py,,,,,,,,,,,,,,,,,,,,,7,0,6,2,4,1,2,0,6,2,4,2,2,2,1,,,,,,1,"0.17",,,,
+Function,"test_docs.rst_filenames()",D:\thesis2\real 106 project\httpie\tests\test_docs.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,4,1,5,3,4,4,4,4,1,,,,,,3,"0.00",,,,
+Function,"test_docs.test_rst_file_syntax(filename)",D:\thesis2\real 106 project\httpie\tests\test_docs.py,,,,,,,,,,,,,,,,,,,,,8,0,8,3,7,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"test_downloads.Response",D:\thesis2\real 106 project\httpie\tests\test_downloads.py,1,1,1,1,4,0,4,0,1,0,0,0,,,,,1,3,1,1,6,0,5,5,3,1,,,5,5,3,,,,,1,1,1,1,1,0,"0.20",1,1,1,1
+Function,"test_downloads.Response.__init__(self,url,headers,status_code)",D:\thesis2\real 106 project\httpie\tests\test_downloads.py,,,,,,,,,,,,,,,,,,,,,4,0,4,4,3,0,1,0,4,4,3,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"test_downloads.TestDownloadUtils",D:\thesis2\real 106 project\httpie\tests\test_downloads.py,1,1,1,1,12,1,9,1,0,1,1,0,,,,,4,0,4,4,69,12,50,16,35,7,,,30,8,23,,,,,2,2,2,1,0,1,"0.14",7,7,7,6
+Function,"test_downloads.TestDownloadUtils.test_Content_Disposition_parsing(self,header,expected_filename)",D:\thesis2\real 106 project\httpie\tests\test_downloads.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_downloads.TestDownloadUtils.test_Content_Range_parsing(self)",D:\thesis2\real 106 project\httpie\tests\test_downloads.py,,,,,,,,,,,,,,,,,,,,,23,7,10,2,9,6,1,0,10,2,9,1,1,1,1,,,,,,0,"0.60",,,,
+Function,"test_downloads.TestDownloadUtils.test_filename_from_url(self)",D:\thesis2\real 106 project\httpie\tests\test_downloads.py,,,,,,,,,,,,,,,,,,,,,17,0,17,1,16,0,1,0,5,1,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_downloads.TestDownloadUtils.test_unique_filename(self)",D:\thesis2\real 106 project\httpie\tests\test_downloads.py,,,,,,,,,,,,,,,,,,,,,15,2,12,3,9,1,1,0,12,3,9,1,1,1,1,,,,,,0,"0.08",,,,
+Function,"test_downloads.TestDownloadUtils.test_unique_filename.attempts(unique_on_attempt)",D:\thesis2\real 106 project\httpie\tests\test_downloads.py,,,,,,,,,,,,,,,,,,,,,10,1,8,2,6,1,1,0,8,2,6,1,1,1,1,,,,,,0,"0.12",,,,
+Function,"test_downloads.TestDownloadUtils.test_unique_filename.attempts.exists(filename)",D:\thesis2\real 106 project\httpie\tests\test_downloads.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,5,1,4,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"test_downloads.TestDownloads",D:\thesis2\real 106 project\httpie\tests\test_downloads.py,1,1,1,1,10,0,10,0,0,3,3,0,,,,,4,0,4,4,46,4,41,15,36,1,,,35,15,30,,,,,1,1,1,1,0,0,"0.02",4,4,4,4
+Function,"test_downloads.TestDownloads.test_actual_download(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_downloads.py,,,,,,,,,,,,,,,,,,,,,9,0,9,5,8,0,1,0,9,5,8,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_downloads.TestDownloads.test_download_interrupted(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_downloads.py,,,,,,,,,,,,,,,,,,,,,10,0,10,3,9,0,1,0,7,3,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_downloads.TestDownloads.test_download_no_Content_Length(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_downloads.py,,,,,,,,,,,,,,,,,,,,,8,0,8,3,7,0,1,0,8,3,7,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_downloads.TestDownloads.test_download_with_Content_Length(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_downloads.py,,,,,,,,,,,,,,,,,,,,,13,0,13,3,12,0,1,0,10,3,9,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_errors.test_error(get_response)",D:\thesis2\real 106 project\httpie\tests\test_errors.py,,,,,,,,,,,,,,,,,,,,,14,1,13,5,10,0,1,0,10,5,7,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_errors.test_error.error(msg,args,kwargs)",D:\thesis2\real 106 project\httpie\tests\test_errors.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,1,0,1,0,3,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_errors.test_error_traceback(get_response)",D:\thesis2\real 106 project\httpie\tests\test_errors.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,1,0,6,3,5,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"test_errors.test_timeout(get_response)",D:\thesis2\real 106 project\httpie\tests\test_errors.py,,,,,,,,,,,,,,,,,,,,,11,1,10,5,7,0,1,0,10,5,7,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_errors.test_timeout.error(msg,args,kwargs)",D:\thesis2\real 106 project\httpie\tests\test_errors.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,1,0,1,0,3,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"test_exit_status.TestExitStatus",D:\thesis2\real 106 project\httpie\tests\test_exit_status.py,1,1,1,1,6,0,5,0,0,1,1,0,,,,,7,0,7,7,56,7,47,24,31,3,,,32,16,24,,,,,1,1,1,1,0,0,"0.06",7,7,7,7
+Function,"test_exit_status.TestExitStatus.test_3xx_check_status_exits_3_and_stderr_when_stdout_redirected(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_exit_status.py,,,,,,,,,,,,,,,,,,,,,9,0,9,4,7,0,1,0,6,3,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_exit_status.TestExitStatus.test_3xx_check_status_redirects_allowed_exits_0(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_exit_status.py,,,,,,,,,,,,,,,,,,,,,7,0,6,2,5,1,1,0,4,2,3,1,1,1,1,,,,,,0,"0.17",,,,
+Function,"test_exit_status.TestExitStatus.test_4xx_check_status_exits_4(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_exit_status.py,,,,,,,,,,,,,,,,,,,,,7,0,6,2,5,1,1,0,5,2,4,1,1,1,1,,,,,,0,"0.17",,,,
+Function,"test_exit_status.TestExitStatus.test_5xx_check_status_exits_5(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_exit_status.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_exit_status.TestExitStatus.test_error_response_exits_0_without_check_status(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_exit_status.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_exit_status.TestExitStatus.test_ok_response_exits_0(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_exit_status.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_exit_status.TestExitStatus.test_timeout_exit_status(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_exit_status.py,,,,,,,,,,,,,,,,,,,,,5,1,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"test_httpie.TestHTTPie",D:\thesis2\real 106 project\httpie\tests\test_httpie.py,1,1,1,1,4,0,4,0,0,1,1,0,,,,,12,0,12,12,70,12,57,31,40,1,,,51,26,38,,,,,1,1,1,1,0,1,"0.02",12,12,12,12
+Function,"test_httpie.TestHTTPie.test_DELETE(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_httpie.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_httpie.TestHTTPie.test_GET(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_httpie.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_httpie.TestHTTPie.test_POST_JSON_data(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_httpie.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_httpie.TestHTTPie.test_POST_form(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_httpie.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_httpie.TestHTTPie.test_POST_form_multiple_values(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_httpie.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_httpie.TestHTTPie.test_POST_stdin(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_httpie.py,,,,,,,,,,,,,,,,,,,,,6,0,6,4,5,0,1,0,6,3,5,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"test_httpie.TestHTTPie.test_PUT(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_httpie.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_httpie.TestHTTPie.test_debug(self)",D:\thesis2\real 106 project\httpie\tests\test_httpie.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_httpie.TestHTTPie.test_headers(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_httpie.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_httpie.TestHTTPie.test_help(self)",D:\thesis2\real 106 project\httpie\tests\test_httpie.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_httpie.TestHTTPie.test_json_input_preserve_order(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_httpie.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_httpie.TestHTTPie.test_version(self)",D:\thesis2\real 106 project\httpie\tests\test_httpie.py,,,,,,,,,,,,,,,,,,,,,5,0,4,2,3,1,1,0,4,2,3,1,1,1,1,,,,,,0,"0.25",,,,
+Class,"test_output.TestColors",D:\thesis2\real 106 project\httpie\tests\test_output.py,1,1,1,1,3,0,3,0,0,0,0,0,,,,,2,0,2,2,21,2,19,16,4,0,,,7,4,4,,,,,1,1,1,1,0,0,"0.00",2,2,2,2
+Function,"test_output.TestColors.test_get_lexer(self,mime)",D:\thesis2\real 106 project\httpie\tests\test_output.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_output.TestColors.test_get_lexer_not_found(self)",D:\thesis2\real 106 project\httpie\tests\test_output.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"test_output.TestLineEndings",D:\thesis2\real 106 project\httpie\tests\test_output.py,1,1,1,1,4,0,4,0,0,0,0,0,,,,,6,0,6,6,39,6,29,16,22,4,,,29,16,22,,,,,3,3,3,3,0,2,"0.14",8,8,8,8
+Function,"test_output.TestLineEndings._validate_crlf(self,msg)",D:\thesis2\real 106 project\httpie\tests\test_output.py,,,,,,,,,,,,,,,,,,,,,11,0,11,4,10,0,3,0,11,4,10,3,3,3,3,,,,,,2,"0.00",,,,
+Function,"test_output.TestLineEndings.test_CRLF_formatted_request(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_output.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_output.TestLineEndings.test_CRLF_formatted_response(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_output.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_output.TestLineEndings.test_CRLF_headers_only(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_output.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_output.TestLineEndings.test_CRLF_ugly_request(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_output.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_output.TestLineEndings.test_CRLF_ugly_response(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_output.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"test_output.TestPrettyOptions",D:\thesis2\real 106 project\httpie\tests\test_output.py,1,1,1,1,5,0,4,0,0,1,1,0,,,,,7,0,7,7,48,8,34,20,26,6,,,29,20,21,,,,,1,1,1,1,0,0,"0.18",7,7,7,7
+Function,"test_output.TestPrettyOptions.test_colors_option(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_output.py,,,,,,,,,,,,,,,,,,,,,8,0,7,3,6,1,1,0,5,3,4,1,1,1,1,,,,,,0,"0.14",,,,
+Function,"test_output.TestPrettyOptions.test_force_pretty(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_output.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_output.TestPrettyOptions.test_force_ugly(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_output.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_output.TestPrettyOptions.test_format_option(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_output.py,,,,,,,,,,,,,,,,,,,,,8,0,7,3,6,1,1,0,5,3,4,1,1,1,1,,,,,,0,"0.14",,,,
+Function,"test_output.TestPrettyOptions.test_pretty_enabled_by_default(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_output.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_output.TestPrettyOptions.test_pretty_enabled_by_default_unless_stdout_redirected(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_output.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_output.TestPrettyOptions.test_subtype_based_pygments_lexer_match(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_output.py,,,,,,,,,,,,,,,,,,,,,9,1,5,3,4,3,1,0,4,3,3,1,1,1,1,,,,,,0,"0.60",,,,
+Class,"test_output.TestVerboseFlag",D:\thesis2\real 106 project\httpie\tests\test_output.py,1,1,1,1,5,0,5,0,0,0,0,0,,,,,3,0,3,3,19,2,16,7,12,1,,,13,7,9,,,,,1,1,1,1,0,0,"0.06",3,3,3,3
+Function,"test_output.TestVerboseFlag.test_verbose(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_output.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_output.TestVerboseFlag.test_verbose_form(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_output.py,,,,,,,,,,,,,,,,,,,,,6,0,5,2,4,1,1,0,4,2,3,1,1,1,1,,,,,,0,"0.20",,,,
+Function,"test_output.TestVerboseFlag.test_verbose_json(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_output.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_regressions.test_Host_header_overwrite(httpbin)",D:\thesis2\real 106 project\httpie\tests\test_regressions.py,,,,,,,,,,,,,,,,,,,,,11,1,7,4,6,3,1,0,7,4,6,1,1,1,1,,,,,,0,"0.43",,,,
+Function,"test_regressions.test_output_devnull(httpbin)",D:\thesis2\real 106 project\httpie\tests\test_regressions.py,,,,,,,,,,,,,,,,,,,,,6,1,2,1,1,3,1,0,2,1,1,1,1,1,1,,,,,,0,"1.50",,,,
+Class,"test_sessions.SessionTestBase",D:\thesis2\real 106 project\httpie\tests\test_sessions.py,1,1,1,1,5,0,2,2,1,1,1,2,,,,,3,1,3,3,19,5,7,5,3,7,,,7,5,3,,,,,1,1,1,1,1,0,"1.00",3,3,3,3
+Function,"test_sessions.SessionTestBase.env(self)",D:\thesis2\real 106 project\httpie\tests\test_sessions.py,,,,,,,,,,,,,,,,,,,,,10,2,2,1,1,6,1,0,2,1,1,1,1,1,1,,,,,,0,"3.00",,,,
+Function,"test_sessions.SessionTestBase.start_session(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_sessions.py,,,,,,,,,,,,,,,,,,,,,3,0,2,2,1,1,1,0,2,2,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"test_sessions.SessionTestBase.teardown_method(self,method)",D:\thesis2\real 106 project\httpie\tests\test_sessions.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"test_sessions.TestSession",D:\thesis2\real 106 project\httpie\tests\test_sessions.py,1,1,1,1,13,1,10,0,1,1,1,0,,,,,4,0,4,7,62,10,48,18,39,4,,,33,14,28,,,,,1,1,1,1,2,0,"0.08",4,4,4,4
+Function,"test_sessions.TestSession.test_session_by_path(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_sessions.py,,,,,,,,,,,,,,,,,,,,,11,1,10,4,9,0,1,0,8,4,7,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sessions.TestSession.test_session_default_header_value_overwritten(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_sessions.py,,,,,,,,,,,,,,,,,,,,,12,1,10,3,9,1,1,0,8,3,7,1,1,1,1,,,,,,0,"0.10",,,,
+Function,"test_sessions.TestSession.test_session_ignored_header_prefixes(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_sessions.py,,,,,,,,,,,,,,,,,,,,,12,1,11,3,10,0,1,0,8,3,7,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_sessions.TestSession.test_session_unicode(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_sessions.py,,,,,,,,,,,,,,,,,,,,,17,3,12,3,11,2,1,0,8,3,7,1,1,1,1,,,,,,0,"0.17",,,,
+Class,"test_sessions.TestSessionFlow",D:\thesis2\real 106 project\httpie\tests\test_sessions.py,1,1,1,1,16,1,10,3,1,1,0,0,,,,,4,0,4,7,73,12,43,13,38,18,,,33,13,28,,,,,1,1,1,1,2,0,"0.42",4,4,4,4
+Function,"test_sessions.TestSessionFlow.start_session(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_sessions.py,,,,,,,,,,,,,,,,,,,,,12,1,7,2,6,4,1,0,4,2,3,1,1,1,1,,,,,,0,"0.57",,,,
+Function,"test_sessions.TestSessionFlow.test_session_created_and_reused(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_sessions.py,,,,,,,,,,,,,,,,,,,,,9,0,8,2,7,1,1,0,7,2,6,1,1,1,1,,,,,,0,"0.12",,,,
+Function,"test_sessions.TestSessionFlow.test_session_read_only(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_sessions.py,,,,,,,,,,,,,,,,,,,,,24,4,13,4,12,7,1,0,10,4,9,1,1,1,1,,,,,,0,"0.54",,,,
+Function,"test_sessions.TestSessionFlow.test_session_update(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_sessions.py,,,,,,,,,,,,,,,,,,,,,19,2,14,4,13,3,1,0,11,4,10,1,1,1,1,,,,,,0,"0.21",,,,
+Class,"test_ssl.TestClientSSLCertHandling",D:\thesis2\real 106 project\httpie\tests\test_ssl.py,1,1,1,1,5,0,5,0,1,0,0,0,,,,,5,0,5,5,34,5,29,9,23,0,,,17,9,11,,,,,1,1,1,1,1,1,"0.00",5,5,5,5
+Function,"test_ssl.TestClientSSLCertHandling.test_cert_and_key(self,httpbin_secure)",D:\thesis2\real 106 project\httpie\tests\test_ssl.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_ssl.TestClientSSLCertHandling.test_cert_file_invalid(self,httpbin_secure)",D:\thesis2\real 106 project\httpie\tests\test_ssl.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,1,0,3,1,2,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"test_ssl.TestClientSSLCertHandling.test_cert_file_not_found(self,httpbin_secure)",D:\thesis2\real 106 project\httpie\tests\test_ssl.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_ssl.TestClientSSLCertHandling.test_cert_ok_but_missing_key(self,httpbin_secure)",D:\thesis2\real 106 project\httpie\tests\test_ssl.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,1,0,3,1,2,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"test_ssl.TestClientSSLCertHandling.test_cert_pem(self,httpbin_secure)",D:\thesis2\real 106 project\httpie\tests\test_ssl.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"test_ssl.TestServerSSLCertHandling",D:\thesis2\real 106 project\httpie\tests\test_ssl.py,1,1,1,1,3,0,3,0,1,0,0,0,,,,,5,0,5,5,23,5,18,10,10,0,,,16,8,10,,,,,1,1,1,1,1,1,"0.00",5,5,5,5
+Function,"test_ssl.TestServerSSLCertHandling.test_self_signed_server_cert_by_default_raises_ssl_error(self,httpbin_secure)",D:\thesis2\real 106 project\httpie\tests\test_ssl.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,2,0,1,0,3,1,2,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"test_ssl.TestServerSSLCertHandling.test_verify_custom_ca_bundle_invalid_bundle(self,httpbin_secure)",D:\thesis2\real 106 project\httpie\tests\test_ssl.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"test_ssl.TestServerSSLCertHandling.test_verify_custom_ca_bundle_invalid_path(self,httpbin_secure)",D:\thesis2\real 106 project\httpie\tests\test_ssl.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"test_ssl.TestServerSSLCertHandling.test_verify_custom_ca_bundle_path(self,httpbin_secure)",D:\thesis2\real 106 project\httpie\tests\test_ssl.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_ssl.TestServerSSLCertHandling.test_verify_no_OK(self,httpbin_secure)",D:\thesis2\real 106 project\httpie\tests\test_ssl.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"test_stream.TestStream",D:\thesis2\real 106 project\httpie\tests\test_stream.py,1,1,1,1,9,0,7,1,0,1,1,0,,,,,3,0,3,3,34,3,25,15,19,6,,,16,10,12,,,,,1,1,1,1,0,1,"0.24",3,3,3,3
+Function,"test_stream.TestStream.test_encoded_stream(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_stream.py,,,,,,,,,,,,,,,,,,,,,8,0,6,4,5,2,1,0,5,3,4,1,1,1,1,,,,,,1,"0.33",,,,
+Function,"test_stream.TestStream.test_pretty_redirected_stream(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_stream.py,,,,,,,,,,,,,,,,,,,,,9,0,8,4,7,1,1,0,5,3,4,1,1,1,1,,,,,,1,"0.12",,,,
+Function,"test_stream.TestStream.test_redirected_stream(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_stream.py,,,,,,,,,,,,,,,,,,,,,10,0,8,4,7,2,1,0,5,3,4,1,1,1,1,,,,,,1,"0.25",,,,
+Class,"test_unicode.TestUnicode",D:\thesis2\real 106 project\httpie\tests\test_unicode.py,1,1,1,1,4,0,4,0,0,0,0,0,,,,,13,0,13,13,78,14,55,25,41,9,,,48,25,34,,,,,1,1,1,1,0,0,"0.16",13,13,13,13
+Function,"test_unicode.TestUnicode.test_unicode_basic_auth(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_unicode.py,,,,,,,,,,,,,,,,,,,,,5,0,3,1,2,2,1,0,2,1,1,1,1,1,1,,,,,,0,"0.67",,,,
+Function,"test_unicode.TestUnicode.test_unicode_digest_auth(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_unicode.py,,,,,,,,,,,,,,,,,,,,,6,0,4,1,3,2,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"test_unicode.TestUnicode.test_unicode_form_item(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_unicode.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_unicode.TestUnicode.test_unicode_form_item_verbose(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_unicode.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_unicode.TestUnicode.test_unicode_headers(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_unicode.py,,,,,,,,,,,,,,,,,,,,,4,0,3,2,2,1,1,0,3,2,2,1,1,1,1,,,,,,0,"0.33",,,,
+Function,"test_unicode.TestUnicode.test_unicode_headers_verbose(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_unicode.py,,,,,,,,,,,,,,,,,,,,,5,0,4,2,3,1,1,0,4,2,3,1,1,1,1,,,,,,0,"0.25",,,,
+Function,"test_unicode.TestUnicode.test_unicode_json_item(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_unicode.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_unicode.TestUnicode.test_unicode_json_item_verbose(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_unicode.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_unicode.TestUnicode.test_unicode_raw_json_item(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_unicode.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_unicode.TestUnicode.test_unicode_raw_json_item_verbose(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_unicode.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_unicode.TestUnicode.test_unicode_url(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_unicode.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_unicode.TestUnicode.test_unicode_url_query_arg_item(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_unicode.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_unicode.TestUnicode.test_unicode_url_query_arg_item_verbose(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_unicode.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"test_uploads.TestMultipartFormDataFileUpload",D:\thesis2\real 106 project\httpie\tests\test_uploads.py,1,1,1,1,7,0,7,0,0,1,1,0,,,,,3,0,3,3,27,3,22,6,18,2,,,16,6,12,,,,,1,1,1,1,0,1,"0.09",3,3,3,3
+Function,"test_uploads.TestMultipartFormDataFileUpload.test_non_existent_file_raises_parse_error(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_uploads.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,3,1,2,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"test_uploads.TestMultipartFormDataFileUpload.test_upload_multiple_fields_with_the_same_name(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_uploads.py,,,,,,,,,,,,,,,,,,,,,10,0,8,2,7,2,1,0,5,2,4,1,1,1,1,,,,,,0,"0.25",,,,
+Function,"test_uploads.TestMultipartFormDataFileUpload.test_upload_ok(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_uploads.py,,,,,,,,,,,,,,,,,,,,,9,0,9,2,8,0,1,0,7,2,6,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"test_uploads.TestRequestBodyFromFilePath",D:\thesis2\real 106 project\httpie\tests\test_uploads.py,1,1,1,1,6,0,6,0,0,1,1,0,,,,,4,0,4,4,35,5,27,14,19,3,,,19,11,14,,,,,1,1,1,1,0,0,"0.11",4,4,4,4
+Function,"test_uploads.TestRequestBodyFromFilePath.test_request_body_from_file_by_path(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_uploads.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_uploads.TestRequestBodyFromFilePath.test_request_body_from_file_by_path_no_data_items_allowed(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_uploads.py,,,,,,,,,,,,,,,,,,,,,6,0,6,4,4,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_uploads.TestRequestBodyFromFilePath.test_request_body_from_file_by_path_no_field_name_allowed(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_uploads.py,,,,,,,,,,,,,,,,,,,,,6,0,6,4,4,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_uploads.TestRequestBodyFromFilePath.test_request_body_from_file_by_path_with_explicit_content_type(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_uploads.py,,,,,,,,,,,,,,,,,,,,,8,0,8,3,6,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"test_windows.TestFakeWindows",D:\thesis2\real 106 project\httpie\tests\test_windows.py,1,1,1,1,8,0,8,0,0,1,1,0,,,,,1,0,1,1,9,0,9,5,7,0,,,6,5,4,,,,,1,1,1,1,0,0,"0.00",1,1,1,1
+Function,"test_windows.TestFakeWindows.test_output_file_pretty_not_allowed_on_windows(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_windows.py,,,,,,,,,,,,,,,,,,,,,8,0,8,4,7,0,1,0,5,4,4,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"test_windows.TestWindowsOnly",D:\thesis2\real 106 project\httpie\tests\test_windows.py,1,1,1,1,3,0,2,1,0,1,1,0,,,,,1,0,1,1,7,1,5,4,1,1,,,3,2,1,,,,,1,1,1,1,0,0,"0.20",1,1,1,1
+Function,"test_windows.TestWindowsOnly.test_windows_colorized_output(self,httpbin)",D:\thesis2\real 106 project\httpie\tests\test_windows.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Class,"utils.BaseCLIResponse",D:\thesis2\real 106 project\httpie\tests\utils.py,0,0,0,0,0,0,0,0,1,0,0,2,,,,,0,0,0,0,14,3,4,4,3,7,,,4,4,3,,,,,0,0,0,0,1,0,"1.75",0,0,0,0
+Class,"utils.BytesCLIResponse",D:\thesis2\real 106 project\httpie\tests\utils.py,0,0,0,0,0,0,0,0,2,0,0,0,,,,,0,0,0,0,9,3,1,1,0,5,,,1,1,0,,,,,0,0,0,0,2,0,"5.00",0,0,0,0
+Class,"utils.StrCLIResponse",D:\thesis2\real 106 project\httpie\tests\utils.py,7,7,8,1,29,1,19,9,2,1,0,0,,,,,1,1,1,1,32,2,21,5,18,9,,,17,4,15,,,,,7,7,8,1,2,4,"0.43",7,7,8,1
+Function,"utils.StrCLIResponse.json-getter(self)",D:\thesis2\real 106 project\httpie\tests\utils.py,,,,,,,,,,,,,,,,,,,,,29,1,19,3,18,9,7,1,16,3,15,7,7,8,1,,,,,,4,"0.47",,,,
+Class,"utils.TestEnvironment",D:\thesis2\real 106 project\httpie\tests\utils.py,3,3,3,1,8,2,6,0,1,1,0,0,,,,,2,1,2,4,30,8,19,9,16,4,,,19,9,16,,,,,4,4,4,1,2,1,"0.21",6,6,6,2
+Function,"utils.TestEnvironment.__del__(self)",D:\thesis2\real 106 project\httpie\tests\utils.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,2,0,3,1,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"utils.TestEnvironment.__init__(self,kwargs)",D:\thesis2\real 106 project\httpie\tests\utils.py,,,,,,,,,,,,,,,,,,,,,14,4,10,2,9,0,8,1,10,2,9,4,4,4,1,,,,,,1,"0.00",,,,
+Function,"utils.add_auth(url,auth)",D:\thesis2\real 106 project\httpie\tests\utils.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"utils.http(args,kwargs)",D:\thesis2\real 106 project\httpie\tests\utils.py,,,,,,,,,,,,,,,,,,,,,99,19,49,9,47,31,112,2,47,9,45,10,10,12,5,,,,,,3,"0.63",,,,
+Function,"utils.http.dump_stderr()",D:\thesis2\real 106 project\httpie\tests\utils.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"utils.mk_config_dir()",D:\thesis2\real 106 project\httpie\tests\utils.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"utils.no_content_type(headers)",D:\thesis2\real 106 project\httpie\tests\utils.py,,,,,,,,,,,,,,,,,,,,,8,0,5,1,4,3,1,0,2,1,1,1,1,2,1,,,,,,0,"0.60",,,,

@@ -1,0 +1,393 @@
+Kind,Name,File,AvgCyclomatic,AvgCyclomaticModified,AvgCyclomaticStrict,AvgEssential,AvgLine,AvgLineBlank,AvgLineCode,AvgLineComment,CountClassBase,CountClassCoupled,CountClassCoupledModified,CountClassDerived,CountDeclClass,CountDeclExecutableUnit,CountDeclFile,CountDeclFunction,CountDeclInstanceMethod,CountDeclInstanceVariable,CountDeclMethod,CountDeclMethodAll,CountLine,CountLineBlank,CountLineCode,CountLineCodeDecl,CountLineCodeExe,CountLineComment,CountPath,CountPathLog,CountStmt,CountStmtDecl,CountStmtExe,Cyclomatic,CyclomaticModified,CyclomaticStrict,Essential,MaxCyclomatic,MaxCyclomaticModified,MaxCyclomaticStrict,MaxEssential,MaxInheritanceTree,MaxNesting,RatioCommentToCode,SumCyclomatic,SumCyclomaticModified,SumCyclomaticStrict,SumEssential
+File,"D:\thesis2\real 106 project\explainshell\explainshell\__init__.py",D:\thesis2\real 106 project\explainshell\explainshell\__init__.py,0,0,0,0,0,0,0,0,,,,,0,0,,0,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,"0.00",0,0,0,0
+File,"D:\thesis2\real 106 project\explainshell\explainshell\algo\__init__.py",D:\thesis2\real 106 project\explainshell\explainshell\algo\__init__.py,0,0,0,0,0,0,0,0,,,,,0,0,,0,,,,,2,0,2,2,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,,0,"0.00",0,0,0,0
+Module File,"D:\thesis2\real 106 project\explainshell\explainshell\algo\classifier.py",D:\thesis2\real 106 project\explainshell\explainshell\algo\classifier.py,2,2,2,1,14,2,13,0,,,,,1,7,,6,,,,,111,24,82,45,69,5,1,0,79,45,66,1,1,1,1,4,4,4,4,,3,"0.06",16,16,16,10
+Module File,"D:\thesis2\real 106 project\explainshell\explainshell\algo\features.py",D:\thesis2\real 106 project\explainshell\explainshell\algo\features.py,1,1,1,1,5,0,3,1,,,,,0,10,,10,,,,,63,11,39,20,28,13,0,0,39,20,28,0,0,0,0,4,4,5,4,,2,"0.33",15,15,17,13
+Module File,"D:\thesis2\real 106 project\explainshell\explainshell\config.py",D:\thesis2\real 106 project\explainshell\explainshell\config.py,1,1,1,1,37,0,0,0,,,,,0,1,,0,,,,,43,5,38,9,37,0,1,0,9,9,8,1,1,1,1,1,1,1,1,,0,"0.00",1,1,1,1
+Module File,"D:\thesis2\real 106 project\explainshell\explainshell\errors.py",D:\thesis2\real 106 project\explainshell\explainshell\errors.py,0,0,0,0,0,0,0,0,,,,,2,0,,0,,,,,5,1,4,2,2,0,0,0,4,2,2,0,0,0,0,0,0,0,0,,0,"0.00",0,0,0,0
+Module File,"D:\thesis2\real 106 project\explainshell\explainshell\fixer.py",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,1,1,1,1,4,0,4,0,,,,,7,31,,30,,,,,206,42,150,85,106,14,1,0,144,80,105,1,1,1,1,5,5,5,3,,3,"0.09",56,56,58,33
+Module File,"D:\thesis2\real 106 project\explainshell\explainshell\helpconstants.py",D:\thesis2\real 106 project\explainshell\explainshell\helpconstants.py,1,1,1,1,107,0,3,0,,,,,0,2,,1,,,,,283,67,215,32,213,3,1,0,38,32,36,1,1,1,1,2,2,2,1,,1,"0.01",3,3,3,2
+Module File,"D:\thesis2\real 106 project\explainshell\explainshell\manager.py",D:\thesis2\real 106 project\explainshell\explainshell\manager.py,3,3,3,1,12,1,11,0,,,,,2,14,,13,,,,,201,36,162,61,144,4,2,0,156,60,138,2,2,2,1,11,11,12,9,,5,"0.02",43,43,44,24
+Module File,"D:\thesis2\real 106 project\explainshell\explainshell\manpage.py",D:\thesis2\real 106 project\explainshell\explainshell\manpage.py,3,3,4,1,21,0,12,4,,,,,1,8,,7,,,,,207,23,142,46,132,70,10,1,112,46,102,5,5,5,1,11,11,13,3,,4,"0.49",30,30,33,10
+Module File,"D:\thesis2\real 106 project\explainshell\explainshell\matcher.py",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,2,2,3,1,18,2,13,3,,,,,3,39,,38,,,,,640,114,420,140,371,107,1,0,376,135,331,1,1,1,1,19,19,24,14,,5,"0.25",113,113,134,64
+Module File,"D:\thesis2\real 106 project\explainshell\explainshell\options.py",D:\thesis2\real 106 project\explainshell\explainshell\options.py,3,3,3,1,20,0,10,8,,,,,1,8,,7,,,,,181,17,107,29,97,71,1,0,77,29,67,1,1,1,1,10,10,11,4,,5,"0.66",25,25,30,11
+Module File,"D:\thesis2\real 106 project\explainshell\explainshell\store.py",D:\thesis2\real 106 project\explainshell\explainshell\store.py,1,1,1,1,7,0,6,0,,,,,5,42,,41,,,,,399,68,275,137,214,56,1,0,249,124,201,1,1,1,1,10,10,10,6,,3,"0.20",77,77,78,53
+Module File,"D:\thesis2\real 106 project\explainshell\explainshell\util.py",D:\thesis2\real 106 project\explainshell\explainshell\util.py,1,1,1,1,8,0,6,1,,,,,2,15,,15,,,,,145,11,88,38,68,46,0,0,85,37,66,0,0,0,0,6,6,6,4,,4,"0.52",29,29,29,18
+File,"D:\thesis2\real 106 project\explainshell\explainshell\web\__init__.py",D:\thesis2\real 106 project\explainshell\explainshell\web\__init__.py,2,2,2,1,3,0,0,0,,,,,0,1,,0,,,,,10,3,7,5,3,0,2,0,7,5,3,2,2,2,1,2,2,2,1,,1,"0.00",2,2,2,1
+Module File,"D:\thesis2\real 106 project\explainshell\explainshell\web\debugviews.py",D:\thesis2\real 106 project\explainshell\explainshell\web\debugviews.py,5,5,6,2,18,1,23,0,,,,,0,4,,3,,,,,85,9,76,32,67,0,1,0,68,30,61,1,1,1,1,13,13,16,4,,4,"0.00",22,22,25,9
+Module File,"D:\thesis2\real 106 project\explainshell\explainshell\web\helpers.py",D:\thesis2\real 106 project\explainshell\explainshell\web\helpers.py,3,3,3,1,8,0,7,1,,,,,0,2,,2,,,,,20,2,16,10,13,2,0,0,15,10,12,0,0,0,0,4,4,5,1,,3,"0.12",6,6,7,2
+Module File,"D:\thesis2\real 106 project\explainshell\explainshell\web\views.py",D:\thesis2\real 106 project\explainshell\explainshell\web\views.py,4,4,4,2,23,3,20,2,,,,,0,10,,9,,,,,257,46,194,66,174,18,1,0,169,60,154,1,1,1,1,12,12,14,7,,4,"0.09",46,46,49,26
+Module File,"D:\thesis2\real 106 project\explainshell\runserver.py",D:\thesis2\real 106 project\explainshell\runserver.py,2,2,2,1,3,0,0,0,,,,,0,1,,0,,,,,8,2,6,3,3,0,2,0,6,3,3,2,2,2,1,2,2,2,1,,1,"0.00",2,2,2,1
+File,"D:\thesis2\real 106 project\explainshell\tests\__init__.py",D:\thesis2\real 106 project\explainshell\tests\__init__.py,0,0,0,0,0,0,0,0,,,,,0,0,,0,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,"0.00",0,0,0,0
+Module File,"D:\thesis2\real 106 project\explainshell\tests\helpers.py",D:\thesis2\real 106 project\explainshell\tests\helpers.py,1,1,1,1,12,1,16,0,,,,,1,3,,2,,,,,43,7,36,17,32,0,1,0,27,17,23,1,1,1,1,3,3,3,3,,2,"0.00",5,5,5,5
+Module File,"D:\thesis2\real 106 project\explainshell\tests\test-fixer.py",D:\thesis2\real 106 project\explainshell\tests\test-fixer.py,1,1,1,1,9,1,8,0,,,,,2,5,,5,,,,,56,10,43,20,33,3,0,0,36,20,26,0,0,0,0,1,1,1,1,,0,"0.07",5,5,5,5
+Module File,"D:\thesis2\real 106 project\explainshell\tests\test-integration.py",D:\thesis2\real 106 project\explainshell\tests\test-integration.py,1,1,1,1,26,8,17,1,,,,,1,1,,1,,,,,31,10,20,9,16,1,0,0,20,9,16,0,0,0,0,1,1,1,1,,0,"0.05",1,1,1,1
+Module File,"D:\thesis2\real 106 project\explainshell\tests\test-manager.py",D:\thesis2\real 106 project\explainshell\tests\test-manager.py,1,1,1,1,12,1,11,0,,,,,1,10,,10,,,,,143,29,113,36,100,2,0,0,112,36,99,0,0,0,0,2,2,2,1,,1,"0.02",11,11,11,10
+Module File,"D:\thesis2\real 106 project\explainshell\tests\test-manpage.py",D:\thesis2\real 106 project\explainshell\tests\test-manpage.py,1,1,1,1,11,2,9,0,,,,,1,3,,3,,,,,41,10,31,11,25,0,0,0,17,11,11,0,0,0,0,1,1,1,1,,0,"0.00",3,3,3,3
+Module File,"D:\thesis2\real 106 project\explainshell\tests\test-matcher.py",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,1,1,1,1,12,2,10,0,,,,,2,49,,48,,,,,652,146,496,179,442,14,1,0,349,179,295,1,1,1,1,2,2,2,1,,1,"0.03",51,51,51,49
+Module File,"D:\thesis2\real 106 project\explainshell\tests\test-options.py",D:\thesis2\real 106 project\explainshell\tests\test-options.py,1,1,1,1,9,1,7,0,,,,,1,10,,10,,,,,111,27,81,27,68,3,0,0,72,27,59,0,0,0,0,1,1,1,1,,0,"0.04",10,10,10,10
+Module File,"D:\thesis2\real 106 project\explainshell\tools\shellbuiltins.py",D:\thesis2\real 106 project\explainshell\tools\shellbuiltins.py,2,2,2,1,28,0,4,2,,,,,0,2,,1,,,,,77,13,57,12,53,7,3,0,21,12,17,3,3,3,1,3,3,3,1,,2,"0.12",4,4,4,2
+Unknown Class,"TestCase",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"TestCase",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"TestCase",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"TestCase",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"TestCase",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"TestCase",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"basefixer",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Package,"explainshell",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell",,3,3,3,1,20,0,10,8,,,,,1,,1,7,,,,,181,17,107,29,97,71,,,77,29,67,,,,,10,10,11,4,,5,,25,25,30,11
+Package,"explainshell",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell",,1,1,1,1,8,0,6,1,,,,,2,,1,15,,,,,145,11,88,38,68,46,,,85,37,66,,,,,6,6,6,4,,4,,29,29,29,18
+Package,"explainshell",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell",,1,1,1,1,7,0,6,0,,,,,5,,1,41,,,,,399,68,275,137,214,56,,,249,124,201,,,,,10,10,10,6,,3,,77,77,78,53
+Package,"explainshell",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell",,2,2,2,1,3,0,0,0,,,,,0,,1,0,,,,,10,3,7,5,3,0,,,7,5,3,,,,,2,2,2,1,,1,,2,2,2,1
+Package,"explainshell",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,1,1,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell",,1,1,1,1,37,0,0,0,,,,,0,,1,0,,,,,43,5,38,9,37,0,,,9,9,8,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"explainshell",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell",,3,3,4,1,21,0,12,4,,,,,1,,1,7,,,,,207,23,142,46,132,70,,,112,46,102,,,,,11,11,13,3,,4,,30,30,33,10
+Package,"explainshell",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell",,1,1,1,1,107,0,3,0,,,,,0,,1,1,,,,,283,67,215,32,213,3,,,38,32,36,,,,,2,2,2,1,,1,,3,3,3,2
+Package,"explainshell",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell",,2,2,3,1,18,2,13,3,,,,,3,,1,38,,,,,640,114,420,140,371,107,,,376,135,331,,,,,19,19,24,14,,5,,113,113,134,64
+Package,"explainshell",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell",,0,0,0,0,0,0,0,0,,,,,2,,1,0,,,,,5,1,4,2,2,0,,,4,2,2,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,2,0,2,2,0,0,,,2,2,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell",,3,3,3,1,12,1,11,0,,,,,2,,1,13,,,,,201,36,162,61,144,4,,,156,60,138,,,,,11,11,12,9,,5,,43,43,44,24
+Package,"explainshell",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell",,1,1,1,1,4,0,4,0,,,,,7,,1,30,,,,,206,42,150,85,106,14,,,144,80,105,,,,,5,5,5,3,,3,,56,56,58,33
+Package,"explainshell.algo",,2,2,2,1,14,2,13,0,,,,,1,,1,6,,,,,111,24,82,45,69,5,,,79,45,66,,,,,4,4,4,4,,3,,16,16,16,10
+Package,"explainshell.algo",,1,1,1,1,5,0,3,1,,,,,0,,1,10,,,,,63,11,39,20,28,13,,,39,20,28,,,,,4,4,5,4,,2,,15,15,17,13
+Package,"explainshell.algo",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,2,0,2,2,0,0,,,2,2,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell.algo",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell.algo",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Class,"explainshell.algo.classifier.classifier",D:\thesis2\real 106 project\explainshell\explainshell\algo\classifier.py,2,2,2,1,16,2,13,0,1,5,0,0,,,,,4,5,4,4,83,17,61,34,55,5,,,58,34,52,,,,,4,4,4,4,1,3,"0.08",13,13,13,8
+Function,"explainshell.algo.classifier.classifier.__init__(self,store,algo,classifier_args)",D:\thesis2\real 106 project\explainshell\explainshell\algo\classifier.py,,,,,,,,,,,,,,,,,,,,,5,0,5,5,4,0,1,0,5,5,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.algo.classifier.classifier.classify(self,manpage)",D:\thesis2\real 106 project\explainshell\explainshell\algo\classifier.py,,,,,,,,,,,,,,,,,,,,,16,2,14,6,13,0,4,1,13,6,12,4,4,4,1,,,,,,3,"0.00",,,,
+Function,"explainshell.algo.classifier.classifier.evaluate(self)",D:\thesis2\real 106 project\explainshell\explainshell\algo\classifier.py,,,,,,,,,,,,,,,,,,,,,19,3,14,6,13,2,2,0,14,6,13,2,2,2,1,,,,,,1,"0.14",,,,
+Function,"explainshell.algo.classifier.classifier.train(self)",D:\thesis2\real 106 project\explainshell\explainshell\algo\classifier.py,,,,,,,,,,,,,,,,,,,,,37,9,27,16,25,1,4,1,25,16,23,4,4,4,4,,,,,,1,"0.04",,,,
+Function,"explainshell.algo.classifier.classifier.train.flatten_manpages(manpage)",D:\thesis2\real 106 project\explainshell\explainshell\algo\classifier.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,2,0,5,3,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"explainshell.algo.classifier.get_features(paragraph)",D:\thesis2\real 106 project\explainshell\explainshell\algo\classifier.py,,,,,,,,,,,,,,,,,,,,,16,2,14,4,13,0,2,0,14,4,13,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"explainshell.algo.features.extract_first_line(paragraph)",D:\thesis2\real 106 project\explainshell\explainshell\algo\features.py,,,,,,,,,,,,,,,,,,,,,22,0,9,5,8,13,3,0,9,5,8,3,3,5,1,,,,,,2,"1.44",,,,
+Function,"explainshell.algo.features.first_line_contains(paragraph,what)",D:\thesis2\real 106 project\explainshell\explainshell\algo\features.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.algo.features.first_line_length(paragraph)",D:\thesis2\real 106 project\explainshell\explainshell\algo\features.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.algo.features.first_line_word_count(paragraph)",D:\thesis2\real 106 project\explainshell\explainshell\algo\features.py,,,,,,,,,,,,,,,,,,,,,5,1,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.algo.features.has_bold(html)",D:\thesis2\real 106 project\explainshell\explainshell\algo\features.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.algo.features.is_good_section(paragraph)",D:\thesis2\real 106 project\explainshell\explainshell\algo\features.py,,,,,,,,,,,,,,,,,,,,,9,0,9,2,8,0,4,1,9,2,8,4,4,4,4,,,,,,1,"0.00",,,,
+Function,"explainshell.algo.features.is_indented(paragraph)",D:\thesis2\real 106 project\explainshell\explainshell\algo\features.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.algo.features.par_length(paragraph)",D:\thesis2\real 106 project\explainshell\explainshell\algo\features.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.algo.features.starts_with_hyphen(paragraph)",D:\thesis2\real 106 project\explainshell\explainshell\algo\features.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.algo.features.word_count(text)",D:\thesis2\real 106 project\explainshell\explainshell\algo\features.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"explainshell.errors.EmptyManpage",D:\thesis2\real 106 project\explainshell\explainshell\errors.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,12,2,0,2,1,1,0,,,2,1,1,,,,,0,0,0,0,3,0,"0.00",0,0,0,0
+Class,"explainshell.errors.ProgramDoesNotExist",D:\thesis2\real 106 project\explainshell\explainshell\errors.py,0,0,0,0,0,0,0,0,1,0,0,0,,,,,0,0,0,12,2,0,2,1,1,0,,,2,1,1,,,,,0,0,0,0,3,0,"0.00",0,0,0,0
+Function,"explainshell.fixer._parents(fixercls)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,10,2,8,3,7,0,4,1,8,3,7,3,3,4,3,,,,,,1,"0.00",,,,
+Class,"explainshell.fixer.basefixer",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,1,1,1,1,2,0,2,0,1,0,0,5,,,,,8,3,8,8,33,9,21,14,12,3,,,21,14,12,,,,,1,1,1,1,1,0,"0.14",8,8,8,8
+Function,"explainshell.fixer.basefixer.__init__(self,mctx)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,4,0,4,4,3,0,1,0,4,4,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.fixer.basefixer.post_classify(self)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.fixer.basefixer.post_option_extraction(self)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.fixer.basefixer.post_parse_manpage(self)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.fixer.basefixer.pre_add_manpage(self)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.fixer.basefixer.pre_classify(self)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.fixer.basefixer.pre_get_raw_manpage(self)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.fixer.basefixer.pre_parse_manpage(self)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"explainshell.fixer.bulletremover",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,5,5,5,1,12,0,12,0,1,3,0,0,,,,,1,0,1,9,14,0,13,5,11,1,,,13,5,11,,,,,5,5,5,1,2,3,"0.08",5,5,5,1
+Function,"explainshell.fixer.bulletremover.post_parse_manpage(self)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,12,0,12,4,11,0,8,1,12,4,11,5,5,5,1,,,,,,3,"0.00",,,,
+Class,"explainshell.fixer.leadingspaceremover",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,1,1,1,1,6,0,3,3,1,1,0,0,,,,,2,0,2,10,18,2,7,5,4,9,,,7,5,4,,,,,2,2,2,1,2,1,"1.29",3,3,3,2
+Function,"explainshell.fixer.leadingspaceremover._removewhitespace(self,text)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,9,0,2,1,1,7,1,0,2,1,1,1,1,1,1,,,,,,0,"3.50",,,,
+Function,"explainshell.fixer.leadingspaceremover.post_option_extraction(self)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,2,0,4,3,3,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"explainshell.fixer.optiontrimmer",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,2,2,2,1,8,0,7,0,1,1,0,0,,,,,2,1,2,10,22,4,18,8,15,0,,,17,8,14,,,,,4,4,4,1,2,2,"0.00",5,5,5,2
+Function,"explainshell.fixer.optiontrimmer.__init__(self,mctx)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.fixer.optiontrimmer.post_classify(self)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,13,1,12,3,11,0,6,1,11,3,10,4,4,4,1,,,,,,2,"0.00",,,,
+Class,"explainshell.fixer.paragraphjoiner",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,2,2,3,1,12,0,11,0,1,1,0,0,,,,,2,0,2,10,31,3,28,14,24,0,,,28,14,24,,,,,4,4,4,1,2,3,"0.00",8,8,9,3
+Function,"explainshell.fixer.paragraphjoiner._join(self,paragraphs,options)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,23,1,22,9,20,0,3,0,22,9,20,3,3,4,1,,,,,,2,"0.00",,,,
+Function,"explainshell.fixer.paragraphjoiner._join._paragraphsbetween(op1,op2)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,10,0,10,4,9,0,4,1,10,4,9,4,4,4,1,,,,,,3,"0.00",,,,
+Function,"explainshell.fixer.paragraphjoiner.post_option_extraction(self)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.fixer.register(fixercls)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,7,0,7,2,6,0,3,0,7,2,6,3,3,3,1,,,,,,2,"0.00",,,,
+Class,"explainshell.fixer.runner",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,1,1,1,1,3,0,3,0,1,1,0,0,,,,,10,2,10,10,42,9,32,21,21,1,,,32,21,21,,,,,2,2,2,1,1,1,"0.03",18,18,18,10
+Function,"explainshell.fixer.runner.__init__(self,mctx)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,3,0,3,3,2,0,1,0,3,3,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.fixer.runner._fixers(self)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.fixer.runner.disable(self,name)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,2,0,5,2,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"explainshell.fixer.runner.post_classify(self)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"explainshell.fixer.runner.post_option_extraction(self)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"explainshell.fixer.runner.post_parse_manpage(self)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"explainshell.fixer.runner.pre_add_manpage(self)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"explainshell.fixer.runner.pre_classify(self)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"explainshell.fixer.runner.pre_get_raw_manpage(self)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"explainshell.fixer.runner.pre_parse_manpage(self)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"explainshell.fixer.tarfixer",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,1,1,1,1,2,0,2,0,1,1,0,0,,,,,2,1,2,10,7,1,6,4,3,0,,,6,4,3,,,,,1,1,1,1,2,0,"0.00",2,2,2,2
+Function,"explainshell.fixer.tarfixer.__init__(self,args)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.fixer.tarfixer.pre_add_manpage(self)",D:\thesis2\real 106 project\explainshell\explainshell\fixer.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.helpconstants._addwords(key,text,words)",D:\thesis2\real 106 project\explainshell\explainshell\helpconstants.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"explainshell.manager.main(files,dbname,dbhost,overwrite,drop,verify)",D:\thesis2\real 106 project\explainshell\explainshell\manager.py,,,,,,,,,,,,,,,,,,,,,26,4,22,8,21,1,37,2,20,8,19,9,9,9,1,,,,,,2,"0.05",,,,
+Class,"explainshell.manager.manager",D:\thesis2\real 106 project\explainshell\explainshell\manager.py,2,2,2,1,11,1,10,0,1,5,1,0,,,,,11,4,11,11,141,24,114,37,102,3,,,110,36,98,,,,,11,11,12,9,1,5,"0.03",31,31,32,21
+Function,"explainshell.manager.manager.__init__(self,dbhost,dbname,paths,overwrite,drop)",D:\thesis2\real 106 project\explainshell\explainshell\manager.py,,,,,,,,,,,,,,,,,,,,,11,3,8,5,7,0,2,0,8,5,7,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"explainshell.manager.manager._classify(self,ctx,frunner)",D:\thesis2\real 106 project\explainshell\explainshell\manager.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.manager.manager._extract(self,ctx,frunner)",D:\thesis2\real 106 project\explainshell\explainshell\manager.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,5,1,4,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"explainshell.manager.manager._read(self,ctx,frunner)",D:\thesis2\real 106 project\explainshell\explainshell\manager.py,,,,,,,,,,,,,,,,,,,,,9,1,8,1,7,0,1,0,7,1,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.manager.manager._update(self,ctx,frunner)",D:\thesis2\real 106 project\explainshell\explainshell\manager.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.manager.manager._write(self,ctx,frunner)",D:\thesis2\real 106 project\explainshell\explainshell\manager.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.manager.manager.ctx(self,m)",D:\thesis2\real 106 project\explainshell\explainshell\manager.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.manager.manager.edit(self,m,paragraphs)",D:\thesis2\real 106 project\explainshell\explainshell\manager.py,,,,,,,,,,,,,,,,,,,,,12,1,11,3,10,0,2,0,10,3,9,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"explainshell.manager.manager.findmulticommands(self)",D:\thesis2\real 106 project\explainshell\explainshell\manager.py,,,,,,,,,,,,,,,,,,,,,29,5,24,10,23,0,60,2,23,10,22,8,8,8,3,,,,,,2,"0.00",,,,
+Function,"explainshell.manager.manager.process(self,ctx)",D:\thesis2\real 106 project\explainshell\explainshell\manager.py,,,,,,,,,,,,,,,,,,,,,9,2,7,3,6,0,1,0,7,3,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.manager.manager.run(self)",D:\thesis2\real 106 project\explainshell\explainshell\manager.py,,,,,,,,,,,,,,,,,,,,,40,2,37,8,36,1,26,1,36,7,35,11,11,12,9,,,,,,5,"0.03",,,,
+Class,"explainshell.manager.managerctx",D:\thesis2\real 106 project\explainshell\explainshell\manager.py,1,1,1,1,10,1,9,0,1,0,0,0,,,,,1,8,1,1,11,1,10,10,8,0,,,10,10,8,,,,,1,1,1,1,1,0,"0.00",1,1,1,1
+Function,"explainshell.manager.managerctx.__init__(self,classifier,store,manpage)",D:\thesis2\real 106 project\explainshell\explainshell\manager.py,,,,,,,,,,,,,,,,,,,,,10,1,9,9,8,0,1,0,9,9,8,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.manpage._parsesynopsis(base,synopsis)",D:\thesis2\real 106 project\explainshell\explainshell\manpage.py,,,,,,,,,,,,,,,,,,,,,9,0,5,1,4,4,2,0,5,1,4,2,2,2,1,,,,,,1,"0.80",,,,
+Function,"explainshell.manpage._parsetext(lines)",D:\thesis2\real 106 project\explainshell\explainshell\manpage.py,,,,,,,,,,,,,,,,,,,,,32,0,31,9,30,2,106,2,29,9,28,11,11,13,3,,,,,,4,"0.06",,,,
+Function,"explainshell.manpage.bold(l)",D:\thesis2\real 106 project\explainshell\explainshell\manpage.py,,,,,,,,,,,,,,,,,,,,,28,3,15,6,14,10,4,1,15,6,14,3,3,4,1,,,,,,1,"0.67",,,,
+Function,"explainshell.manpage.extractname(gzname)",D:\thesis2\real 106 project\explainshell\explainshell\manpage.py,,,,,,,,,,,,,,,,,,,,,16,0,4,1,3,12,2,0,4,1,3,2,2,2,1,,,,,,1,"3.00",,,,
+Class,"explainshell.manpage.manpage",D:\thesis2\real 106 project\explainshell\explainshell\manpage.py,2,2,2,1,12,0,10,1,1,2,0,0,,,,,3,7,3,3,48,5,31,15,27,12,,,31,15,27,,,,,4,4,4,1,1,2,"0.39",7,7,7,3
+Function,"explainshell.manpage.manpage.__init__(self,path)",D:\thesis2\real 106 project\explainshell\explainshell\manpage.py,,,,,,,,,,,,,,,,,,,,,8,0,8,8,7,0,1,0,8,8,7,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.manpage.manpage.parse(self)",D:\thesis2\real 106 project\explainshell\explainshell\manpage.py,,,,,,,,,,,,,,,,,,,,,18,2,14,4,13,2,6,1,14,4,13,4,4,4,1,,,,,,2,"0.14",,,,
+Function,"explainshell.manpage.manpage.read(self)",D:\thesis2\real 106 project\explainshell\explainshell\manpage.py,,,,,,,,,,,,,,,,,,,,,10,0,8,2,7,2,2,0,8,2,7,2,2,2,1,,,,,,1,"0.25",,,,
+Class,"explainshell.matcher.matcher",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,3,3,3,1,20,2,14,3,1,9,2,0,,,,,31,10,31,31,611,105,403,126,364,104,,,361,122,325,,,,,19,19,24,14,1,5,"0.26",109,109,130,60
+Function,"explainshell.matcher.matcher.__init__(self,s,store)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,28,4,9,9,8,15,1,0,9,9,8,1,1,1,1,,,,,,0,"1.67",,,,
+Function,"explainshell.matcher.matcher._generatecommandgroupname(self)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.matcher.matcher._markunparsedunknown(self)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,31,5,16,6,15,11,27,1,16,6,15,7,7,9,3,,,,,,2,"0.69",,,,
+Function,"explainshell.matcher.matcher._mergeadjacent(self,matches)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,17,0,17,10,16,0,5,1,16,10,15,5,5,5,1,,,,,,4,"0.00",,,,
+Function,"explainshell.matcher.matcher._resultindex(self)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,9,0,7,4,6,2,2,0,7,4,6,2,2,2,1,,,,,,1,"0.29",,,,
+Function,"explainshell.matcher.matcher.allmatches-getter(self)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.matcher.matcher.endcommand(self)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,6,0,4,2,3,2,1,0,4,2,3,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"explainshell.matcher.matcher.find_option(self,opt)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,1,0,4,1,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.matcher.matcher.findmanpages(self,prog)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,6,0,6,2,5,0,1,0,6,2,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.matcher.matcher.manpage-getter(self)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,7,0,4,2,3,3,2,0,4,2,3,2,2,2,1,,,,,,1,"0.75",,,,
+Function,"explainshell.matcher.matcher.match(self)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,47,11,28,7,26,8,18,1,25,7,23,7,7,10,3,,,,,,3,"0.29",,,,
+Function,"explainshell.matcher.matcher.match.debugmatch()",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.matcher.matcher.matches-getter(self)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"explainshell.matcher.matcher.startcommand(self,commandnode,parts,endword,addgroup)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,74,11,52,11,51,11,7,1,48,10,47,7,7,10,3,,,,,,2,"0.21",,,,
+Function,"explainshell.matcher.matcher.unknown(self,token,start,end)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.matcher.matcher.visitassignment(self,node,word)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.matcher.matcher.visitcommand(self,node,parts)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,46,9,26,6,25,11,7,1,21,6,20,7,7,7,3,,,,,,5,"0.42",,,,
+Function,"explainshell.matcher.matcher.visitcommandsubstitution(self,node,command)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,11,2,7,3,6,2,1,0,5,3,4,2,2,2,1,,,,,,0,"0.29",,,,
+Function,"explainshell.matcher.matcher.visitfor(self,node,parts)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,17,3,11,4,10,3,4,1,10,4,9,4,4,4,1,,,,,,3,"0.27",,,,
+Function,"explainshell.matcher.matcher.visitfunction(self,node,name,body,parts)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,40,7,25,6,23,8,3,0,20,6,18,3,3,3,1,,,,,,2,"0.32",,,,
+Function,"explainshell.matcher.matcher.visitfunction._iscompoundopenclosecurly(compound)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,2,0,4,2,3,2,2,5,1,,,,,,1,"0.00",,,,
+Function,"explainshell.matcher.matcher.visitif(self,args)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.matcher.matcher.visitnodeend(self,node)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,14,1,11,2,10,2,5,1,10,2,9,5,5,5,1,,,,,,3,"0.18",,,,
+Function,"explainshell.matcher.matcher.visitoperator(self,node,op)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,10,2,8,3,7,0,4,1,8,3,7,3,3,3,1,,,,,,1,"0.00",,,,
+Function,"explainshell.matcher.matcher.visitparameter(self,node,value)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,9,1,8,2,7,0,2,0,7,2,6,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"explainshell.matcher.matcher.visitpipe(self,node,pipe)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.matcher.matcher.visitprocesssubstitution(self,node,command)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,8,1,5,1,4,2,1,0,3,1,2,1,1,1,1,,,,,,0,"0.40",,,,
+Function,"explainshell.matcher.matcher.visitredirect(self,node,input,type,output,heredoc)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,20,5,12,3,11,3,12,1,11,3,10,5,5,6,1,,,,,,2,"0.25",,,,
+Function,"explainshell.matcher.matcher.visitreservedword(self,node,word)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,12,2,8,3,7,2,4,1,8,3,7,3,3,3,1,,,,,,1,"0.25",,,,
+Function,"explainshell.matcher.matcher.visittilde(self,node,value)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.matcher.matcher.visituntil(self,args)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.matcher.matcher.visitwhile(self,args)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.matcher.matcher.visitword(self,node,word)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,134,13,106,23,103,15,1,0,95,23,92,1,1,1,1,,,,,,0,"0.14",,,,
+Function,"explainshell.matcher.matcher.visitword._visitword(node,word)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,87,9,73,11,72,5,45,2,65,11,64,19,19,24,14,,,,,,5,"0.07",,,,
+Function,"explainshell.matcher.matcher.visitword.attemptfuzzy(chars)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,43,2,31,11,30,10,10,1,28,11,27,7,7,11,5,,,,,,3,"0.32",,,,
+Class,"explainshell.matcher.matchgroup",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,1,1,1,1,2,0,2,0,1,0,0,0,,,,,2,2,2,2,11,2,6,5,3,3,,,6,5,3,,,,,1,1,1,1,1,0,"0.50",2,2,2,2
+Function,"explainshell.matcher.matchgroup.__init__(self,name)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,3,0,3,3,2,0,1,0,3,3,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.matcher.matchgroup.__repr__(self)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"explainshell.matcher.matchresult",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,1,1,1,1,2,0,2,0,1,0,0,0,,,,,1,0,1,1,4,0,4,3,1,0,,,3,2,1,,,,,1,1,1,1,1,0,"0.00",1,1,1,1
+Function,"explainshell.matcher.matchresult.unknown-getter(self)",D:\thesis2\real 106 project\explainshell\explainshell\matcher.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.options._eatbetween(s,pos)",D:\thesis2\real 106 project\explainshell\explainshell\options.py,,,,,,,,,,,,,,,,,,,,,15,0,5,2,4,10,2,0,5,2,4,2,2,2,1,,,,,,1,"2.00",,,,
+Function,"explainshell.options._flag(s,pos)",D:\thesis2\real 106 project\explainshell\explainshell\options.py,,,,,,,,,,,,,,,,,,,,,11,0,3,2,2,8,1,0,3,2,2,1,1,1,1,,,,,,0,"2.67",,,,
+Function,"explainshell.options._option(s,pos)",D:\thesis2\real 106 project\explainshell\explainshell\options.py,,,,,,,,,,,,,,,,,,,,,45,0,11,4,10,34,4,1,10,4,9,4,4,7,4,,,,,,3,"3.09",,,,
+Function,"explainshell.options.extract(manpage)",D:\thesis2\real 106 project\explainshell\explainshell\options.py,,,,,,,,,,,,,,,,,,,,,13,0,11,4,10,2,4,1,10,4,9,4,4,5,1,,,,,,3,"0.18",,,,
+Function,"explainshell.options.extract_option(txt)",D:\thesis2\real 106 project\explainshell\explainshell\options.py,,,,,,,,,,,,,,,,,,,,,44,4,37,7,36,3,51,2,35,7,34,10,10,11,1,,,,,,5,"0.08",,,,
+Class,"explainshell.options.extractedoption",D:\thesis2\real 106 project\explainshell\explainshell\options.py,1,1,1,1,3,0,3,0,1,2,0,0,,,,,2,0,2,2,9,1,8,3,5,0,,,7,3,4,,,,,2,2,2,1,1,1,"0.00",3,3,3,2
+Function,"explainshell.options.extractedoption.__eq__(self,other)",D:\thesis2\real 106 project\explainshell\explainshell\options.py,,,,,,,,,,,,,,,,,,,,,5,0,5,1,4,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"explainshell.options.extractedoption.__str__(self)",D:\thesis2\real 106 project\explainshell\explainshell\options.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"explainshell.store.classifiermanpage",D:\thesis2\real 106 project\explainshell\explainshell\store.py,1,1,1,1,3,0,3,0,1,1,1,0,,,,,1,0,2,2,11,1,8,5,4,2,,,6,4,3,,,,,1,1,1,1,1,0,"0.25",2,2,2,2
+Function,"explainshell.store.classifiermanpage.from_store(d)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.store.classifiermanpage.to_store(self)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"explainshell.store.manpage",D:\thesis2\real 106 project\explainshell\explainshell\store.py,2,2,2,1,6,0,5,0,1,4,2,0,,,,,10,9,12,12,109,16,76,43,54,17,,,60,34,47,,,,,4,4,5,4,1,3,"0.22",24,24,25,18
+Function,"explainshell.store.manpage.__init__(self,source,name,synopsis,paragraphs,aliases,partialmatch,multicommand,updated,nestedcommand)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,12,0,12,12,9,0,1,0,10,10,9,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.store.manpage.__repr__(self)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.store.manpage.arguments-getter(self)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,13,2,8,4,7,3,6,1,8,4,7,4,4,4,1,,,,,,2,"0.38",,,,
+Function,"explainshell.store.manpage.find_option(self,flag)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,5,0,5,3,4,0,4,1,5,3,4,4,4,4,4,,,,,,3,"0.00",,,,
+Function,"explainshell.store.manpage.from_store(d)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,17,2,15,5,14,0,6,1,12,5,11,4,4,5,1,,,,,,2,"0.00",,,,
+Function,"explainshell.store.manpage.from_store_name_only(name,source)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.store.manpage.namesection-getter(self)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.store.manpage.options-getter(self)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.store.manpage.removeoption(self,idx)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,0,4,1,8,2,7,4,4,4,4,,,,,,3,"0.00",,,,
+Function,"explainshell.store.manpage.section-getter(self)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.store.manpage.synopsisnoname-getter(self)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.store.manpage.to_store(self)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,6,0,6,1,5,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"explainshell.store.option",D:\thesis2\real 106 project\explainshell\explainshell\store.py,1,1,1,1,5,0,4,0,1,1,0,0,,,,,5,6,6,12,46,7,32,17,23,7,,,29,15,22,,,,,2,2,2,1,2,1,"0.22",7,7,7,6
+Function,"explainshell.store.option.__init__(self,p,short,long,expectsarg,argument,nestedcommand)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,10,0,10,7,9,0,2,0,10,7,9,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"explainshell.store.option.__repr__(self)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.store.option.__str__(self)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.store.option.from_store(cls,d)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,5,1,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.store.option.opts-getter(self)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.store.option.to_store(self)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,9,0,9,2,8,0,1,0,9,2,8,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"explainshell.store.paragraph",D:\thesis2\real 106 project\explainshell\explainshell\store.py,1,1,1,1,4,0,4,0,1,0,0,1,,,,,5,4,6,6,32,5,26,15,18,1,,,24,14,17,,,,,2,2,2,1,1,1,"0.04",7,7,7,6
+Function,"explainshell.store.paragraph.__eq__(self,other)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"explainshell.store.paragraph.__init__(self,idx,text,section,is_option)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,5,0,5,5,4,0,1,0,5,5,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.store.paragraph.__repr__(self)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.store.paragraph.cleantext(self)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.store.paragraph.from_store(d)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.store.paragraph.to_store(self)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"explainshell.store.store",D:\thesis2\real 106 project\explainshell\explainshell\store.py,2,2,2,1,11,1,8,1,1,4,1,0,,,,,15,5,15,15,190,32,130,54,114,28,,,127,54,111,,,,,10,10,10,6,1,2,"0.22",36,36,36,20
+Function,"explainshell.store.store.__contains__(self,name)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.store.store.__init__(self,db,host)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,7,0,7,6,6,0,1,0,7,6,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.store.store.__iter__(self)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"explainshell.store.store._discovermanpagesuggestions(self,oid,existing)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,22,2,11,5,10,9,2,0,10,5,9,2,2,2,1,,,,,,1,"0.82",,,,
+Function,"explainshell.store.store.addmanpage(self,m)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,22,4,14,5,13,4,4,1,14,5,13,3,3,3,1,,,,,,1,"0.29",,,,
+Function,"explainshell.store.store.addmapping(self,src,dst,score)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.store.store.close(self)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.store.store.drop(self,confirm)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,7,1,6,1,5,0,2,0,6,1,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"explainshell.store.store.findmanpage(self,name)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,52,6,40,11,39,6,62,2,39,11,38,10,10,10,6,,,,,,2,"0.15",,,,
+Function,"explainshell.store.store.mappings(self)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,2,0,4,3,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"explainshell.store.store.names(self)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,2,0,4,3,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"explainshell.store.store.setmulticommand(self,manpageid)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.store.store.trainingset(self)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,2,0,3,2,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"explainshell.store.store.updatemanpage(self,m)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,15,1,12,3,11,2,3,0,11,3,10,3,3,3,1,,,,,,2,"0.17",,,,
+Function,"explainshell.store.store.verify(self)",D:\thesis2\real 106 project\explainshell\explainshell\store.py,,,,,,,,,,,,,,,,,,,,,19,3,15,7,14,1,4,1,15,7,14,3,3,3,1,,,,,,1,"0.07",,,,
+Function,"explainshell.util.consecutive(l,fn)",D:\thesis2\real 106 project\explainshell\explainshell\util.py,,,,,,,,,,,,,,,,,,,,,32,1,16,4,15,15,6,1,15,4,14,6,6,6,1,,,,,,4,"0.94",,,,
+Function,"explainshell.util.groupcontinuous(l,key)",D:\thesis2\real 106 project\explainshell\explainshell\util.py,,,,,,,,,,,,,,,,,,,,,11,0,5,2,4,6,4,1,5,2,4,3,3,3,1,,,,,,1,"1.20",,,,
+Function,"explainshell.util.namesection(path)",D:\thesis2\real 106 project\explainshell\explainshell\util.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.util.pairwise(iterable)",D:\thesis2\real 106 project\explainshell\explainshell\util.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"explainshell.util.peekable",D:\thesis2\real 106 project\explainshell\explainshell\util.py,1,1,1,1,5,0,5,0,1,1,0,0,,,,,6,4,6,6,50,0,32,13,24,18,,,30,12,23,,,,,2,2,2,1,1,1,"0.56",9,9,9,6
+Function,"explainshell.util.peekable.__init__(self,it)",D:\thesis2\real 106 project\explainshell\explainshell\util.py,,,,,,,,,,,,,,,,,,,,,5,0,5,5,4,0,1,0,5,5,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.util.peekable.__iter__(self)",D:\thesis2\real 106 project\explainshell\explainshell\util.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.util.peekable.hasnext(self)",D:\thesis2\real 106 project\explainshell\explainshell\util.py,,,,,,,,,,,,,,,,,,,,,6,0,6,1,5,0,2,0,6,1,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"explainshell.util.peekable.index-getter(self)",D:\thesis2\real 106 project\explainshell\explainshell\util.py,,,,,,,,,,,,,,,,,,,,,3,0,2,1,1,1,1,0,2,1,1,1,1,1,1,,,,,,0,"0.50",,,,
+Function,"explainshell.util.peekable.next(self)",D:\thesis2\real 106 project\explainshell\explainshell\util.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,0,2,0,8,2,7,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"explainshell.util.peekable.peek(self)",D:\thesis2\real 106 project\explainshell\explainshell\util.py,,,,,,,,,,,,,,,,,,,,,7,0,7,1,6,0,2,0,6,1,5,2,2,2,1,,,,,,1,"0.00",,,,
+Class,"explainshell.util.propertycache",D:\thesis2\real 106 project\explainshell\explainshell\util.py,1,1,1,1,3,0,3,0,1,0,0,0,,,,,3,2,3,3,12,2,10,7,6,0,,,10,7,6,,,,,1,1,1,1,1,0,"0.00",3,3,3,3
+Function,"explainshell.util.propertycache.__get__(self,obj,type)",D:\thesis2\real 106 project\explainshell\explainshell\util.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,2,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.util.propertycache.__init__(self,func)",D:\thesis2\real 106 project\explainshell\explainshell\util.py,,,,,,,,,,,,,,,,,,,,,3,0,3,3,2,0,1,0,3,3,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.util.propertycache.cachevalue(self,obj,value)",D:\thesis2\real 106 project\explainshell\explainshell\util.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.util.toposorted(graph,parents)",D:\thesis2\real 106 project\explainshell\explainshell\util.py,,,,,,,,,,,,,,,,,,,,,23,1,15,6,13,7,2,0,15,6,13,2,2,2,1,,,,,,1,"0.47",,,,
+Function,"explainshell.util.toposorted.use(v,top)",D:\thesis2\real 106 project\explainshell\explainshell\util.py,,,,,,,,,,,,,,,,,,,,,9,0,9,2,8,0,4,1,9,2,8,4,4,4,4,,,,,,2,"0.00",,,,
+Package,"explainshell.web",,3,3,3,1,8,0,7,1,,,,,0,,1,2,,,,,20,2,16,10,13,2,,,15,10,12,,,,,4,4,5,1,,3,,6,6,7,2
+Package,"explainshell.web",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell.web",,5,5,6,2,18,1,23,0,,,,,0,,1,3,,,,,85,9,76,32,67,0,,,68,30,61,,,,,13,13,16,4,,4,,22,22,25,9
+Package,"explainshell.web",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell.web",,2,2,2,1,3,0,0,0,,,,,0,,1,0,,,,,10,3,7,5,3,0,,,7,5,3,,,,,2,2,2,1,,1,,2,2,2,1
+Package,"explainshell.web",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell.web",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell.web",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"explainshell.web",,4,4,4,2,23,3,20,2,,,,,0,,1,9,,,,,257,46,194,66,174,18,,,169,60,154,,,,,12,12,14,7,,4,,46,46,49,26
+Function,"explainshell.web.debugviews._convertvalue(value)",D:\thesis2\real 106 project\explainshell\explainshell\web\debugviews.py,,,,,,,,,,,,,,,,,,,,,8,0,8,1,7,0,4,1,6,1,5,4,4,4,4,,,,,,1,"0.00",,,,
+Function,"explainshell.web.debugviews.debug()",D:\thesis2\real 106 project\explainshell\explainshell\web\debugviews.py,,,,,,,,,,,,,,,,,,,,,15,0,15,8,14,0,5,1,15,8,14,4,4,4,1,,,,,,2,"0.00",,,,
+Function,"explainshell.web.debugviews.tag(source)",D:\thesis2\real 106 project\explainshell\explainshell\web\debugviews.py,,,,,,,,,,,,,,,,,,,,,49,3,46,16,45,0,58,2,42,16,41,13,13,16,3,,,,,,4,"0.00",,,,
+Function,"explainshell.web.helpers.convertparagraphs(manpage)",D:\thesis2\real 106 project\explainshell\explainshell\web\helpers.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,2,0,4,2,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"explainshell.web.helpers.suggestions(matches,command)",D:\thesis2\real 106 project\explainshell\explainshell\web\helpers.py,,,,,,,,,,,,,,,,,,,,,13,0,11,7,10,2,4,1,10,7,9,4,4,5,1,,,,,,3,"0.18",,,,
+Function,"explainshell.web.views._checkoverlaps(s,matches)",D:\thesis2\real 106 project\explainshell\explainshell\web\views.py,,,,,,,,,,,,,,,,,,,,,7,0,7,4,6,0,4,1,7,4,6,4,4,4,4,,,,,,3,"0.00",,,,
+Function,"explainshell.web.views._makematch(start,end,match,commandclass,helpclass)",D:\thesis2\real 106 project\explainshell\explainshell\web\views.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.web.views.about()",D:\thesis2\real 106 project\explainshell\explainshell\web\views.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"explainshell.web.views.explain()",D:\thesis2\real 106 project\explainshell\explainshell\web\views.py,,,,,,,,,,,,,,,,,,,,,33,3,30,6,29,1,7,1,24,5,23,7,7,8,7,,,,,,1,"0.03",,,,
+Function,"explainshell.web.views.explaincommand(command,store)",D:\thesis2\real 106 project\explainshell\explainshell\web\views.py,,,,,,,,,,,,,,,,,,,,,88,15,65,19,64,8,240,2,63,19,62,12,12,12,1,,,,,,3,"0.12",,,,
+Function,"explainshell.web.views.explainold(section,program)",D:\thesis2\real 106 project\explainshell\explainshell\web\views.py,,,,,,,,,,,,,,,,,,,,,18,2,15,6,14,1,6,1,14,5,13,4,4,4,3,,,,,,2,"0.07",,,,
+Function,"explainshell.web.views.explainprogram(program,store)",D:\thesis2\real 106 project\explainshell\explainshell\web\views.py,,,,,,,,,,,,,,,,,,,,,22,3,19,7,18,0,4,1,14,7,13,3,3,3,1,,,,,,1,"0.00",,,,
+Function,"explainshell.web.views.formatmatch(d,m,expansions)",D:\thesis2\real 106 project\explainshell\explainshell\web\views.py,,,,,,,,,,,,,,,,,,,,,57,10,39,10,38,8,153,2,34,10,33,12,12,14,6,,,,,,4,"0.21",,,,
+Function,"explainshell.web.views.index()",D:\thesis2\real 106 project\explainshell\explainshell\web\views.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Unknown Class,"namedtuple",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"namedtuple",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"nodevisitor",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Unknown Class,"nodevisitor",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.00",,,,
+Function,"shellbuiltins._add(names,synopsis,options)",D:\thesis2\real 106 project\explainshell\tools\shellbuiltins.py,,,,,,,,,,,,,,,,,,,,,6,0,4,2,3,2,1,0,4,2,3,1,1,1,1,,,,,,0,"0.50",,,,
+Package,"tests",,1,1,1,1,9,1,7,0,,,,,1,,1,10,,,,,111,27,81,27,68,3,,,72,27,59,,,,,1,1,1,1,,0,,10,10,10,10
+Package,"tests",,1,1,1,1,9,1,8,0,,,,,2,,1,5,,,,,56,10,43,20,33,3,,,36,20,26,,,,,1,1,1,1,,0,,5,5,5,5
+Package,"tests",,1,1,1,1,12,1,11,0,,,,,1,,1,10,,,,,143,29,113,36,100,2,,,112,36,99,,,,,2,2,2,1,,1,,11,11,11,10
+Package,"tests",,1,1,1,1,11,2,9,0,,,,,1,,1,3,,,,,41,10,31,11,25,0,,,17,11,11,,,,,1,1,1,1,,0,,3,3,3,3
+Package,"tests",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,1,1,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"tests",,1,1,1,1,12,1,16,0,,,,,1,,1,2,,,,,43,7,36,17,32,0,,,27,17,23,,,,,3,3,3,3,,2,,5,5,5,5
+Package,"tests",,1,1,1,1,26,8,17,1,,,,,1,,1,1,,,,,31,10,20,9,16,1,,,20,9,16,,,,,1,1,1,1,,0,,1,1,1,1
+Package,"tests",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"tests",,1,1,1,1,12,2,10,0,,,,,2,,1,48,,,,,652,146,496,179,442,14,,,349,179,295,,,,,2,2,2,1,,1,,51,51,51,49
+Class,"tests.helpers.mockstore",D:\thesis2\real 106 project\explainshell\tests\helpers.py,2,2,2,2,18,1,16,0,1,2,0,0,,,,,2,2,2,2,38,4,34,15,31,0,,,25,15,22,,,,,3,3,3,3,1,2,"0.00",4,4,4,4
+Function,"tests.helpers.mockstore.__init__(self)",D:\thesis2\real 106 project\explainshell\tests\helpers.py,,,,,,,,,,,,,,,,,,,,,29,3,26,13,25,0,1,0,17,13,16,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.helpers.mockstore.findmanpage(self,x,section)",D:\thesis2\real 106 project\explainshell\tests\helpers.py,,,,,,,,,,,,,,,,,,,,,7,0,7,1,6,0,3,0,7,1,6,3,3,3,3,,,,,,2,"0.00",,,,
+Class,"tests.test-fixer.test_fixer",D:\thesis2\real 106 project\explainshell\tests\test-fixer.py,1,1,1,1,9,1,8,0,1,1,1,0,,,,,4,1,4,4,51,8,40,17,33,3,,,33,17,26,,,,,1,1,1,1,1,0,"0.07",5,5,5,5
+Function,"tests.test-fixer.test_fixer.setUp(self)",D:\thesis2\real 106 project\explainshell\tests\test-fixer.py,,,,,,,,,,,,,,,,,,,,,2,0,2,2,1,0,1,0,2,2,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-fixer.test_fixer.tearDown(self)",D:\thesis2\real 106 project\explainshell\tests\test-fixer.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-fixer.test_fixer.test_changes(self)",D:\thesis2\real 106 project\explainshell\tests\test-fixer.py,,,,,,,,,,,,,,,,,,,,,11,1,10,5,7,0,1,0,10,5,7,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.test-fixer.test_fixer.test_changes.myfixer",D:\thesis2\real 106 project\explainshell\tests\test-fixer.py,1,1,1,1,2,0,2,0,1,0,0,0,,,,,1,0,1,1,3,0,3,2,1,0,,,3,2,1,,,,,1,1,1,1,1,0,"0.00",1,1,1,1
+Function,"tests.test-fixer.test_fixer.test_changes.myfixer.pre_get_raw_manpage(self)",D:\thesis2\real 106 project\explainshell\tests\test-fixer.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-fixer.test_fixer.test_paragraphjoiner(self)",D:\thesis2\real 106 project\explainshell\tests\test-fixer.py,,,,,,,,,,,,,,,,,,,,,32,4,25,8,24,3,1,0,18,8,17,1,1,1,1,,,,,,0,"0.12",,,,
+Class,"tests.test-integration.test_integration",D:\thesis2\real 106 project\explainshell\tests\test-integration.py,1,1,1,1,26,8,17,1,1,0,0,0,,,,,1,0,1,1,27,8,18,7,16,1,,,18,7,16,,,,,1,1,1,1,1,0,"0.06",1,1,1,1
+Function,"tests.test-integration.test_integration.test(self)",D:\thesis2\real 106 project\explainshell\tests\test-integration.py,,,,,,,,,,,,,,,,,,,,,26,8,17,6,16,1,1,0,17,6,16,1,1,1,1,,,,,,0,"0.06",,,,
+Class,"tests.test-manager.test_manager",D:\thesis2\real 106 project\explainshell\tests\test-manager.py,1,1,1,1,12,1,11,0,1,1,0,0,,,,,10,0,10,10,139,27,111,34,100,2,,,110,34,99,,,,,2,2,2,1,1,1,"0.02",11,11,11,10
+Function,"tests.test-manager.test_manager._getmanager(self,names,kwargs)",D:\thesis2\real 106 project\explainshell\tests\test-manager.py,,,,,,,,,,,,,,,,,,,,,7,1,6,4,5,0,2,0,6,4,5,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"tests.test-manager.test_manager.setUp(self)",D:\thesis2\real 106 project\explainshell\tests\test-manager.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-manager.test_manager.test(self)",D:\thesis2\real 106 project\explainshell\tests\test-manager.py,,,,,,,,,,,,,,,,,,,,,17,3,14,3,13,1,1,0,14,3,13,1,1,1,1,,,,,,0,"0.07",,,,
+Function,"tests.test-manager.test_manager.test_aliases(self)",D:\thesis2\real 106 project\explainshell\tests\test-manager.py,,,,,,,,,,,,,,,,,,,,,14,2,12,3,11,0,1,0,12,3,11,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-manager.test_manager.test_edit(self)",D:\thesis2\real 106 project\explainshell\tests\test-manager.py,,,,,,,,,,,,,,,,,,,,,19,3,16,4,15,0,1,0,15,4,14,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-manager.test_manager.test_multicommand(self)",D:\thesis2\real 106 project\explainshell\tests\test-manager.py,,,,,,,,,,,,,,,,,,,,,6,1,5,2,4,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-manager.test_manager.test_overwrite(self)",D:\thesis2\real 106 project\explainshell\tests\test-manager.py,,,,,,,,,,,,,,,,,,,,,24,4,20,3,19,0,1,0,20,3,19,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-manager.test_manager.test_samename(self)",D:\thesis2\real 106 project\explainshell\tests\test-manager.py,,,,,,,,,,,,,,,,,,,,,9,0,9,5,8,0,1,0,9,5,8,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-manager.test_manager.test_samename_samesection(self)",D:\thesis2\real 106 project\explainshell\tests\test-manager.py,,,,,,,,,,,,,,,,,,,,,8,0,8,4,7,0,1,0,8,4,7,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-manager.test_manager.test_verify(self)",D:\thesis2\real 106 project\explainshell\tests\test-manager.py,,,,,,,,,,,,,,,,,,,,,23,4,18,4,17,1,1,0,18,4,17,1,1,1,1,,,,,,0,"0.06",,,,
+Class,"tests.test-manpage.test_manpage",D:\thesis2\real 106 project\explainshell\tests\test-manpage.py,1,1,1,1,11,2,9,0,1,1,0,0,,,,,3,0,3,3,37,8,29,9,25,0,,,15,9,11,,,,,1,1,1,1,1,0,"0.00",3,3,3,3
+Function,"tests.test-manpage.test_manpage.test_first_paragraph_no_section(self)",D:\thesis2\real 106 project\explainshell\tests\test-manpage.py,,,,,,,,,,,,,,,,,,,,,4,0,4,3,3,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-manpage.test_manpage.test_no_synopsis(self)",D:\thesis2\real 106 project\explainshell\tests\test-manpage.py,,,,,,,,,,,,,,,,,,,,,5,0,5,2,4,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-manpage.test_manpage.test_sections(self)",D:\thesis2\real 106 project\explainshell\tests\test-manpage.py,,,,,,,,,,,,,,,,,,,,,26,7,19,3,18,0,1,0,5,3,4,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.test-matcher.test_matcher",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,1,1,1,1,12,2,10,0,1,2,1,0,,,,,45,0,45,45,643,142,491,174,441,14,,,344,174,294,,,,,2,2,2,1,1,1,"0.03",50,50,50,48
+Function,"tests.test-matcher.test_matcher.assertMatchSingle(self,what,expectedmanpage,expectedresults)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,6,0,6,3,5,0,1,0,6,3,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_arg_in_fuzzy_with_expected_value(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,16,3,13,3,12,0,1,0,7,3,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_arg_is_dash(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,9,1,8,3,7,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_arg_no_dash(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,9,1,8,3,7,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_arg_with_expected_value(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,7,1,6,3,5,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_arg_with_expected_value_clash(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,9,1,7,3,6,1,1,0,4,3,3,1,1,1,1,,,,,,0,"0.14",,,,
+Function,"tests.test-matcher.test_matcher.test_arg_with_expected_value_from_list(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,15,3,12,3,11,0,1,0,7,3,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_arg_with_expected_value_no_clash(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,11,1,8,3,7,2,1,0,4,3,3,1,1,1,1,,,,,,0,"0.25",,,,
+Function,"tests.test-matcher.test_matcher.test_arguments(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,10,1,8,3,7,1,1,0,4,3,3,1,1,1,1,,,,,,0,"0.12",,,,
+Function,"tests.test-matcher.test_matcher.test_assignment_as_first_word(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,10,2,8,5,7,0,1,0,8,5,7,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_assignment_with_expansion(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,10,2,8,5,7,0,1,0,8,5,7,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_comment(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,20,5,15,6,14,4,1,0,15,6,14,1,1,1,1,,,,,,0,"0.27",,,,
+Function,"tests.test-matcher.test_matcher.test_comsub(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,22,3,18,6,17,1,1,0,9,6,8,1,1,1,1,,,,,,0,"0.06",,,,
+Function,"tests.test-matcher.test_matcher.test_comsub_as_arg(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,14,3,10,5,9,1,1,0,8,5,7,1,1,1,1,,,,,,0,"0.10",,,,
+Function,"tests.test-matcher.test_matcher.test_comsub_as_first_word(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,11,2,8,4,7,1,1,0,8,4,7,1,1,1,1,,,,,,0,"0.12",,,,
+Function,"tests.test-matcher.test_matcher.test_expansion_limit(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,20,2,18,10,13,0,1,0,18,10,13,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.test-matcher.test_matcher.test_expansion_limit.depthchecker",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,1,1,1,1,3,0,3,0,1,0,0,0,,,,,3,2,3,3,11,0,11,6,7,0,,,11,6,7,,,,,2,2,2,1,1,1,"0.00",5,5,5,3
+Function,"tests.test-matcher.test_matcher.test_expansion_limit.depthchecker.__init__(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,3,0,3,3,2,0,1,0,3,3,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_expansion_limit.depthchecker.visitendnode(self,node)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,2,0,3,1,2,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_expansion_limit.depthchecker.visitnode(self,node)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,4,0,4,1,3,0,2,0,4,1,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_for_expansion(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,14,3,11,6,10,0,1,0,10,6,9,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_function_reference(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,20,3,17,6,16,0,1,0,10,6,9,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_functions(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,28,6,22,6,21,0,1,0,17,6,16,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_heredoc_at_eof(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,12,3,9,5,8,0,1,0,8,5,7,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_if(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,14,2,12,5,11,0,1,0,9,5,8,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_known_and_unknown_arg(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,6,1,5,2,4,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_known_and_unknown_program(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,14,1,13,4,12,0,1,0,7,4,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_known_arg(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,7,1,6,2,5,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_long(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,8,1,7,3,6,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_merge_same_match(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_multicommand(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,15,3,12,3,11,0,1,0,7,3,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_multiple_matches(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,10,1,9,4,8,0,1,0,6,4,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_multiple_nests(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,14,2,12,4,11,0,1,0,9,4,8,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_nested_command(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,14,2,12,4,11,0,1,0,8,4,7,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_nested_command_is_unknown(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,11,2,9,4,8,0,1,0,7,4,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_nested_controlflows(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,16,2,14,5,13,0,1,0,9,5,8,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_nested_option(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,62,11,51,4,50,0,1,0,29,4,28,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_no_options(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_no_synopsis(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,10,2,8,4,7,0,1,0,7,4,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_partialmatch_with_arguments(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,7,1,6,3,5,0,1,0,4,3,3,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_pipe(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,9,1,8,4,7,0,1,0,6,4,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_procsub(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,15,3,11,5,10,1,1,0,8,5,7,1,1,1,1,,,,,,0,"0.09",,,,
+Function,"tests.test-matcher.test_matcher.test_redirect_first_word_of_command(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,18,3,15,4,14,0,1,0,12,4,11,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_reset_current_option_if_argument_taken(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,26,5,20,3,19,1,1,0,10,3,9,1,1,1,1,,,,,,0,"0.05",,,,
+Function,"tests.test-matcher.test_matcher.test_subshells(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,13,1,12,4,11,0,1,0,7,4,6,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_unicode(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,6,1,5,2,4,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_unknown_arg(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,16,4,11,2,10,1,1,0,9,2,8,1,1,1,1,,,,,,0,"0.09",,,,
+Function,"tests.test-matcher.test_matcher.test_unknown_prog(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-matcher.test_matcher.test_unparsed(self)",D:\thesis2\real 106 project\explainshell\tests\test-matcher.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Class,"tests.test-options.test_options",D:\thesis2\real 106 project\explainshell\tests\test-options.py,1,1,1,1,9,1,7,0,1,0,0,0,,,,,10,0,10,10,107,25,79,25,68,3,,,70,25,59,,,,,1,1,1,1,1,0,"0.04",10,10,10,10
+Function,"tests.test-options.test_options.test_extract(self)",D:\thesis2\real 106 project\explainshell\tests\test-options.py,,,,,,,,,,,,,,,,,,,,,18,2,16,6,15,0,1,0,16,6,15,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-options.test_options.test_help(self)",D:\thesis2\real 106 project\explainshell\tests\test-options.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-options.test_options.test_hyphen_in_arg(self)",D:\thesis2\real 106 project\explainshell\tests\test-options.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-options.test_options.test_multiline_desc(self)",D:\thesis2\real 106 project\explainshell\tests\test-options.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-options.test_options.test_multiline_options(self)",D:\thesis2\real 106 project\explainshell\tests\test-options.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-options.test_options.test_no_hyphen(self)",D:\thesis2\real 106 project\explainshell\tests\test-options.py,,,,,,,,,,,,,,,,,,,,,3,0,3,2,2,0,1,0,3,2,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-options.test_options.test_not_an_option(self)",D:\thesis2\real 106 project\explainshell\tests\test-options.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-options.test_options.test_option_arg(self)",D:\thesis2\real 106 project\explainshell\tests\test-options.py,,,,,,,,,,,,,,,,,,,,,20,4,16,2,15,0,1,0,11,2,10,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-options.test_options.test_pipe_separator(self)",D:\thesis2\real 106 project\explainshell\tests\test-options.py,,,,,,,,,,,,,,,,,,,,,8,1,7,2,6,0,1,0,5,2,4,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"tests.test-options.test_options.test_simple(self)",D:\thesis2\real 106 project\explainshell\tests\test-options.py,,,,,,,,,,,,,,,,,,,,,28,8,20,3,19,0,1,0,20,3,19,1,1,1,1,,,,,,0,"0.00",,,,

@@ -1,0 +1,45 @@
+Kind,Name,File,AvgCyclomatic,AvgCyclomaticModified,AvgCyclomaticStrict,AvgEssential,AvgLine,AvgLineBlank,AvgLineCode,AvgLineComment,CountClassBase,CountClassCoupled,CountClassCoupledModified,CountClassDerived,CountDeclClass,CountDeclExecutableUnit,CountDeclFile,CountDeclFunction,CountDeclInstanceMethod,CountDeclInstanceVariable,CountDeclMethod,CountDeclMethodAll,CountLine,CountLineBlank,CountLineCode,CountLineCodeDecl,CountLineCodeExe,CountLineComment,CountPath,CountPathLog,CountStmt,CountStmtDecl,CountStmtExe,Cyclomatic,CyclomaticModified,CyclomaticStrict,Essential,MaxCyclomatic,MaxCyclomaticModified,MaxCyclomaticStrict,MaxEssential,MaxInheritanceTree,MaxNesting,RatioCommentToCode,SumCyclomatic,SumCyclomaticModified,SumCyclomaticStrict,SumEssential
+File,"D:\thesis2\real 106 project\ngxtop\ngxtop\__init__.py",D:\thesis2\real 106 project\ngxtop\ngxtop\__init__.py,0,0,0,0,0,0,0,0,,,,,0,0,,0,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,"0.00",0,0,0,0
+Module File,"D:\thesis2\real 106 project\ngxtop\ngxtop\config_parser.py",D:\thesis2\real 106 project\ngxtop\ngxtop\config_parser.py,3,3,3,1,16,1,11,4,,,,,0,7,,6,,,,,150,29,86,39,74,35,1,0,81,37,70,1,1,1,1,8,8,8,3,,2,"0.41",25,25,27,13
+Module File,"D:\thesis2\real 106 project\ngxtop\ngxtop\ngxtop.py",D:\thesis2\real 106 project\ngxtop\ngxtop\ngxtop.py,2,2,3,1,12,0,9,0,,,,,1,22,,21,,,,,391,72,250,95,212,72,4,1,214,90,176,3,3,3,1,9,9,9,3,,3,"0.29",64,64,68,24
+Module File,"D:\thesis2\real 106 project\ngxtop\ngxtop\utils.py",D:\thesis2\real 106 project\ngxtop\ngxtop\utils.py,3,3,4,1,8,0,8,0,,,,,0,2,,2,,,,,21,4,17,5,14,0,0,0,17,5,14,0,0,0,0,5,5,7,1,,2,"0.00",6,6,8,2
+Module File,"D:\thesis2\real 106 project\ngxtop\setup.py",D:\thesis2\real 106 project\ngxtop\setup.py,1,1,1,1,31,0,0,0,,,,,0,1,,0,,,,,37,5,32,1,31,0,1,0,2,1,1,1,1,1,1,1,1,1,1,,0,"0.00",1,1,1,1
+Module File,"D:\thesis2\real 106 project\ngxtop\tests\test_config_parser.py",D:\thesis2\real 106 project\ngxtop\tests\test_config_parser.py,1,1,1,1,17,1,14,2,,,,,0,3,,3,,,,,60,10,43,10,39,7,0,0,19,10,15,0,0,0,0,1,1,1,1,,0,"0.16",3,3,3,3
+Package,"ngxtop",,0,0,0,0,0,0,0,0,,,,,0,,1,0,,,,,1,1,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"ngxtop",,3,3,3,1,16,1,11,4,,,,,0,,1,6,,,,,150,29,86,39,74,35,,,81,37,70,,,,,8,8,8,3,,2,,25,25,27,13
+Package,"ngxtop",,0,0,0,0,0,0,0,0,,,,,0,,0,0,,,,,0,0,0,0,0,0,,,0,0,0,,,,,0,0,0,0,,0,,0,0,0,0
+Package,"ngxtop",,2,2,3,1,12,0,9,0,,,,,1,,1,21,,,,,391,72,250,95,212,72,,,214,90,176,,,,,9,9,9,3,,3,,64,64,68,24
+Package,"ngxtop",,3,3,4,1,8,0,8,0,,,,,0,,1,2,,,,,21,4,17,5,14,0,,,17,5,14,,,,,5,5,7,1,,2,,6,6,8,2
+Function,"ngxtop.config_parser.build_pattern(log_format)",D:\thesis2\real 106 project\ngxtop\ngxtop\config_parser.py,,,,,,,,,,,,,,,,,,,,,13,0,8,2,7,5,3,0,7,2,6,3,3,3,1,,,,,,1,"0.62",,,,
+Function,"ngxtop.config_parser.detect_config_path()",D:\thesis2\real 106 project\ngxtop\ngxtop\config_parser.py,,,,,,,,,,,,,,,,,,,,,21,2,15,6,14,4,6,1,14,6,13,4,4,4,3,,,,,,1,"0.27",,,,
+Function,"ngxtop.config_parser.detect_log_config(arguments)",D:\thesis2\real 106 project\ngxtop\ngxtop\config_parser.py,,,,,,,,,,,,,,,,,,,,,33,3,25,7,24,5,40,2,25,6,24,8,8,8,3,,,,,,2,"0.20",,,,
+Function,"ngxtop.config_parser.extract_variables(log_format)",D:\thesis2\real 106 project\ngxtop\ngxtop\config_parser.py,,,,,,,,,,,,,,,,,,,,,10,0,5,2,4,5,4,1,5,2,4,3,3,3,1,,,,,,1,"1.00",,,,
+Function,"ngxtop.config_parser.get_access_logs(config)",D:\thesis2\real 106 project\ngxtop\ngxtop\config_parser.py,,,,,,,,,,,,,,,,,,,,,19,3,11,5,10,5,5,1,11,5,10,4,4,6,3,,,,,,2,"0.45",,,,
+Function,"ngxtop.config_parser.get_log_formats(config)",D:\thesis2\real 106 project\ngxtop\ngxtop\config_parser.py,,,,,,,,,,,,,,,,,,,,,13,1,7,5,6,5,2,0,7,5,6,2,2,2,1,,,,,,1,"0.71",,,,
+Class,"ngxtop.ngxtop.SQLProcessor",D:\thesis2\real 106 project\ngxtop\ngxtop\ngxtop.py,2,2,2,1,9,0,9,0,1,2,0,0,,,,,5,6,5,5,51,4,47,29,41,0,,,46,25,40,,,,,4,4,4,1,1,3,"0.00",11,11,11,5
+Function,"ngxtop.ngxtop.SQLProcessor.__init__(self,report_queries,fields,index_fields)",D:\thesis2\real 106 project\ngxtop\ngxtop\ngxtop.py,,,,,,,,,,,,,,,,,,,,,8,0,8,7,7,0,1,0,8,7,7,2,2,2,1,,,,,,0,"0.00",,,,
+Function,"ngxtop.ngxtop.SQLProcessor.count(self)",D:\thesis2\real 106 project\ngxtop\ngxtop\ngxtop.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,1,0,4,1,3,1,1,1,1,,,,,,1,"0.00",,,,
+Function,"ngxtop.ngxtop.SQLProcessor.init_db(self)",D:\thesis2\real 106 project\ngxtop\ngxtop\ngxtop.py,,,,,,,,,,,,,,,,,,,,,9,0,9,5,8,0,2,0,9,4,8,2,2,2,1,,,,,,2,"0.00",,,,
+Function,"ngxtop.ngxtop.SQLProcessor.process(self,records)",D:\thesis2\real 106 project\ngxtop\ngxtop\ngxtop.py,,,,,,,,,,,,,,,,,,,,,7,0,7,4,6,0,2,0,7,3,6,2,2,2,1,,,,,,2,"0.00",,,,
+Function,"ngxtop.ngxtop.SQLProcessor.report(self)",D:\thesis2\real 106 project\ngxtop\ngxtop\ngxtop.py,,,,,,,,,,,,,,,,,,,,,18,0,18,10,17,0,4,1,17,9,16,4,4,4,1,,,,,,3,"0.00",,,,
+Function,"ngxtop.ngxtop.add_field(field,func,dict_sequence)",D:\thesis2\real 106 project\ngxtop\ngxtop\ngxtop.py,,,,,,,,,,,,,,,,,,,,,9,0,5,2,4,4,3,0,5,2,4,3,3,3,1,,,,,,2,"0.80",,,,
+Function,"ngxtop.ngxtop.build_processor(arguments)",D:\thesis2\real 106 project\ngxtop\ngxtop\ngxtop.py,,,,,,,,,,,,,,,,,,,,,40,3,37,11,36,0,28,1,32,11,31,9,9,9,1,,,,,,2,"0.00",,,,
+Function,"ngxtop.ngxtop.build_source(access_log,arguments)",D:\thesis2\real 106 project\ngxtop\ngxtop\ngxtop.py,,,,,,,,,,,,,,,,,,,,,9,0,8,2,7,1,3,0,6,2,5,3,3,3,1,,,,,,1,"0.12",,,,
+Function,"ngxtop.ngxtop.follow(the_file)",D:\thesis2\real 106 project\ngxtop\ngxtop\ngxtop.py,,,,,,,,,,,,,,,,,,,,,12,0,9,3,8,5,3,0,9,2,8,3,3,3,3,,,,,,3,"0.56",,,,
+Function,"ngxtop.ngxtop.main()",D:\thesis2\real 106 project\ngxtop\ngxtop\ngxtop.py,,,,,,,,,,,,,,,,,,,,,15,2,13,3,12,0,8,1,13,3,12,4,4,4,1,,,,,,1,"0.00",,,,
+Function,"ngxtop.ngxtop.map_field(field,func,dict_sequence)",D:\thesis2\real 106 project\ngxtop\ngxtop\ngxtop.py,,,,,,,,,,,,,,,,,,,,,11,0,7,2,6,4,3,0,7,2,6,3,3,3,1,,,,,,2,"0.57",,,,
+Function,"ngxtop.ngxtop.parse_log(lines,pattern)",D:\thesis2\real 106 project\ngxtop\ngxtop\ngxtop.py,,,,,,,,,,,,,,,,,,,,,10,0,10,3,9,0,1,0,10,3,9,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"ngxtop.ngxtop.parse_request_path(record)",D:\thesis2\real 106 project\ngxtop\ngxtop\ngxtop.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,0,3,0,6,2,5,4,4,4,1,,,,,,1,"0.00",,,,
+Function,"ngxtop.ngxtop.parse_status_type(record)",D:\thesis2\real 106 project\ngxtop\ngxtop\ngxtop.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,2,2,2,1,,,,,,0,"0.00",,,,
+Function,"ngxtop.ngxtop.process(arguments)",D:\thesis2\real 106 project\ngxtop\ngxtop\ngxtop.py,,,,,,,,,,,,,,,,,,,,,26,3,22,6,21,1,16,1,22,6,21,5,5,7,1,,,,,,1,"0.05",,,,
+Function,"ngxtop.ngxtop.process_log(lines,pattern,processor,arguments)",D:\thesis2\real 106 project\ngxtop\ngxtop\ngxtop.py,,,,,,,,,,,,,,,,,,,,,13,3,10,4,9,1,4,1,10,4,9,3,3,3,1,,,,,,1,"0.10",,,,
+Function,"ngxtop.ngxtop.setup_reporter(processor,arguments)",D:\thesis2\real 106 project\ngxtop\ngxtop\ngxtop.py,,,,,,,,,,,,,,,,,,,,,19,3,16,5,14,0,2,0,16,5,14,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"ngxtop.ngxtop.setup_reporter.print_report(sig,frame)",D:\thesis2\real 106 project\ngxtop\ngxtop\ngxtop.py,,,,,,,,,,,,,,,,,,,,,8,0,8,2,7,0,2,0,8,2,7,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"ngxtop.ngxtop.to_float(value)",D:\thesis2\real 106 project\ngxtop\ngxtop\ngxtop.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,2,2,3,1,,,,,,0,"0.00",,,,
+Function,"ngxtop.ngxtop.to_int(value)",D:\thesis2\real 106 project\ngxtop\ngxtop\ngxtop.py,,,,,,,,,,,,,,,,,,,,,2,0,2,1,1,0,1,0,2,1,1,2,2,3,1,,,,,,0,"0.00",,,,
+Function,"ngxtop.ngxtop.trace(sequence,phase)",D:\thesis2\real 106 project\ngxtop\ngxtop\ngxtop.py,,,,,,,,,,,,,,,,,,,,,4,0,4,2,3,0,2,0,4,2,3,2,2,2,1,,,,,,1,"0.00",,,,
+Function,"ngxtop.utils.choose_one(choices,prompt)",D:\thesis2\real 106 project\ngxtop\ngxtop\utils.py,,,,,,,,,,,,,,,,,,,,,13,0,13,3,12,0,12,1,13,3,12,5,5,7,1,,,,,,2,"0.00",,,,
+Function,"ngxtop.utils.error_exit(msg,status)",D:\thesis2\real 106 project\ngxtop\ngxtop\utils.py,,,,,,,,,,,,,,,,,,,,,3,0,3,1,2,0,1,0,3,1,2,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_config_parser.test_access_logs_with_format_name()",D:\thesis2\real 106 project\ngxtop\tests\test_config_parser.py,,,,,,,,,,,,,,,,,,,,,13,0,13,3,12,0,1,0,6,3,5,1,1,1,1,,,,,,0,"0.00",,,,
+Function,"test_config_parser.test_get_access_logs_no_format()",D:\thesis2\real 106 project\ngxtop\tests\test_config_parser.py,,,,,,,,,,,,,,,,,,,,,24,3,16,3,15,5,1,0,6,3,5,1,1,1,1,,,,,,0,"0.31",,,,
+Function,"test_config_parser.test_get_log_formats()",D:\thesis2\real 106 project\ngxtop\tests\test_config_parser.py,,,,,,,,,,,,,,,,,,,,,16,1,13,3,12,2,1,0,6,3,5,1,1,1,1,,,,,,0,"0.15",,,,
